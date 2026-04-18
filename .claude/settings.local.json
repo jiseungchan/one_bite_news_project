@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:heisenberg.kr)",
+      "WebFetch(domain:www.aitimes.kr)",
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "WebFetch(domain:finance.yahoo.com)",
+      "WebFetch(domain:archive.org)",
+      "WebFetch(domain:www.reuters.com)",
+      "WebFetch(domain:12ft.io)",
+      "WebFetch(domain:www.theverge.com)",
+      "WebFetch(domain:ai.meta.com)",
+      "WebFetch(domain:n.news.naver.com)",
+      "WebFetch(domain:www.cnbc.com)",
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:www.yna.co.kr)",
+      "WebFetch(domain:www.bing.com)",
+      "WebFetch(domain:www.bloomberg.com)",
+      "WebFetch(domain:www.kedglobal.com)",
+      "WebFetch(domain:www.koreaherald.com)",
+      "WebFetch(domain:www.perplexity.ai)",
+      "WebFetch(domain:www.therundown.ai)",
+      "WebFetch(domain:www.ft.com)",
+      "WebFetch(domain:www.sedaily.com)",
+      "WebFetch(domain:biz.chosun.com)",
+      "WebFetch(domain:www.etoday.co.kr)",
+      "WebFetch(domain:m.mk.co.kr)",
+      "mcp__mcp-server-firecrawl__firecrawl_search",
+      "mcp__mcp-server-firecrawl__firecrawl_scrape",
+      "WebFetch(domain:jiseungchan.github.io)",
+      "Bash(gh run:*)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:hai.stanford.edu)",
+      "WebFetch(domain:www.isomorphiclabs.com)",
+      "WebFetch(domain:www.chosun.com)",
+      "Skill(schedule)",
+      "Skill(schedule:*)"
+    ]
+  }
+}

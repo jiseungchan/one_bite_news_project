@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>병규의 한입뉴스</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== 헤더 ===== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">한입뉴스</a>
+      <nav>
+        <ul class="site-nav" id="cat-nav">
+          <li><a href="#" class="active" data-cat="전체">전체</a></li>
+          <li><a href="#" data-cat="AI">AI</a></li>
+          <li><a href="#" data-cat="바이오">바이오</a></li>
+          <li><a href="#" data-cat="나노·소재">나노·소재</a></li>
+          <li><a href="#" data-cat="물리·우주">물리·우주</a></li>
+          <li><a href="#" data-cat="에너지">에너지</a></li>
+          <li><a href="#" data-cat="경제·주식">경제·주식</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== 히어로 (가장 최신 기사) ===== -->
+  <section class="hero-section" id="hero-section">
+    <div class="container">
+      <div class="hero-card" id="hero-card">
+        <div style="width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);position:absolute;inset:0;"></div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content" id="hero-content">
+          <p style="color:rgba(255,255,255,0.5);font-size:16px;">발행된 기사가 없습니다. 파이프라인을 실행해주세요.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== 메인 콘텐츠 ===== -->
+  <main>
+    <div id="main-content">
+      <!-- 동적으로 카테고리 섹션 생성 -->
+    </div>
+
+    <!-- 빈 상태 -->
+    <div class="empty-state" id="empty-state" style="display:none;">
+      <div class="container">
+        <h2>아직 발행된 기사가 없어요</h2>
+        <p>파이프라인을 실행하면 이곳에 한입뉴스가 채워집니다.</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- ===== 푸터 ===== -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-logo">병규의 한입뉴스</p>
+        <p class="footer-desc">과학기술의 핵심만 한 입에.<br>AI, 바이오, 우주, 에너지, 경제까지 — 병규가 직접 읽고 고른 이번 주의 뉴스.</p>
+      </div>
+      <ul class="footer-links">
+        <li><a href="#">소개</a></li>
+        <li><a href="#">AI</a></li>
+        <li><a href="#">바이오</a></li>
+        <li><a href="#">물리·우주</a></li>
+        <li><a href="#">에너지</a></li>
+        <li><a href="#">경제·주식</a></li>
+      </ul>
+    </div>
+    <div class="container">
+      <p class="footer-copy">© 2026 병규의 한입뉴스. 모든 콘텐츠의 저작권은 원문 출처에 있습니다.</p>
+    </div>
+  </footer>
+
+  <script>
+    // ===== 카테고리 설정 =====
+    const CAT_CONFIG = {
+      'AI':       { tagClass: 'tag-ai',       thumbClass: 'thumb-ai',     dot: '#7C3AED' },
+      '바이오':   { tagClass: 'tag-bio',      thumbClass: 'thumb-bio',    dot: '#059669' },
+      '나노·소재':{ tagClass: 'tag-nano',     thumbClass: 'thumb-nano',   dot: '#D97706' },
+      '물리·우주':{ tagClass: 'tag-physics',  thumbClass: 'thumb-physics',dot: '#0284C7' },
+      '에너지':   { tagClass: 'tag-energy',   thumbClass: 'thumb-energy', dot: '#16A34A' },
+      '경제·주식':{ tagClass: 'tag-econ',     thumbClass: 'thumb-econ',   dot: '#0F766E' },
+      '이번 주 픽':{ tagClass: 'tag-pick',    thumbClass: 'thumb-ai',     dot: '#DC2626' },
+    };
+
+    // ===== 카드 HTML 생성 =====
+    function makeCard(post) {
+      const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-ai', thumbClass: 'thumb-ai' };
+      const thumb = post.image
+        ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
+        : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
+      return `
+        <article class="news-card" onclick="location.href='article.html?post=${encodeURIComponent(post.filename)}'">
+          <div class="card-thumb">${thumb}</div>
+          <div class="card-body">
+            <span class="category-tag ${cfg.tagClass}">${post.category}</span>
+            <h3 class="card-title">${post.title}</h3>
+            <p class="card-desc">${post.description || ''}</p>
+            <p class="card-meta">${post.date} · ${post.source || ''}</p>
+          </div>
+        </article>`;
+    }
+
+    // ===== 섹션 HTML 생성 =====
+    function makeSection(category, posts, bgClass = '') {
+      const cfg = CAT_CONFIG[category] || { tagClass: 'tag-ai', dot: '#7C3AED' };
+      const cards = posts.map(makeCard).join('');
+      const dotStyle = `style="background:${cfg.dot};width:10px;height:10px;border-radius:50%;display:inline-block;"`;
+      return `
+        <section class="${bgClass ? 'section-bg' : 'main-section'}">
+          <div class="container">
+            <div class="section-header">
+              <h2><span ${dotStyle}></span> &nbsp;${category}</h2>
+            </div>
+            <div class="card-grid">${cards}</div>
+          </div>
+        </section>`;
+    }
+
+    // ===== 히어로 렌더링 =====
+    function renderHero(post) {
+      if (!post) return;
+      const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-pick' };
+      document.getElementById('hero-content').innerHTML = `
+        <span class="category-tag ${cfg.tagClass}">${post.category}</span>
+        <h1 class="hero-title">${post.title}</h1>
+        <p class="hero-comment">${post.description || ''}</p>
+        <p class="hero-meta">${post.date} · ${post.source || ''}</p>`;
+      document.getElementById('hero-card').style.cursor = 'pointer';
+      document.getElementById('hero-card').onclick = () => {
+        location.href = 'article.html?post=' + encodeURIComponent(post.filename);
+      };
+    }
+
+    // ===== 필터링 =====
+    let allPosts = [];
+    let activeCategory = '전체';
+
+    function renderPosts(posts) {
+      const filtered = activeCategory === '전체' ? posts : posts.filter(p => p.category === activeCategory);
+      const main = document.getElementById('main-content');
+      const emptyState = document.getElementById('empty-state');
+
+      if (filtered.length === 0) {
+        main.innerHTML = '';
+        emptyState.style.display = 'block';
+        return;
+      }
+      emptyState.style.display = 'none';
+
+      // 최신 3개는 "최신 뉴스" 섹션
+      const recent = filtered.slice(0, 3);
+      const rest = filtered.slice(3);
+
+      // 카테고리별 그룹핑
+      const groups = {};
+      rest.forEach(p => {
+        if (!groups[p.category]) groups[p.category] = [];
+        groups[p.category].push(p);
+      });
+
+      let html = '';
+      if (recent.length > 0) {
+        html += `
+          <section class="main-section">
+            <div class="container">
+              <div class="section-header">
+                <h2>최신 뉴스</h2>
+              </div>
+              <div class="card-grid">${recent.map(makeCard).join('')}</div>
+            </div>
+          </section>`;
+      }
+
+      const cats = Object.keys(groups);
+      cats.forEach((cat, i) => {
+        html += makeSection(cat, groups[cat], i % 2 === 0 ? 'section-bg' : '');
+      });
+
+      main.innerHTML = html;
+    }
+
+    // ===== 네비게이션 필터 =====
+    document.querySelectorAll('#cat-nav a').forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        document.querySelectorAll('#cat-nav a').forEach(l => l.classList.remove('active'));
+        link.classList.add('active');
+        activeCategory = link.dataset.cat;
+        renderPosts(allPosts);
+      });
+    });
+
+    // ===== 데이터 로드 =====
+    fetch('posts.json')
+      .then(r => r.json())
+      .then(data => {
+        allPosts = (data.posts || []).sort((a, b) => b.date.localeCompare(a.date));
+        renderHero(allPosts[0]);
+        renderPosts(allPosts);
+      })
+      .catch(() => {
+        document.getElementById('empty-state').style.display = 'block';
+      });
+  </script>
+
+</body>
+</html>

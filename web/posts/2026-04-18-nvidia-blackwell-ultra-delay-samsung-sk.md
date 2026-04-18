@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026041735021"
 description: "엔비디아의 차세대 AI GPU '블랙웰 울트라'의 양산 일정이 2~3개월 지연되면서, 삼성전자와 SK하이닉스의 HBM4E 메모리 납품 경쟁이 당초보다 빨리 시작될 전망이다. 공급 지연 배경에는 CoWoS-L 패키징 수율 문제가 있다."
-image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80"
+image: "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85"
 ---
 
 ## 한 줄 요약
@@ -17,7 +17,7 @@ image: "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80"
 
 이 지연은 삼성전자와 SK하이닉스의 전략에 직접 영향을 준다. 블랙웰 울트라에 탑재될 차세대 메모리인 HBM4E(고대역폭 메모리 5세대) 납품 일정이 함께 밀리면서, 두 회사의 HBM4E 개발·인증 완료 데드라인이 동시에 늦춰졌기 때문이다.
 
-![엔비디아 블랙웰 울트라 — HBM4E 메모리 경쟁](https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80)
+![반도체·패키징 연구실 — AI GPU 공급망과 CoWoS-L 패키징을 상징](https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=1200&q=85)
 
 ## 배경 — HBM 공급망의 구조
 

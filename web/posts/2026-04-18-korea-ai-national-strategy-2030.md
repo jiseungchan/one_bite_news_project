@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=32855"
 description: "과학기술정보통신부가 'AI 국가전략 2.0'을 발표했다. 2030년까지 AI 반도체 설계 자립률 60% 달성과 AI 분야 핵심 인재 10만 명 양성이 핵심 목표다. 민간 AI 투자에 연 3조 원 규모 세제 혜택도 포함된다."
-image: "https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=800&q=80"
+image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85"
 ---
 
 ## 한 줄 요약
@@ -17,7 +17,7 @@ image: "https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=800&q=80"
 
 배경에는 미·중 AI 패권 경쟁이 있다. 엔비디아 GPU 수출 통제, 미국의 첨단 반도체 장비 대중(對中) 수출 금지가 이어지면서, 글로벌 AI 공급망의 불안정성이 한국 AI 산업에도 직접 영향을 주기 시작했다.
 
-![한국 AI 국가전략 2030 반도체 자립](https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=800&q=80)
+![한국 AI 국가전략 2030 반도체 자립](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85)
 
 ## 배경 — 기존에는 어땠나?
 

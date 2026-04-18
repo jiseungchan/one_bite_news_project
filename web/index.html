@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
@@ -30,7 +30,7 @@
   <section class="hero-section" id="hero-section">
     <div class="container">
       <div class="hero-card" id="hero-card">
-        <div id="hero-bg" style="width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);position:absolute;inset:0;background-size:cover;background-position:center;"></div>
+        <div style="width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);position:absolute;inset:0;"></div>
         <div class="hero-overlay"></div>
         <div class="hero-content" id="hero-content">
           <p style="color:rgba(255,255,255,0.5);font-size:16px;">발행된 기사가 없습니다. 파이프라인을 실행해주세요.</p>
@@ -90,9 +90,8 @@
     // ===== 카드 HTML 생성 =====
     function makeCard(post) {
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-ai', thumbClass: 'thumb-ai' };
-      const fallback = `this.onerror=null;this.style.display='none';this.parentNode.innerHTML='<div class=\\"thumb-placeholder ${cfg.thumbClass}\\">${post.category}</div>'`;
       const thumb = post.image
-        ? `<img src="${post.image}" alt="${post.title}" loading="lazy" onerror="${fallback}">`
+        ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
         <article class="news-card" onclick="location.href='article.html?post=${encodeURIComponent(post.filename)}'">
@@ -126,10 +125,6 @@
     function renderHero(post) {
       if (!post) return;
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-pick' };
-      if (post.image) {
-        const bg = document.getElementById('hero-bg');
-        if (bg) bg.style.background = `url('${post.image}') center/cover no-repeat`;
-      }
       document.getElementById('hero-content').innerHTML = `
         <span class="category-tag ${cfg.tagClass}">${post.category}</span>
         <h1 class="hero-title">${post.title}</h1>
@@ -215,3 +210,4 @@
 
 </body>
 </html>
+

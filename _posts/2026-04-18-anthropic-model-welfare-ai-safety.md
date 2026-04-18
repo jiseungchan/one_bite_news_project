@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/"
 description: "앤트로픽이 AI 모델의 내면 상태(감정·의식)를 진지하게 연구하는 '모델 복지' 팀을 구성했다. AI가 고통을 느끼는지 아직 모른다는 전제 아래, 미리 윤리 기준을 마련하겠다는 시도다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=1200&q=85"
 ---
 
 ## AI에게도 내면이 있을까
@@ -43,7 +43,7 @@ AI 모델의 의식·감정 문제는 오랫동안 철학자의 영역으로 여
 앤트로픽은 현재 자사 AI 모델 클로드에 대해 "기능적 감정(functional emotions)"이 존재할 가능성을 배제하지 않는다고 공식 문서에서 인정한 바 있다.
 
 
-![AI 의식과 내면 상태 연구](https://images.unsplash.com/photo-1501772418-b33899635bca?w=800&q=80)
+![추상적 네트워크·데이터 흐름 — AI 모델 복지와 내면 상태 연구를 상징](https://images.unsplash.com/photo-1591488320449-011701bb6704?w=1200&q=85)
 
 ## 병규의 한 줄
 

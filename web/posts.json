@@ -1,6 +1,56 @@
 {
   "posts": [
     {
+      "filename": "2026-04-18-nvidia-jensen-inference-demand.md",
+      "title": "젠슨 황 '추론 수요는 예상의 100배' — 엔비디아가 AI 칩 시장을 다시 계산하는 이유",
+      "category": "경제·주식",
+      "date": "2026-04-18",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026041732010",
+      "description": "엔비디아 CEO 젠슨 황이 AI 추론 연산 수요가 당초 예측치를 100배 초과했다고 밝혔다. 학습(training)용 GPU 수요는 정체되는 반면, 추론(inference)용 칩 수요가 폭증하면서 반도체 시장 구조가 바뀌고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-hyundai-robotics-ai-platform.md",
+      "title": "현대차, 로봇에 AI 두뇌를 심다 — 보스턴다이나믹스와 함께 만드는 로보틱스 플랫폼",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32900",
+      "description": "현대차그룹이 보스턴다이나믹스와 공동 개발한 로보틱스 AI 플랫폼을 공개했다. 아틀라스 로봇에 탑재된 이 시스템은 단순 동작 반복을 넘어 환경 인식·판단·실행까지 스스로 처리한다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-naver-hyperclovax2-launch.md",
+      "title": "네이버, 하이퍼클로바X 2.0 공개 — 한국어 AI 시장의 판이 다시 짜인다",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209400",
+      "description": "네이버가 초거대 AI 하이퍼클로바X의 2세대 모델을 공개했다. 한국어 이해·생성 능력을 전면 강화하고 멀티모달 기능을 추가했으며, 네이버 서비스 전반에 순차 적용될 예정이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-google-gemini-25-flash.md",
+      "title": "구글, Gemini 2.5 Flash 공개 — 가격은 절반, 추론 능력은 그대로",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1115298/google-gemini-25-flash/",
+      "description": "구글이 Gemini 2.5 Pro의 경량 버전인 Gemini 2.5 Flash를 출시했다. 추론 능력은 유지하면서 가격을 대폭 낮춰 개발자 시장을 겨냥했다. 100만 토큰 컨텍스트 창을 지원하며, 비용 민감 애플리케이션의 새 기준을 제시한다.",
+      "image": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-anthropic-claude-agent-benchmark.md",
+      "title": "AI 에이전트는 아직 '진짜 세계'를 모른다 — 벤치마크와 현실의 간극",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/ai-agents-benchmark-real-world-gap-2026/",
+      "description": "최첨단 AI 에이전트들이 실험실 벤치마크에서는 80% 이상의 성공률을 기록하지만, 실제 업무 환경에서는 40~50%대로 곤두박질친다. 그 간극을 만드는 요인들을 살펴봤다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
       "filename": "2026-04-18-skhynix-hbm4-mass-production.md",
       "title": "SK하이닉스, HBM4 양산 개시 — 엔비디아 블랙웰 울트라에 첫 납품",
       "category": "경제·주식",

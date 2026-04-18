@@ -688,3 +688,29 @@ img { display: block; width: 100%; object-fit: cover; }
   .author-quote { padding: 24px 20px; }
   .callout-summary { padding: 16px 20px; }
 }
+
+/* ===== 로컬 미리보기 (file:// 안내) ===== */
+.local-preview-banner {
+  display: none;
+  background: #FEF3C7;
+  color: #92400E;
+  padding: 12px 20px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.6;
+  border-bottom: 1px solid #FBBF24;
+}
+.local-preview-banner.is-visible { display: block; }
+.local-preview-banner strong { font-weight: 700; }
+.local-preview-banner code {
+  background: rgba(0, 0, 0, 0.06);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+.local-preview-banner a {
+  color: #B45309;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.local-preview-banner a:hover { color: #78350F; }

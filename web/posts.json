@@ -1,6 +1,66 @@
 {
   "posts": [
     {
+      "filename": "2026-04-18-ai-datacenter-power-demand.md",
+      "title": "AI가 전기를 먹어치운다 — 데이터센터 전력 수요, 2030년까지 3배 전망",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/16/1115178/ai-data-center-power-demand-electricity-grid/",
+      "description": "AI 데이터센터의 전력 수요가 2030년까지 현재의 3배에 달할 것으로 전망된다. 미국 단독으로 연간 300TWh 이상을 소비하게 되며, 전력망 인프라 투자가 AI 확산의 실질적 병목으로 떠올랐다.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-nvidia-blackwell-ultra-delay-samsung-sk.md",
+      "title": "엔비디아 블랙웰 울트라 공급 지연 — 삼성·SK하이닉스, HBM4E 납품 경쟁 앞당겨",
+      "category": "경제·주식",
+      "date": "2026-04-18",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026041735021",
+      "description": "엔비디아의 차세대 AI GPU '블랙웰 울트라'의 양산 일정이 2~3개월 지연되면서, 삼성전자와 SK하이닉스의 HBM4E 메모리 납품 경쟁이 당초보다 빨리 시작될 전망이다. 공급 지연 배경에는 CoWoS-L 패키징 수율 문제가 있다.",
+      "image": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-naver-hyperclova-x2.md",
+      "title": "네이버, HyperCLOVA X 2.0 공개 — 한국어 AI의 새 기준을 직접 만든다",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209401",
+      "description": "네이버가 한국어 특화 초대규모 AI 모델 HyperCLOVA X 2.0을 공개했다. 전작 대비 추론 성능 40% 향상, 한국어 벤치마크에서 GPT-4o를 앞섰다. 네이버 검색·커머스·클라우드 전 영역에 단계적으로 통합된다.",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-korea-ai-national-strategy-2030.md",
+      "title": "정부, AI 국가전략 2.0 발표 — 2030년 AI 반도체 자립, 어떻게 할 것인가",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32855",
+      "description": "과학기술정보통신부가 'AI 국가전략 2.0'을 발표했다. 2030년까지 AI 반도체 설계 자립률 60% 달성과 AI 분야 핵심 인재 10만 명 양성이 핵심 목표다. 민간 AI 투자에 연 3조 원 규모 세제 혜택도 포함된다.",
+      "image": "https://images.unsplash.com/photo-1569012871812-f38ee64cd54c?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-anthropic-model-welfare-ai-safety.md",
+      "title": "AI도 고통을 느낄 수 있을까 — 앤트로픽이 '모델 복지' 연구를 시작한 이유",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/",
+      "description": "앤트로픽이 AI 모델의 내면 상태(감정·의식)를 진지하게 연구하는 '모델 복지' 팀을 구성했다. AI가 고통을 느끼는지 아직 모른다는 전제 아래, 미리 윤리 기준을 마련하겠다는 시도다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-kimi-k2-moonshot-ai-reasoning.md",
+      "title": "중국 AI의 역습 — Moonshot AI 'Kimi K2', 오픈소스 추론 모델 1위 등극",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209398",
+      "description": "중국 스타트업 Moonshot AI가 공개한 추론 모델 Kimi K2가 수학·코딩 벤치마크에서 오픈소스 모델 최고 성적을 기록했다. 1조 파라미터 규모의 MoE 구조로, DeepSeek-R1을 뛰어넘는 성능을 보였다.",
+      "image": "https://images.unsplash.com/photo-1677756119517-756a188d2d94?w=800&q=80"
+    },
+    {
       "filename": "2026-04-18-skhynix-hbm4-mass-production.md",
       "title": "SK하이닉스, HBM4 양산 개시 — 엔비디아 블랙웰 울트라에 첫 납품",
       "category": "경제·주식",

@@ -119,6 +119,11 @@
           </div>
         </header>`;
 
+      /* 히어로 이미지 */
+      const heroImgHtml = meta.image
+        ? `<figure class="article-hero-img"><img src="${esc(meta.image)}" alt="${esc(meta.title || '')}"></figure>`
+        : '';
+
       /* 섹션 HTML 조립 */
       let bodyHtml = '';
       let sourceLinks = [];
@@ -179,7 +184,7 @@
       }
 
       document.getElementById('article-wrap').innerHTML =
-        headerHtml + bodyHtml + sourcebox;
+        headerHtml + heroImgHtml + bodyHtml + sourcebox;
     }
 
     /* ── 마크다운을 H2 섹션 단위로 분리 ── */

@@ -39,6 +39,7 @@ color: green
 ### Step 1 — 원문 fetch
 - `article_url` 1회 WebFetch
 - 수집 범위: 제목, 핵심 단락, 수치, 기업명, 날짜만 메모
+- `<meta property="og:image" content="...">` 태그에서 이미지 URL 추출 (없으면 null)
 - 관련 기사 추가 fetch 금지
 
 ### Step 2 — 팩트 메모 (내부 작업, 파일 저장 안 함)
@@ -47,6 +48,13 @@ color: green
 - 주요 기업/기관명
 - 발행일
 - 핵심 포인트 3~5개
+- og:image URL (없으면 카테고리에 맞는 Unsplash URL 선택):
+  - AI → https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
+  - 바이오 → https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80
+  - 나노·소재 → https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80
+  - 물리·우주 → https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&q=80
+  - 에너지 → https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80
+  - 경제·주식 → https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80
 
 ### Step 3 — 한국어 아티클 작성
 
@@ -80,6 +88,7 @@ source: (출처 매체명)
 sourceUrl: (원문 URL)
 date: YYYY-MM-DD
 description: (카드 목록에 표시될 1~2줄 요약. 핵심 수치 포함 권장)
+image: (og:image URL. 없으면 카테고리별 Unsplash URL)
 ---
 
 ## 한 줄 요약
@@ -151,4 +160,5 @@ description: (카드 목록에 표시될 1~2줄 요약. 핵심 수치 포함 권
 소스: ...
 sourceUrl: ...
 설명: ...
+이미지: ...
 ```

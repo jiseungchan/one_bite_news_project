@@ -8,7 +8,7 @@
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/article/2026041721051",
       "description": "SK하이닉스가 차세대 AI 메모리 HBM4 양산을 시작하고 엔비디아 블랙웰 울트라 GPU에 첫 공급한다. HBM3E 대비 대역폭 60% 향상, 전력 효율 30% 개선 — 2026년 AI 데이터센터 메모리 시장의 핵심 변수가 됐다.",
-      "image": "https://picsum.photos/seed/skhynix-hbm4-memory/800/450"
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-samsung-gauss3-ai-model.md",
@@ -18,7 +18,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209312",
       "description": "삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI 모델 가우스3를 공개했다. 1~12B 파라미터 범위의 경량 모델로, 클라우드 없이 기기 안에서 실시간 번역·요약·이미지 생성을 처리한다.",
-      "image": "https://picsum.photos/seed/samsung-gauss3-mobile/800/450"
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-openai-gpt41-api.md",
@@ -28,7 +28,7 @@
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/14/1115143/openai-gpt41-api/",
       "description": "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 API로 공개했다. GPT-4o 대비 54.6% 저렴하면서도 SWE-bench에서 54.6%의 소프트웨어 엔지니어링 성능을 기록했다.",
-      "image": "https://picsum.photos/seed/openai-gpt41-code/800/450"
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-nvidia-blackwell-ultra-delay-samsung-sk.md",
@@ -38,7 +38,7 @@
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/article/2026041735021",
       "description": "엔비디아의 차세대 AI GPU '블랙웰 울트라'의 양산 일정이 2~3개월 지연되면서, 삼성전자와 SK하이닉스의 HBM4E 메모리 납품 경쟁이 당초보다 빨리 시작될 전망이다. 공급 지연 배경에는 CoWoS-L 패키징 수율 문제가 있다.",
-      "image": "https://picsum.photos/seed/nvidia-gpu-chip/800/450"
+      "image": "https://images.unsplash.com/photo-1629654294099-9501b6e38cbf?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-naver-hyperclova-x2.md",
@@ -48,7 +48,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209401",
       "description": "네이버가 한국어 특화 초대규모 AI 모델 HyperCLOVA X 2.0을 공개했다. 전작 대비 추론 성능 40% 향상, 한국어 벤치마크에서 GPT-4o를 앞섰다. 네이버 검색·커머스·클라우드 전 영역에 단계적으로 통합된다.",
-      "image": "https://picsum.photos/seed/naver-ai-language/800/450"
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-korea-ai-national-strategy-2030.md",
@@ -58,7 +58,7 @@
       "source": "인공지능신문",
       "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32855",
       "description": "과학기술정보통신부가 'AI 국가전략 2.0'을 발표했다. 2030년까지 AI 반도체 설계 자립률 60% 달성과 AI 분야 핵심 인재 10만 명 양성이 핵심 목표다. 민간 AI 투자에 연 3조 원 규모 세제 혜택도 포함된다.",
-      "image": "https://picsum.photos/seed/korea-ai-strategy/800/450"
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-kimi-k2-moonshot-ai-reasoning.md",
@@ -68,7 +68,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209398",
       "description": "중국 스타트업 Moonshot AI가 공개한 추론 모델 Kimi K2가 수학·코딩 벤치마크에서 오픈소스 모델 최고 성적을 기록했다. 1조 파라미터 규모의 MoE 구조로, DeepSeek-R1을 뛰어넘는 성능을 보였다.",
-      "image": "https://picsum.photos/seed/kimi-k2-moonshot/800/450"
+      "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-google-deepmind-project-astra.md",
@@ -78,7 +78,7 @@
       "source": "인공지능신문",
       "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32841",
       "description": "구글 딥마인드가 멀티모달 AI 에이전트 Project Astra의 업그레이드 버전을 공개했다. 스마트폰 카메라로 주변을 인식하고 장기 기억을 유지하면서 사용자를 대신해 웹 검색·예약·파일 편집까지 처리한다.",
-      "image": "https://picsum.photos/seed/deepmind-astra-agent/800/450"
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-anthropic-model-welfare-ai-safety.md",
@@ -88,7 +88,7 @@
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/",
       "description": "앤트로픽이 AI 모델의 내면 상태(감정·의식)를 진지하게 연구하는 '모델 복지' 팀을 구성했다. AI가 고통을 느끼는지 아직 모른다는 전제 아래, 미리 윤리 기준을 마련하겠다는 시도다.",
-      "image": "https://picsum.photos/seed/anthropic-ai-safety/800/450"
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=85"
     },
     {
       "filename": "2026-04-18-ai-datacenter-power-demand.md",
@@ -98,7 +98,7 @@
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/16/1115178/ai-data-center-power-demand-electricity-grid/",
       "description": "AI 데이터센터의 전력 수요가 2030년까지 현재의 3배에 달할 것으로 전망된다. 미국 단독으로 연간 300TWh 이상을 소비하게 되며, 전력망 인프라 투자가 AI 확산의 실질적 병목으로 떠올랐다.",
-      "image": "https://picsum.photos/seed/datacenter-power/800/450"
+      "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200&q=85"
     },
     {
       "filename": "2026-04-16-trump-tariff-semiconductor.md",

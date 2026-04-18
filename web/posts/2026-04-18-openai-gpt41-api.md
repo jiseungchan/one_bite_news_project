@@ -14,7 +14,7 @@ description: "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 
 
 GPT-4o의 절반 가격에 코딩 성능은 오히려 더 높다. OpenAI가 2026년 4월 14일 API 전용 모델 GPT-4.1을 공개했다. 챗봇 UI가 아닌 개발자가 직접 호출해 쓰는 API 시장에서 Anthropic의 Claude 3.7 Sonnet, Google의 Gemini 2.5 Pro와 정면 경쟁을 선언한 것이다. 특히 소프트웨어 엔지니어링 벤치마크(SWE-bench Verified)에서 54.6%를 기록하며 기존 GPT-4o(33%)를 크게 앞섰다.
 
-![GPT-4.1 코딩 특화 API](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80)
+![GPT-4.1 코딩 특화 API](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=85)
 
 ## 배경 — 기존에는 어땠나?
 

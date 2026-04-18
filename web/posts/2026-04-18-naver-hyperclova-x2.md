@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209401"
 description: "네이버가 한국어 특화 초대규모 AI 모델 HyperCLOVA X 2.0을 공개했다. 전작 대비 추론 성능 40% 향상, 한국어 벤치마크에서 GPT-4o를 앞섰다. 네이버 검색·커머스·클라우드 전 영역에 단계적으로 통합된다."
-image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80"
+image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=85"
 ---
 
 ## 한 줄 요약
@@ -15,7 +15,7 @@ image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80"
 
 네이버가 2026년 4월 17일 자체 개발 초대규모 언어 모델 HyperCLOVA X 2.0을 공개했다. 전작 대비 추론 능력이 40% 향상됐으며, 국내 AI 벤치마크인 KoBEST(한국어 자연어 이해 평가 지표)에서 GPT-4o를 처음으로 앞섰다. 국내 AI 기업이 글로벌 빅테크의 최신 모델을 한국어 평가에서 능가한 건 이번이 처음이다.
 
-![네이버 HyperCLOVA X 2.0 한국어 AI 모델](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80)
+![네이버 HyperCLOVA X 2.0 한국어 AI 모델](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=85)
 
 ## 배경 — 기존에는 어땠나?
 

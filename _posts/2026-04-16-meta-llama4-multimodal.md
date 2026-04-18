@@ -36,6 +36,8 @@ Scout와 Maverick은 현재 llama.com과 Hugging Face에서 즉시 다운로드 
 
 멀티모달 설계도 이전과 다르다. 텍스트 처리 위에 이미지 이해를 덧붙이던 기존 방식과 달리, 라마4는 텍스트와 이미지 토큰을 학습 단계부터 하나의 백본에 통합하는 '조기 융합(Early Fusion)' 방식을 택했다. 30조 개 토큰의 훈련 데이터에는 텍스트뿐 아니라 이미지와 비디오까지 포함됐으며, 200개 언어를 커버한다.
 
+
+![메타 Llama4 멀티모달 오픈소스 모델](https://images.unsplash.com/photo-1617791160505-6f00504e3519?w=800&q=80)
 ## 시장 영향 — 어디에 쓰이나?
 
 - Maverick은 LMArena ELO 1417점으로 GPT-4o와 Gemini 2.0 Flash를 앞질렀다

@@ -67,7 +67,8 @@
       "date": "2026-04-18",
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/article/2026041721051",
-      "description": "SK하이닉스가 차세대 AI 메모리 HBM4 양산을 시작하고 엔비디아 블랙웰 울트라 GPU에 첫 공급한다. HBM3E 대비 대역폭 60% 향상, 전력 효율 30% 개선 — 2026년 AI 데이터센터 메모리 시장의 핵심 변수가 됐다."
+      "description": "SK하이닉스가 차세대 AI 메모리 HBM4 양산을 시작하고 엔비디아 블랙웰 울트라 GPU에 첫 공급한다. HBM3E 대비 대역폭 60% 향상, 전력 효율 30% 개선 — 2026년 AI 데이터센터 메모리 시장의 핵심 변수가 됐다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
     },
     {
       "filename": "2026-04-18-google-deepmind-project-astra.md",
@@ -76,7 +77,8 @@
       "date": "2026-04-18",
       "source": "인공지능신문",
       "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32841",
-      "description": "구글 딥마인드가 멀티모달 AI 에이전트 Project Astra의 업그레이드 버전을 공개했다. 스마트폰 카메라로 주변을 인식하고 장기 기억을 유지하면서 사용자를 대신해 웹 검색·예약·파일 편집까지 처리한다."
+      "description": "구글 딥마인드가 멀티모달 AI 에이전트 Project Astra의 업그레이드 버전을 공개했다. 스마트폰 카메라로 주변을 인식하고 장기 기억을 유지하면서 사용자를 대신해 웹 검색·예약·파일 편집까지 처리한다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
     },
     {
       "filename": "2026-04-18-samsung-gauss3-ai-model.md",
@@ -85,7 +87,8 @@
       "date": "2026-04-18",
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209312",
-      "description": "삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI 모델 가우스3를 공개했다. 1~12B 파라미터 범위의 경량 모델로, 클라우드 없이 기기 안에서 실시간 번역·요약·이미지 생성을 처리한다."
+      "description": "삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI 모델 가우스3를 공개했다. 1~12B 파라미터 범위의 경량 모델로, 클라우드 없이 기기 안에서 실시간 번역·요약·이미지 생성을 처리한다.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80"
     },
     {
       "filename": "2026-04-18-openai-gpt41-api.md",
@@ -94,7 +97,8 @@
       "date": "2026-04-18",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/14/1115143/openai-gpt41-api/",
-      "description": "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 API로 공개했다. GPT-4o 대비 54.6% 저렴하면서도 SWE-bench에서 54.6%의 소프트웨어 엔지니어링 성능을 기록했다."
+      "description": "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 API로 공개했다. GPT-4o 대비 54.6% 저렴하면서도 SWE-bench에서 54.6%의 소프트웨어 엔지니어링 성능을 기록했다.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
     },
     {
       "filename": "2026-04-16-trump-tariff-semiconductor.md",

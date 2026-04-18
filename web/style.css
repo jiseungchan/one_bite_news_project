@@ -1,4 +1,4 @@
-/* ===== 병규의 한입뉴스 — 메인 스타일시트 ===== */
+﻿/* ===== 병규의 한입뉴스 — 메인 스타일시트 ===== */
 
 /* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap');
@@ -438,22 +438,6 @@ img { display: block; width: 100%; object-fit: cover; }
 
 .article-meta-sep { color: #D1D5DB; }
 
-/* 아티클 히어로 이미지 */
-.article-hero-img {
-  margin: 0 0 40px;
-  border-radius: 10px;
-  overflow: hidden;
-  aspect-ratio: 16/9;
-  background: #F3F4F6;
-}
-.article-hero-img img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.3s ease;
-}
-
 /* 한 줄 요약 callout */
 .callout-summary {
   background: #F5F3FF;
@@ -689,28 +673,3 @@ img { display: block; width: 100%; object-fit: cover; }
   .callout-summary { padding: 16px 20px; }
 }
 
-/* ===== 로컬 미리보기 (file:// 안내) ===== */
-.local-preview-banner {
-  display: none;
-  background: #FEF3C7;
-  color: #92400E;
-  padding: 12px 20px;
-  text-align: center;
-  font-size: 14px;
-  line-height: 1.6;
-  border-bottom: 1px solid #FBBF24;
-}
-.local-preview-banner.is-visible { display: block; }
-.local-preview-banner strong { font-weight: 700; }
-.local-preview-banner code {
-  background: rgba(0, 0, 0, 0.06);
-  padding: 2px 8px;
-  border-radius: 4px;
-  font-size: 13px;
-}
-.local-preview-banner a {
-  color: #B45309;
-  text-decoration: underline;
-  font-weight: 600;
-}
-.local-preview-banner a:hover { color: #78350F; }

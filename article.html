@@ -1,0 +1,240 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>한입뉴스</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="article-page">
+
+  <!-- 헤더 -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">한입뉴스</a>
+      <nav>
+        <ul class="site-nav">
+          <li><a href="index.html">전체</a></li>
+          <li><a href="index.html">AI</a></li>
+          <li><a href="index.html">바이오</a></li>
+          <li><a href="index.html">나노·소재</a></li>
+          <li><a href="index.html">물리·우주</a></li>
+          <li><a href="index.html">에너지</a></li>
+          <li><a href="index.html">경제·주식</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- 본문 -->
+  <div class="article-wrap" id="article-wrap">
+    <div class="loading" style="text-align:center;padding:80px 0;color:#9CA3AF;">불러오는 중...</div>
+  </div>
+
+  <!-- 푸터 -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-logo">병규의 한입뉴스</p>
+        <p class="footer-desc">과학기술의 핵심만 한 입에.</p>
+      </div>
+      <ul class="footer-links">
+        <li><a href="index.html">홈</a></li>
+        <li><a href="index.html">AI</a></li>
+        <li><a href="index.html">바이오</a></li>
+      </ul>
+    </div>
+    <div class="container">
+      <p class="footer-copy">© 2026 병규의 한입뉴스. 모든 콘텐츠의 저작권은 원문 출처에 있습니다.</p>
+    </div>
+  </footer>
+
+  <script>
+    /* ── 카테고리 → 태그 클래스 매핑 ── */
+    const CAT_TAG = {
+      'AI':        'tag-ai',
+      '바이오':    'tag-bio',
+      '나노·소재': 'tag-nano',
+      '물리·우주': 'tag-physics',
+      '에너지':    'tag-energy',
+      '경제·주식': 'tag-econ',
+      '이번 주 픽':'tag-pick',
+    };
+
+    /* ── URL 파라미터 파싱 ── */
+    const params  = new URLSearchParams(location.search);
+    const filename = params.get('post');
+
+    if (!filename) {
+      document.getElementById('article-wrap').innerHTML =
+        '<a class="back-btn" href="index.html">← 목록으로</a>' +
+        '<p style="color:#9CA3AF;text-align:center;padding:60px 0;">기사를 찾을 수 없습니다.</p>';
+    } else {
+      /* posts.json + 마크다운 파일 병렬 로드 */
+      Promise.all([
+        fetch('posts.json').then(r => r.json()),
+        fetch('posts/' + encodeURIComponent(filename)).then(r => {
+          if (!r.ok) throw new Error(r.status);
+          return r.text();
+        })
+      ])
+      .then(([data, mdText]) => {
+        const meta = (data.posts || []).find(p => p.filename === filename) || {};
+        render(mdText, meta);
+      })
+      .catch(() => {
+        document.getElementById('article-wrap').innerHTML = `
+          <a class="back-btn" href="index.html">← 목록으로</a>
+          <p style="color:#9CA3AF;padding:40px 0;">기사를 불러올 수 없습니다.</p>`;
+      });
+    }
+
+    /* ────────────────────────────────────────
+       렌더링 메인 함수
+    ──────────────────────────────────────── */
+    function render(mdText, meta) {
+      /* 1. 프론트매터 제거 */
+      const body = mdText.replace(/^---[\s\S]*?---\s*\n/, '').trim();
+
+      /* 2. 마크다운 블록을 섹션 단위로 분리 */
+      const sections = splitSections(body);
+
+      /* 3. 섹션별 HTML 생성 */
+      const cat      = meta.category || '';
+      const tagClass = CAT_TAG[cat] || 'tag-ai';
+
+      /* 페이지 제목 */
+      document.title = (meta.title || '한입뉴스') + ' — 병규의 한입뉴스';
+
+      /* 헤더 블록 */
+      const headerHtml = `
+        <a class="back-btn" href="index.html">← 목록으로</a>
+        <header class="article-header">
+          ${cat ? `<span class="category-tag article-category-tag ${tagClass}">${cat}</span>` : ''}
+          <h1 class="article-title">${esc(meta.title || '')}</h1>
+          <div class="article-meta">
+            <span>${meta.date || ''}</span>
+            ${meta.source ? `<span class="article-meta-sep">·</span><span>${esc(meta.source)}</span>` : ''}
+          </div>
+        </header>`;
+
+      /* 섹션 HTML 조립 */
+      let bodyHtml = '';
+      let sourceLinks = [];
+
+      sections.forEach(sec => {
+        const title = sec.heading.trim();
+        const contentMd = sec.body.trim();
+
+        if (title === '한 줄 요약') {
+          /* 요약 callout */
+          const inner = parseSummaryQuote(contentMd);
+          bodyHtml += `
+            <div class="callout-summary">
+              <div class="callout-label">한 줄 요약</div>
+              <p>${inner}</p>
+            </div>`;
+
+        } else if (title === '병규의 한 줄') {
+          /* 병규 서명 quote */
+          const inner = parseSummaryQuote(contentMd);
+          bodyHtml += `
+            <div class="author-quote">
+              <div class="author-quote-label">병규의 한 줄</div>
+              <span class="author-quote-icon">"</span>
+              <p>${inner}</p>
+            </div>`;
+
+        } else if (title === '출처 & 더 읽기') {
+          /* 출처 섹션은 따로 모아서 맨 아래에 */
+          sourceLinks = parseLinks(contentMd);
+
+        } else if (title === '') {
+          /* 제목 없는 본문 블록 (리드 등) */
+          bodyHtml += `<div class="article-body">${marked.parse(contentMd)}</div>`;
+
+        } else {
+          /* 일반 섹션 */
+          const cleanTitle = title.replace(/\s*—.*$/, '').replace(/\s*\(.*\)$/, '').trim();
+          bodyHtml += `
+            <div class="article-body">
+              <h2>${esc(title)}</h2>
+              ${marked.parse(contentMd)}
+            </div>`;
+        }
+      });
+
+      /* 출처 박스 */
+      let sourcebox = '';
+      if (sourceLinks.length > 0 || meta.sourceUrl) {
+        const links = sourceLinks.length > 0
+          ? sourceLinks.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join('')
+          : `<a href="${esc(meta.sourceUrl)}" target="_blank" rel="noopener">${esc(meta.source || meta.sourceUrl)}</a>`;
+        sourcebox = `
+          <div class="article-source-box">
+            <strong>출처 & 더 읽기</strong>
+            ${links}
+          </div>`;
+      }
+
+      document.getElementById('article-wrap').innerHTML =
+        headerHtml + bodyHtml + sourcebox;
+    }
+
+    /* ── 마크다운을 H2 섹션 단위로 분리 ── */
+    function splitSections(md) {
+      const lines  = md.split('\n');
+      const result = [];
+      let current  = { heading: '', body: [] };
+
+      lines.forEach(line => {
+        if (line.startsWith('## ')) {
+          if (current.heading !== '' || current.body.join('').trim()) {
+            result.push({ heading: current.heading, body: current.body.join('\n') });
+          }
+          current = { heading: line.replace(/^## /, '').trim(), body: [] };
+        } else {
+          current.body.push(line);
+        }
+      });
+      if (current.heading !== '' || current.body.join('').trim()) {
+        result.push({ heading: current.heading, body: current.body.join('\n') });
+      }
+      return result;
+    }
+
+    /* ── > quote 블록에서 텍스트 추출 ── */
+    function parseSummaryQuote(md) {
+      const match = md.match(/^>\s*(.+)/m);
+      if (match) return esc(match[1].trim());
+      return esc(md.replace(/^#+\s*/gm, '').trim());
+    }
+
+    /* ── 출처 링크 목록 파싱 ── */
+    function parseLinks(md) {
+      const result = [];
+      const lines  = md.split('\n');
+      lines.forEach(line => {
+        const m = line.match(/^-\s+(.+?):\s*(https?:\/\/\S+)/);
+        if (m) result.push({ label: m[1].trim(), url: m[2].trim() });
+        else {
+          const m2 = line.match(/^-\s+(https?:\/\/\S+)/);
+          if (m2) result.push({ label: m2[1], url: m2[1] });
+        }
+      });
+      return result;
+    }
+
+    /* ── HTML 이스케이프 ── */
+    function esc(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+  </script>
+</body>
+</html>
+

@@ -14,6 +14,8 @@ description: "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 
 
 GPT-4o의 절반 가격에 코딩 성능은 오히려 더 높다. OpenAI가 2026년 4월 14일 API 전용 모델 GPT-4.1을 공개했다. 챗봇 UI가 아닌 개발자가 직접 호출해 쓰는 API 시장에서 Anthropic의 Claude 3.7 Sonnet, Google의 Gemini 2.5 Pro와 정면 경쟁을 선언한 것이다. 특히 소프트웨어 엔지니어링 벤치마크(SWE-bench Verified)에서 54.6%를 기록하며 기존 GPT-4o(33%)를 크게 앞섰다.
 
+![GPT-4.1 코딩 특화 API](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80)
+
 ## 배경 — 기존에는 어땠나?
 
 지금까지 OpenAI의 API 라인업은 단순했다. GPT-4o(강력하지만 비싸다)와 GPT-4o mini(저렴하지만 성능 한계)라는 두 축이었다. 개발자들은 정교한 코딩 작업에는 비싸도 GPT-4o를 써야 했고, 비용을 아끼려면 성능 저하를 감수해야 했다.
@@ -42,7 +44,6 @@ GPT-4.1의 차별점은 세 가지다.
 GPT-4.1은 ChatGPT UI에는 탑재되지 않는다. API 전용으로만 제공되며, 이는 OpenAI가 개발자와 기업 고객에게 더 최적화된 도구를 별도로 공급하겠다는 전략의 변화를 의미한다.
 
 
-![GPT-4.1 코딩 API](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80)
 ## 시장 영향 — 어디에 쓰이나?
 
 - **코딩 에이전트 스택 전환**: Cursor, Windsurf 등 AI 코드 에디터들이 모델 스위칭을 테스트 중이다. 비용이 절반이면서 성능이 더 높다면 백엔드 교체 유인이 크다.

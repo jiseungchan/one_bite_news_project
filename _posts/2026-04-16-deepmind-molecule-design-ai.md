@@ -7,6 +7,8 @@ sourceUrl: "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-des
 description: "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 AlphaFold 3의 정확도를 두 배 이상 뛰어넘는 신약 설계 AI 시스템 IsoDDE를 공개했다. 단백질 구조 예측을 넘어 결합력 예측·신규 결합 부위 발굴까지 통합된 최초의 범용 약물 설계 엔진이다."
 ---
 
+![딥마인드 IsoDDE 분자 설계 AI](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80)
+
 ## 배경 — 구조를 알아도 약은 못 만들었다
 
 지난 몇 년간 신약 개발 분야에서 가장 큰 화제는 단연 AlphaFold(단백질의 3D 구조를 AI로 예측하는 딥마인드의 모델)였다. 2021년 AlphaFold 2가 등장했을 때, 수십 년간 풀리지 않던 단백질 접힘(folding) 문제를 사실상 해결했다는 평가를 받았다. 2024년에는 AlphaFold 3으로 발전하며 단백질뿐 아니라 DNA, RNA, 소분자와의 상호작용까지 예측 범위를 넓혔고, 현재 190개국 300만 명이 넘는 연구자가 무료로 활용하고 있다.
@@ -31,7 +33,6 @@ description: "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 A
 한 사례로, 세레블론(cereblon — 손상된 단백질을 분해하도록 표지하는 세포 내 효소 복합체의 핵심 수용체)이라는 단백질이 있다. 15년간 단 하나의 결합 부위만 알려져 있었는데, 2026년 초 실험으로 새로운 결합 부위가 발견됐다. IsoDDE는 서열만 가지고도 이 두 부위 모두를 정확히 예측해냈다.
 
 
-![구글 딥마인드 신약 분자 설계 AI](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80)
 ## 시장 영향 — 실험실 밖에서 이미 쓰이고 있다
 
 - Isomorphic Labs는 IsoDDE를 이미 사내 신약 개발 프로그램 전체에서 매일 사용하고 있다

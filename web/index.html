@@ -90,8 +90,9 @@
     // ===== 카드 HTML 생성 =====
     function makeCard(post) {
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-ai', thumbClass: 'thumb-ai' };
+      const fallback = `this.onerror=null;this.style.display='none';this.parentNode.innerHTML='<div class=\\"thumb-placeholder ${cfg.thumbClass}\\">${post.category}</div>'`;
       const thumb = post.image
-        ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
+        ? `<img src="${post.image}" alt="${post.title}" loading="lazy" onerror="${fallback}">`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
         <article class="news-card" onclick="location.href='article.html?post=${encodeURIComponent(post.filename)}'">

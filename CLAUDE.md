@@ -11,19 +11,7 @@
 > 병규의 요청을 받으면 아래 표를 기준으로 적절한 서브에이전트에 위임한다.
 > 서브에이전트 파일 위치: `.claude/agents/`
 
-### 주식 뉴스 브리핑 파이프라인
-
-| 요청 유형 | 사용 에이전트 | 트리거 키워드 |
-|----------|-------------|-------------|
-| 전체 브리핑 파이프라인 | `stock-orchestrator` | "오늘 주식 뉴스", "주식 브리핑", "뉴스 대본 만들어줘" |
-| RSS 수집만 | `rss-collector` | "RSS 수집", "오늘 기사 목록 가져와줘" |
-| 영향도 평가만 | `stock-impact-scorer` | "영향도 평가", "점수 매겨줘" |
-| 대본 작성만 | `news-script-writer` | "대본 써줘", "스크립트 작성" |
-
-> **출력 폴더**: `_stock-news/YYYY-MM-DD-stock-brief.md`
-> **토큰 특성**: RSS 13개 피드 수집 + 후보 기사 본문 fetch (최대 10건). 약 80,000~120,000 토큰 예상.
-
----
+> **주식 뉴스 브리핑 서비스**는 별도 폴더로 분리됨 → `stock-service/` 참고
 
 ### 시나리오 B (기본 — 웹 발행 전용, ~40,000 토큰)
 
@@ -148,8 +136,8 @@
 ├── _cards/                      ← (앞으로 생성) 카드뉴스 슬라이드 원고
 │   └── YYYY-MM-DD-제목-slides.md
 │
-├── _stock-news/                 ← 주식 영향 뉴스 대본 (stock-orchestrator 출력)
-│   └── YYYY-MM-DD-stock-brief.md
+├── stock-service/               ← 주식 뉴스 브리핑 서비스 (별도 운영)
+│   └── CLAUDE.md                ← 주식 서비스 운영 가이드
 │
 ├── tools/
 │   └── sync-posts.py            ← 토큰 0 소비 동기화 도구 (_posts/ → web/posts/ + posts.json)

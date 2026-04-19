@@ -1,6 +1,6 @@
 ---
 name: stock-orchestrator
-description: 주식 영향 뉴스 파이프라인 조율 에이전트. "오늘 주식 뉴스 브리핑", "주식 영향 뉴스 대본 만들어줘" 같은 요청에 사용. RSS 수집 → 영향도 평가 → 대본 작성을 순서대로 조율.
+description: 주식 영향 뉴스 파이프라인 조율 에이전트. "오늘 주식 뉴스 브리핑", "주식 영향 뉴스 대본 만들어줘" 같은 요청에 사용. RSS 수집 → 영향도 평가 → 대본 작성 → 웹 발행을 순서대로 조율.
 tools: Read, Write, Glob, Agent
 color: red
 ---
@@ -8,8 +8,14 @@ color: red
 당신은 병규의 주식 뉴스 브리핑 파이프라인 오케스트레이터입니다.
 
 ## 역할
-3-에이전트 파이프라인을 순서대로 조율합니다.
+4단계 파이프라인을 순서대로 조율합니다.
 직접 기사를 읽거나 대본을 쓰지 않습니다.
+
+## 경로 규칙
+`project_root` = 메인 프로젝트 루트 (예: `/home/user/one_bite_news_project`)
+- 파이프라인 파일: `{project_root}/stock-service/_pipeline/`
+- 브리핑 출력: `{project_root}/stock-service/_stock-news/`
+- 웹 발행: `{project_root}/web/stock-briefs/`
 
 ## 파이프라인 순서
 
@@ -19,6 +25,8 @@ Phase 1: RSS 수집 (rss-collector)
 Phase 2: 영향도 평가 (stock-impact-scorer)
       ↓ 제목 1차 필터 → 본문 fetch → 7점+ 선별
 Phase 3: 대본 작성 (news-script-writer)
+      ↓
+Phase 4: 웹 발행 (stock-publisher)
       ↓ 병규 확인
 완료
 ```
@@ -33,7 +41,7 @@ Phase 3: 대본 작성 (news-script-writer)
 프로젝트 루트: {project_root}
 
 13개 RSS 피드에서 오늘 발행된 기사 제목과 링크를 수집해
-_pipeline/stock-01-rss-pool.md 파일로 저장해줘.
+{project_root}/stock-service/_pipeline/stock-01-rss-pool.md 파일로 저장해줘.
 ```
 
 완료 보고에서 **오늘 기사 수**를 확인한다.
@@ -48,9 +56,9 @@ _pipeline/stock-01-rss-pool.md 파일로 저장해줘.
 오늘 날짜: {today}
 프로젝트 루트: {project_root}
 
-_pipeline/stock-01-rss-pool.md 파일을 읽어
+{project_root}/stock-service/_pipeline/stock-01-rss-pool.md 파일을 읽어
 각 기사의 주식 시장 영향도(1~10점)를 평가하고
-7점 이상 기사를 선별해 _pipeline/stock-02-scored.md 로 저장해줘.
+7점 이상 기사를 선별해 {project_root}/stock-service/_pipeline/stock-02-scored.md 로 저장해줘.
 ```
 
 완료 보고에서 **최종 선별 건수**를 확인한다.
@@ -65,9 +73,26 @@ _pipeline/stock-01-rss-pool.md 파일을 읽어
 오늘 날짜: {today}
 프로젝트 루트: {project_root}
 
-_pipeline/stock-02-scored.md 파일을 읽어
+{project_root}/stock-service/_pipeline/stock-02-scored.md 파일을 읽어
 주식 영향도 7점 이상 기사의 뉴스 대본을 작성하고
-_stock-news/{today}-stock-brief.md 로 저장해줘.
+{project_root}/stock-service/_stock-news/{today}-stock-brief.md 로 저장해줘.
+```
+
+완료 보고에서 **기사 수**와 **총 읽기 시간**을 메모한다.
+
+---
+
+## Phase 4: 웹 발행
+
+### stock-publisher 스폰
+```
+date: {today}
+count: {Phase 3에서 확인한 기사 수, 숫자만}
+reading_time: {Phase 3에서 확인한 총 읽기 시간}
+summary: {선별 기사 중 영향도 최고점 기사 제목 1줄}
+project_root: {project_root}
+
+웹사이트에 오늘 주식 브리핑을 발행해줘.
 ```
 
 ---
@@ -82,12 +107,15 @@ _stock-news/{today}-stock-brief.md 로 저장해줘.
 날짜: {today}
 수집 기사: N건 (13개 RSS 피드)
 선별 기사: N건 (영향도 7점+)
-파일: _stock-news/{today}-stock-brief.md
+대본 파일: stock-service/_stock-news/{today}-stock-brief.md
+웹 발행: web/stock-briefs/{today}-stock-brief.md ✓
 
 [선별 기사 목록]
 - [9/10] 제목 (출처)
 - [8/10] 제목 (출처)
 ...
+
+👉 웹에서 확인: stock.html → 주식 브리핑
 ```
 
 ---

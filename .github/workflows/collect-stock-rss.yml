@@ -1,0 +1,61 @@
+name: 주식 뉴스 RSS 수집
+
+on:
+  schedule:
+    # 평일 오전 9시 KST (= UTC 00:00) 자동 실행
+    - cron: '0 0 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: '수집 기준일 (YYYY-MM-DD, 기본값: 오늘 KST)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  collect-rss:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Collect RSS feeds
+        id: collect
+        run: |
+          python stock-service/tools/collect_rss.py
+          echo "today=$(TZ=Asia/Seoul date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+        env:
+          PROJECT_ROOT: ${{ github.workspace }}
+        # 전체 피드 실패해도 파일 저장 후 계속 (exit 1이어도 커밋)
+        continue-on-error: true
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stock-service/_pipeline/stock-01-rss-pool.md
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 건너뜀"
+          else
+            git commit -m "chore: RSS 수집 — ${{ steps.collect.outputs.today }}"
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          echo "## RSS 수집 결과" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          head -5 stock-service/_pipeline/stock-01-rss-pool.md >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"

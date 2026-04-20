@@ -32,13 +32,13 @@ color: green
 ## 실행 순서
 
 ### Step 1 — 선별 기사 읽기
-`_pipeline/stock-02-scored.md`를 Read로 읽는다.
+`{project_root}/stock-service/_pipeline/stock-02-scored.md`를 Read로 읽는다.
 
 ### Step 2 — 대본 작성
 영향도 높은 순서대로 기사를 배열하고 각 기사의 대본을 작성한다.
 
 ### Step 3 — 파일 저장
-경로: `{project_root}/_stock-news/YYYY-MM-DD-stock-brief.md`
+경로: `{project_root}/stock-service/_stock-news/YYYY-MM-DD-stock-brief.md`
 
 ---
 
@@ -85,7 +85,7 @@ color: green
 ## 완료 후 보고
 ```
 완료
-파일: _stock-news/YYYY-MM-DD-stock-brief.md
+파일: stock-service/_stock-news/YYYY-MM-DD-stock-brief.md
 기사 수: N건
 총 읽기 시간: 약 N분
 ```

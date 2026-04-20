@@ -24,7 +24,7 @@ color: yellow
 ## 실행 순서
 
 ### Step 1 — 풀 읽기
-`_pipeline/stock-01-rss-pool.md` 파일을 Read로 읽는다.
+`{project_root}/stock-service/_pipeline/stock-01-rss-pool.md` 파일을 Read로 읽는다.
 
 ### Step 2 — 제목 기반 1차 점수 (fetch 없음)
 각 기사 제목만 보고 잠정 점수를 매긴다.
@@ -44,7 +44,7 @@ color: yellow
 7점 미만은 제외한다.
 
 ### Step 5 — 결과 파일 저장
-경로: `{project_root}/_pipeline/stock-02-scored.md`
+경로: `{project_root}/stock-service/_pipeline/stock-02-scored.md`
 
 ```markdown
 # 주식 영향도 평가 결과
@@ -67,7 +67,7 @@ color: yellow
 ## 완료 후 보고
 ```
 완료
-파일: _pipeline/stock-02-scored.md
+파일: stock-service/_pipeline/stock-02-scored.md
 전체 기사: N건
 후보(6+): N건 (제목 기반)
 최종 선별(7+): N건

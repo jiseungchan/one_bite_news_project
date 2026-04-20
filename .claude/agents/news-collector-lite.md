@@ -1,7 +1,7 @@
 ---
 name: news-collector-lite
 description: 경량 뉴스 수집 에이전트. MIT Technology Review + AI타임스에서 이번 주 기사 목록만 수집. 시나리오 B 파이프라인 전용.
-tools: WebFetch, Write, Read
+tools: WebFetch, Write
 color: cyan
 ---
 

@@ -54,7 +54,7 @@ color: cyan
 - 오늘 기사 0건: "오늘 기사 없음" 표시
 
 ## 출력 파일
-경로: `{project_root}/_pipeline/stock-01-rss-pool.md`
+경로: `{project_root}/stock-service/_pipeline/stock-01-rss-pool.md`
 
 ```markdown
 # RSS 수집 결과
@@ -71,7 +71,7 @@ color: cyan
 ## 완료 후 보고
 ```
 완료
-파일: _pipeline/stock-01-rss-pool.md
+파일: stock-service/_pipeline/stock-01-rss-pool.md
 수집 피드: N/13개
 오늘 기사: N건
 ```

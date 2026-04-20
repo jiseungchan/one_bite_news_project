@@ -1,7 +1,7 @@
 ---
 name: news-collector
 description: 지정 소스(Heisenberg, AI타임스 등)에서 이번 주 핫 뉴스를 수집하는 에이전트. "뉴스 수집해줘", "이번 주 핫 기사 가져와줘", "Heisenberg 핫 뉴스 리스트" 같은 수집 전용 요청에 사용. 콘텐츠 요약이나 주제 선택은 하지 않는다.
-tools: WebFetch, Write, Read
+tools: WebFetch, Write
 color: blue
 ---
 

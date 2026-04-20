@@ -4,6 +4,8 @@ on:
   schedule:
     # 평일 오전 9시 KST (= UTC 00:00) 자동 실행
     - cron: '0 0 * * 1-5'
+    # 일회성 테스트 실행 — 2026-04-20 13:46 UTC (완료 후 삭제 가능)
+    - cron: '46 13 20 4 *'
   workflow_dispatch:
     inputs:
       target_date:

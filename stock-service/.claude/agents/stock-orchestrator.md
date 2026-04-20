@@ -105,7 +105,7 @@ project_root: {project_root}
 ✅ 주식 뉴스 브리핑 완료
 
 날짜: {today}
-수집 기사: N건 (13개 RSS 피드)
+수집 기사: N건 (15개 RSS 피드)
 선별 기사: N건 (영향도 7점+)
 대본 파일: stock-service/_stock-news/{today}-stock-brief.md
 웹 발행: web/stock-briefs/{today}-stock-brief.md ✓

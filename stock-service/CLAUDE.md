@@ -35,7 +35,7 @@
           병규 확인
 ```
 
-**토큰 예상**: RSS 13개 피드 수집 + 후보 기사 본문 fetch (최대 10건) → 약 80,000~120,000 토큰
+**토큰 예상**: RSS 15개 피드 수집 + 후보 기사 본문 fetch (최대 10건) → 약 80,000~120,000 토큰
 
 ---
 
@@ -48,7 +48,7 @@ stock-service/
 │   └── agents/
 │       ├── stock-orchestrator.md   ← 파이프라인 조율
 │       ├── stock-impact-scorer.md  ← 영향도 평가 (1~10점)
-│       ├── rss-collector.md        ← RSS 수집 (13개 피드)
+│       ├── rss-collector.md        ← RSS 수집 (15개 피드)
 │       └── news-script-writer.md  ← 대본 작성
 ├── _pipeline/                   ← 에이전트 간 중간 파일
 │   ├── stock-01-rss-pool.md     ← RSS 수집 결과
@@ -59,16 +59,19 @@ stock-service/
 
 ---
 
-## 수집 대상 RSS 피드 (13개)
+## 수집 대상 RSS 피드 (15개)
 
-### AI & 테크
-- MIT Tech Review, AI타임스, 인공지능신문, OpenAI 뉴스, Google AI 블로그
+### 한국경제 (4)
+- 주식(IT/전자), IT, 경제, 산업
 
-### 경제 & 주식
-- 매일경제 최신·경제·기업증권, 한국경제 경제·증권·IT
+### 매일경제 (4)
+- 경제, IT/과학, 부동산/금융, 증권/기업
 
-### 과학 & R&D
-- ScienceDaily AI, 대한민국 정책브리핑
+### 로이터 (3)
+- Business, Technology, Company
+
+### 블룸버그 (4)
+- Markets, Technology, Energy, Economics
 
 ---
 

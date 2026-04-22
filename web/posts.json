@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-04-22-nasdaq-ai-tech-rally.md",
+      "title": "AI 투자 열풍에 나스닥 기술주 일제 상승 — 국내 반도체주도 온기 돌았다",
+      "category": "경제·주식",
+      "date": "2026-04-22",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026042200001",
+      "description": "미국 AI 기업들을 향한 투자 열풍이 나스닥 기술주 전반을 끌어올렸다. 엔비디아, 마이크로소프트, 아마존 등이 동반 상승했고, 국내 AI 수혜 반도체주들도 강세를 보였다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-22-naver-hyperclova-x2.md",
+      "title": "네이버, 하이퍼클로바X 2.0 공개 — GPT-4급 한국어 성능에 검색 통합까지",
+      "category": "AI",
+      "date": "2026-04-22",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209430",
+      "description": "네이버가 차세대 한국어 특화 AI 모델 하이퍼클로바X 2.0을 공개했다. GPT-4 수준의 한국어 이해력을 갖추면서도 네이버 검색·쇼핑·지도 서비스와 긴밀하게 연결된 국내 최대 AI 생태계 구축을 목표로 한다.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-22-claude-37-sonnet.md",
+      "title": "앤트로픽, 하이브리드 추론 모델 '클로드 3.7 소네트' 공개 — 생각하는 양을 스스로 조절한다",
+      "category": "AI",
+      "date": "2026-04-22",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209450",
+      "description": "앤트로픽이 '확장 사고(extended thinking)' 기능을 탑재한 클로드 3.7 소네트를 공개했다. 단순 질문엔 빠르게, 복잡한 문제엔 깊게 — 추론 깊이를 상황에 맞게 자동 조절하는 하이브리드 모델이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-22-ai-safety-testing-research.md",
+      "title": "AI를 안전하게 만드는 가장 확실한 방법은 테스트다 — 레드팀 연구자들이 말하는 것",
+      "category": "AI",
+      "date": "2026-04-22",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/21/1115500/ai-safety-researchers-testing-ai/",
+      "description": "AI 안전성 논쟁에서 '정렬(alignment)' 이론보다 실제 테스트와 레드팀 평가가 더 효과적이라고 주장하는 연구자들이 주목받고 있다. AI 모델을 출시 전에 체계적으로 공격하고 취약점을 찾는 것이 안전 확보의 핵심이라는 주장이다.",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"
+    },
+    {
       "filename": "2026-04-18-skhynix-hbm4-mass-production.md",
       "title": "SK하이닉스, HBM4 양산 개시 — 엔비디아 블랙웰 울트라에 첫 납품",
       "category": "경제·주식",

@@ -1,6 +1,66 @@
 {
   "posts": [
     {
+      "filename": "2026-04-26-openai-gpt4o-native-image.md",
+      "title": "GPT-4o가 직접 그린다 — OpenAI 네이티브 이미지 생성의 의미",
+      "category": "AI",
+      "date": "2026-04-26",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/25/openai-gpt4o-native-image-generation/",
+      "description": "OpenAI가 GPT-4o에 네이티브 이미지 생성 기능을 통합했다. 별도 모델을 호출하는 방식을 버리고 텍스트·이미지를 하나의 모델이 함께 처리하면서, 멀티모달 AI의 설계 패러다임이 바뀌고 있다.",
+      "image": "https://images.unsplash.com/photo-1686191128892-3b37add4c844?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-26-meta-multimodal-opensource.md",
+      "title": "메타, 라마 4 이후를 말하다 — 멀티모달 오픈소스 전략의 대전환",
+      "category": "AI",
+      "date": "2026-04-26",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210155",
+      "description": "메타가 라마 4 공개 이후 오픈소스 AI 전략의 다음 단계를 발표했다. 텍스트 중심에서 이미지·오디오·비디오를 아우르는 멀티모달 오픈소스 모델로 무게중심이 옮겨간다.",
+      "image": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-26-wrtn-enterprise-ai-agent.md",
+      "title": "뤼튼의 도전 — 국내 AI 스타트업이 기업 시장을 노리는 방법",
+      "category": "AI",
+      "date": "2026-04-26",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210102",
+      "description": "뤼튼테크놀로지스가 기업용 AI 에이전트 서비스를 정식 출시했다. 한국어 특화 LLM 위에 업무 자동화 에이전트를 얹는 전략으로, 외산 AI 도구가 장악한 기업 시장에서 틈새를 노린다.",
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-26-lg-samsung-ai-home-export.md",
+      "title": "AI 가전이 반도체 뒤를 잇는다 — LG·삼성 수출 호조의 배경",
+      "category": "경제·주식",
+      "date": "2026-04-26",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026042558821",
+      "description": "LG전자와 삼성전자의 AI 탑재 가전 수출이 올해 들어 두 자릿수 성장세를 이어가고 있다. 반도체 수출 사이클이 둔화되는 시점에 AI 가전이 새로운 수출 버팀목으로 부상하고 있다.",
+      "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-26-openai-o3-reasoning-model.md",
+      "title": "OpenAI o3, 추론 AI의 새 기준을 세우다 — '가장 강력한 추론 모델'의 등장",
+      "category": "AI",
+      "date": "2026-04-26",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/",
+      "description": "OpenAI가 o-시리즈의 세 번째 모델 o3를 공개했다. 수학·과학·코딩 벤치마크 전 영역에서 이전 세대를 압도하며, '생각하는 AI'가 어디까지 왔는지 가늠하게 하는 이정표다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-26-lg-exaone-35-reasoning.md",
+      "title": "LG AI연구원, EXAONE 3.5 공개 — 국내 최고 수준 추론 AI가 나왔다",
+      "category": "AI",
+      "date": "2026-04-26",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209521",
+      "description": "LG AI연구원이 자체 개발한 AI 언어모델 EXAONE 3.5를 공개했다. 수학·코딩·과학 추론 벤치마크에서 국내 개발 모델 중 최고 성능을 기록했으며, 오픈소스로 공개해 생태계 확산을 노린다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
       "filename": "2026-04-21-hormuz-oil-crisis.md",
       "title": "호르무즈 해협이 막혔다 — 이란의 갑작스런 봉쇄 선언과 원유 공급망 마비",
       "category": "경제·주식",

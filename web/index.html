@@ -87,12 +87,31 @@
       '경제·주식':{ tagClass: 'tag-econ',     thumbClass: 'thumb-econ',   dot: '#0F766E' },
       '이번 주 픽':{ tagClass: 'tag-pick',    thumbClass: 'thumb-ai',     dot: '#DC2626' },
     };
+    const FALLBACK_IMAGES = {
+      'AI': [
+        'https://images.unsplash.com/photo-1639322537228-f710d846310a?w=1200&q=85',
+        'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=85',
+        'https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=85'
+      ],
+      '경제·주식': [
+        'https://images.unsplash.com/photo-1642543348745-5d2f0f0f3b9a?w=1200&q=85',
+        'https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=1200&q=85',
+        'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=85'
+      ],
+      '에너지': [
+        'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=1200&q=85',
+        'https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=1200&q=85'
+      ],
+      '바이오': [
+        'https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&q=85'
+      ]
+    };
 
     // ===== 카드 HTML 생성 =====
     function makeCard(post) {
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-ai', thumbClass: 'thumb-ai' };
-      const thumb = post.image
-        ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
+      const thumb = post._cardImage
+        ? `<img src="${post._cardImage}" alt="${post.title}" loading="lazy">`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
         <article class="news-card" onclick="location.href='article.html?post=${encodeURIComponent(post.filename)}'">
@@ -140,6 +159,33 @@
     // ===== 필터링 =====
     let allPosts = [];
     let activeCategory = '전체';
+
+    function assignUniqueCardImages(posts) {
+      const used = new Set();
+      const fallbackIndexByCategory = {};
+
+      return posts.map(post => {
+        let image = post.image || '';
+
+        if (!image || used.has(image)) {
+          const candidates = FALLBACK_IMAGES[post.category] || [];
+          let idx = fallbackIndexByCategory[post.category] || 0;
+
+          while (idx < candidates.length && used.has(candidates[idx])) idx++;
+          if (idx < candidates.length) {
+            image = candidates[idx];
+            fallbackIndexByCategory[post.category] = idx + 1;
+          } else if (post.image) {
+            image = `${post.image}&v=${encodeURIComponent(post.filename)}`;
+          } else {
+            image = '';
+          }
+        }
+
+        if (image) used.add(image);
+        return { ...post, _cardImage: image };
+      });
+    }
 
     function renderPosts(posts) {
       const filtered = activeCategory === '전체' ? posts : posts.filter(p => p.category === activeCategory);
@@ -200,7 +246,8 @@
     fetch('posts.json')
       .then(r => r.json())
       .then(data => {
-        allPosts = (data.posts || []).sort((a, b) => b.date.localeCompare(a.date));
+        const sorted = (data.posts || []).sort((a, b) => b.date.localeCompare(a.date));
+        allPosts = assignUniqueCardImages(sorted);
         renderHero(allPosts[0]);
         renderPosts(allPosts);
       })
@@ -211,4 +258,3 @@
 
 </body>
 </html>
-

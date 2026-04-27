@@ -652,6 +652,216 @@ img { display: block; width: 100%; object-fit: cover; }
 }
 .article-source-box a:hover { color: var(--color-accent-hover); }
 
+/* ===================================================
+   주식 브리핑 전용 스타일
+   =================================================== */
+
+/* 히어로 */
+.stock-hero {
+  background: linear-gradient(135deg, #0F3038 0%, #0F766E 100%);
+  padding: 56px 0;
+  color: #FFFFFF;
+}
+.stock-hero-badge {
+  display: inline-block;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.25);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 16px;
+}
+.stock-hero-title {
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 12px;
+}
+.stock-hero-desc {
+  font-size: 15px;
+  color: rgba(255,255,255,0.75);
+  max-width: 560px;
+}
+
+/* 브리핑 카드 (목록) */
+.brief-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 24px 28px;
+  background: var(--color-body-bg);
+  border: 1px solid #E5E7EB;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+.brief-card:hover {
+  box-shadow: 0 6px 20px rgba(0,0,0,0.09);
+  border-color: var(--cat-econ);
+}
+.brief-card-left { flex: 1; }
+.brief-date {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--color-text-title);
+  display: block;
+  margin-bottom: 8px;
+}
+.brief-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.brief-count-badge {
+  display: inline-block;
+  background: rgba(15,118,110,0.1);
+  color: var(--cat-econ);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-family: 'Inter', sans-serif;
+}
+.brief-time {
+  font-size: 13px;
+  color: var(--color-text-meta);
+  font-family: 'Inter', sans-serif;
+}
+.brief-summary {
+  margin-top: 8px;
+  font-size: 14px;
+  color: var(--color-text-meta);
+  line-height: 1.5;
+}
+.brief-arrow {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--cat-econ);
+  white-space: nowrap;
+  font-family: 'Inter', sans-serif;
+}
+
+/* 주식 아이템 카드 (뷰어) */
+.stock-item {
+  background: var(--color-body-bg);
+  border: 1px solid #E5E7EB;
+  border-radius: 12px;
+  padding: 28px 32px;
+  margin-bottom: 28px;
+  border-left: 4px solid var(--cat-econ);
+}
+.stock-item-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-bottom: 12px;
+}
+.score-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  height: 28px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  white-space: nowrap;
+  flex-shrink: 0;
+  padding: 0 8px;
+}
+.stock-item-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--color-text-title);
+  line-height: 1.4;
+  word-break: keep-all;
+  margin: 0;
+}
+.stock-item-source {
+  font-size: 13px;
+  color: var(--color-text-meta);
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 16px;
+}
+
+/* 주식 영향 분석 */
+.stock-analysis {
+  background: #F0FDF4;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+.stock-analysis ul { margin: 0; padding-left: 18px; }
+.stock-analysis li { margin-bottom: 4px; color: var(--color-text-body); }
+.stock-analysis strong { color: var(--color-text-title); }
+
+/* 대본 블록 */
+.stock-script {
+  background: #F9FAFB;
+  border-radius: 8px;
+  padding: 16px 20px;
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--color-text-body);
+}
+.stock-script-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-text-meta);
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 12px;
+}
+.stock-script p { margin-bottom: 12px; }
+.stock-script p:last-child { margin-bottom: 0; }
+
+/* 면책 고지 */
+.stock-disclaimer {
+  border-top: 1px solid #F3F4F6;
+  padding-top: 24px;
+  margin-top: 16px;
+  font-size: 13px;
+  color: var(--color-text-meta);
+  font-style: italic;
+}
+
+/* 빈 상태 */
+.empty-state {
+  text-align: center;
+  padding: 80px 0;
+  color: var(--color-text-meta);
+}
+.empty-state h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--color-text-title);
+  margin-bottom: 12px;
+}
+.empty-state p { font-size: 15px; }
+
+/* 아티클 히어로 이미지 */
+.article-hero-img {
+  margin: 0 0 40px;
+  border-radius: 10px;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+  background: #F3F4F6;
+}
+.article-hero-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 /* ===== 반응형 ===== */
 @media (max-width: 1023px) {
   .container, .header-inner, .footer-inner { padding: 0 24px; }

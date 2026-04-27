@@ -1,6 +1,136 @@
 {
   "posts": [
     {
+      "filename": "2026-04-27-wall-street-quantum-divide.md",
+      "title": "골드만은 빠지고, JP모건은 더 넣는다 — 월가의 양자컴퓨팅 베팅이 갈라졌다",
+      "category": "AI",
+      "date": "2026-04-27",
+      "source": "Bloomberg Markets",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
+      "description": "골드만삭스가 양자컴퓨팅 투자에서 전략적으로 철수하는 동안, JP모건은 오히려 투자를 확대하고 있다. 같은 기술을 두고 월가 최상위 두 기관의 판단이 정반대로 갈린 이유가 흥미롭다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-ai-boom-asia-market-divide.md",
+      "title": "AI 붐이 전쟁 공포를 눌렀다 — 아시아 증시를 가르는 새로운 단층선",
+      "category": "AI",
+      "date": "2026-04-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-27/ai-boom-drowns-out-war-fears-to-fuel-asia-s-great-market-divide",
+      "description": "중동 전쟁 공포에도 AI 붐이 아시아 증시를 사상 최고치로 이끌고 있다. AI 수혜 섹터와 비수혜 섹터 간 주가 격차가 역사적 수준으로 벌어지며 '아시아의 대분열'이 본격화되고 있다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-kospi-market-cap-6000t.md",
+      "title": "국내 증시 시총 사상 첫 6,000조 원 돌파 — 숫자보다 중요한 건 그 의미다",
+      "category": "경제·주식",
+      "date": "2026-04-27",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/stock/12027957",
+      "description": "코스피·코스닥을 합친 국내 증시 시가총액이 사상 처음으로 6,000조 원을 돌파했다. AI·반도체 섹터가 랠리를 이끌었으며, 글로벌 자금의 한국 시장 재평가 흐름이 본격화되고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-goldman-oil-price-forecast.md",
+      "title": "골드만삭스, 유가 전망 공식 상향 — 호르무즈 충격이 재고를 바닥낸다",
+      "category": "에너지",
+      "date": "2026-04-27",
+      "source": "Bloomberg Markets",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-27/goldman-hikes-oil-price-forecasts-on-extreme-inventory-draws",
+      "description": "골드만삭스가 호르무즈 봉쇄 장기화로 인한 극단적 재고 급감을 이유로 유가 전망을 공식 상향했다. 월가 핵심 IB의 가격 전망 변경은 단순 뉴스가 아니라 시장 전반의 포지션 재편 신호다.",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-21-hormuz-oil-crisis.md",
+      "title": "호르무즈 해협이 막혔다 — 이란의 갑작스런 봉쇄 선언과 원유 공급망 마비",
+      "category": "경제·주식",
+      "date": "2026-04-21",
+      "source": "Bloomberg Economics",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk",
+      "description": "이란이 호르무즈 해협 재개방 합의를 일방적으로 파기하며 원유 통행이 사실상 중단됐다. 미국 선박 나포 사태가 직접적 도화선이 됐으며, 세계 원유 공급량의 20%가 지나는 이 해협의 봉쇄는 글로벌 에너지 시장 전반을 흔들고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-21-google-ai-chip-nvidia.md",
+      "title": "구글이 엔비디아 없이 AI를 돌리려는 이유 — TPU를 넘어선 새 칩 전략",
+      "category": "AI",
+      "date": "2026-04-21",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
+      "description": "구글이 AI 추론 속도를 높이기 위해 엔비디아 GPU 의존도를 낮추는 자체 칩 전략을 본격화하고 있다. 단순한 비용 절감을 넘어, AI 서비스 응답 속도와 마진 구조 자체를 바꾸려는 시도다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-21-samsung-sdi-benz-battery.md",
+      "title": "삼성SDI, 벤츠와 10조 원 배터리 계약 — K배터리의 반격이 시작됐다",
+      "category": "경제·주식",
+      "date": "2026-04-21",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12022133",
+      "description": "삼성SDI가 메르세데스-벤츠 전기차에 배터리를 공급하는 10조 원 규모의 계약을 따냈다. 중국산 배터리에 밀려 고전하던 K배터리 업계에 대형 반전 계기가 마련됐다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-21-skhynix-profit-margin-64.md",
+      "title": "SK하이닉스 영업이익률 64% — HBM이 만든 역대급 숫자의 의미",
+      "category": "경제·주식",
+      "date": "2026-04-21",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/stock/12021499",
+      "description": "SK하이닉스가 영업이익률 64%라는 반도체 업계 이례적 수치를 기록했다. HBM(고대역폭 메모리) 독주 효과가 실적 전반에 반영된 결과로, 성과급 수조 원도 '넉넉히' 감당할 수 있는 수준이다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-nvidia-jensen-inference-demand.md",
+      "title": "젠슨 황 '추론 수요는 예상의 100배' — 엔비디아가 AI 칩 시장을 다시 계산하는 이유",
+      "category": "경제·주식",
+      "date": "2026-04-18",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026041732010",
+      "description": "엔비디아 CEO 젠슨 황이 AI 추론 연산 수요가 당초 예측치를 100배 초과했다고 밝혔다. 학습(training)용 GPU 수요는 정체되는 반면, 추론(inference)용 칩 수요가 폭증하면서 반도체 시장 구조가 바뀌고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-hyundai-robotics-ai-platform.md",
+      "title": "현대차, 로봇에 AI 두뇌를 심다 — 보스턴다이나믹스와 함께 만드는 로보틱스 플랫폼",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32900",
+      "description": "현대차그룹이 보스턴다이나믹스와 공동 개발한 로보틱스 AI 플랫폼을 공개했다. 아틀라스 로봇에 탑재된 이 시스템은 단순 동작 반복을 넘어 환경 인식·판단·실행까지 스스로 처리한다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-naver-hyperclovax2-launch.md",
+      "title": "네이버, 하이퍼클로바X 2.0 공개 — 한국어 AI 시장의 판이 다시 짜인다",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209400",
+      "description": "네이버가 초거대 AI 하이퍼클로바X의 2세대 모델을 공개했다. 한국어 이해·생성 능력을 전면 강화하고 멀티모달 기능을 추가했으며, 네이버 서비스 전반에 순차 적용될 예정이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-google-gemini-25-flash.md",
+      "title": "구글, Gemini 2.5 Flash 공개 — 가격은 절반, 추론 능력은 그대로",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1115298/google-gemini-25-flash/",
+      "description": "구글이 Gemini 2.5 Pro의 경량 버전인 Gemini 2.5 Flash를 출시했다. 추론 능력은 유지하면서 가격을 대폭 낮춰 개발자 시장을 겨냥했다. 100만 토큰 컨텍스트 창을 지원하며, 비용 민감 애플리케이션의 새 기준을 제시한다.",
+      "image": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-18-anthropic-claude-agent-benchmark.md",
+      "title": "AI 에이전트는 아직 '진짜 세계'를 모른다 — 벤치마크와 현실의 간극",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/ai-agents-benchmark-real-world-gap-2026/",
+      "description": "최첨단 AI 에이전트들이 실험실 벤치마크에서는 80% 이상의 성공률을 기록하지만, 실제 업무 환경에서는 40~50%대로 곤두박질친다. 그 간극을 만드는 요인들을 살펴봤다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
       "filename": "2026-04-18-skhynix-hbm4-mass-production.md",
       "title": "SK하이닉스, HBM4 양산 개시 — 엔비디아 블랙웰 울트라에 첫 납품",
       "category": "경제·주식",

@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>주식 브리핑 — 병규의 한입뉴스</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body class="article-page">
+
+  <!-- 헤더 -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">한입뉴스</a>
+      <nav>
+        <ul class="site-nav">
+          <li><a href="index.html">전체</a></li>
+          <li><a href="index.html">AI</a></li>
+          <li><a href="index.html">바이오</a></li>
+          <li><a href="index.html">물리·우주</a></li>
+          <li><a href="index.html">에너지</a></li>
+          <li><a href="stock.html" class="active">주식 브리핑</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- 본문 -->
+  <div class="article-wrap" id="article-wrap">
+    <div style="text-align:center;padding:80px 0;color:#9CA3AF;">불러오는 중...</div>
+  </div>
+
+  <!-- 푸터 -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-logo">병규의 한입뉴스</p>
+        <p class="footer-desc">주식 영향 뉴스 자동 브리핑. 투자 권유가 아닌 정보 제공 목적입니다.</p>
+      </div>
+      <ul class="footer-links">
+        <li><a href="index.html">홈</a></li>
+        <li><a href="stock.html">주식 브리핑</a></li>
+      </ul>
+    </div>
+    <div class="container">
+      <p class="footer-copy">© 2026 병규의 한입뉴스. 이 브리핑은 정보 제공 목적이며 투자 권유가 아닙니다.</p>
+    </div>
+  </footer>
+
+  <script>
+    const params = new URLSearchParams(location.search);
+    const date   = params.get('date');
+
+    if (!date) {
+      document.getElementById('article-wrap').innerHTML =
+        '<a class="back-btn" href="stock.html">← 브리핑 목록</a>' +
+        '<p style="color:#9CA3AF;text-align:center;padding:60px 0;">날짜가 지정되지 않았습니다.</p>';
+    } else {
+      const filename = date + '-stock-brief.md';
+      Promise.all([
+        fetch('stock-briefs.json').then(r => r.json()),
+        fetch('stock-briefs/' + encodeURIComponent(filename)).then(r => {
+          if (!r.ok) throw new Error(r.status);
+          return r.text();
+        })
+      ])
+      .then(([data, mdText]) => {
+        const meta = (data.briefs || []).find(b => b.date === date) || {};
+        document.title = `${date} 주식 브리핑 — 병규의 한입뉴스`;
+        render(mdText, meta);
+      })
+      .catch(() => {
+        document.getElementById('article-wrap').innerHTML =
+          '<a class="back-btn" href="stock.html">← 브리핑 목록</a>' +
+          '<p style="color:#9CA3AF;padding:40px 0;text-align:center;">브리핑을 불러올 수 없습니다.</p>';
+      });
+    }
+
+    function render(mdText, meta) {
+      const lines = mdText.split('\n');
+      let headerInfo = { date: date, count: '', reading_time: '' };
+
+      /* 헤더 메타 파싱 (날짜:, 기사 수:, 총 읽기 시간:) */
+      lines.slice(0, 10).forEach(l => {
+        const m = l.match(/^기사 수:\s*(\d+)건/);
+        if (m) headerInfo.count = m[1] + '건 선별';
+        const t = l.match(/^총 읽기 시간:\s*(.+)/);
+        if (t) headerInfo.reading_time = t[1].trim();
+      });
+
+      /* H2 섹션 분리 */
+      const sections = splitSections(mdText);
+
+      /* 헤더 HTML */
+      const d = new Date(date);
+      const days = ['일', '월', '화', '수', '목', '금', '토'];
+      const dateLabel = `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
+
+      const headerHtml = `
+        <a class="back-btn" href="stock.html">← 브리핑 목록</a>
+        <header class="article-header">
+          <span class="category-tag tag-econ">주식 브리핑</span>
+          <h1 class="article-title">오늘의 주식 영향 뉴스 브리핑</h1>
+          <div class="article-meta">
+            <span>${dateLabel}</span>
+            ${headerInfo.count ? `<span class="article-meta-sep">·</span><span>${headerInfo.count}</span>` : ''}
+            ${headerInfo.reading_time ? `<span class="article-meta-sep">·</span><span>${headerInfo.reading_time}</span>` : ''}
+          </div>
+        </header>`;
+
+      /* 섹션 렌더링 */
+      let bodyHtml = '';
+      sections.forEach(sec => {
+        const title = sec.heading.trim();
+        const content = sec.body.trim();
+        if (!title && !content) return;
+
+        /* # 제목 줄 + 날짜/기사수 메타 → 스킵 */
+        if (!title) {
+          const nonMeta = content.split('\n').filter(l =>
+            !l.startsWith('날짜:') && !l.startsWith('기사 수:') && !l.startsWith('총 읽기 시간:') && l.trim() !== '---' && l.trim() !== ''
+          ).join('\n').trim();
+          if (nonMeta) bodyHtml += `<div class="article-body">${marked.parse(nonMeta)}</div>`;
+          return;
+        }
+
+        /* ## N. [영향도 X/10] 제목 → stock-item 카드 */
+        const scoreMatch = title.match(/\[영향도\s*(\d+)\/10\]\s*(.*)/);
+        if (scoreMatch) {
+          const score = parseInt(scoreMatch[1]);
+          const itemTitle = scoreMatch[2];
+          const scoreColor = score >= 9 ? '#DC2626' : score >= 7 ? '#D97706' : '#6B7280';
+          bodyHtml += renderStockItem(score, scoreColor, itemTitle, content);
+          return;
+        }
+
+        /* 면책 고지 등 일반 섹션 */
+        if (content) {
+          bodyHtml += `<div class="article-body stock-disclaimer">${marked.parse(content)}</div>`;
+        }
+      });
+
+      document.getElementById('article-wrap').innerHTML = headerHtml + bodyHtml;
+    }
+
+    function renderStockItem(score, scoreColor, title, content) {
+      /* 하위 파싱: 주식 영향 분석 블록 + 대본 블록 */
+      const lines = content.split('\n');
+      let analysisLines = [];
+      let scriptLines = [];
+      let sourceInfo = '';
+      let inScript = false;
+
+      lines.forEach(l => {
+        if (l.startsWith('**출처**')) {
+          sourceInfo = l;
+        } else if (l.includes('**대본**') || l.includes('[인트로]') || l.includes('[본문]') || l.includes('[마무리]') || inScript) {
+          inScript = true;
+          scriptLines.push(l);
+        } else if (l.startsWith('**주식 영향 분석**')) {
+          /* skip label */
+        } else {
+          analysisLines.push(l);
+        }
+      });
+
+      const analysisHtml = analysisLines.filter(l => l.trim()).length
+        ? `<div class="stock-analysis">${marked.parse(analysisLines.join('\n'))}</div>` : '';
+
+      const scriptHtml = scriptLines.filter(l => l.trim()).length
+        ? `<div class="stock-script"><div class="stock-script-label">대본</div>${marked.parse(scriptLines.join('\n'))}</div>` : '';
+
+      const sourceParsed = sourceInfo
+        ? sourceInfo.replace(/\*\*/g, '').replace(/\|/g, '·')
+        : '';
+
+      return `
+        <div class="stock-item">
+          <div class="stock-item-header">
+            <span class="score-badge" style="background:${score >= 9 ? 'rgba(220,38,38,0.1)' : 'rgba(217,119,6,0.1)'};color:${score >= 9 ? '#DC2626' : '#D97706'}">${score}/10</span>
+            <h2 class="stock-item-title">${esc(title)}</h2>
+          </div>
+          ${sourceParsed ? `<p class="stock-item-source">${sourceParsed}</p>` : ''}
+          ${analysisHtml}
+          ${scriptHtml}
+        </div>`;
+    }
+
+    /* H2 섹션 분리 */
+    function splitSections(md) {
+      const lines  = md.split('\n');
+      const result = [];
+      let current  = { heading: '', body: [] };
+
+      lines.forEach(line => {
+        if (line.startsWith('## ')) {
+          if (current.heading !== '' || current.body.join('').trim()) {
+            result.push({ heading: current.heading, body: current.body.join('\n') });
+          }
+          current = { heading: line.replace(/^## /, '').trim(), body: [] };
+        } else if (line.startsWith('# ')) {
+          /* skip H1 */
+        } else {
+          current.body.push(line);
+        }
+      });
+      if (current.heading !== '' || current.body.join('').trim()) {
+        result.push({ heading: current.heading, body: current.body.join('\n') });
+      }
+      return result;
+    }
+
+    function esc(str) {
+      return String(str)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+  </script>
+
+</body>
+</html>

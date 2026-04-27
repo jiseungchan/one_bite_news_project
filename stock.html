@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>주식 브리핑 — 병규의 한입뉴스</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- 헤더 -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">한입뉴스</a>
+      <nav>
+        <ul class="site-nav">
+          <li><a href="index.html">전체</a></li>
+          <li><a href="index.html">AI</a></li>
+          <li><a href="index.html">바이오</a></li>
+          <li><a href="index.html">물리·우주</a></li>
+          <li><a href="index.html">에너지</a></li>
+          <li><a href="stock.html" class="active">주식 브리핑</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- 히어로 -->
+  <section class="stock-hero">
+    <div class="container">
+      <div class="stock-hero-badge">주식 영향 뉴스</div>
+      <h1 class="stock-hero-title">오늘의 주식 브리핑</h1>
+      <p class="stock-hero-desc">13개 RSS 피드에서 수집 → 영향도 7점 이상 기사만 선별 → 방송용 대본 자동 작성</p>
+    </div>
+  </section>
+
+  <!-- 브리핑 목록 -->
+  <main>
+    <section class="main-section">
+      <div class="container">
+        <div class="section-header">
+          <h2>브리핑 아카이브</h2>
+        </div>
+        <div id="brief-list"></div>
+        <div class="empty-state" id="empty-state" style="display:none;">
+          <h2>아직 브리핑이 없어요</h2>
+          <p>"오늘 주식 뉴스 브리핑 만들어줘" 라고 하면 자동으로 채워집니다.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 푸터 -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-logo">병규의 한입뉴스</p>
+        <p class="footer-desc">주식 영향 뉴스 자동 브리핑. 투자 권유가 아닌 정보 제공 목적입니다.</p>
+      </div>
+      <ul class="footer-links">
+        <li><a href="index.html">홈</a></li>
+        <li><a href="stock.html">주식 브리핑</a></li>
+      </ul>
+    </div>
+    <div class="container">
+      <p class="footer-copy">© 2026 병규의 한입뉴스. 이 브리핑은 정보 제공 목적이며 투자 권유가 아닙니다.</p>
+    </div>
+  </footer>
+
+  <script>
+    fetch('stock-briefs.json')
+      .then(r => r.json())
+      .then(data => {
+        const briefs = (data.briefs || []).sort((a, b) => b.date.localeCompare(a.date));
+        const list = document.getElementById('brief-list');
+        const empty = document.getElementById('empty-state');
+
+        if (briefs.length === 0) {
+          empty.style.display = 'block';
+          return;
+        }
+
+        list.innerHTML = briefs.map(b => `
+          <article class="brief-card" onclick="location.href='stock-brief.html?date=${b.date}'">
+            <div class="brief-card-left">
+              <span class="brief-date">${formatDate(b.date)}</span>
+              <div class="brief-meta-row">
+                <span class="brief-count-badge">${b.count}건 선별</span>
+                <span class="brief-time">${b.reading_time}</span>
+              </div>
+              ${b.summary ? `<p class="brief-summary">${b.summary}</p>` : ''}
+            </div>
+            <div class="brief-card-right">
+              <span class="brief-arrow">브리핑 보기 →</span>
+            </div>
+          </article>
+        `).join('');
+      })
+      .catch(() => {
+        document.getElementById('empty-state').style.display = 'block';
+      });
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      const days = ['일', '월', '화', '수', '목', '금', '토'];
+      return `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
+    }
+  </script>
+
+</body>
+</html>

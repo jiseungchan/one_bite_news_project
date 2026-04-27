@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-04-27-월가-양자컴퓨팅-분열.md",
+      "title": "골드만은 빠지고, JP모건은 더 넣는다 — 월가의 양자컴퓨팅 베팅이 갈라졌다",
+      "category": "AI",
+      "date": "2026-04-27",
+      "source": "Bloomberg Markets",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
+      "description": "골드만삭스가 양자컴퓨팅 투자에서 전략적으로 철수하는 동안, JP모건은 오히려 투자를 확대하고 있다. 같은 기술을 두고 월가 최상위 두 기관의 판단이 정반대로 갈린 이유가 흥미롭다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-AI붐-전쟁공포-압도-아시아증시.md",
+      "title": "AI 붐이 전쟁 공포를 눌렀다 — 아시아 증시를 가르는 새로운 단층선",
+      "category": "AI",
+      "date": "2026-04-27",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-27/ai-boom-drowns-out-war-fears-to-fuel-asia-s-great-market-divide",
+      "description": "중동 전쟁 공포에도 AI 붐이 아시아 증시를 사상 최고치로 이끌고 있다. AI 수혜 섹터와 비수혜 섹터 간 주가 격차가 역사적 수준으로 벌어지며 '아시아의 대분열'이 본격화되고 있다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-코스피-시총-6000조-돌파.md",
+      "title": "국내 증시 시총 사상 첫 6,000조 원 돌파 — 숫자보다 중요한 건 그 의미다",
+      "category": "경제·주식",
+      "date": "2026-04-27",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/stock/12027957",
+      "description": "코스피·코스닥을 합친 국내 증시 시가총액이 사상 처음으로 6,000조 원을 돌파했다. AI·반도체 섹터가 랠리를 이끌었으며, 글로벌 자금의 한국 시장 재평가 흐름이 본격화되고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-골드만삭스-유가전망-상향.md",
+      "title": "골드만삭스, 유가 전망 공식 상향 — 호르무즈 충격이 재고를 바닥낸다",
+      "category": "에너지",
+      "date": "2026-04-27",
+      "source": "Bloomberg Markets",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-27/goldman-hikes-oil-price-forecasts-on-extreme-inventory-draws",
+      "description": "골드만삭스가 호르무즈 봉쇄 장기화로 인한 극단적 재고 급감을 이유로 유가 전망을 공식 상향했다. 월가 핵심 IB의 가격 전망 변경은 단순 뉴스가 아니라 시장 전반의 포지션 재편 신호다.",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80"
+    },
+    {
       "filename": "2026-04-21-hormuz-oil-crisis.md",
       "title": "호르무즈 해협이 막혔다 — 이란의 갑작스런 봉쇄 선언과 원유 공급망 마비",
       "category": "경제·주식",

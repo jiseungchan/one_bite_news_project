@@ -243,7 +243,8 @@
     });
 
     // ===== 데이터 로드 =====
-    fetch('posts.json')
+    const cacheBustedPostsUrl = `posts.json?v=${Date.now()}`;
+    fetch(cacheBustedPostsUrl, { cache: 'no-store' })
       .then(r => r.json())
       .then(data => {
         const sorted = (data.posts || []).sort((a, b) => b.date.localeCompare(a.date));

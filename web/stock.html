@@ -68,7 +68,8 @@
   </footer>
 
   <script>
-    fetch('stock-briefs.json')
+    const cacheBustedBriefsUrl = `stock-briefs.json?v=${Date.now()}`;
+    fetch(cacheBustedBriefsUrl, { cache: 'no-store' })
       .then(r => r.json())
       .then(data => {
         const briefs = (data.briefs || []).sort((a, b) => b.date.localeCompare(a.date));

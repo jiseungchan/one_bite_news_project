@@ -58,9 +58,10 @@
         '<p style="color:#9CA3AF;text-align:center;padding:60px 0;">날짜가 지정되지 않았습니다.</p>';
     } else {
       const filename = date + '-stock-brief.md';
+      const cacheKey = Date.now();
       Promise.all([
-        fetch('stock-briefs.json').then(r => r.json()),
-        fetch('stock-briefs/' + encodeURIComponent(filename)).then(r => {
+        fetch(`stock-briefs.json?v=${cacheKey}`, { cache: 'no-store' }).then(r => r.json()),
+        fetch('stock-briefs/' + encodeURIComponent(filename) + `?v=${cacheKey}`, { cache: 'no-store' }).then(r => {
           if (!r.ok) throw new Error(r.status);
           return r.text();
         })

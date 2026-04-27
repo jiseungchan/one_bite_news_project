@@ -1,6 +1,26 @@
 {
   "posts": [
     {
+      "filename": "2026-04-27-ai-science-discovery-paradigm.md",
+      "title": "AI가 과학 자체를 바꾸고 있다 — 실험실 밖에서 시작되는 발견의 혁명",
+      "category": "AI",
+      "date": "2026-04-27",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/25/1115445/ai-is-changing-science-itself/",
+      "description": "AlphaFold가 단백질 구조를 해독한 이후, AI는 이제 가설 생성부터 실험 설계, 데이터 해석까지 과학 연구의 전 과정을 재편하고 있다. 도구가 아닌 공동 연구자로 진화한 AI가 만들어내는 새로운 발견의 지형을 짚었다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-27-chatgpt-memory-upgrade-2026.md",
+      "title": "ChatGPT, 이제 당신을 '진짜로' 기억한다 — 메모리 전면 업그레이드의 의미",
+      "category": "AI",
+      "date": "2026-04-27",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209712",
+      "description": "OpenAI가 ChatGPT의 장기 메모리 기능을 전면 재설계했다. 단순 메모 저장을 넘어, 대화 맥락과 사용자 습관을 스스로 구조화해 '나를 아는 AI'에 한 걸음 더 다가섰다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
       "filename": "2026-04-27-wall-street-quantum-divide.md",
       "title": "골드만은 빠지고, JP모건은 더 넣는다 — 월가의 양자컴퓨팅 베팅이 갈라졌다",
       "category": "AI",

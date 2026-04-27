@@ -48,13 +48,55 @@ color: green
 - 주요 기업/기관명
 - 발행일
 - 핵심 포인트 3~5개
-- og:image URL (없으면 카테고리에 맞는 Unsplash URL 선택):
-  - AI → https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
-  - 바이오 → https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80
-  - 나노·소재 → https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80
-  - 물리·우주 → https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&q=80
-  - 에너지 → https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80
-  - 경제·주식 → https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80
+- og:image URL (없으면 아래 풀에서 기사 주제에 가장 가까운 이미지 1개 선택):
+
+  **AI 카테고리** — 세부 주제별로 다른 이미지 선택:
+  - AI 모델·LLM·ChatGPT·Claude → photo-1677442135703-1787eea5ce01
+  - AI 코딩·API·개발자 도구 → photo-1461749280684-dccba630e2f6
+  - AI 에이전트·자동화·멀티에이전트 → photo-1625314897518-bb4fe6e95229
+  - AI 칩·GPU·하드웨어 가속 → photo-1543966888-7c1dc482a810
+  - AI 벤치마크·성능 평가 → photo-1655720828018-edd2daec9349
+  - AI 비전·멀티모달·카메라 → photo-1516035069371-29a1b244cc32
+  - AI 로보틱스·로봇 → photo-1485827404703-89b55fcc595e
+  - AI 전략·기업·스타트업 → photo-1507003211169-0a1dd7228f2d
+  - AI 양자컴퓨팅 → photo-1635070041078-e363dbe005cb
+  - AI 데이터센터·인프라 → photo-1558494949-ef010cbdcc31
+  - AI 기타 → photo-1620712943543-bcc4688e7485
+
+  **바이오 카테고리**:
+  - 신약·임상·의약품 → photo-1559757148-5c350d0d3c56
+  - DNA·유전자·게놈 → photo-1532187863486-abf9dbad1b69
+  - 단백질·분자설계·AlphaFold → photo-1576086213369-97a306d36557
+  - 의료기기·병원 → photo-1579684385127-1ef15d508118
+
+  **나노·소재 카테고리**:
+  - 반도체 칩·패키징 → photo-1518770660439-4636190af475
+  - 반도체 공정·팹·클린룸 → photo-1581090464777-f3220bbe1b8b
+  - HBM·메모리·DRAM → photo-1597872200969-2b65d56bd16b
+  - 디스플레이·소재 → photo-1518770660439-4636190af475
+
+  **물리·우주 카테고리**:
+  - 우주·로켓·위성 → photo-1446776811953-b23d57bd21aa
+  - 핵융합·물리 → photo-1635070041078-e363dbe005cb
+  - 양자역학·물리 실험 → photo-1635070041078-e363dbe005cb
+
+  **에너지 카테고리**:
+  - 원유·정유·가스 → photo-1466611653911-95081537e5b7
+  - 재생에너지·태양광·풍력 → photo-1473341304170-971dccb5ac1e
+  - 배터리·ESS·EV → photo-1593941707882-a5bba14938c7
+  - 해운·물류·공급망 → photo-1468378664940-71ab92b47e17
+
+  **경제·주식 카테고리**:
+  - 국내 증시·코스피·주가 → photo-1611974789855-9c2a0a7236a3
+  - 글로벌 무역·관세·수출 → photo-1579621970563-ebec7560ff3e
+  - M&A·기업 인수·전략 → photo-1521791136064-7986c2920216
+  - 아시아 증시·신흥국 시장 → photo-1590283603385-17ffb3a7f29f
+  - 서버·데이터센터 투자 → photo-1558494949-ef010cbdcc31
+  - 반도체·IT 실적 → photo-1581090464777-f3220bbe1b8b
+  - 금리·중앙은행·통화정책 → photo-1521791136064-7986c2920216
+
+  모든 URL 형식: `https://images.unsplash.com/photo-XXXXXXXXXXXXXXXX?w=800&q=80`
+  **같은 실행 배치에서 이미 사용한 이미지는 절대 중복 선택하지 않는다.**
 
 ### Step 3 — 한국어 아티클 작성
 
@@ -123,7 +165,8 @@ image: (og:image URL. 없으면 카테고리별 Unsplash URL)
 ### Step 4 — 파일 저장
 
 파일명 규칙: `YYYY-MM-DD-[핵심키워드].md`
-(한국어 가능, 공백은 하이픈으로)
+(**반드시 영문 ASCII 소문자만**, 공백·특수문자는 하이픈으로. 한글 절대 금지.
+예) 2026-04-27-goldman-oil-forecast.md ✓ / 2026-04-27-골드만삭스.md ✗)
 
 두 경로에 동일한 내용 저장:
 1. `{project_root}/_posts/YYYY-MM-DD-[키워드].md`

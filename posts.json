@@ -81,6 +81,36 @@
       "image": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=800&q=80"
     },
     {
+      "filename": "2026-04-19-openai-o3-reasoning-model.md",
+      "title": "OpenAI o3, 추론 모델의 새 기준을 세우다 — '생각하는 AI'가 한 단계 더 올라갔다",
+      "category": "AI",
+      "date": "2026-04-19",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/",
+      "description": "OpenAI가 새 추론 모델 o3를 공개했다. 수학·코딩·과학 벤치마크에서 전작 o1을 전 영역 압도하며, 'AI가 정말로 추론한다'는 주장에 가장 근접한 모델로 평가받는다.",
+      "image": "https://images.unsplash.com/photo-1573164713714-d95e436ab8d7?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-19-lg-exaone35-reasoning.md",
+      "title": "LG AI연구원, EXAONE 3.5 공개 — 국내 AI 추론 모델의 수준이 달라졌다",
+      "category": "AI",
+      "date": "2026-04-19",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209521",
+      "description": "LG AI연구원이 추론 특화 모델 EXAONE 3.5를 공개했다. 수학·과학 벤치마크에서 GPT-4o와 동급 성능을 기록했고, 2.4B·7.8B·32B 세 가지 크기로 제공돼 온디바이스부터 서버까지 폭넓게 활용 가능하다.",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-19-kakao-kanana-ai-platform.md",
+      "title": "카카오, AI 통합 플랫폼 '카나나' 전면 오픈 — 카카오톡 1등석을 AI에게 내주다",
+      "category": "AI",
+      "date": "2026-04-19",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209547",
+      "description": "카카오가 자체 AI 플랫폼 '카나나'를 카카오톡과 전면 연동해 정식 출시했다. 단순 챗봇을 넘어 일정 관리·쇼핑·송금까지 카카오 생태계 전체를 AI가 중계하는 구조다.",
+      "image": "https://images.unsplash.com/photo-1512941937938-a2eef97abeaa?w=800&q=80"
+    },
+    {
       "filename": "2026-04-18-nvidia-jensen-inference-demand.md",
       "title": "젠슨 황 '추론 수요는 예상의 100배' — 엔비디아가 AI 칩 시장을 다시 계산하는 이유",
       "category": "경제·주식",

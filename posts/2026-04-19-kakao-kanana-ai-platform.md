@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209547
 date: 2026-04-19
 description: 카카오가 자체 AI 플랫폼 '카나나'를 카카오톡과 전면 연동해 정식 출시했다. 단순 챗봇을 넘어 일정 관리·쇼핑·송금까지 카카오 생태계 전체를 AI가 중계하는 구조다.
-image: https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
+image: https://images.unsplash.com/photo-1512941937938-a2eef97abeaa?w=800&q=80
 ---
 
 ## 한 줄 요약

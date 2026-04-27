@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/
 date: 2026-04-19
 description: OpenAI가 새 추론 모델 o3를 공개했다. 수학·코딩·과학 벤치마크에서 전작 o1을 전 영역 압도하며, 'AI가 정말로 추론한다'는 주장에 가장 근접한 모델로 평가받는다.
-image: https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
+image: https://images.unsplash.com/photo-1573164713714-d95e436ab8d7?w=800&q=80
 ---
 
 ## 한 줄 요약

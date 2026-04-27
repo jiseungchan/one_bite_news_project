@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209521
 date: 2026-04-19
 description: LG AI연구원이 추론 특화 모델 EXAONE 3.5를 공개했다. 수학·과학 벤치마크에서 GPT-4o와 동급 성능을 기록했고, 2.4B·7.8B·32B 세 가지 크기로 제공돼 온디바이스부터 서버까지 폭넓게 활용 가능하다.
-image: https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
+image: https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80
 ---
 
 ## 한 줄 요약

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-04-28-apple-intelligence-privacy-mit.md",
+      "title": "애플 인텔리전스, 개인정보는 얼마나 안전한가 — MIT가 뜯어본 '프라이빗 클라우드 컴퓨트'",
+      "category": "AI",
+      "date": "2026-04-28",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1115489/apple-intelligence-private-cloud-compute-privacy-analysis/",
+      "description": "MIT Technology Review가 애플 인텔리전스의 핵심 인프라인 '프라이빗 클라우드 컴퓨트'를 독립 분석했다. 애플의 주장대로 서버에서 데이터가 남지 않는지, 구조적으로 가능한 일인지 따져봤다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-28-anthropic-claude4-sonnet-launch.md",
+      "title": "앤트로픽, 클로드 4 시리즈 출시 — '코딩 에이전트 시대'의 본격 선언",
+      "category": "AI",
+      "date": "2026-04-28",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210122",
+      "description": "앤트로픽이 클로드 4 시리즈(Sonnet·Opus)를 공개했다. 코딩 에이전트 벤치마크에서 전작 대비 30% 이상 성능이 향상됐으며, 장기 멀티스텝 작업 처리 능력이 AI 에이전트 시장의 새 기준을 제시한다.",
+      "image": "https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-28-korea-ai-safety-institute-launch.md",
+      "title": "한국 AI 안전연구소 공식 출범 — 정부가 AI 위험 감시에 직접 나선다",
+      "category": "AI",
+      "date": "2026-04-28",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210089",
+      "description": "과학기술정보통신부 산하 한국 AI 안전연구소(KAISI)가 2026년 4월 28일 공식 출범했다. 고위험 AI 시스템 평가, 레드팀 테스트, 국제 안전 기준 정합화를 3대 축으로 운영된다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-28-samsung-foundry-2nm-yield-breakthrough.md",
+      "title": "삼성 파운드리, 2nm 수율 60% 돌파 — TSMC 독주에 균열이 생기기 시작했다",
+      "category": "나노·소재",
+      "date": "2026-04-28",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026042832041",
+      "description": "삼성전자 파운드리 사업부가 2nm 공정 수율을 60%대로 끌어올렸다. TSMC의 2nm 공정 양산을 앞두고 삼성이 처음으로 수율 격차를 의미 있는 수준으로 좁히면서, 파운드리 시장 구도에 변화 가능성이 열렸다.",
+      "image": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=800&q=80"
+    },
+    {
       "filename": "2026-04-27-wall-street-quantum-divide.md",
       "title": "골드만은 빠지고, JP모건은 더 넣는다 — 월가의 양자컴퓨팅 베팅이 갈라졌다",
       "category": "AI",

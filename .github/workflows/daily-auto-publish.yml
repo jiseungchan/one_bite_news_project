@@ -1,0 +1,168 @@
+name: 매일 7시 뉴스 자동 발행
+
+on:
+  schedule:
+    # 매일 오전 7시 KST (= UTC 전날 22:00)
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: '실행 기준일 (YYYY-MM-DD, 기본값: 오늘 KST)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  # ────────────────────────────────────────────
+  # Job 1: 주식 뉴스 브리핑 (RSS 수집 → 영향도 평가 → 카드 작성 → 웹 발행)
+  # ────────────────────────────────────────────
+  stock-briefing:
+    name: 📈 주식 뉴스 브리핑
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    outputs:
+      today: ${{ steps.date.outputs.today }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set today (KST)
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            echo "today=${{ github.event.inputs.target_date }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "today=$(TZ=Asia/Seoul date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run stock pipeline via Claude CLI
+        run: |
+          TODAY=${{ steps.date.outputs.today }}
+          npx -y @anthropic-ai/claude-code@latest \
+            --dangerously-skip-permissions \
+            -p "
+          오늘 날짜: $TODAY
+          프로젝트 루트: ${{ github.workspace }}
+
+          주식 뉴스 브리핑 전체 파이프라인을 실행해줘.
+          에이전트 정의: ${{ github.workspace }}/stock-service/.claude/agents/
+
+          실행 순서 (순차 — 각 단계 완료 후 다음 진행):
+
+          1. rss-collector 에이전트:
+             - stock-service/.claude/agents/rss-collector.md 읽기
+             - RSS 15개 피드에서 오늘($TODAY) 기사 수집
+             - 저장: ${{ github.workspace }}/stock-service/_pipeline/stock-01-rss-pool.md (덮어쓰기 OK)
+
+          2. stock-impact-scorer 에이전트:
+             - stock-service/.claude/agents/stock-impact-scorer.md 읽기
+             - stock-01-rss-pool.md 읽기 → 영향도 7점+ 선별
+             - 저장: ${{ github.workspace }}/stock-service/_pipeline/stock-02-scored.md
+
+          3. news-script-writer 에이전트:
+             - stock-service/.claude/agents/news-script-writer.md 읽기
+             - stock-02-scored.md 읽기 → 카드뉴스 스타일로 전체 선별 기사 작성
+             - 저장 (두 경로 동일 내용):
+               - ${{ github.workspace }}/stock-service/_stock-news/$TODAY-stock-brief.md
+               - ${{ github.workspace }}/web/stock-briefs/$TODAY-stock-brief.md
+
+          4. stock-publisher 에이전트:
+             - stock-service/.claude/agents/stock-publisher.md 읽기
+             - web/stock-briefs.json에 $TODAY 항목 추가 또는 업데이트
+
+          선별 기사 0건이면 빈 파일 생성 없이 종료.
+          "
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push
+        run: |
+          TODAY=${{ steps.date.outputs.today }}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 건너뜀"
+          else
+            git commit -m "auto: $TODAY 주식 뉴스 브리핑 자동 발행"
+            git push
+          fi
+
+  # ────────────────────────────────────────────
+  # Job 2: 카드뉴스 발행 (기사 수집 → 리서치+집필 → 웹 발행)
+  # stock-briefing 완료 후 실행 (git 충돌 방지)
+  # ────────────────────────────────────────────
+  card-news:
+    name: 📰 카드뉴스 자동 발행
+    runs-on: ubuntu-latest
+    needs: stock-briefing
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest (stock-briefing 커밋 포함)
+        run: git pull origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run card news pipeline via Claude CLI
+        run: |
+          TODAY=${{ needs.stock-briefing.outputs.today }}
+          npx -y @anthropic-ai/claude-code@latest \
+            --dangerously-skip-permissions \
+            -p "
+          오늘 날짜: $TODAY
+          프로젝트 루트: ${{ github.workspace }}
+
+          시나리오 B 카드뉴스 전체 파이프라인을 실행해줘.
+          에이전트 정의: ${{ github.workspace }}/.claude/agents/
+
+          news-orchestrator 에이전트(${{ github.workspace }}/.claude/agents/news-orchestrator.md)를 사용해서 실행:
+
+          1. news-collector-lite 에이전트:
+             - MIT Technology Review + Heisenberg 최신 기사 수집
+             - _pipeline/01-hot-news-pool.md 저장
+
+          2. researcher-writer 에이전트 × 4 (자동 선정):
+             - 수집된 기사 중 파급력 점수 높은 순 최대 4건 선정
+             - 각 기사: 원문 fetch → 한국어 아티클 작성 → _posts/ + web/posts/ 저장
+             - 이미 _posts/에 동일 파일명 존재하면 건너뜀 (중복 방지)
+
+          3. publisher 에이전트:
+             - web/posts.json에 새 아티클 메타데이터 추가
+
+          수집 기사 0건이면 종료.
+          "
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push
+        run: |
+          TODAY=${{ needs.stock-briefing.outputs.today }}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull origin main
+          git add -A
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 건너뜀"
+          else
+            git commit -m "auto: $TODAY 카드뉴스 자동 발행"
+            git push
+          fi

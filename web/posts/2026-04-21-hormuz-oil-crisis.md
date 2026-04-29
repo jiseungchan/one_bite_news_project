@@ -5,7 +5,7 @@ source: Bloomberg Economics
 sourceUrl: https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk
 date: 2026-04-21
 description: 이란이 호르무즈 해협 재개방 합의를 일방적으로 파기하며 원유 통행이 사실상 중단됐다. 미국 선박 나포 사태가 직접적 도화선이 됐으며, 세계 원유 공급량의 20%가 지나는 이 해협의 봉쇄는 글로벌 에너지 시장 전반을 흔들고 있다.
-image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80
+image: https://picsum.photos/seed/hormuz-oil-iran-crisis/800/500
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026041732010"
 description: "엔비디아 CEO 젠슨 황이 AI 추론 연산 수요가 당초 예측치를 100배 초과했다고 밝혔다. 학습(training)용 GPU 수요는 정체되는 반면, 추론(inference)용 칩 수요가 폭증하면서 반도체 시장 구조가 바뀌고 있다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: https://picsum.photos/seed/nvidia-jensen-huang-2026/800/500
 ---
 
 ## 한 줄 요약

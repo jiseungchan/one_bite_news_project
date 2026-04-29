@@ -15,7 +15,7 @@ image: https://picsum.photos/seed/nvidia-biotech-lab/800/500
 
 골드러시 때 돈을 가장 많이 번 사람은 금을 캔 광부가 아니라 곡괭이를 판 상인이었다. 지금 AI 바이오 시대에 엔비디아가 정확히 그 역할을 하고 있다. AI 신약 개발 시장이 2030년까지 연평균 30% 이상 성장할 것으로 예측되는 가운데, 엔비디아는 직접 신약을 개발하는 대신 그 연구자들이 반드시 의존해야 하는 GPU 인프라를 장악하는 전략을 택했다.
 
-![엔비디아와 Arc Institute 바이오 연구 협력](https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80)
+![엔비디아와 Arc Institute 바이오 연구 협력](https://picsum.photos/seed/article-2026-04-12-엔비디아-바이오-arc-institute-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

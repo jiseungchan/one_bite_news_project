@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209760
 date: 2026-04-28
 description: 구글 딥마인드가 AlphaFold로 단백질 구조 예측을 해결한 데 이어, 이제 세포 전체의 동작을 AI로 시뮬레이션하는 프로젝트에 착수했다. 단백질 하나에서 생명 단위 전체로 스케일을 키우는 시도다.
-image: https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80
+image: https://picsum.photos/seed/deepmind-cell-biology-2026/800/500
 ---
 
 ## 한 줄 요약

@@ -15,7 +15,7 @@ image: https://picsum.photos/seed/chatgpt-claude-ai/800/500
 
 2026년 2월 말 기준, OpenAI의 기업가치는 7,300억 달러, Anthropic은 3,800억 달러다. 두 회사를 합산하면 1조 달러를 훌쩍 넘는다. 그런데 두 회사 모두 올해 안에 IPO(기업공개)를 준비 중이다. AI 업계 역사상 가장 규모 있는 두 번의 상장이 동시에 다가오고 있는 셈이다. 그사이에 두 회사의 라이벌리는 광고 공방, CEO 악수 거부, 국방부 사태까지 번지며 기술 경쟁의 범위를 훨씬 넘어서고 있다.
 
-![OpenAI vs Anthropic AI 경쟁 구도](https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80)
+![OpenAI vs Anthropic AI 경쟁 구도](https://picsum.photos/seed/article-2026-04-12-chatgpt-vs-claude-ai자산-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

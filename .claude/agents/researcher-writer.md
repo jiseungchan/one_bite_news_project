@@ -39,7 +39,7 @@ color: green
 ### Step 1 — 원문 fetch
 - `article_url` 1회 WebFetch
 - 수집 범위: 제목, 핵심 단락, 수치, 기업명, 날짜만 메모
-- `<meta property="og:image" content="...">` 태그에서 이미지 URL 추출 — **단, 외부 CDN(heisenberg.kr, aitimes.com, cdn.*, wp-content 등) URL은 핫링크 차단으로 깨질 수 있으므로 사용 금지**
+- `<meta property="og:image" content="...">` 태그에서 이미지 URL 추출 → Step 2에서 사용 가능 여부 판단
 - 관련 기사 추가 fetch 금지
 
 ### Step 2 — 팩트 메모 (내부 작업, 파일 저장 안 함)
@@ -48,57 +48,27 @@ color: green
 - 주요 기업/기관명
 - 발행일
 - 핵심 포인트 3~5개
-- 이미지 URL: **반드시 아래 picsum.photos 풀에서 주제에 맞는 seed 선택**
-  (og:image가 있어도 외부 CDN이면 무시하고 아래 풀 사용)
+- 이미지 URL: 아래 **우선순위 순서**로 결정한다
 
-  **이미지 URL 형식: `https://picsum.photos/seed/{SEED}/800/500`**
-  같은 실행 배치에서 이미 사용한 seed는 절대 중복 선택하지 않는다.
+#### 이미지 URL 결정 규칙 (우선순위 순)
 
-  **AI 카테고리**:
-  - AI 모델·LLM·ChatGPT·Claude → seed: `ai-llm-model`
-  - AI 코딩·API·개발자 도구 → seed: `ai-coding-api`
-  - AI 에이전트·자동화 → seed: `ai-agent-automation`
-  - AI 칩·GPU·하드웨어 → seed: `ai-chip-gpu`
-  - AI 벤치마크·성능 평가 → seed: `ai-benchmark`
-  - AI 비전·멀티모달 → seed: `ai-vision-multimodal`
-  - AI 로보틱스·로봇 → seed: `ai-robotics`
-  - AI 전략·기업·스타트업 → seed: `ai-strategy-startup`
-  - AI 양자컴퓨팅 → seed: `ai-quantum-computing`
-  - AI 데이터센터·인프라 → seed: `ai-datacenter`
-  - AI 임상·의료 → seed: `ai-clinical-medical`
-  - AI 기타 → seed: `ai-technology-general`
+**1순위 — og:image 직접 사용 (기사 내용과 가장 관련성 높음)**
 
-  **바이오 카테고리**:
-  - 신약·임상·의약품 → seed: `bio-drug-clinical`
-  - DNA·유전자·게놈 → seed: `bio-dna-genome`
-  - 단백질·분자설계·AlphaFold → seed: `bio-protein-molecule`
-  - 의료기기·병원 → seed: `bio-medical-device`
+og:image URL의 도메인을 확인한다:
+- ✅ **사용 가능한 도메인** (핫링크 허용): technologyreview.com, bloomberg.com, reuters.com, nature.com, science.org, stanford.edu, mit.edu, cnbc.com, ft.com, economist.com, theverge.com, wired.com, techcrunch.com, arxiv.org
+- ❌ **사용 금지 도메인** (핫링크 차단): heisenberg.kr, aitimes.com, aitimes.kr, hankyung.com, mk.co.kr, chosun.com, joins.com, yonhap, etnews.com, 그 외 URL에 `wp-content`, `cdn.`, `upload.` 포함된 경우
+- ❌ **images.unsplash.com** 절대 사용 금지 — 서드파티 핫링크 차단으로 브라우저에서 항상 깨짐
 
-  **나노·소재 카테고리**:
-  - 반도체 칩·패키징 → seed: `nano-semiconductor-chip`
-  - 반도체 공정·팹·클린룸 → seed: `nano-fab-cleanroom`
-  - HBM·메모리·DRAM → seed: `nano-hbm-memory`
-  - 디스플레이·소재 → seed: `nano-display-material`
+og:image가 사용 가능 도메인이면 → 그대로 image URL로 사용.
 
-  **물리·우주 카테고리**:
-  - 우주·로켓·위성 → seed: `physics-space-rocket`
-  - 핵융합·물리 → seed: `physics-fusion-energy`
-  - 양자역학·물리 실험 → seed: `physics-quantum-lab`
+**2순위 — picsum.photos 아티클 전용 seed (og:image 사용 불가 시)**
 
-  **에너지 카테고리**:
-  - 원유·정유·가스 → seed: `energy-oil-gas`
-  - 재생에너지·태양광·풍력 → seed: `energy-renewable-solar`
-  - 배터리·ESS·EV → seed: `energy-battery-ev`
-  - 해운·물류·공급망 → seed: `energy-shipping-logistics`
+**이미지 URL 형식: `https://picsum.photos/seed/{SEED}/800/500`**
 
-  **경제·주식 카테고리**:
-  - 국내 증시·코스피·주가 → seed: `econ-kospi-stock`
-  - 글로벌 무역·관세·수출 → seed: `econ-trade-tariff`
-  - M&A·기업 인수·전략 → seed: `econ-ma-strategy`
-  - 아시아 증시·신흥국 → seed: `econ-asia-market`
-  - 서버·데이터센터 투자 → seed: `econ-datacenter-invest`
-  - 반도체·IT 실적 → seed: `econ-semiconductor-earnings`
-  - 금리·중앙은행·통화정책 → seed: `econ-interest-rate`
+seed는 **파일명 기반 고유값**으로 만든다: `YYYY-MM-DD-[핵심키워드]` (파일명에서 `.md` 제거)
+예) 파일명 `2026-04-29-openai-gpt5-launch.md` → seed: `2026-04-29-openai-gpt5-launch`
+
+이렇게 하면 모든 기사가 서로 다른 고유한 이미지를 가지며, 같은 기사는 항상 같은 이미지를 표시한다.
 
 ### Step 3 — 한국어 아티클 작성
 
@@ -132,7 +102,7 @@ source: (출처 매체명)
 sourceUrl: (원문 URL)
 date: YYYY-MM-DD
 description: (1~2줄 요약. 핵심 수치 포함 권장)
-image: (og:image URL. 없으면 카테고리별 Unsplash URL)
+image: (og:image URL — 허용 도메인이면 그대로, 금지 도메인이면 picsum.photos/seed/YYYY-MM-DD-파일키워드/800/500)
 ---
 
 ## 한 줄 요약

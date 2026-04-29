@@ -5,7 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/ai-agents-benchmark-real-world-gap-2026/"
 description: "최첨단 AI 에이전트들이 실험실 벤치마크에서는 80% 이상의 성공률을 기록하지만, 실제 업무 환경에서는 40~50%대로 곤두박질친다. 그 간극을 만드는 요인들을 살펴봤다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: https://picsum.photos/seed/anthropic-agent-bench-2026/800/500
 ---
 
 ## 한 줄 요약

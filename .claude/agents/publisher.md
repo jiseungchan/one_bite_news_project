@@ -19,7 +19,11 @@ researcher-writer 에이전트의 완료 보고를 받아 `web/posts.json`에 �
 - `source`: 출처 매체명
 - `sourceUrl`: 원문 URL
 - `description`: 1~2줄 요약
-- `image`: 대표 이미지 URL — **반드시 `https://picsum.photos/seed/{topic}/800/500` 형식 사용. 외부 CDN URL(heisenberg.kr, aitimes.com, cdn.*, wp-content 등) 그대로 사용 금지**
+- `image`: 대표 이미지 URL — 아래 규칙 엄수:
+  - ✅ 허용: technologyreview.com, bloomberg.com, reuters.com, nature.com 등 주요 미디어 og:image 직접 사용 가능
+  - ✅ 허용: `https://picsum.photos/seed/{파일명키워드}/800/500` 형식 (seed = 파일명에서 `.md` 제거)
+  - ❌ 금지: heisenberg.kr, aitimes.com, aitimes.kr, hankyung.com, mk.co.kr 및 wp-content/cdn. 포함 URL
+  - ❌ 절대 금지: `images.unsplash.com` — 브라우저에서 항상 403으로 깨짐
 - `project_root`: 프로젝트 루트 경로
 
 ## 실행 순서

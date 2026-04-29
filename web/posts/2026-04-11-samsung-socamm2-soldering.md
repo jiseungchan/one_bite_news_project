@@ -5,6 +5,7 @@ source: 전자신문
 sourceUrl: https://www.etnews.com/20251218000380
 date: 2026-04-11
 description: 삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.
+image: https://picsum.photos/seed/samsung-socamm2-chip/800/500
 ---
 
 ## 한 줄 요약

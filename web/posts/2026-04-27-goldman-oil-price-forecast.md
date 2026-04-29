@@ -5,7 +5,7 @@ source: Bloomberg Markets
 sourceUrl: https://www.bloomberg.com/news/articles/2026-04-27/goldman-hikes-oil-price-forecasts-on-extreme-inventory-draws
 date: 2026-04-27
 description: 골드만삭스가 호르무즈 봉쇄 장기화로 인한 극단적 재고 급감을 이유로 유가 전망을 공식 상향했다. 월가 핵심 IB의 가격 전망 변경은 단순 뉴스가 아니라 시장 전반의 포지션 재편 신호다.
-image: https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80
+image: https://picsum.photos/seed/goldman-oil-forecast-2026/800/500
 ---
 
 ## 한 줄 요약

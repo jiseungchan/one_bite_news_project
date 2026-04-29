@@ -5,7 +5,7 @@ source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/stock/12027957
 date: 2026-04-27
 description: 코스피·코스닥을 합친 국내 증시 시가총액이 사상 처음으로 6,000조 원을 돌파했다. AI·반도체 섹터가 랠리를 이끌었으며, 글로벌 자금의 한국 시장 재평가 흐름이 본격화되고 있다.
-image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80
+image: https://picsum.photos/seed/kospi-6000t-2026/800/500
 ---
 
 ## 한 줄 요약

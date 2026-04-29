@@ -5,7 +5,7 @@ source: Bloomberg Technology
 sourceUrl: https://www.bloomberg.com/news/articles/2026-04-27/ai-boom-drowns-out-war-fears-to-fuel-asia-s-great-market-divide
 date: 2026-04-27
 description: 중동 전쟁 공포에도 AI 붐이 아시아 증시를 사상 최고치로 이끌고 있다. AI 수혜 섹터와 비수혜 섹터 간 주가 격차가 역사적 수준으로 벌어지며 '아시아의 대분열'이 본격화되고 있다.
-image: https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
+image: https://picsum.photos/seed/asia-ai-market-boom-2026/800/500
 ---
 
 ## 한 줄 요약

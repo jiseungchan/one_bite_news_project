@@ -5,6 +5,7 @@ category: "AI"
 source: "Heisenberg"
 sourceUrl: "https://heisenberg.kr/openclaw_agent/"
 description: "오스트리아 개발자 피터 슈타인버거가 만든 AI 에이전트 OpenClaw가 젠슨 황의 극찬을 받으며 3개월 만에 OpenAI에 영입됐다. AI 산업의 무게중심이 '더 큰 모델'에서 '실제로 작동하는 자동화'로 이동하고 있다."
+image: https://picsum.photos/seed/openclaw-ai-agent/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "오스트리아 개발자 피터 슈타인버거가 만든 AI 에�
 
 오스트리아 개발자 피터 슈타인버거가 혼자 만든 AI 에이전트(AI가 스스로 작업을 수행하는 소프트웨어) 하나가 NVIDIA CEO 젠슨 황의 공개 극찬을 받았고, 3개월 만에 OpenAI가 그를 영입했다. OpenClaw라는 이름의 이 도구는 텔레그램 메시지 한 줄로 이메일 답장, 일정 조율, 스마트홈 제어를 24시간 대신 처리한다. 업계는 이것이 스마트폰 등장 이후 가장 큰 패러다임 전환이라고 부른다.
 
-![AI 에이전트가 업무를 자동으로 처리하는 모습](https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80)
+![AI 에이전트가 업무를 자동으로 처리하는 모습](https://picsum.photos/seed/openclaw-ai-agent-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

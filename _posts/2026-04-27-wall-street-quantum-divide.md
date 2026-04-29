@@ -5,7 +5,7 @@ source: Bloomberg Markets
 sourceUrl: https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests
 date: 2026-04-27
 description: 골드만삭스가 양자컴퓨팅 투자에서 전략적으로 철수하는 동안, JP모건은 오히려 투자를 확대하고 있다. 같은 기술을 두고 월가 최상위 두 기관의 판단이 정반대로 갈린 이유가 흥미롭다.
-image: https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80
+image: https://picsum.photos/seed/quantum-wall-street-2026/800/500
 ---
 
 ## 한 줄 요약

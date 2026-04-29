@@ -5,7 +5,7 @@ source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/business/12022133
 date: 2026-04-21
 description: 삼성SDI가 메르세데스-벤츠 전기차에 배터리를 공급하는 10조 원 규모의 계약을 따냈다. 중국산 배터리에 밀려 고전하던 K배터리 업계에 대형 반전 계기가 마련됐다.
-image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80
+image: https://picsum.photos/seed/samsung-sdi-ev-battery/800/500
 ---
 
 ## 한 줄 요약

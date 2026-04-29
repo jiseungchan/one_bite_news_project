@@ -5,9 +5,10 @@ category: 경제·주식
 source: "조선일보·비즈니스포스트"
 sourceUrl: "https://www.chosun.com/economy/tech_it/2026/01/18/LMC7XULHNNGOJGLIAYOE7FU274/"
 description: "트럼프 행정부가 메모리 반도체까지 겨냥한 100% 관세 카드를 꺼냈다. 삼성전자와 SK하이닉스는 현실적으로 미국 내 메모리 생산이 불가능한 상황에서 압박 수위만 높아지는 딜레마에 처해 있다."
+image: https://picsum.photos/seed/us-chip-tariff-2026/800/500
 ---
 
-![트럼프 반도체 관세 — 삼성·SK하이닉스 딜레마](https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80)
+![트럼프 반도체 관세 — 삼성·SK하이닉스 딜레마](https://picsum.photos/seed/us-chip-tariff-2026-body/800/500)
 
 ## 배경 — "반도체 관세"는 이제 새로운 이야기가 아니다
 

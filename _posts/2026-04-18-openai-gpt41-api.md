@@ -5,6 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/04/14/1115143/openai-gpt41-api/
 date: 2026-04-18
 description: "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 API로 공개했다. GPT-4o 대비 54.6% 저렴하면서도 SWE-bench에서 54.6%의 소프트웨어 엔지니어링 성능을 기록했다."
+image: https://picsum.photos/seed/openai-gpt41-api-2026/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 
 
 GPT-4o의 절반 가격에 코딩 성능은 오히려 더 높다. OpenAI가 2026년 4월 14일 API 전용 모델 GPT-4.1을 공개했다. 챗봇 UI가 아닌 개발자가 직접 호출해 쓰는 API 시장에서 Anthropic의 Claude 3.7 Sonnet, Google의 Gemini 2.5 Pro와 정면 경쟁을 선언한 것이다. 특히 소프트웨어 엔지니어링 벤치마크(SWE-bench Verified)에서 54.6%를 기록하며 기존 GPT-4o(33%)를 크게 앞섰다.
 
-![GPT-4.1 코딩 특화 API](https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=85)
+![GPT-4.1 코딩 특화 API](https://picsum.photos/seed/openai-gpt41-api-2026-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

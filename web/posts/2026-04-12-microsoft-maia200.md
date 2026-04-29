@@ -5,6 +5,7 @@ category: "AI"
 source: "Heisenberg"
 sourceUrl: "https://heisenberg.kr/ms_maia200/"
 description: "마이크로소프트가 공개한 자체 AI 가속기 Maia 200은 엔비디아 H100을 이기는 칩이 아니다. Azure 데이터센터에서 AI 추론 원가를 직접 통제하기 위한 전략 카드다."
+image: https://picsum.photos/seed/microsoft-maia-chip/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "마이크로소프트가 공개한 자체 AI 가속기 Maia 200은
 
 마이크로소프트가 자체 개발 AI 가속기(GPU 역할을 하는 AI 연산 전용 칩) Maia 200을 Azure 데이터센터에 본격 투입하고 있다. 중요한 건 이 칩이 엔비디아의 H100이나 B200보다 빠르냐는 질문이 아니다. AI 업계 비용 구조에서 가장 큰 항목 중 하나인 **추론 비용(AI가 답변을 생성할 때 드는 연산 비용)**을 누가 통제하느냐는 전략적 싸움이 시작됐다는 점이다.
 
-![마이크로소프트 Maia 200 AI 가속기 칩](https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=800&q=80)
+![마이크로소프트 Maia 200 AI 가속기 칩](https://picsum.photos/seed/microsoft-maia-chip-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

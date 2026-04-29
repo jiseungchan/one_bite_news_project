@@ -5,6 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209312
 date: 2026-04-18
 description: "삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI 모델 가우스3를 공개했다. 1~12B 파라미터 범위의 경량 모델로, 클라우드 없이 기기 안에서 실시간 번역·요약·이미지 생성을 처리한다."
+image: https://picsum.photos/seed/samsung-gauss3-llm-2026/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI �
 
 12B(120억) 파라미터짜리 AI가 스마트폰 칩 위에서 실시간으로 구동된다. 삼성전자가 2026년 4월 16일 공개한 가우스3(Gauss3)는 1B, 4B, 12B 세 가지 크기로 제공되는 온디바이스(on-device) AI 모델 패밀리다. 클라우드 서버에 데이터를 보내지 않아도 기기 안에서 직접 자연어 처리, 이미지 생성, 실시간 통역이 가능하다. Galaxy AI 기능의 핵심 엔진으로 갤럭시 S26 시리즈부터 탑재될 예정이다.
 
-![삼성 가우스3 온디바이스 AI — 클라우드 없이 스마트폰에서 처리](https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=1200&q=85)
+![삼성 가우스3 온디바이스 AI — 클라우드 없이 스마트폰에서 처리](https://picsum.photos/seed/samsung-gauss3-llm-2026-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

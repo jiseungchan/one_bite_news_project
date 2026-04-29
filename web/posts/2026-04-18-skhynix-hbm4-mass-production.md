@@ -5,6 +5,7 @@ source: 한국경제
 sourceUrl: https://www.hankyung.com/article/2026041721051
 date: 2026-04-18
 description: "SK하이닉스가 차세대 AI 메모리 HBM4 양산을 시작하고 엔비디아 블랙웰 울트라 GPU에 첫 공급한다. HBM3E 대비 대역폭 60% 향상, 전력 효율 30% 개선 — 2026년 AI 데이터센터 메모리 시장의 핵심 변수가 됐다."
+image: https://picsum.photos/seed/skhynix-hbm4-prod-2026/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "SK하이닉스가 차세대 AI 메모리 HBM4 양산을 시작하�
 
 HBM3E 대비 대역폭 60% 향상, 전력 효율 30% 개선 — SK하이닉스가 2026년 4월 17일 HBM4(4세대 고대역폭 메모리) 양산 개시를 공식 발표했다. 엔비디아 블랙웰 울트라(Blackwell Ultra) GPU에 탑재되는 HBM4 물량의 첫 납품처로 SK하이닉스가 선정됐다. 주가는 발표 당일 4.7% 상승해 52주 신고가를 기록했다. 삼성전자는 HBM4 양산이 이르면 3분기로 예상되는 상황에서, SK하이닉스가 다시 한 번 시장 선점에 성공했다.
 
-![SK하이닉스 HBM4 — 차세대 AI 메모리 반도체](https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=1200&q=85)
+![SK하이닉스 HBM4 — 차세대 AI 메모리 반도체](https://picsum.photos/seed/skhynix-hbm4-prod-2026-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

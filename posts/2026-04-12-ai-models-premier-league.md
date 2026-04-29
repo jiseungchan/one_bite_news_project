@@ -5,6 +5,7 @@ category: "AI"
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209118"
 description: "GPT-5.4, 클로드 오퍼스 4.6 등 최고 성능 AI 모델들을 현실 스포츠 베팅에 투입했더니 전원 손실을 기록했다. '정적인 벤치마크'로 측정되지 않는 현실 세계 의사결정 능력의 한계가 드러났다."
+image: https://picsum.photos/seed/ai-benchmark-league/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "GPT-5.4, 클로드 오퍼스 4.6 등 최고 성능 AI 모델들을
 
 런던 AI 스타트업 제너럴 리즈닝(General Reasoning)이 GPT-5.4, 클로드 오퍼스 4.6(Claude Opus 4.6 — Anthropic의 최상위 추론 모델), 제미나이 3.1 프로 등 현재 시장에서 가장 높은 성능으로 평가받는 AI 모델 8종을 대상으로 이례적인 실험을 진행했다. 2023~24 프리미어 리그 시즌을 재현한 베팅 시나리오에서 각 모델에 10만 파운드(약 1억 7,000만 원)를 쥐여주고 한 시즌을 통째로 운영하게 한 것이다. 결과는 냉혹했다. 테스트한 모든 모델이 평균적으로 손실을 기록했고, 일부는 아예 파산(자금 전액 소진)했다.
 
-![프리미어 리그 경기장 — AI 베팅 실험 배경](https://images.unsplash.com/photo-1508098682722-e99c643e7f0b?w=800&q=80)
+![프리미어 리그 경기장 — AI 베팅 실험 배경](https://picsum.photos/seed/ai-benchmark-league-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

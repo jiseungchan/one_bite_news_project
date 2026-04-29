@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/17/1115298/google-gemini-25-flash/"
 description: "구글이 Gemini 2.5 Pro의 경량 버전인 Gemini 2.5 Flash를 출시했다. 추론 능력은 유지하면서 가격을 대폭 낮춰 개발자 시장을 겨냥했다. 100만 토큰 컨텍스트 창을 지원하며, 비용 민감 애플리케이션의 새 기준을 제시한다."
-image: "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+image: https://picsum.photos/seed/google-gemini-flash-2026/800/500
 ---
 
 ## 한 줄 요약

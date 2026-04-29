@@ -6,6 +6,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209112
 date: 2026-04-11
 description: 앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.
+image: https://picsum.photos/seed/anthropic-ai-strategy/800/500
 ---
 
 ## 한 줄 요약
@@ -20,7 +21,7 @@ Haiku 4.5에 Opus 4.6 어드바이저를 붙였더니 BrowseComp 점수가 19.7%
 
 ---
 
-![앤트로픽 멀티에이전트 소형·대형 협력 구조](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80)
+![앤트로픽 멀티에이전트 소형·대형 협력 구조](https://picsum.photos/seed/anthropic-ai-strategy-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

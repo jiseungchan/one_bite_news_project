@@ -8,7 +8,7 @@ description: "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 A
 image: https://picsum.photos/seed/deepmind-molecule/800/500
 ---
 
-![딥마인드 IsoDDE 분자 설계 AI](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80)
+![딥마인드 IsoDDE 분자 설계 AI](https://picsum.photos/seed/deepmind-molecule-body/800/500)
 
 ## 배경 — 구조를 알아도 약은 못 만들었다
 

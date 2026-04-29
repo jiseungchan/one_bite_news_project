@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/04/27/1115501/ai-models-clinical-decision-support-doctors/
 date: 2026-04-28
 description: AI 모델이 의사의 진단·처방 과정을 실시간으로 보조하는 임상 의사결정 지원 시스템이 실제 병원 현장에 도입되고 있다. 단순 검색 도구가 아니라, 환자 데이터를 읽고 다음 처치를 제안하는 수준까지 발전했다.
-image: https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&q=80
+image: https://picsum.photos/seed/ai-clinical-doctor-2026/800/500
 ---
 
 ## 한 줄 요약

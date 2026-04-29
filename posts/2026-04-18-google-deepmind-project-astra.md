@@ -5,6 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/news/articleView.html?idxno=32841
 date: 2026-04-18
 description: "구글 딥마인드가 멀티모달 AI 에이전트 Project Astra의 업그레이드 버전을 공개했다. 스마트폰 카메라로 주변을 인식하고 장기 기억을 유지하면서 사용자를 대신해 웹 검색·예약·파일 편집까지 처리한다."
+image: https://picsum.photos/seed/deepmind-astra-ai-2026/800/500
 ---
 
 ## 한 줄 요약
@@ -14,7 +15,7 @@ description: "구글 딥마인드가 멀티모달 AI 에이전트 Project Astra�
 
 카메라를 켜면 AI가 눈앞의 상황을 이해하고, 이전 대화를 기억하며, 사용자를 대신해 웹에서 예약을 잡는다. 구글 딥마인드가 2026년 4월 15일 공개한 Project Astra 업그레이드 버전은 멀티모달(multimodal — 텍스트·이미지·음성·영상을 동시에 처리하는) AI 에이전트의 수준을 한 단계 올렸다. 특히 '장기 기억 유지'와 '실제 앱 조작' 기능이 추가되면서 단순한 대화형 AI를 넘어선다.
 
-![구글 딥마인드 Project Astra 멀티모달 AI 에이전트](https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200&q=85)
+![구글 딥마인드 Project Astra 멀티모달 AI 에이전트](https://picsum.photos/seed/deepmind-astra-ai-2026-body/800/500)
 
 ## 배경 — 기존에는 어땠나?
 

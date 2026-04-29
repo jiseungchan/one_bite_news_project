@@ -5,9 +5,10 @@ category: AI
 source: "Stanford HAI / Forbes"
 sourceUrl: "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report"
 description: "스탠퍼드 HAI가 발표한 2026 AI 인덱스 리포트의 핵심 수치들. AI 에이전트의 실제 작업 성공률이 18개월 만에 12%에서 77.3%로 급등하며 인간 수준에 바짝 다가섰다."
+image: https://picsum.photos/seed/ai-agents-report-2026/800/500
 ---
 
-![스탠퍼드 2026 AI 인덱스 — 에이전트 성능 비교](https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80)
+![스탠퍼드 2026 AI 인덱스 — 에이전트 성능 비교](https://picsum.photos/seed/ai-agents-report-2026-body/800/500)
 
 ## 배경: 에이전트가 '실험실 밖'으로 나오기까지
 

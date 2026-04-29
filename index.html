@@ -31,7 +31,7 @@
   <section class="hero-section" id="hero-section">
     <div class="container">
       <div class="hero-card" id="hero-card">
-        <div style="width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);position:absolute;inset:0;"></div>
+        <div class="hero-bg" id="hero-bg"></div>
         <div class="hero-overlay"></div>
         <div class="hero-content" id="hero-content">
           <p style="color:rgba(255,255,255,0.5);font-size:16px;">발행된 기사가 없습니다. 파이프라인을 실행해주세요.</p>
@@ -137,13 +137,23 @@
     function renderHero(post) {
       if (!post) return;
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-pick' };
+
+      // 배경 이미지 설정
+      const heroBg = document.getElementById('hero-bg');
+      if (post.image) {
+        heroBg.innerHTML = `<img src="${post.image}" alt="${post.title}" loading="eager">`;
+      } else {
+        heroBg.style.background = 'linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%)';
+      }
+
       document.getElementById('hero-content').innerHTML = `
         <span class="category-tag ${cfg.tagClass}">${post.category}</span>
         <h1 class="hero-title">${post.title}</h1>
         <p class="hero-comment">${post.description || ''}</p>
         <p class="hero-meta">${post.date} · ${post.source || ''}</p>`;
-      document.getElementById('hero-card').style.cursor = 'pointer';
-      document.getElementById('hero-card').onclick = () => {
+      const card = document.getElementById('hero-card');
+      card.style.cursor = 'pointer';
+      card.onclick = () => {
         location.href = 'article.html?post=' + encodeURIComponent(post.filename);
       };
     }

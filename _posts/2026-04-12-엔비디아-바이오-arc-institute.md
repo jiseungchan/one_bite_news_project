@@ -5,7 +5,7 @@ category: "바이오"
 source: "Heisenberg"
 sourceUrl: "https://heisenberg.kr/arc-institute/"
 description: "엔비디아가 AI 칩 회사를 넘어 생명과학 연구 인프라의 핵심 플랫폼으로 자리잡고 있다. Arc Institute와의 협력을 통해 신약 개발보다 '연구 인프라 지배'를 택한 젠슨 황의 전략을 분석한다."
-image: https://images.unsplash.com/photo-1530026405079?w=800&q=80
+image: https://picsum.photos/seed/nvidia-biotech-lab/800/500
 ---
 
 ## 한 줄 요약

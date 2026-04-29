@@ -1,6 +1,42 @@
 {
   "posts": [
     {
+      "filename": "2026-04-28-ai-clinical-decision-support.md",
+      "title": "의사의 판단을 보조하는 AI — 임상 의사결정 지원 모델의 현재",
+      "category": "AI",
+      "source": "MIT Technology Review",
+      "date": "2026-04-28",
+      "description": "AI 모델이 의사의 진단·처방 과정을 실시간으로 보조하는 임상 의사결정 지원 시스템이 실제 병원 현장에 도입되고 있다. 단순 검색 도구가 아니라, 환자 데이터를 읽고 다음 처치를 제안하는 수준까지 발전했다.",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-28-deepmind-cell-simulation.md",
+      "title": "단백질 하나에서 세포 전체로 — 구글 딥마인드의 다음 도전",
+      "category": "바이오",
+      "source": "AI타임스",
+      "date": "2026-04-28",
+      "description": "구글 딥마인드가 AlphaFold로 단백질 구조 예측을 해결한 데 이어, 이제 세포 전체의 동작을 AI로 시뮬레이션하는 프로젝트에 착수했다.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-28-openai-o4-mini.md",
+      "title": "OpenAI, o4-mini 공개 — o3-mini보다 10배 저렴한 추론 모델",
+      "category": "AI",
+      "source": "AI타임스",
+      "date": "2026-04-28",
+      "description": "OpenAI가 기존 o3-mini 대비 추론 비용을 10분의 1로 낮춘 o4-mini를 공개했다. 성능은 유지하면서 가격을 대폭 낮춰 API 개발자 시장과 기업용 자동화 수요를 정면으로 겨냥한다.",
+      "image": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+    },
+    {
+      "filename": "2026-04-28-samsung-sk-hbm4-earnings.md",
+      "title": "삼성전자·SK하이닉스 2분기 실적 전망 상향 — HBM4 조기 양산이 바꾼 숫자들",
+      "category": "경제·주식",
+      "source": "매일경제",
+      "date": "2026-04-28",
+      "description": "증권가가 삼성전자와 SK하이닉스의 2분기 실적 전망치를 일제히 올려 잡았다. HBM4 조기 양산 확정이 결정적 변수였다.",
+      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&q=80"
+    },
+    {
       "filename": "2026-04-27-wall-street-quantum-divide.md",
       "title": "골드만은 빠지고, JP모건은 더 넣는다 — 월가의 양자컴퓨팅 베팅이 갈라졌다",
       "category": "AI",

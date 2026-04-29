@@ -18,6 +18,10 @@ desktop.ini
 # Temp
 History.txt
 
+# API 서버
+api/.env
+api/node_modules/
+
 # web/.git nested repo — track contents only
 web/.git
 web/.git_bak

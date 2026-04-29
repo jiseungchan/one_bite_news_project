@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209780
 date: 2026-04-28
 description: OpenAI가 기존 o3-mini 대비 추론 비용을 10분의 1로 낮춘 o4-mini를 공개했다. 성능은 유지하면서 가격을 대폭 낮춰 API 개발자 시장과 기업용 자동화 수요를 정면으로 겨냥한다.
-image: https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80
+image: https://images.unsplash.com/photo-1676320831798?w=800&q=80
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/stock/12031205
 date: 2026-04-28
 description: 증권가가 삼성전자와 SK하이닉스의 2분기 실적 전망치를 일제히 올려 잡았다. HBM4(4세대 고대역폭 메모리) 조기 양산 확정이 결정적 변수였다. 2분기 영업이익 합산 추정치가 기존 대비 15~20% 상향됐다.
-image: https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&q=80
+image: https://images.unsplash.com/photo-1494526585095?w=800&q=80
 ---
 
 ## 한 줄 요약

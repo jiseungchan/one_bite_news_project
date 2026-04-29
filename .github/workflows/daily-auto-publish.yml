@@ -187,7 +187,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "[한입뉴스] ${{ needs.stock-briefing.outputs.today }} 자동 발행 완료"
-          to: byungkyu.lee@sk.com,forcisco02@gmail.com
+          to: byungkyu.lee@sk.com
           from: 병규의 한입뉴스 <${{ secrets.MAIL_USERNAME }}>
           html_body: |
             <div style="font-family: -apple-system, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #111;">

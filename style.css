@@ -1177,6 +1177,66 @@ img { display: block; width: 100%; object-fit: cover; }
 #cp-send:active { transform: scale(0.94); }
 #cp-send:disabled { background: #1E293B; color: #475569; cursor: not-allowed; }
 
+/* API 키 입력 화면 */
+#cp-key-screen {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+#cp-key-inner {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+#cp-key-icon { font-size: 32px; text-align: center; }
+#cp-key-title {
+  font-size: 15px; font-weight: 700;
+  color: #F1F5F9; text-align: center;
+}
+#cp-key-desc {
+  font-size: 12px; color: #64748B;
+  text-align: center; line-height: 1.6;
+}
+#cp-key-desc a { color: #2DD4BF; }
+#cp-key-input {
+  width: 100%;
+  background: #1E293B;
+  border: 1px solid #334155;
+  border-radius: 10px;
+  color: #E2E8F0;
+  font-size: 13px;
+  padding: 10px 14px;
+  outline: none;
+  font-family: monospace;
+  transition: border-color 0.2s;
+}
+#cp-key-input:focus { border-color: #14B8A6; }
+#cp-key-input::placeholder { color: #475569; }
+#cp-key-save {
+  width: 100%;
+  background: #0F766E; color: #fff;
+  border: none; border-radius: 10px;
+  padding: 11px; font-size: 14px;
+  font-weight: 700; font-family: inherit;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+#cp-key-save:hover { background: #0D9488; }
+#cp-key-error { font-size: 12px; color: #F87171; min-height: 16px; }
+
+/* 헤더 키 버튼 */
+#cp-key-btn {
+  background: none; border: none;
+  font-size: 14px; cursor: pointer;
+  padding: 3px 6px; border-radius: 5px;
+  transition: background 0.15s;
+  display: none;
+}
+#cp-key-btn:hover { background: #1E293B; }
+
 /* 트리거 버튼 */
 #cp-trigger {
   position: fixed;

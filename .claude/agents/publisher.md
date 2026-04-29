@@ -19,7 +19,7 @@ researcher-writer 에이전트의 완료 보고를 받아 `web/posts.json`에 �
 - `source`: 출처 매체명
 - `sourceUrl`: 원문 URL
 - `description`: 1~2줄 요약
-- `image`: 대표 이미지 URL (og:image 또는 Unsplash)
+- `image`: 대표 이미지 URL — **반드시 `https://picsum.photos/seed/{topic}/800/500` 형식 사용. 외부 CDN URL(heisenberg.kr, aitimes.com, cdn.*, wp-content 등) 그대로 사용 금지**
 - `project_root`: 프로젝트 루트 경로
 
 ## 실행 순서

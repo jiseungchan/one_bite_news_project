@@ -40,6 +40,17 @@
     </div>
   </section>
 
+  <!-- ===== 주식 브리핑 배너 ===== -->
+  <section class="stock-banner-section" id="stock-banner-section" style="display:none;">
+    <div class="container">
+      <div class="stock-banner-header">
+        <span class="stock-banner-label">📈 오늘의 주식 브리핑</span>
+        <a href="stock.html" class="stock-banner-more">전체 보기 →</a>
+      </div>
+      <div id="stock-banner-card"></div>
+    </div>
+  </section>
+
   <!-- ===== 메인 콘텐츠 ===== -->
   <main>
     <div id="main-content">
@@ -195,6 +206,32 @@
         renderPosts(allPosts);
       });
     });
+
+    // ===== 주식 브리핑 배너 로드 =====
+    fetch('stock-briefs.json')
+      .then(r => r.json())
+      .then(data => {
+        const briefs = (data.briefs || []).sort((a, b) => b.date.localeCompare(a.date));
+        if (briefs.length === 0) return;
+        const latest = briefs[0];
+        const d = new Date(latest.date + 'T00:00:00');
+        const days = ['일', '월', '화', '수', '목', '금', '토'];
+        const dateLabel = `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
+        document.getElementById('stock-banner-card').innerHTML = `
+          <article class="stock-banner-card" onclick="location.href='stock-brief.html?date=${latest.date}'">
+            <div class="stock-banner-card-left">
+              <div class="stock-banner-meta">
+                <span class="stock-banner-date">${dateLabel}</span>
+                <span class="stock-banner-count">${latest.count}건 선별</span>
+                <span class="stock-banner-time">${latest.reading_time}</span>
+              </div>
+              ${latest.summary ? `<p class="stock-banner-summary">${latest.summary}</p>` : ''}
+            </div>
+            <span class="stock-banner-arrow">브리핑 보기 →</span>
+          </article>`;
+        document.getElementById('stock-banner-section').style.display = 'block';
+      })
+      .catch(() => {});
 
     // ===== 데이터 로드 =====
     fetch('posts.json')

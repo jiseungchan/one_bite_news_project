@@ -5,6 +5,7 @@ category: "AI"
 source: "Heisenberg"
 sourceUrl: "https://heisenberg.kr/openai_anthropic/"
 description: "OpenAI와 Anthropic은 기업가치 합산 1조 달러를 넘어선 AI 최대 라이벌이다. 코딩 도구 Claude Code vs Codex를 중심으로 두 회사의 전략 차이와 향후 판세를 분석한다."
+image: https://images.unsplash.com/photo-1605810230434?w=800&q=80
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: "AI"
 source: "Heisenberg"
 sourceUrl: "https://heisenberg.kr/openclaw_agent/"
 description: "오스트리아 개발자 피터 슈타인버거가 만든 AI 에이전트 OpenClaw가 젠슨 황의 극찬을 받으며 3개월 만에 OpenAI에 영입됐다. AI 산업의 무게중심이 '더 큰 모델'에서 '실제로 작동하는 자동화'로 이동하고 있다."
+image: https://images.unsplash.com/photo-1535378917042?w=800&q=80
 ---
 
 ## 한 줄 요약

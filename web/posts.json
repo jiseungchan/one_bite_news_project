@@ -25,7 +25,7 @@
       "source": "AI타임스",
       "date": "2026-04-28",
       "description": "OpenAI가 기존 o3-mini 대비 추론 비용을 10분의 1로 낮춘 o4-mini를 공개했다. 성능은 유지하면서 가격을 대폭 낮춰 API 개발자 시장과 기업용 자동화 수요를 정면으로 겨냥한다.",
-      "image": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1676320831798?w=800&q=80"
     },
     {
       "filename": "2026-04-28-samsung-sk-hbm4-earnings.md",
@@ -34,7 +34,7 @@
       "source": "매일경제",
       "date": "2026-04-28",
       "description": "증권가가 삼성전자와 SK하이닉스의 2분기 실적 전망치를 일제히 올려 잡았다. HBM4 조기 양산 확정이 결정적 변수였다.",
-      "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=800&q=80"
+      "image": "https://images.unsplash.com/photo-1494526585095?w=800&q=80"
     },
     {
       "filename": "2026-04-27-wall-street-quantum-divide.md",
@@ -324,7 +324,7 @@
       "source": "Isomorphic Labs (공식 블로그)",
       "sourceUrl": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
       "description": "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 AlphaFold 3의 정확도를 두 배 이상 뛰어넘는 신약 설계 AI 시스템 IsoDDE를 공개했다. 단백질 구조 예측을 넘어 결합력 예측·신규 결합 부위 발굴까지 통합된 최초의 범용 약물 설계 엔진이다.",
-      "image": "https://cdn.prod.website-files.com/6846c7b5a78f3e9225c64f10/6989e3d45b7a3c2eb3795578_beyond-alphafold-with-isomorphic-labs-drug-design-engine_l.jpg"
+      "image": "https://images.unsplash.com/photo-1532094349884?w=800&q=80"
     },
     {
       "filename": "2026-04-16-ai-agents-state-2026.md",
@@ -344,7 +344,7 @@
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/openclaw_agent/",
       "description": "오스트리아 개발자 피터 슈타인버거가 만든 AI 에이전트 OpenClaw가 젠슨 황의 극찬을 받으며 3개월 만에 OpenAI에 영입됐다. AI 산업의 무게중심이 '더 큰 모델'에서 '실제로 작동하는 자동화'로 이동하고 있다.",
-      "image": "https://heisenberg.kr/wp-content/uploads/2026/03/%EB%94%94%EC%98%A8_%EC%98%A4%ED%94%88%ED%81%B4%EB%A1%9C.png"
+      "image": "https://images.unsplash.com/photo-1535378917042?w=800&q=80"
     },
     {
       "filename": "2026-04-12-nvidia-bio-arc-institute.md",
@@ -354,7 +354,7 @@
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/arc-institute/",
       "description": "엔비디아가 AI 칩 회사를 넘어 생명과학 연구 인프라의 핵심 플랫폼으로 자리잡고 있다. Arc Institute와의 협력을 통해 신약 개발보다 '연구 인프라 지배'를 택한 젠슨 황의 전략을 분석한다.",
-      "image": "https://heisenberg.kr/wp-content/uploads/2026/03/270402_%EB%AA%A8%EB%9E%98%ED%86%A0%EB%81%BC_Arc-Institute.jpg"
+      "image": "https://images.unsplash.com/photo-1530026405079?w=800&q=80"
     },
     {
       "filename": "2026-04-12-microsoft-maia200.md",
@@ -364,7 +364,7 @@
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/ms_maia200/",
       "description": "마이크로소프트가 공개한 자체 AI 가속기 Maia 200은 엔비디아 H100을 이기는 칩이 아니다. Azure 데이터센터에서 AI 추론 원가를 직접 통제하기 위한 전략 카드다.",
-      "image": "https://heisenberg.kr/wp-content/uploads/2026/03/260401_%EC%A0%9C%EB%A1%9C%EC%8A%A4_Maia200.png"
+      "image": "https://images.unsplash.com/photo-1558618666?w=800&q=80"
     },
     {
       "filename": "2026-04-12-chatgpt-vs-claude.md",
@@ -374,7 +374,7 @@
       "source": "Heisenberg",
       "sourceUrl": "https://heisenberg.kr/openai_anthropic/",
       "description": "OpenAI와 Anthropic은 기업가치 합산 1조 달러를 넘어선 AI 최대 라이벌이다. 코딩 도구 Claude Code vs Codex를 중심으로 두 회사의 전략 차이와 향후 판세를 분석한다.",
-      "image": "https://heisenberg.kr/wp-content/uploads/2026/04/260405_YJ_OpenAI-Anthropic_hf_20260404_231231_99c1d7af-5522-4cf1-8984-f6197c66be91-scaled.png"
+      "image": "https://images.unsplash.com/photo-1605810230434?w=800&q=80"
     },
     {
       "filename": "2026-04-12-bok-rate-freeze-7th.md",
@@ -394,7 +394,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209118",
       "description": "GPT-5.4, 클로드 오퍼스 4.6 등 최고 성능 AI 모델들을 현실 스포츠 베팅에 투입했더니 전원 손실을 기록했다. '정적인 벤치마크'로 측정되지 않는 현실 세계 의사결정 능력의 한계가 드러났다.",
-      "image": "https://cdn.aitimes.com/news/photo/202604/209118_211459_164.jpg"
+      "image": "https://images.unsplash.com/photo-1460925895917?w=800&q=80"
     },
     {
       "filename": "2026-04-11-samsung-socamm2-soldering.md",
@@ -442,7 +442,7 @@
       "source": "아시아경제",
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
-      "image": "https://cphoto.asiae.co.kr/listimglink/1/2025120313035441647_1764734634.jpg",
+      "image": "https://images.unsplash.com/photo-1517077304055?w=800&q=80",
       "tags": [
         "딥엑스",
         "엣지AI",
@@ -461,7 +461,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
-      "image": "https://cdn.aitimes.com/news/photo/202604/209112_211461_3131.jpg",
+      "image": "https://images.unsplash.com/photo-1531746790731?w=800&q=80",
       "tags": [
         "앤트로픽",
         "멀티에이전트",

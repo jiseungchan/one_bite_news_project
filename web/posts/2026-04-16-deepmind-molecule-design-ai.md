@@ -5,6 +5,7 @@ category: 바이오
 source: "Isomorphic Labs (공식 블로그)"
 sourceUrl: "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier"
 description: "구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 AlphaFold 3의 정확도를 두 배 이상 뛰어넘는 신약 설계 AI 시스템 IsoDDE를 공개했다. 단백질 구조 예측을 넘어 결합력 예측·신규 결합 부위 발굴까지 통합된 최초의 범용 약물 설계 엔진이다."
+image: https://images.unsplash.com/photo-1532094349884?w=800&q=80
 ---
 
 ![딥마인드 IsoDDE 분자 설계 AI](https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80)

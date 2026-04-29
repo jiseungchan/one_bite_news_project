@@ -93,7 +93,7 @@
       const sections = splitSections(mdText);
 
       /* 헤더 HTML */
-      const d = new Date(date);
+      const d = new Date(date + 'T00:00:00');
       const days = ['일', '월', '화', '수', '목', '금', '토'];
       const dateLabel = `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
 
@@ -125,13 +125,22 @@
           return;
         }
 
-        /* ## N. [영향도 X/10] 제목 → stock-item 카드 */
+        /* 신규 포맷: ## [카드 N] 제목 */
+        const cardMatch = title.match(/\[카드\s*\d+\]\s*(.*)/);
+        if (cardMatch) {
+          const cardTitle = cardMatch[1];
+          const scoreInContent = content.match(/\*\*영향도\*\*\s*(\d+)\/10/);
+          const score = scoreInContent ? parseInt(scoreInContent[1]) : 7;
+          bodyHtml += renderCardItem(score, cardTitle, content);
+          return;
+        }
+
+        /* 구 포맷: ## N. [영향도 X/10] 제목 */
         const scoreMatch = title.match(/\[영향도\s*(\d+)\/10\]\s*(.*)/);
         if (scoreMatch) {
           const score = parseInt(scoreMatch[1]);
           const itemTitle = scoreMatch[2];
-          const scoreColor = score >= 9 ? '#DC2626' : score >= 7 ? '#D97706' : '#6B7280';
-          bodyHtml += renderStockItem(score, scoreColor, itemTitle, content);
+          bodyHtml += renderLegacyItem(score, itemTitle, content);
           return;
         }
 
@@ -144,46 +153,71 @@
       document.getElementById('article-wrap').innerHTML = headerHtml + bodyHtml;
     }
 
-    function renderStockItem(score, scoreColor, title, content) {
-      /* 하위 파싱: 주식 영향 분석 블록 + 대본 블록 */
+    /* ── 신규 카드뉴스 포맷 렌더러 ── */
+    function renderCardItem(score, title, content) {
+      const scoreColor  = score >= 9 ? '#DC2626' : score >= 7 ? '#D97706' : '#6B7280';
+      const scoreBg     = score >= 9 ? 'rgba(220,38,38,0.1)' : 'rgba(217,119,6,0.1)';
+
+      /* 첫 메타 줄(영향도/방향/출처)과 구분선 제거 후 본문만 추출 */
       const lines = content.split('\n');
-      let analysisLines = [];
-      let scriptLines = [];
-      let sourceInfo = '';
-      let inScript = false;
+      const bodyLines = [];
+      let skipCount = 0;
+      for (let i = 0; i < lines.length; i++) {
+        const l = lines[i];
+        if (skipCount < 4 && (
+          l.includes('**영향도**') || l.includes('**방향**') ||
+          l.includes('**출처**') || l.trim() === '---'
+        )) { skipCount++; continue; }
+        bodyLines.push(l);
+      }
 
-      lines.forEach(l => {
-        if (l.startsWith('**출처**')) {
-          sourceInfo = l;
-        } else if (l.includes('**대본**') || l.includes('[인트로]') || l.includes('[본문]') || l.includes('[마무리]') || inScript) {
-          inScript = true;
-          scriptLines.push(l);
-        } else if (l.startsWith('**주식 영향 분석**')) {
-          /* skip label */
-        } else {
-          analysisLines.push(l);
-        }
-      });
-
-      const analysisHtml = analysisLines.filter(l => l.trim()).length
-        ? `<div class="stock-analysis">${marked.parse(analysisLines.join('\n'))}</div>` : '';
-
-      const scriptHtml = scriptLines.filter(l => l.trim()).length
-        ? `<div class="stock-script"><div class="stock-script-label">대본</div>${marked.parse(scriptLines.join('\n'))}</div>` : '';
-
-      const sourceParsed = sourceInfo
-        ? sourceInfo.replace(/\*\*/g, '').replace(/\|/g, '·')
+      /* 출처 파싱 */
+      const srcMatch = content.match(/\*\*출처\*\*\s*([^|*\n]+)/);
+      const urlMatch = content.match(/\*\*원문\*\*\s*(https?:\/\/\S+)/);
+      const sourceHtml = srcMatch
+        ? `<p class="stock-item-source">${srcMatch[1].trim()}${urlMatch ? ` · <a href="${urlMatch[1]}" target="_blank" rel="noopener">원문 →</a>` : ''}</p>`
         : '';
 
       return `
         <div class="stock-item">
           <div class="stock-item-header">
-            <span class="score-badge" style="background:${score >= 9 ? 'rgba(220,38,38,0.1)' : 'rgba(217,119,6,0.1)'};color:${score >= 9 ? '#DC2626' : '#D97706'}">${score}/10</span>
+            <span class="score-badge" style="background:${scoreBg};color:${scoreColor}">${score}/10</span>
+            <h2 class="stock-item-title">${esc(title)}</h2>
+          </div>
+          ${sourceHtml}
+          <div class="stock-card-body">${marked.parse(bodyLines.join('\n'))}</div>
+        </div>`;
+    }
+
+    /* ── 구 포맷 렌더러 (하위 호환) ── */
+    function renderLegacyItem(score, title, content) {
+      const scoreColor = score >= 9 ? '#DC2626' : score >= 7 ? '#D97706' : '#6B7280';
+      const scoreBg    = score >= 9 ? 'rgba(220,38,38,0.1)' : 'rgba(217,119,6,0.1)';
+      const lines = content.split('\n');
+      let analysisLines = [], scriptLines = [], sourceInfo = '', inScript = false;
+
+      lines.forEach(l => {
+        if (l.startsWith('**출처**')) { sourceInfo = l; }
+        else if (l.includes('**대본**') || l.includes('[인트로]') || l.includes('[본문]') || l.includes('[마무리]') || inScript) {
+          inScript = true; scriptLines.push(l);
+        } else if (l.startsWith('**주식 영향 분석**')) { /* skip */ }
+        else { analysisLines.push(l); }
+      });
+
+      const analysisHtml = analysisLines.filter(l => l.trim()).length
+        ? `<div class="stock-analysis">${marked.parse(analysisLines.join('\n'))}</div>` : '';
+      const scriptHtml = scriptLines.filter(l => l.trim()).length
+        ? `<div class="stock-script"><div class="stock-script-label">대본</div>${marked.parse(scriptLines.join('\n'))}</div>` : '';
+      const sourceParsed = sourceInfo ? sourceInfo.replace(/\*\*/g, '').replace(/\|/g, '·') : '';
+
+      return `
+        <div class="stock-item">
+          <div class="stock-item-header">
+            <span class="score-badge" style="background:${scoreBg};color:${scoreColor}">${score}/10</span>
             <h2 class="stock-item-title">${esc(title)}</h2>
           </div>
           ${sourceParsed ? `<p class="stock-item-source">${sourceParsed}</p>` : ''}
-          ${analysisHtml}
-          ${scriptHtml}
+          ${analysisHtml}${scriptHtml}
         </div>`;
     }
 

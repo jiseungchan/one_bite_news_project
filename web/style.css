@@ -862,6 +862,157 @@ img { display: block; width: 100%; object-fit: cover; }
   display: block;
 }
 
+/* ===================================================
+   주식 브리핑 배너 (index.html 전용)
+   =================================================== */
+.stock-banner-section {
+  background: linear-gradient(to right, #f0fdfa, #f9fafb);
+  border-bottom: 1px solid #ccfbf1;
+  padding: 16px 0;
+}
+
+.stock-banner-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.stock-banner-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--cat-econ);
+  letter-spacing: 0.03em;
+  font-family: 'Inter', sans-serif;
+}
+
+.stock-banner-more {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--cat-econ);
+  opacity: 0.8;
+  transition: opacity 0.15s;
+}
+.stock-banner-more:hover { opacity: 1; }
+
+.stock-banner-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  background: #FFFFFF;
+  border: 1px solid #99f6e4;
+  border-left: 4px solid var(--cat-econ);
+  border-radius: 10px;
+  padding: 14px 20px;
+  cursor: pointer;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+.stock-banner-card:hover {
+  box-shadow: 0 4px 16px rgba(15,118,110,0.12);
+}
+
+.stock-banner-card-left { flex: 1; min-width: 0; }
+
+.stock-banner-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+
+.stock-banner-date {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--color-text-title);
+  font-family: 'Inter', sans-serif;
+}
+
+.stock-banner-count {
+  background: rgba(15,118,110,0.1);
+  color: var(--cat-econ);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-family: 'Inter', sans-serif;
+}
+
+.stock-banner-time {
+  font-size: 12px;
+  color: var(--color-text-meta);
+  font-family: 'Inter', sans-serif;
+}
+
+.stock-banner-summary {
+  font-size: 13px;
+  color: var(--color-text-body);
+  line-height: 1.5;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.stock-banner-arrow {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--cat-econ);
+  white-space: nowrap;
+  font-family: 'Inter', sans-serif;
+  flex-shrink: 0;
+}
+
+/* ===================================================
+   주식 브리핑 — 카드뉴스 포맷 (stock-brief.html 신규)
+   =================================================== */
+.stock-card-body { font-size: 15px; line-height: 1.8; color: var(--color-text-body); }
+
+.stock-card-body h3 {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--color-text-title);
+  margin: 20px 0 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #F3F4F6;
+}
+
+.stock-card-body blockquote {
+  background: #f0fdf4;
+  border-left: 3px solid var(--cat-econ);
+  border-radius: 0 6px 6px 0;
+  padding: 10px 16px;
+  margin: 8px 0 16px;
+  font-style: normal;
+  font-weight: 600;
+  color: var(--color-text-title);
+  font-size: 14px;
+}
+.stock-card-body blockquote p { margin: 0; }
+
+.stock-card-body ul, .stock-card-body ol {
+  margin: 4px 0 16px 18px;
+}
+.stock-card-body li { margin-bottom: 4px; font-size: 14px; }
+
+.stock-card-body table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: 8px 0 16px;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.stock-card-body thead tr { background: #134e4a; color: #fff; }
+.stock-card-body th { padding: 8px 12px; text-align: left; font-weight: 600; }
+.stock-card-body td { padding: 8px 12px; border-bottom: 1px solid #F3F4F6; vertical-align: top; }
+.stock-card-body tr:nth-child(even) td { background: #f0fdf4; }
+.stock-card-body tr:last-child td { border-bottom: none; }
+
+.stock-card-body p { margin-bottom: 12px; font-size: 14px; }
+
 /* ===== 반응형 ===== */
 @media (max-width: 1023px) {
   .container, .header-inner, .footer-inner { padding: 0 24px; }
@@ -881,5 +1032,7 @@ img { display: block; width: 100%; object-fit: cover; }
   .article-wrap { padding: 24px 20px 80px; }
   .author-quote { padding: 24px 20px; }
   .callout-summary { padding: 16px 20px; }
+  .stock-banner-card { flex-direction: column; align-items: flex-start; gap: 10px; }
+  .stock-banner-summary { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 }
 

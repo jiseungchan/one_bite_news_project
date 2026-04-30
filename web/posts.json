@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-04-30-spatial-intelligence-ai-3d.md",
+      "title": "AI가 공간을 이해하기 시작했다 — 3D 시각 지능이 로봇과 자율주행을 바꾸는 법",
+      "category": "AI",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/29/1115612/spatial-intelligence-ai-3d-vision-robots/",
+      "date": "2026-04-30",
+      "description": "AI가 평면 이미지를 넘어 3차원 공간을 이해하는 '공간 지능' 연구가 빠르게 진전되고 있다. 로봇이 물건을 집고 자율주행차가 교차로를 읽는 방식이 근본적으로 달라지고 있다.",
+      "image": "https://picsum.photos/seed/spatial-intelligence-ai-3d/800/500"
+    },
+    {
+      "filename": "2026-04-30-rebellions-rebel3-ai-chip.md",
+      "title": "리벨리온 REBEL-3, 엔비디아 H100보다 전력 효율 2배 목표로 한다",
+      "category": "AI",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209901",
+      "date": "2026-04-30",
+      "description": "국내 AI 반도체 스타트업 리벨리온이 3세대 AI 추론 칩 REBEL-3를 공개했다. 엔비디아 H100 대비 전력 효율 2배를 목표로 삼성 파운드리와 협력해 제조한다.",
+      "image": "https://picsum.photos/seed/rebellions-rebel3-ai-chip/800/500"
+    },
+    {
+      "filename": "2026-04-30-meta-llama4-scout-release.md",
+      "title": "메타, 경량 멀티모달 AI 'Llama 4 Scout' 공개 — 1천만 토큰 컨텍스트에 상업 무료",
+      "category": "AI",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33150",
+      "date": "2026-04-30",
+      "description": "메타가 17B 활성 파라미터 MoE 구조의 경량 멀티모달 모델 Llama 4 Scout를 오픈소스로 공개했다. 컨텍스트 윈도우 1,000만 토큰에 Apache 2.0 라이선스로 상업적 활용도 무료다.",
+      "image": "https://picsum.photos/seed/meta-llama4-scout-release/800/500"
+    },
+    {
+      "filename": "2026-04-30-samsung-foundry-2nm-yield.md",
+      "title": "삼성 파운드리 2나노 수율 60% 돌파 — 숫자보다 중요한 건 방향이다",
+      "category": "경제·주식",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026042921082",
+      "date": "2026-04-30",
+      "description": "삼성전자 파운드리 2나노 GAA 공정 수율이 60%를 넘겼다. 6개월 전 40% 수준에서 급격한 개선이지만, TSMC의 75~80%와는 여전히 격차가 있다.",
+      "image": "https://picsum.photos/seed/samsung-foundry-2nm-yield/800/500"
+    },
+    {
       "filename": "2026-04-28-ai-clinical-decision-support.md",
       "title": "의사의 판단을 보조하는 AI — 임상 의사결정 지원 모델의 현재",
       "category": "AI",

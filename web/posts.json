@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-01-mit-ai-reasoning-energy-cost.md",
+      "title": "생각할수록 비싸진다 — AI 추론 모델의 에너지 역설",
+      "category": "AI",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+      "date": "2026-05-01",
+      "description": "AI가 '더 깊이 생각'할수록 전력 소비는 기하급수적으로 늘어난다. 추론 모델의 확산이 데이터센터 전력 수요를 새로운 국면으로 끌어올리고 있다.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=500&fit=crop"
+    },
+    {
+      "filename": "2026-05-01-kakao-ai-b2b-enterprise.md",
+      "title": "카카오, AI를 기업 현장에 꽂다 — 카나나 B2B 서비스 정식 출범",
+      "category": "AI",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209831",
+      "date": "2026-05-01",
+      "description": "카카오가 자체 AI 플랫폼 카나나를 기업 고객 대상 B2B 서비스로 확장했다. 법무·회계·HR 분야에 특화된 버티컬 에이전트를 제공하며, 카카오워크와의 통합으로 국내 기업 시장을 정면 공략한다.",
+      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&h=500&fit=crop"
+    },
+    {
+      "filename": "2026-05-01-korea-ai-startup-global.md",
+      "title": "K-AI의 해외 진출 — 업스테이지·뤼튼·리걸테크, 아시아 시장을 두드리다",
+      "category": "AI",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33105",
+      "date": "2026-05-01",
+      "description": "국내 AI 스타트업들이 동남아시아·일본 시장을 중심으로 글로벌 진출을 본격화하고 있다. 언어 특화 모델과 버티컬 SaaS 전략으로 차별화를 꾀하는 이들의 공통점과 남은 과제를 살폈다.",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800&h=500&fit=crop"
+    },
+    {
+      "filename": "2026-05-01-ai-semiconductor-stock-may.md",
+      "title": "5월 반도체·AI 수혜주 재편 — '엔비디아 공급망'에서 '추론 인프라'로 무게중심 이동",
+      "category": "경제·주식",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/finance/article/2026043089021",
+      "date": "2026-05-01",
+      "description": "4월 말 실적 시즌이 마무리되면서 국내 반도체·AI 관련주의 투자 포인트가 달라지고 있다. 엔비디아 납품 중심에서 추론 인프라·전력 관련 수혜주로 시장의 시선이 이동하는 흐름을 짚었다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=500&fit=crop"
+    },
+    {
       "filename": "2026-04-28-ai-clinical-decision-support.md",
       "title": "의사의 판단을 보조하는 AI — 임상 의사결정 지원 모델의 현재",
       "category": "AI",

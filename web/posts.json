@@ -1,14 +1,14 @@
 {
   "posts": [
     {
-      "filename": "2026-05-02-ai-autonomous-weapons-frontier-models.md",
-      "title": "AI의 '오펜하이머 순간' — 프론티어 모델이 자율무기 개발을 가속화한다",
+      "filename": "2026-05-02-ai-autonomous-weapons-frontier.md",
+      "title": "AI의 '오펜하이머 순간'이 왔는가 — 프런티어 모델이 자율무기 경쟁에 불을 붙이다",
       "category": "AI",
       "date": "2026-05-02",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/05/01/1116054/ai-autonomous-weapons-frontier-models/",
-      "description": "최첨단 AI 모델이 자율 살상 무기 시스템 개발에 직접 활용되고 있다는 분석이 나왔다. 핵폭탄 개발을 주도했던 과학자들의 딜레마에 빗댄 'AI의 오펜하이머 순간'이 현실화되고 있다는 우려가 커지고 있다.",
-      "image": "https://picsum.photos/seed/2026-05-02-ai-autonomous-weapons/800/500"
+      "description": "GPT-4급 이상의 프런티어 AI 모델이 자율무기 시스템에 직접 통합되기 시작했다. AI 연구자들 사이에서 '오펜하이머 순간' 논쟁이 다시 불붙고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-02-ai-autonomous-weapons-frontier/800/500"
     },
     {
       "filename": "2026-05-02-meta-ai-standalone-app.md",

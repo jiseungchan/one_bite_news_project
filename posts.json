@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-02-anthropic-claude4-series.md",
+      "title": "앤트로픽, 클로드 4 시리즈 공개 — 오퍼스4·소네트4·하이쿠4 동시 출시",
+      "category": "AI",
+      "date": "2026-05-02",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210012",
+      "description": "앤트로픽이 클로드 4 시리즈 전 라인업을 동시 공개했다. 최상위 모델 오퍼스4는 복잡한 장문 추론에서, 소네트4는 가격 대비 성능에서, 하이쿠4는 온디바이스·엣지 환경에서 각각 새 기준을 제시한다.",
+      "image": "https://picsum.photos/seed/2026-05-02-anthropic-claude4-series/800/500"
+    },
+    {
+      "filename": "2026-05-01-openai-reasoning-hallucinate.md",
+      "title": "더 많이 생각할수록 더 많이 틀린다 — OpenAI 추론 모델의 역설",
+      "category": "AI",
+      "date": "2026-05-01",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/",
+      "description": "OpenAI의 최신 추론 모델 o3·o4-mini가 이전 세대보다 수학·코딩에서 뛰어나지만, 사실 오류(환각) 발생률은 오히려 더 높다는 분석이 나왔다. '더 잘 생각하는 AI'가 동시에 '더 자신 있게 틀리는 AI'가 된 이유를 들여다봤다.",
+      "image": "https://picsum.photos/seed/2026-05-01-openai-reasoning-hallucinate/800/500"
+    },
+    {
+      "filename": "2026-05-01-google-ai-overview-redesign.md",
+      "title": "구글 AI 검색, 전면 개편 — 답변 정확도 60% 향상, 어떻게 바뀌었나",
+      "category": "AI",
+      "date": "2026-05-01",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209998",
+      "description": "구글이 AI 오버뷰(AI Overview) 검색 시스템을 전면 개편했다. 부정확한 답변으로 비판받던 초기 버전 대비 사실 오류율을 60% 낮췄으며, 출처 명시 방식과 답변 구조를 대폭 바꿨다.",
+      "image": "https://picsum.photos/seed/2026-05-01-google-ai-overview-redesign/800/500"
+    },
+    {
+      "filename": "2026-04-30-samsung-q1-2026-earnings.md",
+      "title": "삼성전자 1분기 영업이익 6.7조 — DS부문 흑자 전환이 바꾼 숫자들",
+      "category": "경제·주식",
+      "date": "2026-04-30",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/stock/12034501",
+      "description": "삼성전자가 2026년 1분기 영업이익 6.7조 원을 기록하며 시장 컨센서스(증권가 평균 예상치)를 상회했다. 반도체(DS)부문이 흑자로 전환된 것이 핵심 변수였으며, HBM(고대역폭 메모리) 공급 확대가 실적 회복을 이끌었다.",
+      "image": "https://picsum.photos/seed/2026-04-30-samsung-q1-2026-earnings/800/500"
+    },
+    {
       "filename": "2026-04-28-ai-clinical-decision-support.md",
       "title": "의사의 판단을 보조하는 AI — 임상 의사결정 지원 모델의 현재",
       "category": "AI",
@@ -405,15 +445,7 @@
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
       "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500",
-      "tags": [
-        "삼성전자",
-        "소캠2",
-        "SOCAMM2",
-        "엔비디아",
-        "베라루빈",
-        "HBM",
-        "AI메모리"
-      ]
+      "tags": ["삼성전자", "소캠2", "SOCAMM2", "엔비디아", "베라루빈", "HBM", "AI메모리"]
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -424,15 +456,7 @@
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
       "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500",
-      "tags": [
-        "무스타파술레이만",
-        "마이크로소프트",
-        "스케일링법칙",
-        "AI인프라",
-        "HBM",
-        "GPU클러스터",
-        "AI성장"
-      ]
+      "tags": ["무스타파술레이만", "마이크로소프트", "스케일링법칙", "AI인프라", "HBM", "GPU클러스터", "AI성장"]
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -443,15 +467,7 @@
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
       "image": "https://picsum.photos/seed/deepx-semiconductor/800/500",
-      "tags": [
-        "딥엑스",
-        "엣지AI",
-        "NPU",
-        "온디바이스AI",
-        "현대차",
-        "로봇",
-        "K반도체"
-      ]
+      "tags": ["딥엑스", "엣지AI", "NPU", "온디바이스AI", "현대차", "로봇", "K반도체"]
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -462,13 +478,7 @@
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
       "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500",
-      "tags": [
-        "앤트로픽",
-        "멀티에이전트",
-        "AI 자동화",
-        "Claude",
-        "에이전트 아키텍처"
-      ]
+      "tags": ["앤트로픽", "멀티에이전트", "AI 자동화", "Claude", "에이전트 아키텍처"]
     }
   ]
 }

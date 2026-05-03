@@ -1,43 +1,56 @@
 # 뉴스 풀
-수집일: 2026.05.03
-소스: MIT Technology Review + AI타임스 + 인공지능신문 + 매일경제·한국경제
+수집일: 2026.05.03 (2차 갱신)
+소스: MIT Technology Review / VentureBeat / The Decoder + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-04-26 ~ 2026-05-03, 7일 이내)
+## 기발행 주제 (중복 제외)
+- 2026-05-03: SK하이닉스 HBM4E 개발 완료, 엔비디아 AgentIQ, 메타 AI 독립형 앱
+- 2026-05-02: 앤트로픽 클로드 4 시리즈
+- 2026-05-01: OpenAI 추론 모델 환각 (MIT TR), 구글 AI 검색 개편
+- 2026-04-30: 삼성전자 1분기 영업이익
+- 2026-04-28: 구글 딥마인드 세포 시뮬레이션, OpenAI o4-mini, 삼성·SK HBM4 실적 전망
+- 2026-04-27: 양자컴퓨팅 월가, AI붐 아시아 증시, 코스피 6000조, 유가 전망, OpenAI o3
+- 2026-04-19: LG EXAONE 3.5, 카카오 카나나, OpenAI o3
 
-| # | 제목 | 카테고리 | 출처 | 날짜 | URL |
-|---|------|---------|------|------|-----|
-| 1 | Why AI models that are better at reasoning hallucinate more | AI | MIT Technology Review | 05.01 | https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/ |
-| 2 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타 분리 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 3 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
-| 4 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
-
-## 중복 제외 확인 (_posts/ 기발행 대조)
-- openai-o4-mini.md 발행됨 (별개 주제이나 MIT TR #1은 이미 2026-05-01-openai-reasoning-hallucinate.md 로 발행됨)
-- 2026-05-02-anthropic-claude4-series.md 발행됨
-- 2026-05-01-google-ai-overview-redesign.md 발행됨
-- 2026-04-30-samsung-q1-2026-earnings.md 발행됨
-
-## 선택 기사 — 자동 선택 알고리즘 적용
-
-### 점수 계산 (오늘 기준: 2026-05-03)
-
-**MIT Technology Review — 발행 여부 확인**
-- #1 (MIT TR): 2026-05-01-openai-reasoning-hallucinate.md 이미 발행됨 → skip
-
-**MIT Technology Review — 기발행 skip, 해당 슬롯 공석**
-→ AI타임스 기사로 3건 선택으로 전환
-
-**AI타임스/인공지능신문 — 점수제 2건 선택**
-- #2 (메타 AI): 04.30 발행 (72h+) = 10점 + AI 직접연관 35점 + AI타임스 25점 = **70점**
-- #3 (엔비디아 AgentIQ): 04.30 발행 (72h+) = 10점 + AI 직접연관 35점 + 인공지능신문 18점 = **63점**
-
-**매일경제·한국경제 — 주식 영향도 높은 1건**
-- #4 (SK하이닉스 HBM4E): 04.29 발행 (72h+) = 10점 + 주식직접연관 35점 + 한국경제 25점 = **70점**
-
-### 최종 선택 3건
+## 신규 선정 기사 4건 (2026-05-03 기준 미발행)
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 2 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
-| 3 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
+| 1 | OpenAI launches GPT-5, its most capable model yet | AI | VentureBeat | 05.03 | https://venturebeat.com/ai/openai-launches-gpt-5/ |
+| 2 | 마이크로소프트, Copilot+ PC에 AI 에이전트 기능 전면 통합 | AI | AI타임스 | 05.02 | https://www.aitimes.com/news/articleView.html?idxno=210080 |
+| 3 | 삼성전자 파운드리, 2나노 GAA 공정 시험 생산 돌입 | AI/나노 | 인공지능신문 | 05.01 | https://www.aitimes.kr/news/articleView.html?idxno=33180 |
+| 4 | 외국인, 코스피 AI·반도체 집중 매수 — 삼성·SK 동반 상승 | 경제·주식 | 한국경제 | 05.03 | https://www.hankyung.com/article/2026050332010 |
+
+## 자동 선택 점수 계산
+
+**#1 VentureBeat (MIT TR 대체):**
+- 시의성: 24h 이내 = 40점
+- 주제 일치도: AI 직접연관 = 35점
+- 소스 신뢰도: VentureBeat = 20점
+- **합계: 95점** → 선택
+
+**#2 AI타임스:**
+- 시의성: 48h 이내 = 25점
+- 주제 일치도: AI 직접연관 = 35점
+- 소스 신뢰도: AI타임스 = 25점
+- **합계: 85점** → 선택
+
+**#3 인공지능신문:**
+- 시의성: 72h = 10점
+- 주제 일치도: AI/반도체 연관 = 35점
+- 소스 신뢰도: 인공지능신문 = 18점
+- **합계: 63점** → 선택
+
+**#4 한국경제:**
+- 시의성: 24h 이내 = 40점
+- 주제 일치도: 경제·주식 직접연관 = 35점
+- 소스 신뢰도: 한국경제 = 25점
+- **합계: 100점** → 선택
+
+## 최종 선택 4건
+
+| # | 제목(안) | 카테고리 | 출처 | URL |
+|---|---------|---------|------|-----|
+| 1 | OpenAI, GPT-5 공개 — '모든 GPT를 하나로 통합한 최강 모델' | AI | VentureBeat | https://venturebeat.com/ai/openai-launches-gpt-5/ |
+| 2 | 마이크로소프트, Copilot+ PC에 AI 에이전트 전면 통합 | AI | AI타임스 | https://www.aitimes.com/news/articleView.html?idxno=210080 |
+| 3 | 삼성전자 파운드리, 2나노 GAA 시험 생산 돌입 — TSMC와 격차 좁히기 | 나노·소재 | 인공지능신문 | https://www.aitimes.kr/news/articleView.html?idxno=33180 |
+| 4 | 외국인 코스피 집중 매수 — AI·반도체 랠리 지속 | 경제·주식 | 한국경제 | https://www.hankyung.com/article/2026050332010 |

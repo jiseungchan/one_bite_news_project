@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-03-kospi-foreign-buying-ai-semiconductor.md",
+      "title": "외국인, 코스피 AI·반도체 집중 매수 — 삼성·SK 동반 상승, 랠리의 근거는 무엇인가",
+      "category": "경제·주식",
+      "date": "2026-05-03",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050332010",
+      "description": "외국인 투자자들이 코스피 AI·반도체 종목을 집중 매수하며 삼성전자와 SK하이닉스가 동반 상승했다. GPT-5 공개와 엔비디아 실적 기대감이 맞물리며 글로벌 AI 투자 심리가 국내 반도체주로 유입되고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-05-03-samsung-2nm-gaa-foundry.md",
+      "title": "삼성전자 파운드리, 2나노 GAA 시험 생산 돌입 — TSMC와의 격차를 좁힐 수 있을까",
+      "category": "나노·소재",
+      "date": "2026-05-03",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33180",
+      "description": "삼성전자 파운드리 사업부가 2나노 GAA 공정의 시험 생산에 돌입했다. 2025년 3나노에서 경험한 수율 문제를 개선한 새 공정으로, 엔비디아·퀄컴 등 팹리스 고객사의 주목을 받고 있다. TSMC N2와의 정면 경쟁이 시작됐다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-05-03-microsoft-copilot-ai-agent.md",
+      "title": "마이크로소프트, Copilot+ PC에 AI 에이전트 전면 통합 — PC가 스스로 일을 처리하는 시대",
+      "category": "AI",
+      "date": "2026-05-03",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210080",
+      "description": "마이크로소프트가 Copilot+ PC 전 라인업에 AI 에이전트 기능을 전면 통합했다. 사용자가 지시하면 PC가 앱을 열고, 파일을 찾고, 이메일을 작성하고, 회의 일정을 잡는 것까지 스스로 처리한다. Windows 역사상 가장 큰 UI 패러다임 전환이라는 평가다.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80"
+    },
+    {
+      "filename": "2026-05-03-openai-gpt5-launch.md",
+      "title": "OpenAI, GPT-5 공개 — '모든 GPT를 하나로 통합한 최강 모델'",
+      "category": "AI",
+      "date": "2026-05-03",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/openai-launches-gpt-5/",
+      "description": "OpenAI가 GPT-4o, o1, o3 등 분산됐던 모델 라인업을 하나로 통합한 GPT-5를 공개했다. 텍스트·이미지·음성·코드를 단일 모델에서 처리하며, 추론 능력과 멀티모달 성능 모두 전작을 뛰어넘는다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
       "filename": "2026-05-03-skhynix-hbm4e-development.md",
       "title": "SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, 엔비디아 루빈 GPU에 탑재",
       "category": "경제·주식",
@@ -465,15 +505,7 @@
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
       "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500",
-      "tags": [
-        "삼성전자",
-        "소캠2",
-        "SOCAMM2",
-        "엔비디아",
-        "베라루빈",
-        "HBM",
-        "AI메모리"
-      ]
+      "tags": ["삼성전자", "소캠2", "SOCAMM2", "엔비디아", "베라루빈", "HBM", "AI메모리"]
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -484,15 +516,7 @@
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
       "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500",
-      "tags": [
-        "무스타파술레이만",
-        "마이크로소프트",
-        "스케일링법칙",
-        "AI인프라",
-        "HBM",
-        "GPU클러스터",
-        "AI성장"
-      ]
+      "tags": ["무스타파술레이만", "마이크로소프트", "스케일링법칙", "AI인프라", "HBM", "GPU클러스터", "AI성장"]
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -503,15 +527,7 @@
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
       "image": "https://picsum.photos/seed/deepx-semiconductor/800/500",
-      "tags": [
-        "딥엑스",
-        "엣지AI",
-        "NPU",
-        "온디바이스AI",
-        "현대차",
-        "로봇",
-        "K반도체"
-      ]
+      "tags": ["딥엑스", "엣지AI", "NPU", "온디바이스AI", "현대차", "로봇", "K반도체"]
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -522,13 +538,7 @@
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
       "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500",
-      "tags": [
-        "앤트로픽",
-        "멀티에이전트",
-        "AI 자동화",
-        "Claude",
-        "에이전트 아키텍처"
-      ]
+      "tags": ["앤트로픽", "멀티에이전트", "AI 자동화", "Claude", "에이전트 아키텍처"]
     }
   ]
 }

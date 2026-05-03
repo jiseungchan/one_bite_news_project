@@ -177,16 +177,6 @@
       "image": "https://picsum.photos/seed/samsung-sdi-ev-battery/800/500"
     },
     {
-      "filename": "2026-04-21-skhynix-profit-margin-64.md",
-      "title": "SK하이닉스 영업이익률 64% — HBM이 만든 역대급 숫자의 의미",
-      "category": "경제·주식",
-      "date": "2026-04-21",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12021499",
-      "description": "SK하이닉스가 영업이익률 64%라는 반도체 업계 이례적 수치를 기록했다. HBM(고대역폭 메모리) 독주 효과가 실적 전반에 반영된 결과로, 성과급 수조 원도 '넉넉히' 감당할 수 있는 수준이다.",
-      "image": "https://picsum.photos/seed/skhynix-earnings-2026/800/500"
-    },
-    {
       "filename": "2026-04-19-openai-o3-reasoning-model.md",
       "title": "OpenAI o3, 추론 모델의 새 기준을 세우다 — '생각하는 AI'가 한 단계 더 올라갔다",
       "category": "AI",
@@ -475,7 +465,15 @@
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
       "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500",
-      "tags": ["삼성전자", "소캠2", "SOCAMM2", "엔비디아", "베라루빈", "HBM", "AI메모리"]
+      "tags": [
+        "삼성전자",
+        "소캠2",
+        "SOCAMM2",
+        "엔비디아",
+        "베라루빈",
+        "HBM",
+        "AI메모리"
+      ]
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -486,7 +484,15 @@
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
       "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500",
-      "tags": ["무스타파술레이만", "마이크로소프트", "스케일링법칙", "AI인프라", "HBM", "GPU클러스터", "AI성장"]
+      "tags": [
+        "무스타파술레이만",
+        "마이크로소프트",
+        "스케일링법칙",
+        "AI인프라",
+        "HBM",
+        "GPU클러스터",
+        "AI성장"
+      ]
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -497,7 +503,15 @@
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
       "image": "https://picsum.photos/seed/deepx-semiconductor/800/500",
-      "tags": ["딥엑스", "엣지AI", "NPU", "온디바이스AI", "현대차", "로봇", "K반도체"]
+      "tags": [
+        "딥엑스",
+        "엣지AI",
+        "NPU",
+        "온디바이스AI",
+        "현대차",
+        "로봇",
+        "K반도체"
+      ]
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -508,7 +522,13 @@
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
       "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500",
-      "tags": ["앤트로픽", "멀티에이전트", "AI 자동화", "Claude", "에이전트 아키텍처"]
+      "tags": [
+        "앤트로픽",
+        "멀티에이전트",
+        "AI 자동화",
+        "Claude",
+        "에이전트 아키텍처"
+      ]
     }
   ]
 }

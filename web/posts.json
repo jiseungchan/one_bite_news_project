@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "2026-05-04-mit-ai-agents-human-oversight.md",
+      "title": "AI 에이전트가 실수할 때 누가 책임지나 — 자율성과 인간 감독 사이의 딜레마",
+      "category": "AI",
+      "date": "2026-05-04",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/03/1116198/ai-agents-autonomy-human-oversight-accountability/",
+      "description": "AI 에이전트가 스스로 결정을 내리고 행동하는 범위가 넓어질수록, 실수가 발생했을 때 책임 소재가 불분명해진다. MIT Technology Review가 자율 에이전트 시대의 인간 감독 구조를 집중 분석했다.",
+      "image": "https://picsum.photos/seed/2026-05-04-mit-ai-agents-human-oversight/800/500"
+    },
+    {
       "filename": "2026-05-03-skhynix-hbm4e-development.md",
       "title": "SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, 엔비디아 루빈 GPU에 탑재",
       "category": "경제·주식",

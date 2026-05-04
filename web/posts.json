@@ -1,6 +1,56 @@
 {
   "posts": [
     {
+      "filename": "2026-05-04-autonomous-ai-lab-science.md",
+      "title": "사람 없이 실험이 돌아간다 — 자율 AI 실험실이 바꾸는 과학 연구의 판",
+      "category": "AI",
+      "date": "2026-05-04",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/03/1116180/autonomous-ai-laboratories-self-driving-science/",
+      "description": "AI가 스스로 가설을 세우고, 실험을 설계하고, 결과를 해석하는 '자율 AI 실험실'이 화학·재료과학 분야에서 현실이 됐다. 과학자의 역할이 '직접 실험하는 사람'에서 '실험 방향을 결정하는 사람'으로 바뀌고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-04-autonomous-ai-lab/800/500"
+    },
+    {
+      "filename": "2026-05-04-kt-ai-agent-platform.md",
+      "title": "KT, 기업용 AI 에이전트 플랫폼 'AI G' 출시 — 통신사가 AI 중계자를 자처하다",
+      "category": "AI",
+      "date": "2026-05-04",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210098",
+      "description": "KT가 기업 업무 자동화에 특화된 AI 에이전트 플랫폼 'AI G'를 정식 출시했다. 단순 챗봇이 아니라, 기업 내부 시스템을 AI가 직접 조작하고 처리하는 구조로 설계됐다. 통신 인프라를 가진 KT가 AI 도구 시장에 본격적으로 뛰어드는 첫 번째 시도다.",
+      "image": "https://picsum.photos/seed/2026-05-04-kt-ai-agent/800/500"
+    },
+    {
+      "filename": "2026-05-04-eu-ai-act-phase1-korea-impact.md",
+      "title": "EU AI법 1단계 본격 시행 — 국내 기업이 준비해야 할 것들",
+      "category": "AI",
+      "date": "2026-05-04",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33198",
+      "description": "유럽연합(EU)의 'AI법(AI Act)' 1단계 조항이 2026년 5월부터 공식 적용되기 시작했다. 유럽에 제품·서비스를 수출하거나 유럽 법인을 운영하는 국내 기업들은 당장 대응이 필요한 상황이다.",
+      "image": "https://picsum.photos/seed/2026-05-04-eu-ai-act/800/500"
+    },
+    {
+      "filename": "2026-05-04-korea-semiconductor-export-record.md",
+      "title": "반도체 수출 5개월 연속 증가 — 4월 역대 최고치, AI 수요가 이끄는 회복세",
+      "category": "경제·주식",
+      "date": "2026-05-04",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050233041",
+      "description": "2026년 4월 반도체 수출이 역대 최고치를 기록하며 5개월 연속 증가세를 이어갔다. AI 서버 수요 급증이 직접적 원인이며, 삼성전자·SK하이닉스 모두 수혜를 입고 있다. 증권가는 2분기 실적 전망을 추가 상향 조정 중이다.",
+      "image": "https://picsum.photos/seed/2026-05-04-semiconductor-export/800/500"
+    },
+    {
+      "filename": "2026-05-04-mit-ai-agents-human-oversight.md",
+      "title": "AI 에이전트가 실수할 때 누가 책임지나 — 자율성과 인간 감독 사이의 딜레마",
+      "category": "AI",
+      "date": "2026-05-04",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/03/1116198/ai-agents-autonomy-human-oversight-accountability/",
+      "description": "AI 에이전트가 스스로 결정을 내리고 행동하는 범위가 넓어질수록, 실수가 발생했을 때 책임 소재가 불분명해진다. MIT Technology Review가 자율 에이전트 시대의 인간 감독 구조를 집중 분석했다.",
+      "image": "https://picsum.photos/seed/2026-05-04-mit-ai-agents-human-oversight/800/500"
+    },
+    {
       "filename": "2026-05-03-skhynix-hbm4e-development.md",
       "title": "SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, 엔비디아 루빈 GPU에 탑재",
       "category": "경제·주식",
@@ -465,15 +515,7 @@
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
       "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500",
-      "tags": [
-        "삼성전자",
-        "소캠2",
-        "SOCAMM2",
-        "엔비디아",
-        "베라루빈",
-        "HBM",
-        "AI메모리"
-      ]
+      "tags": ["삼성전자", "소캠2", "SOCAMM2", "엔비디아", "베라루빈", "HBM", "AI메모리"]
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -484,15 +526,7 @@
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
       "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500",
-      "tags": [
-        "무스타파술레이만",
-        "마이크로소프트",
-        "스케일링법칙",
-        "AI인프라",
-        "HBM",
-        "GPU클러스터",
-        "AI성장"
-      ]
+      "tags": ["무스타파술레이만", "마이크로소프트", "스케일링법칙", "AI인프라", "HBM", "GPU클러스터", "AI성장"]
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -503,15 +537,7 @@
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
       "image": "https://picsum.photos/seed/deepx-semiconductor/800/500",
-      "tags": [
-        "딥엑스",
-        "엣지AI",
-        "NPU",
-        "온디바이스AI",
-        "현대차",
-        "로봇",
-        "K반도체"
-      ]
+      "tags": ["딥엑스", "엣지AI", "NPU", "온디바이스AI", "현대차", "로봇", "K반도체"]
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -522,13 +548,7 @@
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
       "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500",
-      "tags": [
-        "앤트로픽",
-        "멀티에이전트",
-        "AI 자동화",
-        "Claude",
-        "에이전트 아키텍처"
-      ]
+      "tags": ["앤트로픽", "멀티에이전트", "AI 자동화", "Claude", "에이전트 아키텍처"]
     }
   ]
 }

@@ -1,7 +1,8 @@
 # 주식 영향도 평가 결과
-평가일: 2026-05-04
-전체 기사: 58건 → 후보(6+): 10건 (제목 기반) → 최종 선별(7+): 7건
-※ 중복 방지: 2026-05-03 브리핑(트럼프-파월·이란유가·골드만AI·OpenAI CFO·퀄컴·에너지+AI·AI채권) 항목과 주제 중복 없음 확인
+평가일: 2026-05-05
+전체 기사: 179건 → 후보(6+): 10건 (제목 기반) → 최종 선별(7+): 6건
+※ 중복 방지: 2026-05-03 브리핑(이란유가 주간 상승·골드만AI·OpenAI CFO·퀄컴·에너지+AI·AI채권) 확인
+※ 이란 관련 기사는 "이란-미국 교전 + UAE 공격 재개 + 호르무즈 한국선박 피해"로 사태가 확대되어 신규 포함
 
 ---
 
@@ -9,85 +10,77 @@
 
 | 순위 | 잠정점수 | 최종점수 | 기사 제목 | 판정 |
 |------|---------|---------|-----------|------|
-| 1 | 9 | 9/10 | Fed Holds Rates Steady — Powell 기자회견 | ✅ 선별 |
-| 2 | 9 | 9/10 | Amazon AWS Crosses $100B Annual Run Rate as AI Demand Soars | ✅ 선별 |
-| 3 | 9 | 9/10 | Meta Shares Surge After Ad Revenue Tops Estimates | ✅ 선별 |
-| 4 | 8 | 8/10 | Microsoft Profit Surges 18% on Cloud, AI Push | ✅ 선별 |
-| 5 | 8 | 8/10 | SK Hynix Confirms HBM4 Mass Production for H1 2027 | ✅ 선별 |
-| 6 | 8 | 8/10 | 한화오션 미국 해군 MRO 계약 3.5조원 수주 | ✅ 선별 |
-| 7 | 8 | 7/10 | Anthropic Closes $2B Series F at $900B Valuation | ✅ 선별 |
-| — | 6 | — | 한국은행 기준금리 2.50% 동결(5연속) | ❌ 제외 — 예상대로 동결, 시장 충격 낮음 |
-| — | 6 | — | 삼성바이오로직스 파업 2일째·주가 4% 하락 | ❌ 제외 — 05-02 브리핑에서 이미 다룬 주제 연속선상 |
-| — | 6 | — | 애플 인도 생산 25% 확대 | ❌ 제외 — 중장기 공급망 재편 이슈, 즉각 시장 충격 낮음 |
+| 1 | 9 | 9/10 | 이란 UAE 공격 재개·미 '해방 프로젝트' 착수…호르무즈 韓 선박 피해·유가 급등 | ✅ 선별 |
+| 2 | 8 | 8/10 | Palantir Raises Revenue Outlook — 연 매출 전망 상향, 美 정부 AI 계약 견인 | ✅ 선별 |
+| 3 | 8 | 8/10 | Apple Explores Using Intel and Samsung to Build Main Device Chips in the US | ✅ 선별 |
+| 4 | 7 | 7/10 | FedEx, UPS Shares Sink on 'Watershed' Amazon Logistics Move | ✅ 선별 |
+| 5 | 7 | 7/10 | ServiceNow Sees $30 Billion Revenue by 2030 on AI Uplift | ✅ 선별 |
+| 6 | 7 | 7/10 | Europe Is Facing Stagflationary Shock, EU's Dombrovskis Says | ✅ 선별 |
+| — | 7 | — | Bond Yields Rise on Iran Tensions, Dollar Gains: Markets Wrap | ❌ 제외 — 이란 사태 카드와 중복 내용 |
+| — | 6 | — | 한국 성장률 전망 '쑥'…경기과열 조짐에 고개드는 금리 인상론 | ❌ 제외 — 국내 거시 변수, 주식 직접 영향 낮음 |
+| — | 6 | — | "불법 파업 땐 노조 전원 상대 손배소"…삼성전자 주주단체 경고 | ❌ 제외 — 개별 기업 노사 리스크, 즉각 시장 충격 낮음 |
+| — | 6 | — | 삼성바이오 노조, 닷새째 전면파업 | ❌ 제외 — 05-02 브리핑에서 이미 다룬 주제 연속 |
 
 ---
 
 ## 선별 기사 (영향도 7점 이상)
 
-### [점수: 9/10] Fed Holds Rates Steady — Powell: "Rate Cuts Not Appropriate Until Inflation Convincingly Easing"
-- **출처**: Bloomberg Economics / Bloomberg Markets
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/fed-holds-rates-fomc-may-2026
-- **영향 방향**: 혼재 🟡 (동결 자체는 예상, 파월 매파 발언이 변수)
-- **관련 업종/종목**: 미국 국채(TLT), 달러 인덱스(DXY), 금(GLD), 나스닥(QQQ), 금융주(KB금융·신한지주), 성장주 전반, 원/달러 환율
-- **핵심 근거**: 미 연준이 5월 FOMC에서 기준금리를 동결. 파월 의장은 기자회견에서 "인플레이션이 설득력 있게 둔화될 때까지 금리 인하는 적절하지 않다"고 발언. 이란전쟁발 에너지 인플레이션과 AI 수요 과열이 금리 인하 시점을 늦추는 구조. 시장 예상 금리 인하 횟수 재조정 가능성.
-- **대본 소재**: 연준 5월 금리 동결 / 파월 "인플레 확신 전까지 인하 없다" 발언 / 에너지·AI 이중 인플레이션 / 연내 금리 인하 기대 후퇴 / 성장주 vs 가치주 영향
+### [점수: 9/10] 이란 UAE 공격 재개·미 '해방 프로젝트' 착수 — 호르무즈 韓 선박 피해·유가 급등
+- **출처**: 매일경제 / Bloomberg Markets
+- **링크**: https://www.mk.co.kr/news/world/12035855
+- **보조 링크**: https://www.bloomberg.com/news/articles/2026-05-04/latest-oil-market-news-and-analysis-for-may-5
+- **영향 방향**: 혼재 🟡 (정유·방산 수혜, 해운·항공·화학 부정, 코스피 전반 불안)
+- **관련 업종/종목**: S-Oil(010950), SK이노베이션(096770), 한화오션(042660), HMM(011200), 대한항공(003490), 한국전력(015760), 롯데케미칼(011170), WTI 연동 ETF, 금(GLD)
+- **핵심 근거**: 이란이 한 달간의 휴전을 깨고 UAE를 재공격하고, 미국이 '해방 프로젝트' 군사작전을 개시. 호르무즈 해협에서 한국 선박(HMM 벌크선)이 화재 피해를 입었고, 한국 정부가 재외국민 대책회의를 열었다. 이란 사태가 '휴전→재개→미국 직접 작전'으로 격화되면서 유가가 급등. 한국 선박 피해는 해운사 리스크를 직접 부각.
+- **대본 소재**: 이란 UAE 재공격 + 미국 '해방 프로젝트' 착수 / 호르무즈 한국 선박 화재 / 유가 급등 / 정유 수혜 vs 해운·항공 부담 / 한국 정부 대응
 
 ---
 
-### [점수: 9/10] Amazon AWS Crosses $100 Billion Annual Run Rate as AI Demand Soars
-- **출처**: Bloomberg Markets / 매일경제
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-03/amazon-first-quarter-2026-earnings-aws
-- **영향 방향**: 긍정 🟢
-- **관련 업종/종목**: Amazon(AMZN), Microsoft(MSFT), Alphabet(GOOGL), AI 데이터센터 관련주, SK하이닉스(000660), 삼성전자(005930 — HBM 납품), 국내 AI 인프라 소부장
-- **핵심 근거**: 아마존 AWS가 1분기 기준 연간 매출 환산(run rate)으로 처음 1000억 달러(29조원 분기 실적)를 돌파. AI 수요 급증이 클라우드 성장을 견인. AWS의 AI 인프라 투자 지속은 HBM·고성능 GPU 수요 확대를 의미. 마이크로소프트(분기 순이익 18% 증가)·메타(광고 서프라이즈)와 함께 빅테크 실적 3연타 서프라이즈. AI 인프라 투자 사이클 강화 신호.
-- **대본 소재**: AWS 연환산 $1000억 첫 돌파 / AI 수요가 클라우드 성장 견인 / 빅테크 실적 3연타 서프라이즈(아마존·MS·메타) / HBM·GPU 수요 지속 확인 / 국내 반도체 수혜 경로
+### [점수: 8/10] Palantir Raises Revenue Outlook — 美 정부 AI 계약이 성장 견인
+- **출처**: Bloomberg Technology / 매일경제
+- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/palantir-issues-strong-revenue-outlook-for-2026-shares-gain
+- **보조 링크**: https://www.mk.co.kr/news/it/12035825
+- **영향 방향**: 긍정 🟢 (방산·정부 AI, AI 인프라)
+- **관련 업종/종목**: Palantir(PLTR), 국내 방산 AI(한화시스템·LIG넥스원), AI 인프라 관련주(삼성전자·SK하이닉스), 미국 방산 ETF(XAR·ITA)
+- **핵심 근거**: 팔란티어가 연간 매출 전망치를 상향 조정했으나 상업 부문 판매가 예상치에 못 미쳤다. 성장을 이끈 것은 미국 정부 AI 계약(방위부·정보기관) 확대. 방산 AI 시장의 독점적 위치를 재확인. 상업 부문 미스는 단기 주가 변동 요인이나, 정부 계약 확대는 중기 강세 근거. 한국 방산 AI 기업(한화시스템 등)에도 밸류에이션 참고 근거.
+- **대본 소재**: 팔란티어 연 매출 전망 상향 / 美 정부 AI 계약이 성장 동력 / 상업 부문 미스 — 단기 변동 / 방산 AI 독점 포지션 / 한국 방산 AI 간접 수혜
 
 ---
 
-### [점수: 9/10] Meta Shares Surge After Ad Revenue Tops Estimates for First Quarter
-- **출처**: Bloomberg Markets / 한국경제 IT
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-03/meta-first-quarter-earnings-ad-revenue
-- **영향 방향**: 긍정 🟢
-- **관련 업종/종목**: Meta(META), Alphabet(GOOGL), 국내 네이버(035420)·카카오(035720), 디지털 광고주(광고 소재 수혜), AI 인프라주 전반
-- **핵심 근거**: 메타 1분기 광고 매출이 42억 달러로 시장 전망치를 크게 상회하며 주가가 시간외 5% 급등. AI 기반 타겟 광고 효율 향상이 메타의 광고 단가·노출량을 동시에 끌어올림. AI 투자 비용 지출에도 수익성 개선 확인. 네이버·카카오 등 국내 AI 광고 플랫폼에도 밸류에이션 재평가 근거 제공.
-- **대본 소재**: 메타 1분기 광고 42억달러 서프라이즈 / AI 타겟 광고 효율 향상 / 주가 시간외 5% 급등 / AI 투자 비용에도 수익성 개선 / 네이버·카카오 밸류에이션 재평가 가능성
-
----
-
-### [점수: 8/10] Microsoft Profit Surges 18% on Cloud, AI Push — Tops All Estimates
-- **출처**: Bloomberg Markets / 매일경제
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-03/microsoft-first-quarter-2026-earnings
-- **영향 방향**: 긍정 🟢
-- **관련 업종/종목**: Microsoft(MSFT), Nvidia(NVDA — Azure 인프라 수혜), OpenAI(비상장 — 파트너십), 국내 클라우드·SaaS 관련주(더존비즈온·한컴 등)
-- **핵심 근거**: 마이크로소프트 1분기 순이익이 전년 대비 18% 증가하며 시장 예상치를 모두 상회. Azure 클라우드와 AI(Copilot) 사업 성장이 핵심 동력. AI 구독 기반 수익 모델이 안정적으로 작동하고 있음을 확인. 빅테크 실적 시즌 마무리 국면에서 AI 수익화 가시성 최고조.
-- **대본 소재**: MS 1분기 순이익 18% 증가 / Azure·Copilot AI 구독 수익화 / AI 수익 모델 안정성 확인 / 빅테크 실적 시즌 AI 수익화 마무리
-
----
-
-### [점수: 8/10] SK Hynix Confirms HBM4 Mass Production for H1 2027
-- **출처**: Bloomberg Technology / 한국경제 경제
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/sk-hynix-hbm4-mass-production-2027
-- **영향 방향**: 긍정 🟢
-- **관련 업종/종목**: SK하이닉스(000660), 삼성전자(005930 — 경쟁 대응 압박), Nvidia(NVDA — 납품처), 마이크론(MU), 국내 HBM 소부장(한미반도체·이오테크닉스 등)
-- **핵심 근거**: SK하이닉스가 HBM4(6세대 고대역폭 메모리) 양산 일정을 2027년 상반기로 공식 확정. 현 세대(HBM3E) 대비 대역폭 50% 이상 향상 예상. Nvidia 차세대 GPU 플랫폼 공급사로서의 위치 선점. 삼성전자는 HBM4 경쟁에서 뒤처지지 않기 위한 투자 가속이 요구될 것. 국내 HBM 소부장 기업에 직접 수혜.
-- **대본 소재**: SK하이닉스 HBM4 2027년 상반기 양산 확정 / 현 세대 대비 대역폭 50% 향상 / Nvidia 차세대 GPU 납품 선점 / 삼성 경쟁 압박 / 소부장 수혜
-
----
-
-### [점수: 8/10] 한화오션, 미국 해군 함정 MRO 계약 3.5조원 수주
-- **출처**: 매일경제 / Bloomberg Technology
-- **링크**: https://www.mk.co.kr/news/business/12034001
-- **영향 방향**: 긍정 🟢
-- **관련 업종/종목**: 한화오션(042660), HD현대중공업(329180), HD현대(267250), 한화에어로스페이스(012450), 방산 ETF
-- **핵심 근거**: 한화오션이 미국 해군 함정 유지·보수·정비(MRO) 계약을 3.5조원 규모로 수주. 미국 해군 최대 규모의 해외 조선사 MRO 계약. 미-한 동맹 강화 배경에서 국내 방산·조선사의 미국 시장 본격 진입을 의미. 한화오션 주가에 단기 모멘텀. HD현대중공업 등 경쟁사도 미국 시장 입찰 기회 확대 기대.
-- **대본 소재**: 한화오션 미 해군 MRO 3.5조 수주 / 국내 조선사 미국 시장 첫 대형 계약 / 한화오션 주가 모멘텀 / 방산·조선 섹터 동반 강세 / HD현대 등 연쇄 기대
-
----
-
-### [점수: 7/10] Anthropic Closes $2B Series F at $900 Billion Valuation
+### [점수: 8/10] Apple Explores Using Intel and Samsung to Build Main Device Chips in the US
 - **출처**: Bloomberg Technology
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/anthropic-series-f-900b-valuation
-- **영향 방향**: 긍정 🟢 (AI 섹터 전반), 주의 🔴 (AI 버블 우려 심화)
-- **관련 업종/종목**: Alphabet(GOOGL — Anthropic 주주), Amazon(AMZN — AWS 파트너), AI 관련 상장 ETF(BOTZ·AIQ), OpenAI·Anthropic 생태계 관련주, 국내 AI 투자 테마주(네이버·카카오·리벨리온)
-- **핵심 근거**: Anthropic이 9000억 달러(한화 약 1215조원) 기업가치로 시리즈 F 20억 달러 투자를 마무리. GPT-4급 경쟁 AI 기업의 밸류에이션이 국내 삼성전자 시총에 육박하는 수준. AI 기업 밸류에이션 팽창이 과열인지, 실적 기반 성장인지 논쟁 재점화. 단기 AI 테마 심리 강화이나 버블 논쟁도 함께 부각.
-- **대본 소재**: Anthropic 9000억달러 밸류 $2B 투자 마무리 / 삼성전자 시총에 육박하는 비상장 AI 기업 / AI 밸류에이션 과열 vs 실적 기반 논쟁 / Alphabet·Amazon 지분 투자 가치 / AI 테마 심리 강화
+- **링크**: https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us
+- **영향 방향**: 긍정 🟢 (삼성전자·인텔), 주의 🔴 (TSMC 의존도 감소)
+- **관련 업종/종목**: 삼성전자(005930 — 미국 파운드리 사업 수혜), Intel(INTC), TSMC(TSM — 의존도 감소 압박), 애플(AAPL), 반도체 파운드리 ETF
+- **핵심 근거**: 애플이 아이폰·맥 메인 칩(A시리즈·M시리즈)을 인텔 및 삼성전자에 위탁 생산하는 방안을 탐색 중이라는 보도. 현재 TSMC에 사실상 100% 의존하는 구조에서의 탈피 시도. 미국 내 반도체 생산(온쇼어링) 압력이 배경. 삼성전자의 미국 텍사스 파운드리 공장 가동률 제고 기대. 단, 애플의 TSMC 이탈은 기술·비용 장벽으로 단기 현실화 가능성 낮음.
+- **대본 소재**: 애플, 삼성·인텔에 메인 칩 위탁 탐색 / TSMC 100% 의존 탈피 검토 / 삼성 미국 파운드리 기대 / 온쇼어링(미국 내 생산) 압력 / 단기 실현 가능성은 낮음
+
+---
+
+### [점수: 7/10] FedEx, UPS Shares Sink on 'Watershed' Amazon Logistics Move
+- **출처**: Bloomberg Technology
+- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/amazon-repackaging-of-shipping-services-fuels-ups-fedex-selloff
+- **영향 방향**: 부정 🔴 (FedEx·UPS), 혼재 🟡 (아마존·물류 자회사)
+- **관련 업종/종목**: FedEx(FDX), UPS(UPS), Amazon(AMZN), 국내 CJ대한통운(000120), 한진(002320), 쿠팡
+- **핵심 근거**: 아마존이 자사 물류 네트워크를 제3자에게 개방하는 방식으로 서비스를 재편하면서 FedEx와 UPS 주가가 급락. "watershed(분수령)" 이벤트로 불리는 이 결정은 아마존이 독립 물류 플랫폼으로 부상하며 기존 택배 대기업을 직접 위협한다는 의미. 국내에서는 쿠팡 로켓 배송 확장과 유사한 흐름으로 CJ대한통운·한진 등에 압박이 될 수 있음.
+- **대본 소재**: 아마존 물류 플랫폼 제3자 개방 / FedEx·UPS 주가 급락 / '분수령' 물류 재편 / 아마존 독립 물류 부상 / 국내 CJ대한통운·한진 영향
+
+---
+
+### [점수: 7/10] ServiceNow Sees $30 Billion Revenue by 2030 on AI Uplift
+- **출처**: Bloomberg Technology
+- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/servicenow-projects-sales-to-hit-30-billion-on-ai-now-assist-uplift
+- **영향 방향**: 긍정 🟢
+- **관련 업종/종목**: ServiceNow(NOW), Salesforce(CRM), Microsoft(MSFT — AI SaaS 경쟁사), 국내 AI SaaS(더존비즈온·카카오엔터프라이즈), AI 소프트웨어 ETF(AIQ)
+- **핵심 근거**: 서비스나우(기업용 업무 자동화 SaaS)가 2030년 매출 목표를 300억 달러로 제시. AI(Now Assist) 기능이 기업 고객의 업무 자동화를 가속하며 성장을 이끌고 있다는 설명. AI SaaS(서비스형 소프트웨어) 기업들의 중장기 성장 시나리오가 실적 기반으로 뒷받침되고 있음을 보여줌. 국내 AI 소프트웨어 기업들의 밸류에이션 참고 기준이 될 수 있음.
+- **대본 소재**: 서비스나우 2030년 매출 $300억 목표 / AI Now Assist 기업 업무 자동화 / AI SaaS 중장기 성장 실증 / 국내 AI 소프트웨어 밸류에이션 참고 / AI 수익화 가시성 확인
+
+---
+
+### [점수: 7/10] Europe Is Facing Stagflationary Shock, EU's Dombrovskis Says
+- **출처**: Bloomberg Economics
+- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/europe-is-facing-stagflationary-shock-eu-s-dombrovskis-says
+- **영향 방향**: 부정 🔴 (유럽 수출 기업, 글로벌 경기 민감주)
+- **관련 업종/종목**: 유럽 수출 비중 높은 국내 기업(현대차·기아·포스코홀딩스·LG화학), 달러 자산, 유럽 ETF(EZU·VGK), ECB 금리 관련 채권
+- **핵심 근거**: EU 집행위 경제담당 부위원장 돔브로브스키스가 유럽이 스태그플레이션(Stagflation — 경기침체와 물가 상승이 동시에 일어나는 최악의 경제 상황) 충격에 직면했다고 공식 경고. 이란 에너지 쇼크로 인한 유럽 물가 상승 + 수출 둔화로 인한 성장 둔화가 동시에 진행 중. ECB(유럽중앙은행) 금리 인상 압박과 경기 부양 딜레마가 교차. 유럽 수출 비중 높은 국내 기업에 직접 리스크.
+- **대본 소재**: EU 부위원장 "유럽 스태그플레이션 충격" 경고 / 이란발 에너지 쇼크 + 수출 둔화 동시 충격 / ECB 금리 딜레마 / 유럽 수출 국내 기업 리스크 / 글로벌 경기 둔화 변수

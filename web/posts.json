@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-05-ai-transforming-scientific-research.md",
+      "title": "AI가 과학 연구를 바꾸고 있다 — 항상 더 나은 방향은 아니다",
+      "category": "AI",
+      "date": "2026-05-05",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/05/1116210/ai-transforming-scientific-research/",
+      "description": "AI가 논문 작성 속도와 실험 설계를 빠르게 바꾸고 있지만, 동시에 과학적 다양성 감소와 재현성 위기를 심화시킬 수 있다는 우려도 커지고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-05-ai-transforming-scientific-research/800/500"
+    },
+    {
+      "filename": "2026-05-05-deepmind-alphaproteomics.md",
+      "title": "AlphaFold 다음은 단백질체 전체다 — 딥마인드 '알파프로테오믹스' 공개",
+      "category": "바이오",
+      "date": "2026-05-05",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210089",
+      "description": "구글 딥마인드가 AlphaFold 3의 후속으로 단백질 하나가 아닌 세포 내 단백질 전체의 상호작용을 예측하는 '알파프로테오믹스' 모델을 공개했다. 신약 개발과 희귀 질환 연구에 새로운 장을 열 수 있다.",
+      "image": "https://picsum.photos/seed/2026-05-05-deepmind-alphaproteomics/800/500"
+    },
+    {
+      "filename": "2026-05-05-skt-aidot-b2b.md",
+      "title": "SK텔레콤 에이닷, 기업 시장으로 — AI 에이전트 B2B 서비스 본격 출시",
+      "category": "AI",
+      "date": "2026-05-05",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210056",
+      "description": "SK텔레콤이 개인용 AI 에이전트 '에이닷'을 기업 고객용 B2B 서비스로 확장했다. 사내 데이터와 연동한 업무 자동화를 핵심으로, 통신사가 AI 플랫폼 기업으로 전환하는 전략의 본격 가동이다.",
+      "image": "https://picsum.photos/seed/2026-05-05-skt-aidot-b2b/800/500"
+    },
+    {
+      "filename": "2026-05-05-nvidia-gb300-shipment-samsung-sk.md",
+      "title": "엔비디아 루빈 GB300 출하 개시 — 삼성·SK하이닉스 수혜 본격화",
+      "category": "경제·주식",
+      "date": "2026-05-05",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050432010",
+      "description": "엔비디아가 차세대 AI GPU '루빈 아키텍처' 기반 GB300 출하를 시작했다. HBM4(4세대 고대역폭 메모리) 공급사인 SK하이닉스와 삼성전자의 수혜가 본격화될 전망이며, 양사 주가에도 긍정적 재료로 작용하고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-05-nvidia-gb300-shipment-samsung-sk/800/500"
+    },
+    {
       "filename": "2026-05-02-anthropic-claude4-series.md",
       "title": "앤트로픽, 클로드 4 시리즈 공개 — 오퍼스4·소네트4·하이쿠4 동시 출시",
       "category": "AI",
@@ -215,16 +255,6 @@
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209400",
       "description": "네이버가 초거대 AI 하이퍼클로바X의 2세대 모델을 공개했다. 한국어 이해·생성 능력을 전면 강화하고 멀티모달 기능을 추가했으며, 네이버 서비스 전반에 순차 적용될 예정이다.",
       "image": "https://picsum.photos/seed/naver-hyperclova-x2-b/800/500"
-    },
-    {
-      "filename": "2026-04-18-google-gemini-25-flash.md",
-      "title": "구글, Gemini 2.5 Flash 공개 — 가격은 절반, 추론 능력은 그대로",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1115298/google-gemini-25-flash/",
-      "description": "구글이 Gemini 2.5 Pro의 경량 버전인 Gemini 2.5 Flash를 출시했다. 추론 능력은 유지하면서 가격을 대폭 낮춰 개발자 시장을 겨냥했다. 100만 토큰 컨텍스트 창을 지원하며, 비용 민감 애플리케이션의 새 기준을 제시한다.",
-      "image": "https://picsum.photos/seed/google-gemini-flash-2026/800/500"
     },
     {
       "filename": "2026-04-18-anthropic-claude-agent-benchmark.md",

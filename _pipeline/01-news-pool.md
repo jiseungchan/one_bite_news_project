@@ -1,51 +1,51 @@
 # 뉴스 풀
-수집일: 2026.05.02
-소스: MIT Technology Review + AI타임스 + 인공지능신문 + 매일경제·한국경제
+수집일: 2026.05.05
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-04-25 ~ 2026-05-02, 7일 이내)
+## 수집 기사 목록 (2026-05-03 ~ 2026-05-05, 7일 이내)
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | OpenAI's new reasoning AI models hallucinate more | AI | MIT Technology Review | 05.01 | https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/ |
-| 2 | 앤트로픽, 클로드 4 시리즈 공개 — 오퍼스4·소네트4·하이쿠4 동시 출시 | AI | AI타임스 | 05.02 | https://www.aitimes.com/news/articleView.html?idxno=210012 |
-| 3 | 구글, AI 검색 'AI 오버뷰' 전면 개편 — 답변 정확도 60% 향상 | AI | AI타임스 | 05.01 | https://www.aitimes.com/news/articleView.html?idxno=209998 |
-| 4 | 삼성전자 1분기 영업이익 6.7조 — DS부문 흑자 전환에 시장 기대 상회 | 경제·주식 | 매일경제 | 04.30 | https://www.mk.co.kr/news/stock/12034501 |
-| 5 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타 분리 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 6 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
-| 7 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
+| 1 | AI is transforming scientific research — but not always for the better | AI | MIT Technology Review | 05.05 | https://www.technologyreview.com/2026/05/05/1116210/ai-transforming-scientific-research/ |
+| 2 | 구글 딥마인드, AlphaFold 3 후속 모델 '알파프로테오믹스' 공개 | AI | AI타임스 | 05.04 | https://www.aitimes.com/news/articleView.html?idxno=210089 |
+| 3 | SK텔레콤, AI 에이전트 '에이닷' 기업용 B2B 서비스 본격 출시 | AI | AI타임스 | 05.03 | https://www.aitimes.com/news/articleView.html?idxno=210056 |
+| 4 | 엔비디아, 루빈 아키텍처 GB300 출하 개시 — 삼성·SK 수혜 본격화 | 경제·주식 | 한국경제 | 05.04 | https://www.hankyung.com/article/2026050432010 |
+| 5 | 마이크로소프트, Phi-4 오픈소스 공개 — 소형 모델 성능 기준 바꿨다 | AI | 인공지능신문 | 05.03 | https://www.aitimes.kr/news/articleView.html?idxno=33241 |
+| 6 | 카카오, AI 기반 광고 플랫폼 '카나나Ads' 출시 — CPC 광고 자동화 | AI | AI타임스 | 05.05 | https://www.aitimes.com/news/articleView.html?idxno=210102 |
+| 7 | 코스피, AI 반도체 호재에 2,850선 회복 — 외국인 순매수 7거래일 연속 | 경제·주식 | 한국경제 | 05.05 | https://www.hankyung.com/article/2026050531081 |
 
 ## 선택 기사 (4건) — 자동 선택 알고리즘 적용
 
 ### 점수 계산
 
 **MIT Technology Review — 있으면 1건 선택**
-- #1 (OpenAI 추론모델 환각): MIT TR 05.01 발행 → 시의성 40점 + AI 직접연관 35점 + MIT TR 신뢰도 25점 = **100점** → 선택
+- #1 (AI와 과학 연구 변혁): MIT TR 05.05 발행 → 시의성 40점 + AI 직접연관 35점 + MIT TR 신뢰도 25점 = **100점** → 선택
 
-**AI타임스 — 점수제 2건 선택**
-- #2 (앤트로픽 Claude 4): 05.02 발행 24h = 40점 + AI 직접연관 35점 + AI타임스 25점 = **100점** → 선택
-- #3 (구글 AI 오버뷰 개편): 05.01 발행 48h = 25점 + AI 직접연관 35점 + AI타임스 25점 = **85점**
-- #5 (메타 AI 독립앱): 04.30 발행 72h = 10점 + AI 직접연관 35점 + AI타임스 25점 = **70점**
-- #7 (엔비디아 AgentIQ): 04.30 발행 72h = 10점 + AI 직접연관 35점 + 인공지능신문 18점 = **63점**
+**AI타임스 + 인공지능신문 — 점수제 2건 선택**
+- #2 (구글 딥마인드 알파프로테오믹스): 05.04 발행 48h = 25점 + AI/바이오 직접연관 35점 + AI타임스 25점 = **85점**
+- #3 (SK텔레콤 에이닷 B2B): 05.03 발행 48h= 25점 + AI 직접연관 35점 + AI타임스 25점 = **85점**
+- #5 (MS Phi-4 오픈소스): 05.03 발행 48h = 25점 + AI 직접연관 35점 + 인공지능신문 18점 = **78점**
+- #6 (카카오 카나나Ads): 05.05 발행 24h = 40점 + AI 간접연관 15점 + AI타임스 25점 = **80점**
 
-AI타임스 2건: #2(100점) 선택, #3(85점) 선택
+AI/AI타임스 2건: #2(85점), #3(85점) 동점 → #2 시의성(더 최신), 구체 수치 풍부 → #2 선택, 동점 처리 기준 핵심포인트 수로 #3 선택
 
-**매일경제·한국경제 — 주식 영향도 높은 1건**
-- #4 (삼성 1분기 실적 6.7조): 04.30 발행 48h = 25점 + 주식직접연관 35점 + 신뢰소스 25점 = **85점**
-- #6 (SK하이닉스 HBM4E): 04.29 발행 72h = 10점 + 주식직접연관 35점 + 한국경제 25점 = **70점**
+**한국경제 — 주식 영향도 높은 1건**
+- #4 (엔비디아 GB300 출하, 삼성·SK 수혜): 05.04 발행 24h = 40점 + 주식직접연관 35점 + 한국경제 25점 = **100점**
+- #7 (코스피 2850 회복): 05.05 발행 24h = 40점 + 주식직접연관 35점 + 한국경제 25점 = **100점**
 
-경제·주식 1건: #4(85점) 선택
+동점 → 수혜 기업명·구체 수치가 명확한 #4 선택
 
 ### 중복 제외 확인 (기발행 _posts/ 대조)
-- openai-o4-mini.md → 이미 발행. o4-mini와 추론모델 환각은 다른 주제, 중복 아님
-- samsung-sk-hbm4-earnings.md → 이미 발행. 삼성 1분기 별도 실적 기사, 중복 아님
-- deepmind-cell-simulation.md → Claude 4는 다른 주제, 중복 아님
-- skhynix-profit-margin-64.md → HBM4E 개발완료는 별도 이슈이나 이번 선택에서 제외됨
+- 구글 딥마인드: deepmind-cell-simulation (바이오, 세포시뮬레이션) 발행됨 → 알파프로테오믹스는 단백질체학 별도 주제, 중복 아님
+- SK텔레콤: 발행 이력 없음
+- 엔비디아 루빈/GB300: nvidia-blackwell-ultra-delay 발행됨 → GB300 출하 개시는 별도 진전, 중복 아님
+- MS Phi-4: 발행 이력 없음 (선택 대상이었으나 최종 4건에 미포함)
 
 ### 최종 선택 4건
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | OpenAI's new reasoning AI models hallucinate more | AI | MIT Technology Review | 05.01 | https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/ |
-| 2 | 앤트로픽, 클로드 4 시리즈 공개 — 오퍼스4·소네트4·하이쿠4 동시 출시 | AI | AI타임스 | 05.02 | https://www.aitimes.com/news/articleView.html?idxno=210012 |
-| 3 | 구글, AI 검색 'AI 오버뷰' 전면 개편 — 답변 정확도 60% 향상 | AI | AI타임스 | 05.01 | https://www.aitimes.com/news/articleView.html?idxno=209998 |
-| 4 | 삼성전자 1분기 영업이익 6.7조 — DS부문 흑자 전환에 시장 기대 상회 | 경제·주식 | 매일경제 | 04.30 | https://www.mk.co.kr/news/stock/12034501 |
+| 1 | AI is transforming scientific research — but not always for the better | AI | MIT Technology Review | 05.05 | https://www.technologyreview.com/2026/05/05/1116210/ai-transforming-scientific-research/ |
+| 2 | 구글 딥마인드, AlphaFold 3 후속 모델 '알파프로테오믹스' 공개 | 바이오 | AI타임스 | 05.04 | https://www.aitimes.com/news/articleView.html?idxno=210089 |
+| 3 | SK텔레콤, AI 에이전트 '에이닷' 기업용 B2B 서비스 본격 출시 | AI | AI타임스 | 05.03 | https://www.aitimes.com/news/articleView.html?idxno=210056 |
+| 4 | 엔비디아, 루빈 아키텍처 GB300 출하 개시 — 삼성·SK 수혜 본격화 | 경제·주식 | 한국경제 | 05.04 | https://www.hankyung.com/article/2026050432010 |

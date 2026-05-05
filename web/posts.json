@@ -1,6 +1,26 @@
 {
   "posts": [
     {
+      "filename": "2026-05-05-anthropic-series-f-900b.md",
+      "title": "Anthropic, 시리즈 F로 20억 달러 조달 — 기업가치 9,000억 달러",
+      "category": "AI",
+      "date": "2026-05-05",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-04/anthropic-series-f-900b-valuation",
+      "description": "Anthropic이 시리즈 F 라운드에서 20억 달러를 조달했다. 기업가치는 9,000억 달러로 책정됐다.",
+      "image": "https://picsum.photos/seed/2026-05-05-anthropic-series-f-900b/800/500"
+    },
+    {
+      "filename": "2026-05-05-meta-q1-earnings.md",
+      "title": "Meta, 1분기 광고 매출 예상치 상회 — 주가 급등",
+      "category": "경제·주식",
+      "date": "2026-05-05",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-03/meta-first-quarter-earnings-ad-revenue",
+      "description": "Meta가 2026년 1분기 광고 매출에서 시장 컨센서스를 웃도는 실적을 발표했다. 결과 발표 직후 주가는 장 외 거래에서 급등했다.",
+      "image": "https://picsum.photos/seed/2026-05-05-meta-q1-earnings/800/500"
+    },
+    {
       "filename": "2026-05-03-skhynix-hbm4e-development.md",
       "title": "SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, 엔비디아 루빈 GPU에 탑재",
       "category": "경제·주식",

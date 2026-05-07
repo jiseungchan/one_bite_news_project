@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-07-samsung-foundry-2nm-tsmc.md",
+      "title": "삼성 파운드리, 2nm 수율 60% 돌파 — TSMC 추격의 신호탄",
+      "category": "경제·주식",
+      "date": "2026-05-07",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050645021",
+      "description": "삼성전자 파운드리 사업부가 2nm(나노미터) 공정 수율 60%를 달성했다고 밝혔다. TSMC의 N2 공정 수율(약 70%)에 근접한 수치로, 퀄컴·AMD 등 주요 팹리스의 수주 재개 가능성이 열렸다.",
+      "image": "https://picsum.photos/seed/2026-05-07-samsung-foundry-2nm-tsmc/800/500"
+    },
+    {
+      "filename": "2026-05-07-microsoft-build-2026-copilot-agent.md",
+      "title": "MS Build 2026, Copilot이 동료가 된다 — AI 에이전트 마켓플레이스와 자율 업무 처리",
+      "category": "AI",
+      "date": "2026-05-07",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33287",
+      "description": "마이크로소프트가 Build 2026 개발자 콘퍼런스에서 Copilot Studio 에이전트 마켓플레이스와 자율 업무 처리 기능을 발표했다. 개인 비서를 넘어 조직 내 AI 동료로의 전환이다.",
+      "image": "https://picsum.photos/seed/2026-05-07-microsoft-build-2026-copilot-agent/800/500"
+    },
+    {
+      "filename": "2026-05-07-google-io-2026-gemini-agent.md",
+      "title": "구글 I/O 2026, Gemini가 OS가 된다 — 에이전트·검색·안드로이드 통합 선언",
+      "category": "AI",
+      "date": "2026-05-07",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210198",
+      "description": "구글이 연례 개발자 콘퍼런스 I/O 2026에서 Gemini 2.5 Pro를 안드로이드·크롬·검색 전 플랫폼에 통합한다고 발표했다. AI가 앱을 대신 조작하는 '에이전트 모드'가 핵심이다.",
+      "image": "https://picsum.photos/seed/2026-05-07-google-io-2026-gemini-agent/800/500"
+    },
+    {
+      "filename": "2026-05-07-apple-intelligence-2-on-device-ai.md",
+      "title": "애플 인텔리전스 2.0, 온디바이스 AI를 다시 설계하다 — 클라우드 없이도 GPT급 성능?",
+      "category": "AI",
+      "date": "2026-05-07",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/06/1116289/apple-intelligence-2-on-device-ai-redesign/",
+      "description": "애플이 인텔리전스 2.0에서 온디바이스 AI 아키텍처를 전면 재설계했다. 클라우드 의존도를 낮추면서도 GPT-4급 언어 처리 성능을 기기 안에서 구현하는 것이 핵심 목표다.",
+      "image": "https://picsum.photos/seed/2026-05-07-apple-intelligence-2-on-device-ai/800/500"
+    },
+    {
       "filename": "2026-05-05-anthropic-series-f-900b.md",
       "title": "Anthropic, 시리즈 F로 20억 달러 조달 — 기업가치 9,000억 달러",
       "category": "AI",
@@ -247,6 +287,16 @@
       "image": "https://picsum.photos/seed/hyundai-robot-ai-2026/800/500"
     },
     {
+      "filename": "2026-04-19-openai-o3-reasoning-model.md",
+      "title": "OpenAI o3, 추론 모델의 새 기준을 세우다 — '생각하는 AI'가 한 단계 더 올라갔다",
+      "category": "AI",
+      "date": "2026-04-19",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/",
+      "description": "OpenAI가 새 추론 모델 o3를 공개했다. 수학·코딩·과학 벤치마크에서 전작 o1을 전 영역 압도하며, 'AI가 정말로 추론한다'는 주장에 가장 근접한 모델로 평가받는다.",
+      "image": "https://picsum.photos/seed/openai-o3-reasoning-2026/800/500"
+    },
+    {
       "filename": "2026-04-18-naver-hyperclovax2-launch.md",
       "title": "네이버, 하이퍼클로바X 2.0 공개 — 한국어 AI 시장의 판이 다시 짜인다",
       "category": "AI",
@@ -255,6 +305,16 @@
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209400",
       "description": "네이버가 초거대 AI 하이퍼클로바X의 2세대 모델을 공개했다. 한국어 이해·생성 능력을 전면 강화하고 멀티모달 기능을 추가했으며, 네이버 서비스 전반에 순차 적용될 예정이다.",
       "image": "https://picsum.photos/seed/naver-hyperclova-x2-b/800/500"
+    },
+    {
+      "filename": "2026-04-18-anthropic-model-welfare-ai-safety.md",
+      "title": "AI도 고통을 느낄 수 있을까 — 앤트로픽이 '모델 복지' 연구를 시작한 이유",
+      "category": "AI",
+      "date": "2026-04-18",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/",
+      "description": "앤트로픽이 AI 모델의 내면 상태(감정·의식)를 진지하게 연구하는 '모델 복지' 팀을 구성했다. AI가 고통을 느끼는지 아직 모른다는 전제 아래, 미리 윤리 기준을 마련하겠다는 시도다.",
+      "image": "https://picsum.photos/seed/anthropic-ai-safety-2026/800/500"
     },
     {
       "filename": "2026-04-18-google-gemini-25-flash.md",

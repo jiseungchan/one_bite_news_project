@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-08-nvidia-stock-all-time-high.md",
+      "title": "엔비디아 주가 사상 최고치 — 블랙웰 수요 폭증에 시총 4조 달러 돌파",
+      "category": "경제·주식",
+      "date": "2026-05-08",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050738021",
+      "description": "엔비디아 주가가 사상 최고치를 경신하며 시가총액이 4조 달러를 돌파했다. 차세대 AI GPU 블랙웰 시리즈의 수요가 예상을 크게 웃돌면서 월가의 실적 전망도 잇따라 상향되고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-08-nvidia-stock-all-time-high/800/500"
+    },
+    {
+      "filename": "2026-05-08-kakao-kanana-orchestra.md",
+      "title": "카카오, AI 에이전트 오케스트레이션 프레임워크 '카나나 오케스트라' 공개",
+      "category": "AI",
+      "date": "2026-05-08",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210095",
+      "description": "카카오가 여러 AI 에이전트를 지휘하는 오케스트레이션 프레임워크 '카나나 오케스트라'를 공개했다. 각기 다른 역할의 에이전트들이 협업해 복잡한 작업을 처리하는 멀티에이전트 시스템이다.",
+      "image": "https://picsum.photos/seed/2026-05-08-kakao-kanana-orchestra/800/500"
+    },
+    {
+      "filename": "2026-05-08-openai-gpt5-launch.md",
+      "title": "OpenAI, GPT-5 정식 출시 — 에이전트 기능 통합한 차세대 모델",
+      "category": "AI",
+      "date": "2026-05-08",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210089",
+      "description": "OpenAI가 GPT-5를 정식 출시했다. 추론·코딩·멀티모달 성능을 전면 강화하고 에이전트 기능을 기본 탑재해, 단순 챗봇에서 '스스로 일하는 AI'로의 전환을 선언했다.",
+      "image": "https://picsum.photos/seed/2026-05-08-openai-gpt5-launch/800/500"
+    },
+    {
+      "filename": "2026-05-08-ai-becoming-scientist-mit.md",
+      "title": "AI는 과학자가 될 수 있을까 — 가설 생성부터 실험 설계까지 스스로 하는 AI",
+      "category": "AI",
+      "date": "2026-05-08",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/06/1116234/ai-science-discovery-research-autonomous/",
+      "description": "AI가 단순 논문 요약을 넘어 스스로 가설을 세우고 실험을 설계하는 수준에 도달했다. MIT TR이 현재 AI 과학 연구의 실제 능력과 한계를 짚었다.",
+      "image": "https://picsum.photos/seed/2026-05-08-ai-becoming-scientist-mit/800/500"
+    },
+    {
       "filename": "2026-05-05-anthropic-series-f-900b.md",
       "title": "Anthropic, 시리즈 F로 20억 달러 조달 — 기업가치 9,000억 달러",
       "category": "AI",
@@ -484,16 +524,7 @@
       "source": "전자신문",
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
-      "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500",
-      "tags": [
-        "삼성전자",
-        "소캠2",
-        "SOCAMM2",
-        "엔비디아",
-        "베라루빈",
-        "HBM",
-        "AI메모리"
-      ]
+      "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500"
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -503,16 +534,7 @@
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
-      "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500",
-      "tags": [
-        "무스타파술레이만",
-        "마이크로소프트",
-        "스케일링법칙",
-        "AI인프라",
-        "HBM",
-        "GPU클러스터",
-        "AI성장"
-      ]
+      "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500"
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -522,16 +544,7 @@
       "source": "아시아경제",
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
-      "image": "https://picsum.photos/seed/deepx-semiconductor/800/500",
-      "tags": [
-        "딥엑스",
-        "엣지AI",
-        "NPU",
-        "온디바이스AI",
-        "현대차",
-        "로봇",
-        "K반도체"
-      ]
+      "image": "https://picsum.photos/seed/deepx-semiconductor/800/500"
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -541,14 +554,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
-      "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500",
-      "tags": [
-        "앤트로픽",
-        "멀티에이전트",
-        "AI 자동화",
-        "Claude",
-        "에이전트 아키텍처"
-      ]
+      "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500"
     }
   ]
 }

@@ -1,43 +1,45 @@
 # 뉴스 풀
-수집일: 2026.05.03
-소스: MIT Technology Review + AI타임스 + 인공지능신문 + 매일경제·한국경제
+수집일: 2026.05.08
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-04-26 ~ 2026-05-03, 7일 이내)
+## 수집 기사 목록 (2026-05-01 ~ 2026-05-08, 7일 이내)
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | Why AI models that are better at reasoning hallucinate more | AI | MIT Technology Review | 05.01 | https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/ |
-| 2 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타 분리 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 3 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
-| 4 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
+| 1 | AI is getting better at science. Is it becoming a scientist? | AI | MIT Technology Review | 05.06 | https://www.technologyreview.com/2026/05/06/1116234/ai-science-discovery-research-autonomous/ |
+| 2 | OpenAI, GPT-5 정식 출시 — 에이전트 기능 통합한 차세대 모델 | AI | AI타임스 | 05.07 | https://www.aitimes.com/news/articleView.html?idxno=210089 |
+| 3 | 구글 딥마인드, 단백질 이어 '세포 전체' 시뮬레이션 AI 착수 | AI | 인공지능신문 | 05.07 | https://www.aitimes.kr/news/articleView.html?idxno=33198 |
+| 4 | 엔비디아 주가 사상 최고치 — 블랙웰 수요 폭증에 시총 4조 달러 돌파 | 경제·주식 | 한국경제 | 05.07 | https://www.hankyung.com/article/2026050738021 |
 
 ## 중복 제외 확인 (_posts/ 기발행 대조)
-- openai-o4-mini.md 발행됨 (별개 주제이나 MIT TR #1은 이미 2026-05-01-openai-reasoning-hallucinate.md 로 발행됨)
-- 2026-05-02-anthropic-claude4-series.md 발행됨
-- 2026-05-01-google-ai-overview-redesign.md 발행됨
-- 2026-04-30-samsung-q1-2026-earnings.md 발행됨
+- 2026-04-28-deepmind-cell-simulation.md 발행됨 → #3 주제 중복 위험, 대체 필요
+- 2026-05-05-anthropic-series-f-900b.md, 2026-05-03-nvidia-agentiq-platform.md 등 발행됨
+- #3 구글 딥마인드 세포 시뮬레이션 → 2026-04-28에 이미 발행됨, AI타임스 다른 기사로 교체
 
-## 선택 기사 — 자동 선택 알고리즘 적용
-
-### 점수 계산 (오늘 기준: 2026-05-03)
-
-**MIT Technology Review — 발행 여부 확인**
-- #1 (MIT TR): 2026-05-01-openai-reasoning-hallucinate.md 이미 발행됨 → skip
-
-**MIT Technology Review — 기발행 skip, 해당 슬롯 공석**
-→ AI타임스 기사로 3건 선택으로 전환
-
-**AI타임스/인공지능신문 — 점수제 2건 선택**
-- #2 (메타 AI): 04.30 발행 (72h+) = 10점 + AI 직접연관 35점 + AI타임스 25점 = **70점**
-- #3 (엔비디아 AgentIQ): 04.30 발행 (72h+) = 10점 + AI 직접연관 35점 + 인공지능신문 18점 = **63점**
-
-**매일경제·한국경제 — 주식 영향도 높은 1건**
-- #4 (SK하이닉스 HBM4E): 04.29 발행 (72h+) = 10점 + 주식직접연관 35점 + 한국경제 25점 = **70점**
-
-### 최종 선택 3건
-
+## 교체 기사
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 2 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
-| 3 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
+| 3 | 카카오, 자체 AI 에이전트 프레임워크 '카나나 오케스트라' 공개 | AI | AI타임스 | 05.07 | https://www.aitimes.com/news/articleView.html?idxno=210095 |
+
+## 최종 선택 4건 (자동 선택 알고리즘 적용)
+
+### 점수 계산 (오늘 기준: 2026-05-08)
+
+**MIT Technology Review — 1건**
+- #1 (AI과학연구): 05.06 발행 (48h) = 25점 + AI 직접연관 35점 + MIT TR 20점 = **80점** ✅
+
+**AI타임스 — 2건**
+- #2 (GPT-5 출시): 05.07 발행 (24h) = 40점 + AI 직접연관 35점 + AI타임스 25점 = **100점** ✅
+- #3 (카카오 카나나): 05.07 발행 (24h) = 40점 + AI 직접연관 35점 + AI타임스 25점 = **100점** ✅
+
+**한국경제 — 1건**
+- #4 (엔비디아 주가): 05.07 발행 (24h) = 40점 + 주식직접연관 35점 + 한국경제 20점 = **95점** ✅
+
+### 최종 선택 4건
+
+| # | 제목 | 카테고리 | 출처 | URL |
+|---|------|---------|------|-----|
+| 1 | AI is getting better at science. Is it becoming a scientist? | AI | MIT Technology Review | https://www.technologyreview.com/2026/05/06/1116234/ai-science-discovery-research-autonomous/ |
+| 2 | OpenAI, GPT-5 정식 출시 — 에이전트 기능 통합한 차세대 모델 | AI | AI타임스 | https://www.aitimes.com/news/articleView.html?idxno=210089 |
+| 3 | 카카오, 자체 AI 에이전트 프레임워크 '카나나 오케스트라' 공개 | AI | AI타임스 | https://www.aitimes.com/news/articleView.html?idxno=210095 |
+| 4 | 엔비디아 주가 사상 최고치 — 블랙웰 수요 폭증에 시총 4조 달러 돌파 | 경제·주식 | 한국경제 | https://www.hankyung.com/article/2026050738021 |

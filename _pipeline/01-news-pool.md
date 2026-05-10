@@ -1,43 +1,38 @@
 # 뉴스 풀
-수집일: 2026.05.03
-소스: MIT Technology Review + AI타임스 + 인공지능신문 + 매일경제·한국경제
+수집일: 2026.05.10
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-04-26 ~ 2026-05-03, 7일 이내)
+## 수집 기사 목록 (2026-05-03 ~ 2026-05-10, 7일 이내)
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | Why AI models that are better at reasoning hallucinate more | AI | MIT Technology Review | 05.01 | https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/ |
-| 2 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타 분리 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 3 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
-| 4 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
+| 1 | OpenAI's GPT-5 is the most capable AI model yet — but how long will it stay on top? | AI | MIT Technology Review | 05.08 | https://www.technologyreview.com/2026/05/08/1116312/openai-gpt5-most-capable-ai-model/ |
+| 2 | 구글, AI 검색 광고 수익 첫 공개 — 검색의 수익 구조가 바뀐다 | AI | AI타임스 | 05.09 | https://www.aitimes.com/news/articleView.html?idxno=210187 |
+| 3 | 카카오브레인, '칼로3' 이미지 생성 AI 오픈소스 공개 | AI | 인공지능신문 | 05.08 | https://www.aitimes.kr/news/articleView.html?idxno=33298 |
+| 4 | SK하이닉스, 2분기 영업이익 7조 원 전망 — HBM4 조기 공급 효과 | 경제·주식 | 한국경제 | 05.09 | https://www.hankyung.com/article/2026050923041 |
 
 ## 중복 제외 확인 (_posts/ 기발행 대조)
-- openai-o4-mini.md 발행됨 (별개 주제이나 MIT TR #1은 이미 2026-05-01-openai-reasoning-hallucinate.md 로 발행됨)
-- 2026-05-02-anthropic-claude4-series.md 발행됨
-- 2026-05-01-google-ai-overview-redesign.md 발행됨
-- 2026-04-30-samsung-q1-2026-earnings.md 발행됨
+- 오늘(2026-05-10) 이미 발행: microsoft-cloud-ai-earnings.md, tsmc-arizona-fab2-delay.md
+- 최근 커버됨: anthropic-series-f, meta-q1-earnings, meta-ai-app-launch, nvidia-agentiq-platform, skhynix-hbm4e-development, openai-reasoning-hallucination, google-ai-overview-redesign, anthropic-claude4-series
+- #4 SK하이닉스 2분기 전망 — 2026-04-28-samsung-sk-hbm4-earnings.md(HBM4 조기 양산)와 다른 각도(2분기 실적 전망 구체화)로 가능
 
-## 선택 기사 — 자동 선택 알고리즘 적용
+## 자동 선택 알고리즘 결과 (2026-05-10 기준)
 
-### 점수 계산 (오늘 기준: 2026-05-03)
+### MIT Technology Review — 1건 선택
+- #1 (GPT-5 분석): 05.08 발행 (48h 이내) = 25점 + AI 직접연관 35점 + MIT TR 25점 = **85점** ✅ 선택
 
-**MIT Technology Review — 발행 여부 확인**
-- #1 (MIT TR): 2026-05-01-openai-reasoning-hallucinate.md 이미 발행됨 → skip
+### AI타임스/인공지능신문 — 점수제 2건 선택
+- #2 (구글 AI 검색 광고): 05.09 발행 (24h 이내) = 40점 + AI 직접연관 35점 + AI타임스 25점 = **100점** ✅ 선택
+- #3 (카카오브레인 칼로3): 05.08 발행 (48h 이내) = 25점 + AI 직접연관 35점 + 인공지능신문 18점 = **78점** ✅ 선택
 
-**MIT Technology Review — 기발행 skip, 해당 슬롯 공석**
-→ AI타임스 기사로 3건 선택으로 전환
+### 한국경제 — 주식 영향도 높은 1건
+- #4 (SK하이닉스 2분기 전망): 05.09 발행 (24h 이내) = 40점 + 주식 직접연관 35점 + 한국경제 25점 = **100점** ✅ 선택
 
-**AI타임스/인공지능신문 — 점수제 2건 선택**
-- #2 (메타 AI): 04.30 발행 (72h+) = 10점 + AI 직접연관 35점 + AI타임스 25점 = **70점**
-- #3 (엔비디아 AgentIQ): 04.30 발행 (72h+) = 10점 + AI 직접연관 35점 + 인공지능신문 18점 = **63점**
+## 최종 선택 4건
 
-**매일경제·한국경제 — 주식 영향도 높은 1건**
-- #4 (SK하이닉스 HBM4E): 04.29 발행 (72h+) = 10점 + 주식직접연관 35점 + 한국경제 25점 = **70점**
-
-### 최종 선택 3건
-
-| # | 제목 | 카테고리 | 출처 | 날짜 | URL |
-|---|------|---------|------|------|-----|
-| 1 | 메타, AI 독립형 앱 '메타 AI' 글로벌 출시 | AI | AI타임스 | 04.30 | https://www.aitimes.com/news/articleView.html?idxno=209970 |
-| 2 | 엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 | AI | 인공지능신문 | 04.30 | https://www.aitimes.kr/news/articleView.html?idxno=33120 |
-| 3 | SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산 예정 | 경제·주식 | 한국경제 | 04.29 | https://www.hankyung.com/article/2026042932010 |
+| # | 제목 | 카테고리 | 출처 | 날짜 | URL | 예상 파일명 |
+|---|------|---------|------|------|-----|------------|
+| 1 | OpenAI GPT-5 분석 — 가장 강력한 AI, 얼마나 오래 1위일까 | AI | MIT Technology Review | 05.08 | https://www.technologyreview.com/2026/05/08/1116312/openai-gpt5-most-capable-ai-model/ | 2026-05-10-openai-gpt5-analysis.md |
+| 2 | 구글, AI 검색 광고 수익 첫 공개 — 검색의 수익 구조가 바뀐다 | AI | AI타임스 | 05.09 | https://www.aitimes.com/news/articleView.html?idxno=210187 | 2026-05-10-google-ai-search-revenue.md |
+| 3 | 카카오브레인, '칼로3' 이미지 생성 AI 오픈소스 공개 | AI | 인공지능신문 | 05.08 | https://www.aitimes.kr/news/articleView.html?idxno=33298 | 2026-05-10-kakaobrainkalro3-opensource.md |
+| 4 | SK하이닉스 2분기 영업이익 7조 원 전망 — HBM4 조기 공급 효과 | 경제·주식 | 한국경제 | 05.09 | https://www.hankyung.com/article/2026050923041 | 2026-05-10-skhynix-q2-profit-forecast.md |

@@ -1,6 +1,26 @@
 {
   "posts": [
     {
+      "filename": "2026-05-10-microsoft-cloud-ai-earnings.md",
+      "title": "마이크로소프트, 클라우드·AI 힘입어 순이익 18% 급성장 — 월가 추정치 전면 상회",
+      "category": "경제·주식",
+      "date": "2026-05-10",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-03/microsoft-first-quarter-2026-earnings",
+      "description": "마이크로소프트가 2026년 회계연도 3분기 실적에서 순이익이 전년 동기 대비 18% 급증했다. 클라우드와 AI 사업이 성장을 이끌었으며 모든 월가 애널리스트 추정치를 상회했다.",
+      "image": "https://picsum.photos/seed/2026-05-10-microsoft-cloud-ai-earnings/800/500"
+    },
+    {
+      "filename": "2026-05-10-tsmc-arizona-fab2-delay.md",
+      "title": "TSMC 애리조나 2공장 양산, 2027년으로 밀리나 — 장비 부족이 변수",
+      "category": "나노·소재",
+      "date": "2026-05-10",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-04/tsmc-arizona-fab2-delay-2027",
+      "description": "블룸버그에 따르면 TSMC 애리조나 Fab 2의 본격 양산 일정이 반도체 장비 부족으로 2027년으로 지연될 수 있다. 미국 내 첨단 반도체 자급 계획에 차질이 생길 수 있다는 우려가 나온다.",
+      "image": "https://picsum.photos/seed/2026-05-10-tsmc-arizona-fab2-delay/800/500"
+    },
+    {
       "filename": "2026-05-05-anthropic-series-f-900b.md",
       "title": "Anthropic, 시리즈 F로 20억 달러 조달 — 기업가치 9,000억 달러",
       "category": "AI",
@@ -484,16 +504,7 @@
       "source": "전자신문",
       "sourceUrl": "https://www.etnews.com/20251218000380",
       "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것.",
-      "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500",
-      "tags": [
-        "삼성전자",
-        "소캠2",
-        "SOCAMM2",
-        "엔비디아",
-        "베라루빈",
-        "HBM",
-        "AI메모리"
-      ]
+      "image": "https://picsum.photos/seed/samsung-socamm2-chip/800/500"
     },
     {
       "filename": "2026-04-11-mustafa-suleyman-ai-growth-mit.md",
@@ -503,16 +514,7 @@
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.",
-      "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500",
-      "tags": [
-        "무스타파술레이만",
-        "마이크로소프트",
-        "스케일링법칙",
-        "AI인프라",
-        "HBM",
-        "GPU클러스터",
-        "AI성장"
-      ]
+      "image": "https://picsum.photos/seed/mustafa-ai-growth-mit/800/500"
     },
     {
       "filename": "2026-04-11-deepx-on-device-ai-chip.md",
@@ -522,16 +524,7 @@
       "source": "아시아경제",
       "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
       "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하.",
-      "image": "https://picsum.photos/seed/deepx-semiconductor/800/500",
-      "tags": [
-        "딥엑스",
-        "엣지AI",
-        "NPU",
-        "온디바이스AI",
-        "현대차",
-        "로봇",
-        "K반도체"
-      ]
+      "image": "https://picsum.photos/seed/deepx-semiconductor/800/500"
     },
     {
       "filename": "2026-04-11-anthropic-advisor-strategy.md",
@@ -541,14 +534,7 @@
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
       "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.",
-      "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500",
-      "tags": [
-        "앤트로픽",
-        "멀티에이전트",
-        "AI 자동화",
-        "Claude",
-        "에이전트 아키텍처"
-      ]
+      "image": "https://picsum.photos/seed/anthropic-ai-strategy/800/500"
     }
   ]
 }

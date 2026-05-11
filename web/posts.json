@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-11-ai-job-disruption.md",
+      "title": "AI 일자리 충격은 이미 시작됐다 — 그런데 예측과는 전혀 다른 방식으로",
+      "category": "AI",
+      "date": "2026-05-11",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/08/1116201/ai-job-disruption-labor-market/",
+      "description": "AI로 인한 노동시장 변화가 본격화됐다. 그런데 전문가들이 예측했던 '단순 반복직 대체'가 아니라, 지식·창작·분석 직군이 먼저 흔들리고 있다는 데이터가 나왔다.",
+      "image": "https://picsum.photos/seed/2026-05-11-ai-job-disruption/800/500"
+    },
+    {
+      "filename": "2026-05-11-google-io-2026-gemini-agents.md",
+      "title": "구글 I/O 2026, AI 에이전트와 제미나이 2.5 Pro 업그레이드 공개",
+      "category": "AI",
+      "date": "2026-05-11",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210301",
+      "description": "구글이 연례 개발자 행사 I/O 2026에서 멀티스텝 AI 에이전트 프레임워크와 제미나이 2.5 Pro 성능 업그레이드를 발표했다. AI가 직접 앱을 실행하고 작업을 연속 처리하는 에이전트 시대를 본격 선언했다.",
+      "image": "https://picsum.photos/seed/2026-05-11-google-io-2026-gemini-agents/800/500"
+    },
+    {
+      "filename": "2026-05-11-openai-gpt5-launch.md",
+      "title": "오픈AI, GPT-5 정식 출시 — API 공개와 ChatGPT 통합으로 AI 경쟁 판 흔든다",
+      "category": "AI",
+      "date": "2026-05-11",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210250",
+      "description": "오픈AI가 GPT-5를 정식 출시했다. API와 ChatGPT에 동시 통합됐으며, 추론 능력과 멀티모달 처리에서 GPT-4o를 전 영역 압도한다고 발표했다. 요금제에 따른 접근 등급 차등화가 눈에 띈다.",
+      "image": "https://picsum.photos/seed/2026-05-11-openai-gpt5-launch/800/500"
+    },
+    {
+      "filename": "2026-05-11-samsung-q2-2026-forecast.md",
+      "title": "삼성전자 2분기 실적 전망 상향 — HBM4 조기 공급에 증권가 목표주가 줄상향",
+      "category": "경제·주식",
+      "date": "2026-05-11",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050932010",
+      "description": "증권사들이 삼성전자의 2분기 실적 전망치를 잇달아 올리고 있다. HBM4(4세대 고대역폭 메모리) 조기 공급 확정이 결정적 변수다. 목표주가도 줄줄이 상향되는 흐름이다.",
+      "image": "https://picsum.photos/seed/2026-05-11-samsung-q2-2026-forecast/800/500"
+    },
+    {
       "filename": "2026-05-10-microsoft-cloud-ai-earnings.md",
       "title": "마이크로소프트, 클라우드·AI 힘입어 순이익 18% 급성장 — 월가 추정치 전면 상회",
       "category": "경제·주식",

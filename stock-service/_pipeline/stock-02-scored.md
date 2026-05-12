@@ -1,86 +1,71 @@
 # 주식 영향도 평가 결과
-평가일: 2026-05-05
-전체 기사: 179건 → 후보(6+): 10건 (제목 기반) → 최종 선별(7+): 6건
-※ 중복 방지: 2026-05-03 브리핑(이란유가 주간 상승·골드만AI·OpenAI CFO·퀄컴·에너지+AI·AI채권) 확인
-※ 이란 관련 기사는 "이란-미국 교전 + UAE 공격 재개 + 호르무즈 한국선박 피해"로 사태가 확대되어 신규 포함
+평가일: 2026-05-12
+전체 기사: 250건 → 후보(6+): 15건 → 최종 선별(7+): 7건
 
 ---
 
 ## 선별 과정 요약
 
-| 순위 | 잠정점수 | 최종점수 | 기사 제목 | 판정 |
-|------|---------|---------|-----------|------|
-| 1 | 9 | 9/10 | 이란 UAE 공격 재개·미 '해방 프로젝트' 착수…호르무즈 韓 선박 피해·유가 급등 | ✅ 선별 |
-| 2 | 8 | 8/10 | Palantir Raises Revenue Outlook — 연 매출 전망 상향, 美 정부 AI 계약 견인 | ✅ 선별 |
-| 3 | 8 | 8/10 | Apple Explores Using Intel and Samsung to Build Main Device Chips in the US | ✅ 선별 |
-| 4 | 7 | 7/10 | FedEx, UPS Shares Sink on 'Watershed' Amazon Logistics Move | ✅ 선별 |
-| 5 | 7 | 7/10 | ServiceNow Sees $30 Billion Revenue by 2030 on AI Uplift | ✅ 선별 |
-| 6 | 7 | 7/10 | Europe Is Facing Stagflationary Shock, EU's Dombrovskis Says | ✅ 선별 |
-| — | 7 | — | Bond Yields Rise on Iran Tensions, Dollar Gains: Markets Wrap | ❌ 제외 — 이란 사태 카드와 중복 내용 |
-| — | 6 | — | 한국 성장률 전망 '쑥'…경기과열 조짐에 고개드는 금리 인상론 | ❌ 제외 — 국내 거시 변수, 주식 직접 영향 낮음 |
-| — | 6 | — | "불법 파업 땐 노조 전원 상대 손배소"…삼성전자 주주단체 경고 | ❌ 제외 — 개별 기업 노사 리스크, 즉각 시장 충격 낮음 |
-| — | 6 | — | 삼성바이오 노조, 닷새째 전면파업 | ❌ 제외 — 05-02 브리핑에서 이미 다룬 주제 연속 |
+| 순위 | 점수 | 기사 제목 | 판정 |
+|------|------|-----------|------|
+| 1 | 9/10 | 한은 비둘기파도 돌아섰다…연일 '물가 압력' 경고, 금리인상 시작되나 | ✅ 선별 |
+| 2 | 9/10 | BOJ Signals Chance of Rate Hike Next Month Over Inflation Risks | ✅ 선별 |
+| 3 | 8/10 | "8천피 눈앞에 두고 와르르"…외국인 3조 '팔자'에 코스피 3%대 급락 | ✅ 선별 |
+| 4 | 8/10 | 뱅크오브아메리카 "연준, 올해 금리인하 불가…내년 7월 가능" | ✅ 선별 |
+| 5 | 8/10 | "사상 최강의 기술 사이클"…골드만도 깜짝 놀란 한국 AI 수출 | ✅ 선별 |
+| 6 | 8/10 | Korea Roils Markets by Floating 'Citizen Dividend' From AI Tax | ✅ 선별 |
+| 7 | 7/10 | 미국, 전략비축유 5330만배럴 추가 대여…유가 안정 총력 | ✅ 선별 |
+| — | 6/10 | [속보] 코스피, 장중 7900선 첫 돌파…7953 | ❌ 외국인 급락 뉴스(#3)와 동일 세션 이벤트로 통합 |
+| — | 6/10 | "미친 실적, 주가가 못따라가네"…SK하이닉스 목표주가 280만원 상향 | ❌ 개별 종목 리포트, 시장 전체 파급력 제한적 |
+| — | 6/10 | 삼성SDS, 범정부 AI 협업 설루션 선정에 8%대 급등 | ❌ 단일 종목 이벤트 |
+| — | 6/10 | AI Chipmaker Cerebras Seeks $4.8 Billion in Upsized IPO | ❌ 미국 시장 한정, 국내 직접 영향 제한적 |
+| — | 5/10 | 엔비디아 밸류체인 합류?…AI 회로박 날개 단 롯데에너지머티 | ❌ 개별 종목 테마성 뉴스 |
+| — | 5/10 | "코스피만 뛴 게 아니었다"…한국 1분기 성장률 압도적 세계 1위 | ❌ 이미 가격에 반영된 후행 지표 |
+| — | 5/10 | "조선업 상승국면 와있다"…수퍼사이클 분석해보니 | ❌ 업황 전망 분석, 즉각적 시장 충격 낮음 |
+| — | 4/10 | 50대 그룹 시총, 공정자산 첫 추월…5년새 187%↑ | ❌ 후행적 통계, 주식 직접 영향 낮음 |
 
 ---
 
-## 선별 기사 (영향도 7점 이상)
+## 선별 기사 목록 (7점 이상, 내림차순)
 
-### [점수: 9/10] 이란 UAE 공격 재개·미 '해방 프로젝트' 착수 — 호르무즈 韓 선박 피해·유가 급등
-- **출처**: 매일경제 / Bloomberg Markets
-- **링크**: https://www.mk.co.kr/news/world/12035855
-- **보조 링크**: https://www.bloomberg.com/news/articles/2026-05-04/latest-oil-market-news-and-analysis-for-may-5
-- **영향 방향**: 혼재 🟡 (정유·방산 수혜, 해운·항공·화학 부정, 코스피 전반 불안)
-- **관련 업종/종목**: S-Oil(010950), SK이노베이션(096770), 한화오션(042660), HMM(011200), 대한항공(003490), 한국전력(015760), 롯데케미칼(011170), WTI 연동 ETF, 금(GLD)
-- **핵심 근거**: 이란이 한 달간의 휴전을 깨고 UAE를 재공격하고, 미국이 '해방 프로젝트' 군사작전을 개시. 호르무즈 해협에서 한국 선박(HMM 벌크선)이 화재 피해를 입었고, 한국 정부가 재외국민 대책회의를 열었다. 이란 사태가 '휴전→재개→미국 직접 작전'으로 격화되면서 유가가 급등. 한국 선박 피해는 해운사 리스크를 직접 부각.
-- **대본 소재**: 이란 UAE 재공격 + 미국 '해방 프로젝트' 착수 / 호르무즈 한국 선박 화재 / 유가 급등 / 정유 수혜 vs 해운·항공 부담 / 한국 정부 대응
+### [9/10] 한은 비둘기파도 돌아섰다…연일 '물가 압력' 경고, 금리인상 시작되나
+- 출처: 매일경제
+- URL: https://www.mk.co.kr/news/economy/12044404
+- 영향 요약: 한국은행 내 비둘기파(완화론자)마저 물가 압력 경고로 입장 선회. 금리인상 사이클 개시 가능성 급부상. 채권·부동산·금융주 전반에 즉각적 파급력.
+- 관련 종목: KB금융, 신한지주, 하나금융, 우리금융, 메리츠금융, 삼성생명
 
----
+### [9/10] BOJ Signals Chance of Rate Hike Next Month Over Inflation Risks
+- 출처: Bloomberg Economics
+- URL: https://www.bloomberg.com/news/articles/2026-05-12/boj-signals-chance-of-rate-hike-next-month-over-inflation-risks
+- 영향 요약: 일본은행(BOJ)이 인플레이션 리스크를 이유로 다음 달 금리인상 가능성을 공식 시사. 엔화 강세 전환 기대·글로벌 채권 매도 압력 확산 우려.
+- 관련 종목: 현대차, 기아, POSCO홀딩스 (엔화 강세 수혜 경쟁 구도 변화), 엔화 ETF
 
-### [점수: 8/10] Palantir Raises Revenue Outlook — 美 정부 AI 계약이 성장 견인
-- **출처**: Bloomberg Technology / 매일경제
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/palantir-issues-strong-revenue-outlook-for-2026-shares-gain
-- **보조 링크**: https://www.mk.co.kr/news/it/12035825
-- **영향 방향**: 긍정 🟢 (방산·정부 AI, AI 인프라)
-- **관련 업종/종목**: Palantir(PLTR), 국내 방산 AI(한화시스템·LIG넥스원), AI 인프라 관련주(삼성전자·SK하이닉스), 미국 방산 ETF(XAR·ITA)
-- **핵심 근거**: 팔란티어가 연간 매출 전망치를 상향 조정했으나 상업 부문 판매가 예상치에 못 미쳤다. 성장을 이끈 것은 미국 정부 AI 계약(방위부·정보기관) 확대. 방산 AI 시장의 독점적 위치를 재확인. 상업 부문 미스는 단기 주가 변동 요인이나, 정부 계약 확대는 중기 강세 근거. 한국 방산 AI 기업(한화시스템 등)에도 밸류에이션 참고 근거.
-- **대본 소재**: 팔란티어 연 매출 전망 상향 / 美 정부 AI 계약이 성장 동력 / 상업 부문 미스 — 단기 변동 / 방산 AI 독점 포지션 / 한국 방산 AI 간접 수혜
+### [8/10] "8천피 눈앞에 두고 와르르"…외국인 3조 '팔자'에 코스피 3%대 급락
+- 출처: 매일경제
+- URL: https://www.mk.co.kr/news/stock/12044454
+- 영향 요약: 외국인이 단일 세션 3조원 순매도. 코스피 3%대 급락으로 8000선 돌파 실패. 단기 조정 vs 추세 전환 여부가 핵심 관전 포인트.
+- 관련 종목: 삼성전자, SK하이닉스, LG에너지솔루션, 현대차 등 외국인 비중 상위주 전반
 
----
+### [8/10] 뱅크오브아메리카 "연준, 올해 금리인하 불가…내년 7월 가능"
+- 출처: 한국경제
+- URL: https://www.hankyung.com/article/202605129373i
+- 영향 요약: 월가 대형 IB가 Fed 첫 금리인하 시점을 2027년 7월로 대폭 후퇴. 달러 강세·원화 약세 지속 전망. 성장주·부동산 리츠에 부담.
+- 관련 종목: 달러 수혜 수출주 전반, 국내 리츠(맥쿼리인프라·SK리츠), 환헤지형 해외 펀드
 
-### [점수: 8/10] Apple Explores Using Intel and Samsung to Build Main Device Chips in the US
-- **출처**: Bloomberg Technology
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us
-- **영향 방향**: 긍정 🟢 (삼성전자·인텔), 주의 🔴 (TSMC 의존도 감소)
-- **관련 업종/종목**: 삼성전자(005930 — 미국 파운드리 사업 수혜), Intel(INTC), TSMC(TSM — 의존도 감소 압박), 애플(AAPL), 반도체 파운드리 ETF
-- **핵심 근거**: 애플이 아이폰·맥 메인 칩(A시리즈·M시리즈)을 인텔 및 삼성전자에 위탁 생산하는 방안을 탐색 중이라는 보도. 현재 TSMC에 사실상 100% 의존하는 구조에서의 탈피 시도. 미국 내 반도체 생산(온쇼어링) 압력이 배경. 삼성전자의 미국 텍사스 파운드리 공장 가동률 제고 기대. 단, 애플의 TSMC 이탈은 기술·비용 장벽으로 단기 현실화 가능성 낮음.
-- **대본 소재**: 애플, 삼성·인텔에 메인 칩 위탁 탐색 / TSMC 100% 의존 탈피 검토 / 삼성 미국 파운드리 기대 / 온쇼어링(미국 내 생산) 압력 / 단기 실현 가능성은 낮음
+### [8/10] "사상 최강의 기술 사이클"…골드만도 깜짝 놀란 한국 AI 수출
+- 출처: 매일경제
+- URL: https://www.mk.co.kr/news/world/12044258
+- 영향 요약: 골드만삭스가 한국의 AI 반도체 수출을 '사상 최강의 기술 수출 사이클'로 명명. HBM·AI 인프라 수요 본격 확대 확인 신호.
+- 관련 종목: SK하이닉스, 삼성전자, 한미반도체, 이수페타시스, 심텍, 리노공업
 
----
+### [8/10] Korea Roils Markets by Floating 'Citizen Dividend' From AI Tax
+- 출처: Bloomberg Technology
+- URL: https://www.bloomberg.com/news/articles/2026-05-12/korea-floats-citizen-dividend-using-ai-profits-samsung-falls
+- 영향 요약: 한국 정책실장이 AI 기업 수익에 세금을 부과해 '국민배당금'으로 환원하는 방안을 공론화. 삼성전자 등 빅테크주 급락 직접 촉발.
+- 관련 종목: 삼성전자, SK하이닉스, 카카오, 네이버, LG전자
 
-### [점수: 7/10] FedEx, UPS Shares Sink on 'Watershed' Amazon Logistics Move
-- **출처**: Bloomberg Technology
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/amazon-repackaging-of-shipping-services-fuels-ups-fedex-selloff
-- **영향 방향**: 부정 🔴 (FedEx·UPS), 혼재 🟡 (아마존·물류 자회사)
-- **관련 업종/종목**: FedEx(FDX), UPS(UPS), Amazon(AMZN), 국내 CJ대한통운(000120), 한진(002320), 쿠팡
-- **핵심 근거**: 아마존이 자사 물류 네트워크를 제3자에게 개방하는 방식으로 서비스를 재편하면서 FedEx와 UPS 주가가 급락. "watershed(분수령)" 이벤트로 불리는 이 결정은 아마존이 독립 물류 플랫폼으로 부상하며 기존 택배 대기업을 직접 위협한다는 의미. 국내에서는 쿠팡 로켓 배송 확장과 유사한 흐름으로 CJ대한통운·한진 등에 압박이 될 수 있음.
-- **대본 소재**: 아마존 물류 플랫폼 제3자 개방 / FedEx·UPS 주가 급락 / '분수령' 물류 재편 / 아마존 독립 물류 부상 / 국내 CJ대한통운·한진 영향
-
----
-
-### [점수: 7/10] ServiceNow Sees $30 Billion Revenue by 2030 on AI Uplift
-- **출처**: Bloomberg Technology
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/servicenow-projects-sales-to-hit-30-billion-on-ai-now-assist-uplift
-- **영향 방향**: 긍정 🟢
-- **관련 업종/종목**: ServiceNow(NOW), Salesforce(CRM), Microsoft(MSFT — AI SaaS 경쟁사), 국내 AI SaaS(더존비즈온·카카오엔터프라이즈), AI 소프트웨어 ETF(AIQ)
-- **핵심 근거**: 서비스나우(기업용 업무 자동화 SaaS)가 2030년 매출 목표를 300억 달러로 제시. AI(Now Assist) 기능이 기업 고객의 업무 자동화를 가속하며 성장을 이끌고 있다는 설명. AI SaaS(서비스형 소프트웨어) 기업들의 중장기 성장 시나리오가 실적 기반으로 뒷받침되고 있음을 보여줌. 국내 AI 소프트웨어 기업들의 밸류에이션 참고 기준이 될 수 있음.
-- **대본 소재**: 서비스나우 2030년 매출 $300억 목표 / AI Now Assist 기업 업무 자동화 / AI SaaS 중장기 성장 실증 / 국내 AI 소프트웨어 밸류에이션 참고 / AI 수익화 가시성 확인
-
----
-
-### [점수: 7/10] Europe Is Facing Stagflationary Shock, EU's Dombrovskis Says
-- **출처**: Bloomberg Economics
-- **링크**: https://www.bloomberg.com/news/articles/2026-05-04/europe-is-facing-stagflationary-shock-eu-s-dombrovskis-says
-- **영향 방향**: 부정 🔴 (유럽 수출 기업, 글로벌 경기 민감주)
-- **관련 업종/종목**: 유럽 수출 비중 높은 국내 기업(현대차·기아·포스코홀딩스·LG화학), 달러 자산, 유럽 ETF(EZU·VGK), ECB 금리 관련 채권
-- **핵심 근거**: EU 집행위 경제담당 부위원장 돔브로브스키스가 유럽이 스태그플레이션(Stagflation — 경기침체와 물가 상승이 동시에 일어나는 최악의 경제 상황) 충격에 직면했다고 공식 경고. 이란 에너지 쇼크로 인한 유럽 물가 상승 + 수출 둔화로 인한 성장 둔화가 동시에 진행 중. ECB(유럽중앙은행) 금리 인상 압박과 경기 부양 딜레마가 교차. 유럽 수출 비중 높은 국내 기업에 직접 리스크.
-- **대본 소재**: EU 부위원장 "유럽 스태그플레이션 충격" 경고 / 이란발 에너지 쇼크 + 수출 둔화 동시 충격 / ECB 금리 딜레마 / 유럽 수출 국내 기업 리스크 / 글로벌 경기 둔화 변수
+### [7/10] 미국, 전략비축유 5330만배럴 추가 대여…유가 안정 총력
+- 출처: 한국경제
+- URL: https://www.hankyung.com/article/202605129671i
+- 영향 요약: 미국이 이란 사태 대응으로 SPR(전략비축유) 5330만 배럴을 추가 방출. 단기 유가 하락 압력. 정유주·에너지주 실적 변수로 직접 작용.
+- 관련 종목: S-Oil, SK이노베이션, GS홀딩스, 에쓰오일

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-12-nvidia-blackwell-ultra-hbm4-order.md",
+      "title": "엔비디아 Blackwell Ultra 수요 폭증 — SK하이닉스 HBM4 독점 공급 구도 확고",
+      "category": "경제·주식",
+      "date": "2026-05-12",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/economy/article/2026051200001",
+      "description": "엔비디아의 차세대 AI 가속기 Blackwell Ultra 출하가 본격화되면서 SK하이닉스의 HBM4 공급 우위가 주가에도 반영되고 있다. 삼성전자의 HBM4 퀄(품질 검증) 통과 여부가 하반기 최대 변수다.",
+      "image": "https://picsum.photos/seed/2026-05-12-nvidia-blackwell-ultra-hbm4-order/800/500"
+    },
+    {
+      "filename": "2026-05-12-ai-data-center-cooling-liquid.md",
+      "title": "AI 데이터센터, 공랭식의 한계에 부딪히다 — 액침냉각이 새 표준으로 부상",
+      "category": "AI",
+      "date": "2026-05-12",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=168421",
+      "description": "AI 가속기의 전력 밀도가 공랭식 냉각의 물리적 한계를 넘어서면서, 액침냉각(immersion cooling)이 차세대 데이터센터의 핵심 인프라로 급부상하고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-12-ai-data-center-cooling-liquid/800/500"
+    },
+    {
+      "filename": "2026-05-12-korea-ai-healthcare-fda-approval.md",
+      "title": "국내 AI 의료기기, 미국 FDA 승인 잇따라 — 뷰노·루닛, 글로벌 시장 본격 진입",
+      "category": "AI",
+      "date": "2026-05-12",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=31842",
+      "description": "뷰노·루닛 등 국내 의료 AI 기업들이 미국 FDA 승인을 잇달아 획득하며 글로벌 임상 현장 진입을 가속하고 있다. 국내 AI 의료기기의 글로벌 경쟁력이 실질적으로 확인되는 시점이다.",
+      "image": "https://picsum.photos/seed/2026-05-12-korea-ai-healthcare-fda-approval/800/500"
+    },
+    {
+      "filename": "2026-05-12-qwen3-open-source-reasoning-model.md",
+      "title": "알리바바 Qwen3, 오픈소스 추론 모델 판도를 흔들다 — 하이브리드 사고 방식의 승부수",
+      "category": "AI",
+      "date": "2026-05-12",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/alibabas-qwen3-redefines-open-source-reasoning/",
+      "description": "알리바바가 공개한 Qwen3는 '빠른 응답'과 '깊은 추론'을 상황에 따라 전환하는 하이브리드 구조로, GPT-4o·Claude 3.5 수준의 성능을 오픈소스로 구현했다.",
+      "image": "https://picsum.photos/seed/2026-05-12-qwen3-open-source-reasoning-model/800/500"
+    },
+    {
       "filename": "2026-05-12-samsung-foundry-2nm-amd-order.md",
       "title": "삼성 파운드리 2나노 공정, AMD 수주 성공 — TSMC 독점에 첫 균열",
       "category": "경제·주식",
@@ -67,7 +107,7 @@
       "date": "2026-05-05",
       "source": "Bloomberg",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-04/anthropic-series-f-900b-valuation",
-      "description": "Anthropic이 시리즈 F 라운드에서 20억 달러를 조달했다. 기업가치는 9,000억 달러로 책정됐다.",
+      "description": "Anthropic이 시리즈 F 라운드에서 20억 달러를 조달했다. 기업가치는 9,000억 달러로 책정됨.",
       "image": "https://picsum.photos/seed/2026-05-05-anthropic-series-f-900b/800/500"
     },
     {

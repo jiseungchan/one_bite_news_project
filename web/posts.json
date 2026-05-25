@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-25-nvidia-amd-ai-accelerator-hbm-demand.md",
+      "title": "엔비디아·AMD 차세대 AI 가속기 경쟁 격화 — HBM 수요 급증 전망",
+      "category": "경제·주식",
+      "date": "2026-05-25",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052431021",
+      "description": "엔비디아 루빈과 AMD MI350X를 앞세운 차세대 AI 가속기 경쟁이 본격화됐다. 두 회사의 신제품 모두 HBM4(5세대 고대역폭 메모리)를 탑재할 예정이어서 SK하이닉스·삼성전자의 HBM 수주 전쟁도 달아오르고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-25-nvidia-amd-ai-accelerator-hbm-demand/800/500"
+    },
+    {
+      "filename": "2026-05-25-korea-ai-startup-investment-record.md",
+      "title": "국내 AI 스타트업 1분기 투자, 역대 최대 — 에이전틱 AI가 돈을 끌어모은다",
+      "category": "AI",
+      "date": "2026-05-25",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33456",
+      "description": "2026년 1분기 국내 AI 스타트업 투자액이 역대 분기 최대치를 기록했다. 투자의 중심은 범용 AI 모델에서 에이전틱 AI(스스로 계획하고 실행하는 AI 시스템)로 빠르게 이동 중이다.",
+      "image": "https://picsum.photos/seed/2026-05-25-korea-ai-startup-investment-record/800/500"
+    },
+    {
+      "filename": "2026-05-25-mst-ai-safety-guidelines-revision.md",
+      "title": "과기부, AI 안전·신뢰성 가이드라인 전면 개정 — 고위험 AI에 의무 평가 도입",
+      "category": "AI",
+      "date": "2026-05-25",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211023",
+      "description": "과학기술정보통신부가 AI 안전·신뢰성 가이드라인을 전면 개정하고 고위험 AI 시스템에 사전 안전성 평가를 의무화했다. EU AI법 발효에 맞춰 국내 기업의 글로벌 규제 대응을 지원하는 조치다.",
+      "image": "https://picsum.photos/seed/2026-05-25-mst-ai-safety-guidelines-revision/800/500"
+    },
+    {
+      "filename": "2026-05-25-ai-agent-capabilities-limits.md",
+      "title": "AI 에이전트가 지금 할 수 있는 것과 할 수 없는 것",
+      "category": "AI",
+      "date": "2026-05-25",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/22/1117234/what-ai-agents-can-and-cant-do/",
+      "description": "AI 에이전트가 실제로 작동하는 영역과 여전히 실패하는 영역을 구분하는 실용적 기준이 등장했다. 코딩·데이터 분석은 안정권이지만, 다단계 실세계 작업에서는 여전히 40~60% 실패율을 보인다.",
+      "image": "https://picsum.photos/seed/2026-05-25-ai-agent-capabilities-limits/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",

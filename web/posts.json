@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-30-nvidia-rubin-gpu-shipment-korea-stocks.md",
+      "title": "엔비디아 루빈 GPU 3분기 출하 확정 — SK하이닉스·한미반도체 수혜 집중",
+      "category": "경제·주식",
+      "date": "2026-05-30",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052991823",
+      "description": "엔비디아가 차세대 AI GPU '루빈' 아키텍처의 3분기 고객사 출하를 공식화했다. HBM4E(6세대 고대역폭 메모리)를 탑재하는 루빈 수혜주로 SK하이닉스와 한미반도체가 부각되며, 두 종목 모두 장중 3% 이상 상승했다.",
+      "image": "https://picsum.photos/seed/2026-05-30-nvidia-rubin-gpu-shipment-korea-stocks/800/500"
+    },
+    {
+      "filename": "2026-05-30-korea-medical-ai-diagnosis-expansion.md",
+      "title": "국내 병원 AI 진단 솔루션, 급여 적용 첫해 도입 기관 300곳 돌파",
+      "category": "AI",
+      "date": "2026-05-30",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33412",
+      "description": "건강보험 급여 적용 1년 만에 국내 AI 의료 영상 진단 솔루션 도입 기관이 300곳을 넘어섰다. 뷰노·루닛·JLK 3사가 시장을 주도하며, 판독 정확도와 시간 단축 효과가 임상에서 입증되고 있다.",
+      "image": "https://picsum.photos/seed/2026-05-30-korea-medical-ai-diagnosis-expansion/800/500"
+    },
+    {
+      "filename": "2026-05-30-google-veo3-korea-launch.md",
+      "title": "구글 Veo 3, 한국에서도 쓸 수 있게 됐다 — AI 영상 생성의 새 기준",
+      "category": "AI",
+      "date": "2026-05-30",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211103",
+      "description": "구글이 AI 영상 생성 모델 Veo 3를 한국을 포함한 아시아 주요국에 정식 출시했다. 텍스트 한 줄로 최대 4K 해상도, 60초짜리 영상을 만들어내며 기존 Sora·Runway의 해상도와 음향 품질을 뛰어넘었다는 평가다.",
+      "image": "https://picsum.photos/seed/2026-05-30-google-veo3-korea-launch/800/500"
+    },
+    {
+      "filename": "2026-05-30-mit-ai-agentic-memory.md",
+      "title": "AI 에이전트가 기억을 가지면 무엇이 달라지나 — 장기 메모리 기술의 현재",
+      "category": "AI",
+      "date": "2026-05-30",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+      "description": "AI 에이전트에 장기 메모리가 더해지면서 단순 응답 도구를 넘어 개인 비서로 진화하고 있다. 메모리 구조 설계 방식과 개인정보 보호 사이의 긴장 관계가 새로운 숙제로 떠올랐다.",
+      "image": "https://picsum.photos/seed/2026-05-30-mit-ai-agentic-memory/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",

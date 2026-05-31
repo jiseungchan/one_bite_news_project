@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-05-31-ai-agents-computer-use-wave.md",
+      "title": "AI 에이전트가 마우스를 잡는다 — 컴퓨터 직접 제어 시대의 도래",
+      "category": "AI",
+      "date": "2026-05-31",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/29/1117354/the-next-wave-of-ai-agents/",
+      "description": "AI 에이전트가 사람 대신 브라우저를 열고, 파일을 옮기고, 앱을 실행하는 'computer-use' 기능이 주요 모델에 탑재되기 시작했다. 벤치마크 성공률은 80%를 넘어섰지만, 실제 업무 환경 적용까지는 아직 넘어야 할 관문이 있다.",
+      "image": "https://picsum.photos/seed/2026-05-31-ai-agents-computer-use-wave/800/500"
+    },
+    {
+      "filename": "2026-05-31-korea-ai-red-team-launch.md",
+      "title": "과기부, 'AI 레드팀' 공식 가동 — AI 모델의 위험을 먼저 찾는 팀",
+      "category": "AI",
+      "date": "2026-05-31",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211001",
+      "description": "과학기술정보통신부가 AI 시스템의 취약점과 위험을 선제적으로 발굴하는 'AI 레드팀'을 공식 출범시켰다. 국내 주요 AI 기업과 공공기관의 모델을 대상으로 적대적 테스트를 수행하며, EU AI법 발효를 앞둔 국내 대응 체계 정비의 일환이다.",
+      "image": "https://picsum.photos/seed/2026-05-31-korea-ai-red-team-launch/800/500"
+    },
+    {
+      "filename": "2026-05-31-nvidia-amd-next-gen-ai-chip-race.md",
+      "title": "GB300 vs MI400 — 엔비디아와 AMD, 차세대 AI 칩 전쟁의 구도",
+      "category": "AI",
+      "date": "2026-05-31",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33412",
+      "description": "엔비디아가 GB300(블랙웰 울트라) 양산을 본격화하는 가운데, AMD가 MI400 아키텍처로 정면 추격에 나섰다. AI 추론(inference) 수요 폭증이 두 회사의 경쟁을 가속화하고 있으며, 데이터센터 투자 방향이 달라질 수 있다.",
+      "image": "https://picsum.photos/seed/2026-05-31-nvidia-amd-next-gen-ai-chip-race/800/500"
+    },
+    {
+      "filename": "2026-05-31-foreigners-buy-korea-semicon-stocks.md",
+      "title": "외국인이 반도체주를 다시 담기 시작했다 — 삼성전자·SK하이닉스 동반 강세",
+      "category": "경제·주식",
+      "date": "2026-05-31",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/finance/article/2026053001234",
+      "description": "5월 30일 기준 외국인 투자자들이 삼성전자와 SK하이닉스를 동시에 순매수 전환했다. AI 반도체 수요 회복 기대감과 원화 약세 수혜가 맞물리며, 코스피 반도체 섹터에 2주 만의 외국인 자금 유입이 확인됐다.",
+      "image": "https://picsum.photos/seed/2026-05-31-foreigners-buy-korea-semicon-stocks/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",

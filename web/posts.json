@@ -1,6 +1,56 @@
 {
   "posts": [
     {
+      "filename": "2026-06-01-ai-agent-long-term-memory.md",
+      "title": "AI 에이전트가 '기억'을 잃는 이유 — 장기 메모리 아키텍처의 현재",
+      "category": "AI",
+      "date": "2026-06-01",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/30/1117312/ai-agents-long-term-memory-architecture/",
+      "description": "AI 에이전트가 복잡한 작업을 수행하면서도 이전 대화나 맥락을 기억하지 못하는 근본 원인을 분석했다. 외부 메모리 저장소, 벡터 데이터베이스, 요약 압축 등 세 가지 접근법의 득실을 비교한다.",
+      "image": "https://picsum.photos/seed/2026-06-01-ai-agent-long-term-memory/800/500"
+    },
+    {
+      "filename": "2026-06-01-google-veo3-video-generation.md",
+      "title": "구글 Veo 3, 영상에 소리까지 입히다 — AI 영상 생성의 다음 단계",
+      "category": "AI",
+      "date": "2026-06-01",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33450",
+      "description": "구글 딥마인드가 오디오 생성 기능을 통합한 영상 생성 AI Veo 3를 공개했다. 영상 프레임에 맞춰 배경음, 대화 음성, 효과음을 자동 생성하는 최초의 통합 모델로, 크리에이터 도구 생태계에 파급이 예상된다.",
+      "image": "https://picsum.photos/seed/2026-06-01-google-veo3-video-generation/800/500"
+    },
+    {
+      "filename": "2026-06-01-nvidia-rubin-gpu-korea-hbm-supply.md",
+      "title": "엔비디아 루빈 GPU 공급망 확정 — SK하이닉스 HBM4E 단독 공급, 삼성 추격전",
+      "category": "경제·주식",
+      "date": "2026-06-01",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026060103021",
+      "description": "엔비디아가 차세대 AI GPU 플랫폼 루빈(Rubin)의 HBM4E(6세대 고대역폭 메모리) 공급사로 SK하이닉스를 단독 선정한 것으로 알려졌다. 삼성전자는 루빈 이후 플랫폼인 '베라 루빈 울트라'에 납품하기 위한 경쟁에 집중하고 있다.",
+      "image": "https://picsum.photos/seed/2026-06-01-nvidia-rubin-gpu-korea-hbm-supply/800/500"
+    },
+    {
+      "filename": "2026-06-01-openai-codex-cloud-software-agent.md",
+      "title": "OpenAI, 클라우드 코딩 에이전트 'Codex' 공개 — 소프트웨어 개발의 분업 구조가 바뀐다",
+      "category": "AI",
+      "date": "2026-06-01",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211501",
+      "description": "OpenAI가 클라우드 환경에서 독립적으로 코드를 작성·테스트·수정하는 코딩 에이전트 Codex를 공개했다. 단순 코드 자동완성 도구를 넘어, 멀티태스킹 소프트웨어 개발 에이전트로서 풀 PR을 자율 생성한다.",
+      "image": "https://picsum.photos/seed/2026-06-01-openai-codex-cloud-software-agent/800/500"
+    },
+    {
+      "filename": "2026-06-01-samsung-gauss3-medical-ai.md",
+      "title": "삼성전자 가우스3, 의료 AI에 첫발 — 진단 보조 모델로 병원 시장 진출",
+      "category": "AI",
+      "date": "2026-06-01",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211523",
+      "description": "삼성전자가 자체 생성형 AI 가우스3를 의료 영상 분석에 특화한 버전으로 확장하며 병원 시장에 진출한다. 삼성서울병원과 공동 개발한 진단 보조 모델로, 흉부 엑스레이 이상 소견 탐지 정확도 94.2%를 달성했다.",
+      "image": "https://picsum.photos/seed/2026-06-01-samsung-gauss3-medical-ai/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",

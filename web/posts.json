@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-02-ai-coding-agents-software-engineering.md",
+      "title": "AI가 코드를 짜는 시대, 개발자는 무엇을 해야 하는가",
+      "category": "AI",
+      "date": "2026-06-02",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/05/29/1117312/ai-coding-agents-software-engineering-future/",
+      "description": "GitHub Copilot·Cursor·Claude Code 등 AI 코딩 에이전트가 산업 표준으로 자리 잡으면서, 소프트웨어 엔지니어링의 본질이 '코드 작성'에서 '시스템 설계와 검증'으로 이동하고 있다. MIT 연구진이 6개월간 기업 데이터를 분석한 결과다.",
+      "image": "https://picsum.photos/seed/2026-06-02-ai-coding-agents-software-engineering/800/500"
+    },
+    {
+      "filename": "2026-06-02-korea-ai-agent-platform.md",
+      "title": "국내 AI 에이전트 플랫폼 경쟁 본격화 — 네이버·카카오·KT가 다른 판을 짜는 이유",
+      "category": "AI",
+      "date": "2026-06-02",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211203",
+      "description": "네이버·카카오·KT가 각자의 AI 에이전트 플랫폼을 잇달아 공개하며 국내 B2B AI 에이전트 시장이 개화하고 있다. 단순 챗봇을 넘어 업무 자동화·고객 응대·데이터 분석을 통합 처리하는 에이전트 경쟁이 2026년 하반기를 달굴 전망이다.",
+      "image": "https://picsum.photos/seed/2026-06-02-korea-ai-agent-platform/800/500"
+    },
+    {
+      "filename": "2026-06-02-multimodal-ai-benchmark-2026.md",
+      "title": "오픈소스 멀티모달 AI의 반란 — 상업 모델 독주에 균열이 생겼다",
+      "category": "AI",
+      "date": "2026-06-02",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33487",
+      "description": "중국 오픈소스 멀티모달 모델 InternVL3와 Qwen2.5-VL이 GPT-4o·Gemini 1.5 Pro를 여러 벤치마크에서 앞서기 시작했다. 텍스트·이미지·영상을 동시에 처리하는 멀티모달(다중 입력 방식) AI 시장에서 오픈소스의 반격이 본격화됐다.",
+      "image": "https://picsum.photos/seed/2026-06-02-multimodal-ai-benchmark-2026/800/500"
+    },
+    {
+      "filename": "2026-06-02-ai-chip-stock-foreign-buying.md",
+      "title": "외국인이 AI 반도체주만 집중 매수 — 6월 첫 주 코스피 판도 변화",
+      "category": "경제·주식",
+      "date": "2026-06-02",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/finance/article/2026060211321",
+      "description": "6월 첫 거래일, 외국인 투자자가 삼성전자·SK하이닉스를 합산 7,800억 원어치 순매수했다. 엔비디아 루빈 플랫폼 출하 일정이 구체화되면서 HBM4·HBM4E 공급업체에 대한 기대감이 집중됐다. 코스피는 장 중 2,920선을 돌파했다.",
+      "image": "https://picsum.photos/seed/2026-06-02-ai-chip-stock-foreign-buying/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",

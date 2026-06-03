@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-03-ai-semiconductor-stock-surge.md",
+      "title": "AI 데이터센터 투자 급증에 삼성·SK하이닉스 동반 강세 — 엔비디아 GB300 수요가 만든 파장",
+      "category": "경제·주식",
+      "date": "2026-06-03",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/finance/article/2026060389861",
+      "description": "글로벌 AI 데이터센터 투자가 2026년 상반기에만 전년 대비 85% 급증하면서 고대역폭 메모리(HBM) 수요가 폭발적으로 늘고 있다. SK하이닉스가 HBM4 독점 공급 체제를 구축한 가운데, 삼성전자도 HBM4 품질 인증 통과 소식에 주가가 동반 상승했다.",
+      "image": "https://picsum.photos/seed/2026-06-03-ai-semiconductor-stock-surge/800/500"
+    },
+    {
+      "filename": "2026-06-03-google-deepmind-alphagenome.md",
+      "title": "구글 딥마인드, AlphaGenome 공개 — DNA 서열이 생명을 지휘하는 방식을 AI로 해독",
+      "category": "AI",
+      "date": "2026-06-03",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33489",
+      "description": "구글 딥마인드가 유전체 해석 AI 모델 'AlphaGenome'을 공개했다. DNA 서열에서 유전자 발현 패턴을 예측하는 정확도가 기존 모델 대비 30% 이상 향상됐으며, 희귀 유전 질환 연구에 즉시 활용 가능하다.",
+      "image": "https://picsum.photos/seed/2026-06-03-google-deepmind-alphagenome/800/500"
+    },
+    {
+      "filename": "2026-06-03-openai-codex-coding-agent.md",
+      "title": "OpenAI Codex — 클라우드에서 돌아가는 코딩 에이전트의 등장",
+      "category": "AI",
+      "date": "2026-06-03",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211430",
+      "description": "OpenAI가 클라우드 기반 코딩 에이전트 'Codex'를 ChatGPT Pro·Team 플랜에 탑재했다. 백그라운드에서 여러 코딩 작업을 병렬 처리하며, 사용자가 지시만 내리면 코드 작성·테스트·PR 생성까지 단독 완수한다.",
+      "image": "https://picsum.photos/seed/2026-06-03-openai-codex-coding-agent/800/500"
+    },
+    {
+      "filename": "2026-06-03-mit-ai-agents-work-automation.md",
+      "title": "AI 에이전트가 실제 업무를 처리하기 시작했다 — 자동화의 다음 단계",
+      "category": "AI",
+      "date": "2026-06-03",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "description": "AI 에이전트가 단순 답변 생성을 넘어 실제 업무 워크플로를 자율적으로 실행하는 단계로 진입했다. 코드 작성, 이메일 처리, 데이터 분석까지 멀티스텝 작업을 처음부터 끝까지 완수하는 에이전트 시스템이 기업 현장에 빠르게 확산되고 있다.",
+      "image": "https://picsum.photos/seed/2026-06-03-mit-ai-agents-work-automation/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",
@@ -27,7 +67,7 @@
       "date": "2026-05-19",
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210712",
-      "description": "삼성전자가 웨어러블(착용형 기기) 전용 AI 가속기 '엑시노스 W1000'을 공개했다. 전작 대비 NPU 성능이 2.4배 향상됐으며, 갤럭시 워치8 시리즈에 최초 탑재될 예정이다.",
+      "description": "삼성전자가 웨어러블(쉾용형 기기) 전용 AI 가속기 '엑시노스 W1000'을 공개했다. 전작 대비 NPU 성능이 2.4배 향상됐으며, 갤럭시 워치8 시리즈에 최초 탑재될 예정이다.",
       "image": "https://picsum.photos/seed/2026-05-19-samsung-exynos-w1000-ondevice-ai/800/500"
     },
     {
@@ -47,12 +87,12 @@
       "date": "2026-05-13",
       "source": "매일경제",
       "sourceUrl": "https://www.mk.co.kr/news/stock/12044201",
-      "description": "미국 상무부가 삼성전자 47억 달러(6.4조 원), SK하이닉스 15억 달러(2조 원)의 CHIPS Act 보조금을 최종 확정했다. 두 종목 모두 3% 안팎 상승했으며, 미국 반도체 공급망 재편에서 한국 기업의 위치가 확인됐다.",
+      "description": "미국 상무부가 삼성전자 47억 달러(6.4조 원), SK하이닉스 15억 달러(2조 원)의 CHIPS Act 보조금을 최종 확정했다. 두 종목 모두 3% 안� 상승했으며, 미국 반도체 공급망 재편에서 한국 기업의 위치가 확인되었다.",
       "image": "https://picsum.photos/seed/2026-05-13-samsung-skhynix-chips-subsidy/800/500"
     },
     {
       "filename": "2026-05-13-eu-ai-act-june-enforcement.md",
-      "title": "EU AI법 6월 발효 — 국내 기업 40%가 아직 준비 안 됐다",
+      "title": "EU AI법 6월 발효 — 국내 기업 40%가 아직 준비 안 똀다",
       "category": "AI",
       "date": "2026-05-13",
       "source": "AI타임스",
@@ -87,7 +127,7 @@
       "date": "2026-05-12",
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/economy/",
-      "description": "삼성 파운드리가 AMD로부터 2나노 공정 양산 수주를 받은 것으로 알려졌다. TSMC가 독점하던 최첨단 반도체 공정 시장에 삼성이 처음으로 의미 있는 균열을 낸 것이다.",
+      "description": "삼성 파운드리가 AMD로부터 2나노 공정 양산 수주를 받은 것으로 알려졌다. TSMC가 독점하던 최첸단 반도체 공정 시장에 삼성이 처음으로 의미 있는 균열을 낸 것이다.",
       "image": "https://picsum.photos/seed/2026-05-12-samsung-foundry-2nm-amd-order/800/500"
     },
     {
@@ -107,7 +147,7 @@
       "date": "2026-05-12",
       "source": "인공지능신문",
       "sourceUrl": "https://www.aitimes.kr/rss/allArticle.xml",
-      "description": "OpenAI가 GPT-5를 ChatGPT와 API를 통해 동시 공개했다. GPT-4o 대비 추론 능력이 대폭 강화됐고, 텍스트·이미지·음성·코드를 단일 모델에서 처리한다.",
+      "description": "OpenAI가 GPT-5를 ChatGPT와 API를 통해 동시 공개했다. GPT-4o 대비 추론 능력이 대폭 강화되고, 텍스트·이미지·음성·코드를 단일 모델에서 처리한다.",
       "image": "https://picsum.photos/seed/2026-05-12-openai-gpt5-official-launch/800/500"
     },
     {
@@ -127,7 +167,7 @@
       "date": "2026-05-10",
       "source": "Bloomberg",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-03/microsoft-first-quarter-2026-earnings",
-      "description": "마이크로소프트가 2026년 회계연도 3분기 실적에서 순이익이 전년 동기 대비 18% 급증했다. 클라우드와 AI 사업이 성장을 이끌었으며 모든 월가 애널리스트 추정치를 상회했다.",
+      "description": "마이크로소프트가 2026년 회계연도 3분기 실적에서 순이익이 전년 동기 대비 18% 급증했다. 클라우드와 AI 사업이 성장을 이끄었으며 모든 월가 애널리스트 추정치를 상회했다.",
       "image": "https://picsum.photos/seed/2026-05-10-microsoft-cloud-ai-earnings/800/500"
     },
     {
@@ -137,7 +177,7 @@
       "date": "2026-05-10",
       "source": "Bloomberg",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-04/tsmc-arizona-fab2-delay-2027",
-      "description": "블룸버그에 따르면 TSMC 애리조나 Fab 2의 본격 양산 일정이 반도체 장비 부족으로 2027년으로 지연될 수 있다. 미국 내 첨단 반도체 자급 계획에 차질이 생길 수 있다는 우려가 나온다.",
+      "description": "블렉버그에 따르면 TSMC 애리조나 Fab 2의 본격 양산 일정이 반도체 장비 부족으로 2027년으로 지연될 수 있다. 미국 내 첨단 반도체 자급 계획에 차질이 생길 수 있다는 우려가 나온다.",
       "image": "https://picsum.photos/seed/2026-05-10-tsmc-arizona-fab2-delay/800/500"
     },
     {
@@ -157,476 +197,8 @@
       "date": "2026-05-05",
       "source": "Bloomberg",
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-03/meta-first-quarter-earnings-ad-revenue",
-      "description": "Meta가 2026년 1분기 광고 매출에서 시장 컨센서스를 웃도는 실적을 발표했다. 결과 발표 직후 주가는 장 외 거래에서 급등했다.",
+      "description": "Meta가 2026년 1분기 광고 매출에서 시장 콘센서스를 웃도는 실적을 발표했다. 결과 발표 직후 주가는 장 외 거래에서 급등했다.",
       "image": "https://picsum.photos/seed/2026-05-05-meta-q1-earnings/800/500"
-    },
-    {
-      "filename": "2026-05-03-skhynix-hbm4e-development.md",
-      "title": "\"SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, 엔비디아 루빈 GPU에 탑재\"",
-      "category": "경제·주식",
-      "date": "2026-05-03",
-      "source": "한국경제",
-      "sourceUrl": "https://www.hankyung.com/article/2026042932010",
-      "description": "\"SK하이닉스가 차세대 AI 메모리 HBM4E 개발을 완료하고 2026년 4분기 양산에 들어간다고 선언했다. HBM3E 대비 대역폭 50% 이상 향상이 목표이며, 엔비디아 루빈 GPU 플랫폼에 탑재될 전망이다.\""
-    },
-    {
-      "filename": "2026-05-03-nvidia-agentiq-platform.md",
-      "title": "\"엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 — 에이전트끼리 소통하는 표준을 만든다\"",
-      "category": "AI",
-      "date": "2026-05-03",
-      "source": "인공지능신문",
-      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33120",
-      "description": "\"엔비디아가 여러 AI 에이전트가 협업할 수 있는 오픈소스 플랫폼 AgentIQ를 공개했다. 에이전트 간 통신 표준을 엔비디아가 선점하려는 시도로, GPU 이후 AI 생태계 주도권 경쟁의 새 전선이다.\""
-    },
-    {
-      "filename": "2026-05-03-meta-ai-app-launch.md",
-      "title": "\"메타, AI 독립형 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타그램과 분리된 AI가 온다\"",
-      "category": "AI",
-      "date": "2026-05-03",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209970",
-      "description": "\"메타가 왓츠앱·인스타그램 내부 기능이 아닌 독립 앱 형태로 '메타 AI'를 글로벌 출시했다. 기존 소셜 플랫폼에 종속됐던 AI를 떼어내 OpenAI·구글과 정면 승부를 선언한 것이다.\""
-    },
-    {
-      "filename": "2026-05-02-openai-reasoning-hallucination.md",
-      "title": "더 잘 추론하는데 더 많이 환각한다 — OpenAI 추론 모델의 역설",
-      "category": "AI",
-      "date": "2026-05-02",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/",
-      "description": "OpenAI의 최신 추론 모델 o3·o4-mini가 이전 세대보다 수학·코딩 벤치마크에서 훨씬 높은 점수를 기록하면서도, 사실과 다른 내용을 생성하는 환각(hallucination) 비율은 오히려 높아졌다는 OpenAI 자체 평가 결과가 공개됐다."
-    },
-    {
-      "filename": "2026-05-02-anthropic-claude4-series.md",
-      "title": "\"앤트로픽, 클로드 4 시리즈 공개 — 오퍼스4·소네트4·하이쿠4 동시 출시\"",
-      "category": "AI",
-      "date": "2026-05-02",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210012",
-      "description": "앤트로픽이 클로드 4 시리즈 전 라인업을 동시 공개했다. 최상위 모델 오퍼스4는 복잡한 장문 추론에서, 소네트4는 가격 대비 성능에서, 하이쿠4는 온디바이스·엣지 환경에서 각각 새 기준을 제시한다."
-    },
-    {
-      "filename": "2026-05-01-openai-reasoning-hallucinate.md",
-      "title": "\"더 많이 생각할수록 더 많이 틀린다 — OpenAI 추론 모델의 역설\"",
-      "category": "AI",
-      "date": "2026-05-01",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/",
-      "description": "OpenAI의 최신 추론 모델 o3·o4-mini가 이전 세대보다 수학·코딩에서 뛰어나지만, 사실 오류(환각) 발생률은 오히려 더 높다는 분석이 나왔다. '더 잘 생각하는 AI'가 동시에 '더 자신 있게 틀리는 AI'가 된 이유를 들여다봤다."
-    },
-    {
-      "filename": "2026-05-01-google-ai-overview-redesign.md",
-      "title": "\"구글 AI 검색, 전면 개편 — 답변 정확도 60% 향상, 어떻게 바뀌었나\"",
-      "category": "AI",
-      "date": "2026-05-01",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209998",
-      "description": "구글이 AI 오버뷰(AI Overview) 검색 시스템을 전면 개편했다. 부정확한 답변으로 비판받던 초기 버전 대비 사실 오류율을 60% 낮췄으며, 출처 명시 방식과 답변 구조를 대폭 바꿨다."
-    },
-    {
-      "filename": "2026-04-30-samsung-q1-2026-earnings.md",
-      "title": "\"삼성전자 1분기 영업이익 6.7조 — DS부문 흑자 전환이 바꾼 숫자들\"",
-      "category": "경제·주식",
-      "date": "2026-04-30",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12034501",
-      "description": "삼성전자가 2026년 1분기 영업이익 6.7조 원을 기록하며 시장 컨센서스(증권가 평균 예상치)를 상회했다. 반도체(DS)부문이 흑자로 전환된 것이 핵심 변수였으며, HBM(고대역폭 메모리) 공급 확대가 실적 회복을 이끌었다."
-    },
-    {
-      "filename": "2026-04-28-samsung-sk-hbm4-earnings.md",
-      "title": "삼성전자·SK하이닉스 2분기 실적 전망 상향 — HBM4 조기 양산이 바꾼 숫자들",
-      "category": "경제·주식",
-      "date": "2026-04-28",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12031205",
-      "description": "증권가가 삼성전자와 SK하이닉스의 2분기 실적 전망치를 일제히 올려 잡았다. HBM4(4세대 고대역폭 메모리) 조기 양산 확정이 결정적 변수였다. 2분기 영업이익 합산 추정치가 기존 대비 15~20% 상향됐다."
-    },
-    {
-      "filename": "2026-04-28-openai-o4-mini.md",
-      "title": "OpenAI, o4-mini 공개 — o3-mini보다 10배 저렴한 추론 모델",
-      "category": "AI",
-      "date": "2026-04-28",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209780",
-      "description": "OpenAI가 기존 o3-mini 대비 추론 비용을 10분의 1로 낮춘 o4-mini를 공개했다. 성능은 유지하면서 가격을 대폭 낮춰 API 개발자 시장과 기업용 자동화 수요를 정면으로 겨냥한다."
-    },
-    {
-      "filename": "2026-04-28-deepmind-cell-simulation.md",
-      "title": "단백질 하나에서 세포 전체로 — 구글 딥마인드의 다음 도전",
-      "category": "바이오",
-      "date": "2026-04-28",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209760",
-      "description": "구글 딥마인드가 AlphaFold로 단백질 구조 예측을 해결한 데 이어, 이제 세포 전체의 동작을 AI로 시뮬레이션하는 프로젝트에 착수했다. 단백질 하나에서 생명 단위 전체로 스케일을 키우는 시도다."
-    },
-    {
-      "filename": "2026-04-28-ai-clinical-decision-support.md",
-      "title": "의사의 판단을 보조하는 AI — 임상 의사결정 지원 모델의 현재",
-      "category": "AI",
-      "date": "2026-04-28",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/27/1115501/ai-models-clinical-decision-support-doctors/",
-      "description": "AI 모델이 의사의 진단·처방 과정을 실시간으로 보조하는 임상 의사결정 지원 시스템이 실제 병원 현장에 도입되고 있다. 단순 검색 도구가 아니라, 환자 데이터를 읽고 다음 처치를 제안하는 수준까지 발전했다."
-    },
-    {
-      "filename": "2026-04-27-wall-street-quantum-divide.md",
-      "title": "골드만은 빠지고, JP모건은 더 넣는다 — 월가의 양자컴퓨팅 베팅이 갈라졌다",
-      "category": "AI",
-      "date": "2026-04-27",
-      "source": "Bloomberg Markets",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
-      "description": "골드만삭스가 양자컴퓨팅 투자에서 전략적으로 철수하는 동안, JP모건은 오히려 투자를 확대하고 있다. 같은 기술을 두고 월가 최상위 두 기관의 판단이 정반대로 갈린 이유가 흥미롭다."
-    },
-    {
-      "filename": "2026-04-27-kospi-market-cap-6000t.md",
-      "title": "국내 증시 시총 사상 첫 6,000조 원 돌파 — 숫자보다 중요한 건 그 의미다",
-      "category": "경제·주식",
-      "date": "2026-04-27",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12027957",
-      "description": "코스피·코스닥을 합친 국내 증시 시가총액이 사상 처음으로 6,000조 원을 돌파했다. AI·반도체 섹터가 랠리를 이끌었으며, 글로벌 자금의 한국 시장 재평가 흐름이 본격화되고 있다."
-    },
-    {
-      "filename": "2026-04-27-goldman-oil-price-forecast.md",
-      "title": "골드만삭스, 유가 전망 공식 상향 — 호르무즈 충격이 재고를 바닥낸다",
-      "category": "에너지",
-      "date": "2026-04-27",
-      "source": "Bloomberg Markets",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-27/goldman-hikes-oil-price-forecasts-on-extreme-inventory-draws",
-      "description": "골드만삭스가 호르무즈 봉쇄 장기화로 인한 극단적 재고 급감을 이유로 유가 전망을 공식 상향했다. 월가 핵심 IB의 가격 전망 변경은 단순 뉴스가 아니라 시장 전반의 포지션 재편 신호다."
-    },
-    {
-      "filename": "2026-04-27-ai-boom-asia-market-divide.md",
-      "title": "AI 붐이 전쟁 공포를 눌렀다 — 아시아 증시를 가르는 새로운 단층선",
-      "category": "AI",
-      "date": "2026-04-27",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-27/ai-boom-drowns-out-war-fears-to-fuel-asia-s-great-market-divide",
-      "description": "중동 전쟁 공포에도 AI 붐이 아시아 증시를 사상 최고치로 이끌고 있다. AI 수혜 섹터와 비수혜 섹터 간 주가 격차가 역사적 수준으로 벌어지며 '아시아의 대분열'이 본격화되고 있다."
-    },
-    {
-      "filename": "2026-04-21-skhynix-profit-margin-64.md",
-      "title": "SK하이닉스 영업이익률 64% — HBM이 만든 역대급 숫자의 의미",
-      "category": "경제·주식",
-      "date": "2026-04-21",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12021499",
-      "description": "SK하이닉스가 영업이익률 64%라는 반도체 업계 이례적 수치를 기록했다. HBM(고대역폭 메모리) 독주 효과가 실적 전반에 반영된 결과로, 성과급 수조 원도 '넉넉히' 감당할 수 있는 수준이다."
-    },
-    {
-      "filename": "2026-04-21-samsung-sdi-benz-battery.md",
-      "title": "삼성SDI, 벤츠와 10조 원 배터리 계약 — K배터리의 반격이 시작됐다",
-      "category": "경제·주식",
-      "date": "2026-04-21",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/business/12022133",
-      "description": "삼성SDI가 메르세데스-벤츠 전기차에 배터리를 공급하는 10조 원 규모의 계약을 따냈다. 중국산 배터리에 밀려 고전하던 K배터리 업계에 대형 반전 계기가 마련됐다."
-    },
-    {
-      "filename": "2026-04-21-hormuz-oil-crisis.md",
-      "title": "호르무즈 해협이 막혔다 — 이란의 갑작스런 봉쇄 선언과 원유 공급망 마비",
-      "category": "경제·주식",
-      "date": "2026-04-21",
-      "source": "Bloomberg Economics",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk",
-      "description": "이란이 호르무즈 해협 재개방 합의를 일방적으로 파기하며 원유 통행이 사실상 중단됐다. 미국 선박 나포 사태가 직접적 도화선이 됐으며, 세계 원유 공급량의 20%가 지나는 이 해협의 봉쇄는 글로벌 에너지 시장 전반을 흔들고 있다."
-    },
-    {
-      "filename": "2026-04-21-google-ai-chip-nvidia.md",
-      "title": "구글이 엔비디아 없이 AI를 돌리려는 이유 — TPU를 넘어선 새 칩 전략",
-      "category": "AI",
-      "date": "2026-04-21",
-      "source": "Bloomberg Technology",
-      "sourceUrl": "https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia",
-      "description": "구글이 AI 추론 속도를 높이기 위해 엔비디아 GPU 의존도를 낮추는 자체 칩 전략을 본격화하고 있다. 단순한 비용 절감을 넘어, AI 서비스 응답 속도와 마진 구조 자체를 바꾸려는 시도다."
-    },
-    {
-      "filename": "2026-04-19-openai-o3-reasoning-model.md",
-      "title": "\"OpenAI o3, 추론 모델의 새 기준을 세우다 — '생각하는 AI'가 한 단계 더 올라갔다\"",
-      "category": "AI",
-      "date": "2026-04-19",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/",
-      "description": "OpenAI가 새 추론 모델 o3를 공개했다. 수학·코딩·과학 벤치마크에서 전작 o1을 전 영역 압도하며, 'AI가 정말로 추론한다'는 주장에 가장 근접한 모델로 평가받는다."
-    },
-    {
-      "filename": "2026-04-19-lg-exaone35-reasoning.md",
-      "title": "\"LG AI연구원, EXAONE 3.5 공개 — 국내 AI 추론 모델의 수준이 달라졌다\"",
-      "category": "AI",
-      "date": "2026-04-19",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209521",
-      "description": "LG AI연구원이 추론 특화 모델 EXAONE 3.5를 공개했다. 수학·과학 벤치마크에서 GPT-4o와 동급 성능을 기록했고, 2.4B·7.8B·32B 세 가지 크기로 제공돼 온디바이스부터 서버까지 폭넓게 활용 가능하다."
-    },
-    {
-      "filename": "2026-04-19-kakao-kanana-ai-platform.md",
-      "title": "\"카카오, AI 통합 플랫폼 '카나나' 전면 오픈 — 카카오톡 1등석을 AI에게 내주다\"",
-      "category": "AI",
-      "date": "2026-04-19",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209547",
-      "description": "카카오가 자체 AI 플랫폼 '카나나'를 카카오톡과 전면 연동해 정식 출시했다. 단순 챗봇을 넘어 일정 관리·쇼핑·송금까지 카카오 생태계 전체를 AI가 중계하는 구조다."
-    },
-    {
-      "filename": "2026-04-18-skhynix-hbm4-mass-production.md",
-      "title": "\"SK하이닉스, HBM4 양산 개시 — 엔비디아 블랙웰 울트라에 첫 납품\"",
-      "category": "경제·주식",
-      "date": "2026-04-18",
-      "source": "한국경제",
-      "sourceUrl": "https://www.hankyung.com/article/2026041721051",
-      "description": "\"SK하이닉스가 차세대 AI 메모리 HBM4 양산을 시작하고 엔비디아 블랙웰 울트라 GPU에 첫 공급한다. HBM3E 대비 대역폭 60% 향상, 전력 효율 30% 개선 — 2026년 AI 데이터센터 메모리 시장의 핵심 변수가 됐다.\""
-    },
-    {
-      "filename": "2026-04-18-samsung-gauss3-ai-model.md",
-      "title": "\"삼성전자, 자체 생성형 AI '가우스3' 공개 — 온디바이스 AI의 새 기준을 세우다\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209312",
-      "description": "\"삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI 모델 가우스3를 공개했다. 1~12B 파라미터 범위의 경량 모델로, 클라우드 없이 기기 안에서 실시간 번역·요약·이미지 생성을 처리한다.\""
-    },
-    {
-      "filename": "2026-04-18-openai-gpt41-api.md",
-      "title": "\"코딩에 특화된 GPT-4.1, API로 공개 — 'GPT-4o보다 54% 저렴하고 더 정확하다'\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/14/1115143/openai-gpt41-api/",
-      "description": "\"OpenAI가 코딩·지시 따르기에 특화된 GPT-4.1 모델을 API로 공개했다. GPT-4o 대비 54.6% 저렴하면서도 SWE-bench에서 54.6%의 소프트웨어 엔지니어링 성능을 기록했다.\""
-    },
-    {
-      "filename": "2026-04-18-nvidia-jensen-inference-demand.md",
-      "title": "\"젠슨 황 '추론 수요는 예상의 100배' — 엔비디아가 AI 칩 시장을 다시 계산하는 이유\"",
-      "category": "경제·주식",
-      "date": "2026-04-18",
-      "source": "\"한국경제\"",
-      "sourceUrl": "\"https://www.hankyung.com/article/2026041732010\"",
-      "description": "\"엔비디아 CEO 젠슨 황이 AI 추론 연산 수요가 당초 예측치를 100배 초과했다고 밝혔다. 학습(training)용 GPU 수요는 정체되는 반면, 추론(inference)용 칩 수요가 폭증하면서 반도체 시장 구조가 바뀌고 있다.\""
-    },
-    {
-      "filename": "2026-04-18-nvidia-blackwell-ultra-delay-samsung-sk.md",
-      "title": "\"엔비디아 블랙웰 울트라 공급 지연 — 삼성·SK하이닉스, HBM4E 납품 경쟁 앞당겨\"",
-      "category": "경제·주식",
-      "date": "2026-04-18",
-      "source": "\"한국경제\"",
-      "sourceUrl": "\"https://www.hankyung.com/article/2026041735021\"",
-      "description": "\"엔비디아의 차세대 AI GPU '블랙웰 울트라'의 양산 일정이 2~3개월 지연되면서, 삼성전자와 SK하이닉스의 HBM4E 메모리 납품 경쟁이 당초보다 빨리 시작될 전망이다. 공급 지연 배경에는 CoWoS-L 패키징 수율 문제가 있다.\""
-    },
-    {
-      "filename": "2026-04-18-naver-hyperclovax2-launch.md",
-      "title": "\"네이버, 하이퍼클로바X 2.0 공개 — 한국어 AI 시장의 판이 다시 짜인다\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"AI타임스\"",
-      "sourceUrl": "\"https://www.aitimes.com/news/articleView.html?idxno=209400\"",
-      "description": "\"네이버가 초거대 AI 하이퍼클로바X의 2세대 모델을 공개했다. 한국어 이해·생성 능력을 전면 강화하고 멀티모달 기능을 추가했으며, 네이버 서비스 전반에 순차 적용될 예정이다.\""
-    },
-    {
-      "filename": "2026-04-18-naver-hyperclova-x2.md",
-      "title": "\"네이버, HyperCLOVA X 2.0 공개 — 한국어 AI의 새 기준을 직접 만든다\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"AI타임스\"",
-      "sourceUrl": "\"https://www.aitimes.com/news/articleView.html?idxno=209401\"",
-      "description": "\"네이버가 한국어 특화 초대규모 AI 모델 HyperCLOVA X 2.0을 공개했다. 전작 대비 추론 성능 40% 향상, 한국어 벤치마크에서 GPT-4o를 앞섰다. 네이버 검색·커머스·클라우드 전 영역에 단계적으로 통합된다.\""
-    },
-    {
-      "filename": "2026-04-18-korea-ai-national-strategy-2030.md",
-      "title": "\"정부, AI 국가전략 2.0 발표 — 2030년 AI 반도체 자립, 어떻게 할 것인가\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"인공지능신문\"",
-      "sourceUrl": "\"https://www.aitimes.kr/news/articleView.html?idxno=32855\"",
-      "description": "\"과학기술정보통신부가 'AI 국가전략 2.0'을 발표했다. 2030년까지 AI 반도체 설계 자립률 60% 달성과 AI 분야 핵심 인재 10만 명 양성이 핵심 목표다. 민간 AI 투자에 연 3조 원 규모 세제 혜택도 포함된다.\""
-    },
-    {
-      "filename": "2026-04-18-kimi-k2-moonshot-ai-reasoning.md",
-      "title": "\"중국 AI의 역습 — Moonshot AI 'Kimi K2', 오픈소스 추론 모델 1위 등극\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"AI타임스\"",
-      "sourceUrl": "\"https://www.aitimes.com/news/articleView.html?idxno=209398\"",
-      "description": "\"중국 스타트업 Moonshot AI가 공개한 추론 모델 Kimi K2가 수학·코딩 벤치마크에서 오픈소스 모델 최고 성적을 기록했다. 1조 파라미터 규모의 MoE 구조로, DeepSeek-R1을 뛰어넘는 성능을 보였다.\""
-    },
-    {
-      "filename": "2026-04-18-hyundai-robotics-ai-platform.md",
-      "title": "\"현대차, 로봇에 AI 두뇌를 심다 — 보스턴다이나믹스와 함께 만드는 로보틱스 플랫폼\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"인공지능신문\"",
-      "sourceUrl": "\"https://www.aitimes.kr/news/articleView.html?idxno=32900\"",
-      "description": "\"현대차그룹이 보스턴다이나믹스와 공동 개발한 로보틱스 AI 플랫폼을 공개했다. 아틀라스 로봇에 탑재된 이 시스템은 단순 동작 반복을 넘어 환경 인식·판단·실행까지 스스로 처리한다.\""
-    },
-    {
-      "filename": "2026-04-18-google-gemini-25-flash.md",
-      "title": "\"구글, Gemini 2.5 Flash 공개 — 가격은 절반, 추론 능력은 그대로\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"MIT Technology Review\"",
-      "sourceUrl": "\"https://www.technologyreview.com/2026/04/17/1115298/google-gemini-25-flash/\"",
-      "description": "\"구글이 Gemini 2.5 Pro의 경량 버전인 Gemini 2.5 Flash를 출시했다. 추론 능력은 유지하면서 가격을 대폭 낮춰 개발자 시장을 겨냥했다. 100만 토큰 컨텍스트 창을 지원하며, 비용 민감 애플리케이션의 새 기준을 제시한다.\""
-    },
-    {
-      "filename": "2026-04-18-google-deepmind-project-astra.md",
-      "title": "\"구글 딥마인드, '아스트라' 전면 업그레이드 — 카메라로 보고, 기억하고, 대신 행동하는 AI\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "인공지능신문",
-      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=32841",
-      "description": "\"구글 딥마인드가 멀티모달 AI 에이전트 Project Astra의 업그레이드 버전을 공개했다. 스마트폰 카메라로 주변을 인식하고 장기 기억을 유지하면서 사용자를 대신해 웹 검색·예약·파일 편집까지 처리한다.\""
-    },
-    {
-      "filename": "2026-04-18-anthropic-model-welfare-ai-safety.md",
-      "title": "\"AI도 고통을 느낄 수 있을까 — 앤트로픽이 '모델 복지' 연구를 시작한 이유\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"MIT Technology Review\"",
-      "sourceUrl": "\"https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/\"",
-      "description": "\"앤트로픽이 AI 모델의 내면 상태(감정·의식)를 진지하게 연구하는 '모델 복지' 팀을 구성했다. AI가 고통을 느끼는지 아직 모른다는 전제 아래, 미리 윤리 기준을 마련하겠다는 시도다.\""
-    },
-    {
-      "filename": "2026-04-18-anthropic-claude-agent-benchmark.md",
-      "title": "\"AI 에이전트는 아직 '진짜 세계'를 모른다 — 벤치마크와 현실의 간극\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"The Decoder\"",
-      "sourceUrl": "\"https://the-decoder.com/ai-agents-benchmark-real-world-gap-2026/\"",
-      "description": "\"최첨단 AI 에이전트들이 실험실 벤치마크에서는 80% 이상의 성공률을 기록하지만, 실제 업무 환경에서는 40~50%대로 곤두박질친다. 그 간극을 만드는 요인들을 살펴봤다.\""
-    },
-    {
-      "filename": "2026-04-18-ai-datacenter-power-demand.md",
-      "title": "\"AI가 전기를 먹어치운다 — 데이터센터 전력 수요, 2030년까지 3배 전망\"",
-      "category": "AI",
-      "date": "2026-04-18",
-      "source": "\"MIT Technology Review\"",
-      "sourceUrl": "\"https://www.technologyreview.com/2026/04/16/1115178/ai-data-center-power-demand-electricity-grid/\"",
-      "description": "\"AI 데이터센터의 전력 수요가 2030년까지 현재의 3배에 달할 것으로 전망된다. 미국 단독으로 연간 300TWh 이상을 소비하게 되며, 전력망 인프라 투자가 AI 확산의 실질적 병목으로 떠올랐다.\""
-    },
-    {
-      "filename": "2026-04-16-trump-tariff-semiconductor.md",
-      "title": "\"메모리까지 100% 관세? 트럼프의 반도체 압박, 삼성·SK하이닉스가 처한 딜레마\"",
-      "category": "경제·주식",
-      "date": "2026-04-16",
-      "source": "\"조선일보·비즈니스포스트\"",
-      "sourceUrl": "\"https://www.chosun.com/economy/tech_it/2026/01/18/LMC7XULHNNGOJGLIAYOE7FU274/\"",
-      "description": "\"트럼프 행정부가 메모리 반도체까지 겨냥한 100% 관세 카드를 꺼냈다. 삼성전자와 SK하이닉스는 현실적으로 미국 내 메모리 생산이 불가능한 상황에서 압박 수위만 높아지는 딜레마에 처해 있다.\""
-    },
-    {
-      "filename": "2026-04-16-meta-llama4-multimodal.md",
-      "title": "메타, 라마4 공개 — 멀티모달 오픈소스 AI 최강자 등극 선언",
-      "category": "AI",
-      "date": "2026-04-16",
-      "source": "AI타임스 / Meta AI Blog",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209175",
-      "description": "메타가 총 파라미터 400B(4천억)짜리 Llama 4 Maverick을 포함한 라마4 시리즈를 공개했다. GPT-4o와 Gemini 2.0 Flash를 광범위한 벤치마크에서 앞섰으며, 오픈소스로 무료 배포된다."
-    },
-    {
-      "filename": "2026-04-16-deepmind-molecule-design-ai.md",
-      "title": "\"AlphaFold를 넘어서 — 구글 딥마인드의 신약 설계 AI, IsoDDE 공개\"",
-      "category": "바이오",
-      "date": "2026-04-16",
-      "source": "\"Isomorphic Labs (공식 블로그)\"",
-      "sourceUrl": "\"https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier\"",
-      "description": "\"구글 딥마인드의 바이오 스핀오프 Isomorphic Labs가 AlphaFold 3의 정확도를 두 배 이상 뛰어넘는 신약 설계 AI 시스템 IsoDDE를 공개했다. 단백질 구조 예측을 넘어 결합력 예측·신규 결합 부위 발굴까지 통합된 최초의 범용 약물 설계 엔진이다.\""
-    },
-    {
-      "filename": "2026-04-16-ai-agents-state-2026.md",
-      "title": "\"AI 에이전트, 인간 수준에 근접했다 — 스탠퍼드 2026 AI 인덱스\"",
-      "category": "AI",
-      "date": "2026-04-16",
-      "source": "\"Stanford HAI / Forbes\"",
-      "sourceUrl": "\"https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report\"",
-      "description": "\"스탠퍼드 HAI가 발표한 2026 AI 인덱스 리포트의 핵심 수치들. AI 에이전트의 실제 작업 성공률이 18개월 만에 12%에서 77.3%로 급등하며 인간 수준에 바짝 다가섰다.\""
-    },
-    {
-      "filename": "2026-04-12-한국은행-기준금리-7연속동결.md",
-      "title": "\"한국은행, 금리 7번째 동결 — 중동 전쟁이 만든 '스태그플레이션' 공포\"",
-      "category": "\"경제·주식\"",
-      "date": "2026-04-12",
-      "source": "\"한국경제\"",
-      "sourceUrl": "\"https://www.hankyung.com/article/2026041031181\"",
-      "description": "\"한국은행이 기준금리를 연 2.50%로 7회 연속 동결했다. 중동 전쟁발 유가 급등으로 물가는 오르는데 경제 성장률은 떨어지는 스태그플레이션 위험이 현실화되고 있다.\""
-    },
-    {
-      "filename": "2026-04-12-엔비디아-바이오-arc-institute.md",
-      "title": "\"신약 대신 곡괭이를 판다 — 엔비디아가 바이오 생태계를 장악하는 법\"",
-      "category": "\"바이오\"",
-      "date": "2026-04-12",
-      "source": "\"Heisenberg\"",
-      "sourceUrl": "\"https://heisenberg.kr/arc-institute/\"",
-      "description": "\"엔비디아가 AI 칩 회사를 넘어 생명과학 연구 인프라의 핵심 플랫폼으로 자리잡고 있다. Arc Institute와의 협력을 통해 신약 개발보다 '연구 인프라 지배'를 택한 젠슨 황의 전략을 분석한다.\""
-    },
-    {
-      "filename": "2026-04-12-마이크로소프트-maia200-AI가속기.md",
-      "title": "\"마이크로소프트가 엔비디아 대신 자기 칩을 쓰는 이유 — Maia 200의 진짜 목표\"",
-      "category": "\"AI\"",
-      "date": "2026-04-12",
-      "source": "\"Heisenberg\"",
-      "sourceUrl": "\"https://heisenberg.kr/ms_maia200/\"",
-      "description": "\"마이크로소프트가 공개한 자체 AI 가속기 Maia 200은 엔비디아 H100을 이기는 칩이 아니다. Azure 데이터센터에서 AI 추론 원가를 직접 통제하기 위한 전략 카드다.\""
-    },
-    {
-      "filename": "2026-04-12-openclaw-ai-에이전트.md",
-      "title": "\"텔레그램 한 줄로 내 하루를 대신 살아준다 — OpenClaw와 에이전트 시대의 시작\"",
-      "category": "\"AI\"",
-      "date": "2026-04-12",
-      "source": "\"Heisenberg\"",
-      "sourceUrl": "\"https://heisenberg.kr/openclaw_agent/\"",
-      "description": "\"오스트리아 개발자 피터 슈타인버거가 만든 AI 에이전트 OpenClaw가 젠슨 황의 극찬을 받으며 3개월 만에 OpenAI에 영입됐다. AI 산업의 무게중심이 '더 큰 모델'에서 '실제로 작동하는 자동화'로 이동하고 있다.\""
-    },
-    {
-      "filename": "2026-04-12-chatgpt-vs-claude-ai자산.md",
-      "title": "\"ChatGPT vs Claude, AI 박사도 못 고르는 이유\"",
-      "category": "\"AI\"",
-      "date": "2026-04-12",
-      "source": "\"Heisenberg\"",
-      "sourceUrl": "\"https://heisenberg.kr/openai_anthropic/\"",
-      "description": "\"OpenAI와 Anthropic은 기업가치 합산 1조 달러를 넘어선 AI 최대 라이벌이다. 코딩 도구 Claude Code vs Codex를 중심으로 두 회사의 전략 차이와 향후 판세를 분석한다.\""
-    },
-    {
-      "filename": "2026-04-12-ai-모델-프리미어리그-베팅.md",
-      "title": "\"코딩은 잘해도 파산은 못 피해 — AI 모델들이 프리미어 리그에서 돈을 잃은 이유\"",
-      "category": "\"AI\"",
-      "date": "2026-04-12",
-      "source": "\"AI타임스\"",
-      "sourceUrl": "\"https://www.aitimes.com/news/articleView.html?idxno=209118\"",
-      "description": "\"GPT-5.4, 클로드 오퍼스 4.6 등 최고 성능 AI 모델들을 현실 스포츠 베팅에 투입했더니 전원 손실을 기록했다. '정적인 벤치마크'로 측정되지 않는 현실 세계 의사결정 능력의 한계가 드러났다.\""
-    },
-    {
-      "filename": "2026-04-11-앤트로픽-어드바이저-전략.md",
-      "title": "소형 모델이 뛰고, 대형 모델은 조언만 한다 — 앤트로픽 '어드바이저 전략'",
-      "category": "AI",
-      "date": "2026-04-11",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209112",
-      "description": "앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다."
-    },
-    {
-      "filename": "2026-04-11-삼성-소캠2-저온납땜.md",
-      "title": "삼성전자, 구부러지는 메모리를 바로잡다 — 소캠2 워피지 문제 해결",
-      "category": "나노·소재",
-      "date": "2026-04-11",
-      "source": "전자신문",
-      "sourceUrl": "https://www.etnews.com/20251218000380",
-      "description": "삼성전자가 차세대 AI 서버용 메모리 소캠2(SOCAMM2)의 핵심 난제인 워피지(휘어짐) 문제를 저온 납땜 기술로 해결했다. 엔비디아 베라 루빈 플랫폼 공급을 위한 마지막 관문을 넘은 것."
-    },
-    {
-      "filename": "2026-04-11-무스타파-술레이만-AI-성장한계-MIT.md",
-      "title": "\"AI는 벽에 부딪히지 않는다 — 무스타파 술레이만이 말하는 성장의 세 엔진\"",
-      "category": "AI",
-      "date": "2026-04-11",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다."
-    },
-    {
-      "filename": "2026-04-11-딥엑스-온디바이스AI칩.md",
-      "title": "애플 엔지니어가 만든 K-AI칩 — 딥엑스, 로봇 뇌를 5W로 구동하다",
-      "category": "나노·소재",
-      "date": "2026-04-11",
-      "source": "아시아경제",
-      "sourceUrl": "https://www.asiae.co.kr/article/2026010907081179894",
-      "description": "국내 AI 팹리스 딥엑스가 삼성 5nm 공정에서 90% 수율을 달성한 엣지 AI 칩 DX-M1을 현대차 로봇에 적용했다. 전력 소비는 엔비디아 GPU의 1/28 수준인 5W 이하."
     }
   ]
 }

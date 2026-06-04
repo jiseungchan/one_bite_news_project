@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-04-claude-opus-4-8-dynamic-workflows.md",
+      "title": "Anthropic, Claude Opus 4.8 출시 — 수백 개 AI 에이전트를 한 세션에서 병렬 실행",
+      "category": "AI",
+      "date": "2026-06-04",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8",
+      "description": "Anthropic이 Claude Opus 4.8을 출시했다. Dynamic Workflows로 최대 동시 16개·총 1,000개 서브에이전트를 병렬 실행할 수 있으며, Fast Mode는 기존 대비 3배 저렴해졌다.",
+      "image": "https://picsum.photos/seed/2026-06-04-claude-opus-4-8-dynamic-workflows/800/500"
+    },
+    {
+      "filename": "2026-06-04-nvidia-cosmos-3-physical-ai.md",
+      "title": "NVIDIA Cosmos 3 — 로봇과 자율주행을 위한 완전 오픈 물리 AI 기반 모델",
+      "category": "AI",
+      "date": "2026-06-04",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "description": "NVIDIA가 GTC Taipei에서 Cosmos 3를 공개했다. 20조 토큰으로 훈련된 세계 최초 완전 오픈 옴니모델로, 로봇 훈련 사이클을 몇 달에서 며칠로 단축한다.",
+      "image": "https://picsum.photos/seed/2026-06-04-nvidia-cosmos-3-physical-ai/800/500"
+    },
+    {
+      "filename": "2026-06-04-mit-small-business-ai.md",
+      "title": "소규모 사업자도 AI를 쓸 수 있다 — 실용적 진입법",
+      "category": "AI",
+      "date": "2026-06-04",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "description": "MIT Technology Review가 소규모 사업자의 AI 활용 실태를 짚었다. 대기업과의 도입 격차가 벌어지는 가운데, LLM 기반 비서 업무·행정 자동화로 진입 장벽을 낮추는 실용적 접근법을 제시한다.",
+      "image": "https://picsum.photos/seed/2026-06-04-mit-small-business-ai/800/500"
+    },
+    {
+      "filename": "2026-06-04-stanford-hai-ai-index-2026.md",
+      "title": "스탠퍼드 HAI, AI 인덱스 2026 발표 — 생성형 AI, 이제 기술이 아니라 지배 인프라",
+      "category": "AI",
+      "date": "2026-06-04",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=39542",
+      "description": "스탠퍼드 HAI가 발표한 AI 인덱스 2026 보고서. 코딩 벤치마크 1년 만에 만점 돌파, 기업 AI 도입률 88%, 미국 민간 투자 2850억 달러 — AI는 이미 '쓸 만한 기술'이 아니라 사회 전반을 재편하는 인프라로 자리잡았다.",
+      "image": "https://picsum.photos/seed/2026-06-04-stanford-hai-ai-index-2026/800/500"
+    },
+    {
       "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
       "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
       "category": "경제·주식",

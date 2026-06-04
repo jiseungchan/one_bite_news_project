@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-04-openai-gpt4o-voice-realtime.md",
+      "title": "OpenAI, 실시간 음성 AI의 다음 단계 — 감정 인식부터 다국어 동시 통역까지",
+      "category": "AI",
+      "date": "2026-06-04",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138450/openai-voice-ai-future-realtime/",
+      "description": "OpenAI가 실시간 음성 AI 기술의 차기 방향을 공개했다. 감정 톤 인식, 다국어 동시 통역, 대화 맥락 장기 기억이 핵심 축으로, 음성 인터페이스가 텍스트 채팅을 대체하는 전환점이 될 수 있다.",
+      "image": "https://picsum.photos/seed/2026-06-04-openai-gpt4o-voice-realtime/800/500"
+    },
+    {
+      "filename": "2026-06-04-google-gemma-3n-mobile-ai.md",
+      "title": "구글 Gemma 3n — 스마트폰에서 돌아가는 멀티모달 AI 모델 공개",
+      "category": "AI",
+      "date": "2026-06-04",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=312105",
+      "description": "구글 딥마인드가 모바일·엣지 기기용 경량 AI 모델 Gemma 3n을 공개했다. 텍스트·이미지·오디오를 동시에 처리하는 멀티모달 기능을 스마트폰 수준의 연산 환경에서 구현한다.",
+      "image": "https://picsum.photos/seed/2026-06-04-google-gemma-3n-mobile-ai/800/500"
+    },
+    {
+      "filename": "2026-06-04-korea-ai-drug-discovery-startup.md",
+      "title": "국내 AI 신약 개발 스타트업, 글로벌 빅파마와 첫 기술이전 계약 — 무엇이 달랐나",
+      "category": "바이오",
+      "date": "2026-06-04",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=39618",
+      "description": "국내 AI 기반 신약 개발 스타트업이 글로벌 제약사와 첫 기술이전 계약을 체결했다. 표적 단백질 탐색부터 후보 물질 합성까지 AI가 전 과정을 주도한 결과물로, 국내 AI 바이오 생태계의 첫 상업적 성과로 평가받는다.",
+      "image": "https://picsum.photos/seed/2026-06-04-korea-ai-drug-discovery-startup/800/500"
+    },
+    {
+      "filename": "2026-06-04-korea-semiconductor-ai-demand-stocks.md",
+      "title": "AI 수요 확대에 반도체 업종 일제 상승 — 삼성전자·SK하이닉스, 외국인 순매수 전환",
+      "category": "경제·주식",
+      "date": "2026-06-04",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026060412345",
+      "description": "글로벌 AI 인프라 투자 확대 기대감에 국내 반도체 업종이 일제히 상승했다. 삼성전자와 SK하이닉스에 외국인 순매수가 재개됐으며, 증권가는 HBM4E 수요 가시화를 핵심 모멘텀으로 지목했다.",
+      "image": "https://picsum.photos/seed/2026-06-04-korea-semiconductor-ai-demand-stocks/800/500"
+    },
+    {
       "filename": "2026-06-04-claude-opus-4-8-dynamic-workflows.md",
       "title": "Anthropic, Claude Opus 4.8 출시 — 수백 개 AI 에이전트를 한 세션에서 병렬 실행",
       "category": "AI",

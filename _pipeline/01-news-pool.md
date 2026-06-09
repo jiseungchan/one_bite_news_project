@@ -1,33 +1,53 @@
 # 뉴스 풀
-수집일: 2026.05.12
-소스: MIT Technology Review + 인공지능신문 + AI타임스 + CNBC + Science Daily
+수집일: 2026.06.09
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-05-05 ~ 2026-05-12, 7일 이내)
+## 수집 소스 및 수집 기사
 
-| # | 제목 | 카테고리 | 출처 | 날짜 | URL |
-|---|------|---------|------|------|-----|
-| 1 | MIT Technology Review — AI 최신 기사 | AI | MIT Technology Review | 05.12 | https://www.technologyreview.com/topic/artificial-intelligence/feed/ |
-| 2 | 인공지능신문 — AI/테크 최신 기사 A | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 3 | 인공지능신문 — AI/테크 최신 기사 B | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 4 | CNBC / 경제 — 주식 영향도 높은 기사 | 경제·주식 | CNBC | 05.12 | https://www.cnbc.com/technology/ |
+### MIT Technology Review AI
+URL: https://www.technologyreview.com/topic/artificial-intelligence/feed/
 
-## 선택 기사 — 자동 선택 알고리즘 적용 (오늘 기준: 2026-05-12)
+### AI타임스
+URL: https://www.aitimes.com/rss/allArticle.xml
 
-### 중복 방지 확인
-기발행 주제 (제외 대상):
-- anthropic (claude4, series-f) — 발행됨
-- meta (q1-earnings, ai-app-launch) — 발행됨
-- nvidia (agentiq) — 발행됨
-- skhynix (hbm4e-development) — 발행됨
-- microsoft (cloud-ai-earnings) — 발행됨
-- tsmc (arizona-fab2-delay) — 발행됨
-- openai (reasoning-hallucination) — 발행됨
+### 인공지능신문
+URL: https://www.aitimes.kr/rss/allArticle.xml
 
-### 최종 선택 4건 (researcher-writer가 fetch 후 확정)
+### 한국경제
+URL: https://www.hankyung.com
 
-| # | 카테고리 | 소스 우선순위 | 지침 |
-|---|---------|------------|------|
-| 1 | AI | MIT Tech Review → technologyreview.com/topic/artificial-intelligence/feed/ | 최신 1건. 403 시 Science Daily로 대체 |
-| 2 | AI | 인공지능신문 aitimes.kr/rss/allArticle.xml | 최신 AI 기사 1건 |
-| 3 | AI | AI타임스 aitimes.com/rss/allArticle.xml | 최신 AI 기사 1건. 403 시 인공지능신문 추가 기사 |
-| 4 | 경제·주식 | CNBC cnbc.com/technology → 한국경제 hankyung.com | 주식 영향도 높은 테크/AI 종목 관련 기사 |
+---
+
+## 기존 발행 주제 (중복 제외 목록)
+
+- Claude Opus 4.8 / NVIDIA Cosmos 3 / Stanford HAI AI Index 2026 (2026-06-04)
+- SK하이닉스 HBM4 양산 / EU AI법 / 딥마인드 단백질 예측 (2026-05-13)
+- Google I/O 2026 Gemini Ultra / GPT-5 / Apple Intelligence iOS19 (2026-05-12)
+- Microsoft Cloud AI 실적 / TSMC 애리조나 (2026-05-10)
+- Anthropic Series F / Meta Q1 실적 (2026-05-05)
+- NVIDIA AgentIQ / Meta AI 앱 / Claude 4 시리즈 (2026-05-03)
+- OpenAI 추론 모델 환각 / Google AI Overview (2026-05-01~02)
+- AI 임상 의사결정 / DeepMind 세포 시뮬레이션 / OpenAI o4-mini (2026-04-28)
+- Google AI 칩 (2026-04-21) / Goldman Sachs 양자컴퓨팅 (2026-04-27)
+
+---
+
+## 최종 선택 4건 (2026-06-09 기준)
+
+| # | 카테고리 | 소스 | 선택 기준 | 추정 점수 |
+|---|---------|------|---------|---------|
+| 1 | AI | MIT Technology Review | 최신 AI 기사 1건 (페이월 시 VentureBeat/The Decoder 대체) | RSS 최신 1건 |
+| 2 | AI | AI타임스 | 최신 국내 AI 기사 1건 (시의성 40점 + 주제일치 35점 + 소스신뢰도 25점) | 최고점 기사 |
+| 3 | AI | 인공지능신문 | AI타임스 보완 또는 국내 AI 기사 1건 | 차점 기사 |
+| 4 | 경제·주식 | 한국경제 또는 연합인포맥스 | AI·반도체 종목 주식 영향도 높은 기사 1건 | 최신 경제기사 |
+
+---
+
+## 선택 URL (researcher-writer 전달용)
+
+수집 후 researcher-writer가 fetch해서 확정.
+
+1. MIT Technology Review — https://www.technologyreview.com/topic/artificial-intelligence/feed/
+2. AI타임스 — https://www.aitimes.com/rss/allArticle.xml
+3. 인공지능신문 — https://www.aitimes.kr/rss/allArticle.xml
+4. 한국경제 — https://www.hankyung.com/finance

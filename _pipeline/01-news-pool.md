@@ -51,3 +51,14 @@ URL: https://www.hankyung.com
 2. AI타임스 — https://www.aitimes.com/rss/allArticle.xml
 3. 인공지능신문 — https://www.aitimes.kr/rss/allArticle.xml
 4. 한국경제 — https://www.hankyung.com/finance
+
+---
+
+## 발행 완료 (2026-06-09)
+
+| # | 제목 | 카테고리 | 파일 |
+|---|------|---------|------|
+| 1 | AI 추론 모델, 답 하나에 전기 얼마나 쓰나 — MIT가 측정했다 | AI | 2026-06-09-mit-ai-reasoning-energy-cost.md |
+| 2 | 국내 대기업 AI 에이전트 도입률 68% — 업무 자동화 단계 진입 | AI | 2026-06-09-korea-ai-agent-enterprise-adoption.md |
+| 3 | AI 환각을 실시간으로 잡아낸다 — 국내 연구진, 새 탐지 기법 공개 | AI | 2026-06-09-ai-hallucination-detection-new-method.md |
+| 4 | 엔비디아 루빈 GPU 공급망 — 삼성·SK하이닉스 납품 경쟁 본격화 | 경제·주식 | 2026-06-09-nvidia-rubin-gpu-korea-supply-chain.md |

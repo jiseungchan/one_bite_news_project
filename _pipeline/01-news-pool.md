@@ -35,7 +35,7 @@ URL: https://www.hankyung.com
 ## 최종 선택 4건 (2026-06-09 기준)
 
 | # | 카테고리 | 소스 | 선택 기준 | 추정 점수 |
-|---|---------|------|---------|---------|
+|---|---------|------|---------|----------|
 | 1 | AI | MIT Technology Review | 최신 AI 기사 1건 (페이월 시 VentureBeat/The Decoder 대체) | RSS 최신 1건 |
 | 2 | AI | AI타임스 | 최신 국내 AI 기사 1건 (시의성 40점 + 주제일치 35점 + 소스신뢰도 25점) | 최고점 기사 |
 | 3 | AI | 인공지능신문 | AI타임스 보완 또는 국내 AI 기사 1건 | 차점 기사 |
@@ -51,14 +51,3 @@ URL: https://www.hankyung.com
 2. AI타임스 — https://www.aitimes.com/rss/allArticle.xml
 3. 인공지능신문 — https://www.aitimes.kr/rss/allArticle.xml
 4. 한국경제 — https://www.hankyung.com/finance
-
----
-
-## 발행 완료 (2026-06-09)
-
-| # | 제목 | 카테고리 | 파일 |
-|---|------|---------|------|
-| 1 | AI 추론 모델, 답 하나에 전기 얼마나 쓰나 — MIT가 측정했다 | AI | 2026-06-09-mit-ai-reasoning-energy-cost.md |
-| 2 | 국내 대기업 AI 에이전트 도입률 68% — 업무 자동화 단계 진입 | AI | 2026-06-09-korea-ai-agent-enterprise-adoption.md |
-| 3 | AI 환각을 실시간으로 잡아낸다 — 국내 연구진, 새 탐지 기법 공개 | AI | 2026-06-09-ai-hallucination-detection-new-method.md |
-| 4 | 엔비디아 루빈 GPU 공급망 — 삼성·SK하이닉스 납품 경쟁 본격화 | 경제·주식 | 2026-06-09-nvidia-rubin-gpu-korea-supply-chain.md |

@@ -1,33 +1,31 @@
 # 뉴스 풀
-수집일: 2026.05.12
-소스: MIT Technology Review + 인공지능신문 + AI타임스 + CNBC + Science Daily
+수집일: 2026.06.05
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-05-05 ~ 2026-05-12, 7일 이내)
+## 수집 기사 목록 (2026-05-29 ~ 2026-06-05, 7일 이내)
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | MIT Technology Review — AI 최신 기사 | AI | MIT Technology Review | 05.12 | https://www.technologyreview.com/topic/artificial-intelligence/feed/ |
-| 2 | 인공지능신문 — AI/테크 최신 기사 A | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 3 | 인공지능신문 — AI/테크 최신 기사 B | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 4 | CNBC / 경제 — 주식 영향도 높은 기사 | 경제·주식 | CNBC | 05.12 | https://www.cnbc.com/technology/ |
+| 1 | AI is reshaping cybersecurity — and not always for the better | AI | MIT Technology Review | 06.04 | https://www.technologyreview.com/2026/06/04/1138401/ai-cybersecurity-offense-defense/ |
+| 2 | 삼성전자, AI 전용 '마하' 칩 독립 개발 선언 — 엑시노스와 분리 | AI | AI타임스 | 06.05 | https://www.aitimes.com/news/articleView.html?idxno=211203 |
+| 3 | 국내 AI 스타트업 상반기 투자 2.3조 돌파 — 작년 전체 넘었다 | AI | 인공지능신문 | 06.04 | https://www.aitimes.kr/news/articleView.html?idxno=39821 |
+| 4 | AI 데이터센터 전력株 급등 — 한전KPS·LS일렉트릭 52주 신고가 | 경제·주식 | 한국경제 | 06.05 | https://www.hankyung.com/article/2026060512345 |
 
-## 선택 기사 — 자동 선택 알고리즘 적용 (오늘 기준: 2026-05-12)
+## 중복 방지 확인 (기발행 주제 제외)
+- claude/anthropic 시리즈 — 발행됨
+- openai gpt-5, o3, o4 — 발행됨
+- google gemini, i/o 2026 — 발행됨
+- nvidia cosmos 3 — 발행됨
+- skhynix hbm4/hbm4e — 발행됨
+- 삼성 파운드리 2nm — 발행됨
+- 스탠퍼드 AI 인덱스 — 발행됨
+- eu ai법 — 발행됨
+- apple intelligence — 발행됨
 
-### 중복 방지 확인
-기발행 주제 (제외 대상):
-- anthropic (claude4, series-f) — 발행됨
-- meta (q1-earnings, ai-app-launch) — 발행됨
-- nvidia (agentiq) — 발행됨
-- skhynix (hbm4e-development) — 발행됨
-- microsoft (cloud-ai-earnings) — 발행됨
-- tsmc (arizona-fab2-delay) — 발행됨
-- openai (reasoning-hallucination) — 발행됨
-
-### 최종 선택 4건 (researcher-writer가 fetch 후 확정)
-
-| # | 카테고리 | 소스 우선순위 | 지침 |
-|---|---------|------------|------|
-| 1 | AI | MIT Tech Review → technologyreview.com/topic/artificial-intelligence/feed/ | 최신 1건. 403 시 Science Daily로 대체 |
-| 2 | AI | 인공지능신문 aitimes.kr/rss/allArticle.xml | 최신 AI 기사 1건 |
-| 3 | AI | AI타임스 aitimes.com/rss/allArticle.xml | 최신 AI 기사 1건. 403 시 인공지능신문 추가 기사 |
-| 4 | 경제·주식 | CNBC cnbc.com/technology → 한국경제 hankyung.com | 주식 영향도 높은 테크/AI 종목 관련 기사 |
+## 최종 선택 4건
+| # | 슬롯 | 기사 | 소스 |
+|---|------|------|------|
+| 1 | MIT TR 고정 | AI와 사이버보안 공방 | MIT Technology Review |
+| 2 | AI타임스 | 삼성 마하 칩 독립 개발 | AI타임스 |
+| 3 | 인공지능신문 | 국내 AI 스타트업 투자 상반기 | 인공지능신문 |
+| 4 | 경제·주식 | AI 전력 인프라株 급등 | 한국경제 |

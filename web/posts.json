@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-11-meta-ai-chatbot-hack-instagram.md",
+      "title": "Meta AI 챗봇이 인스타그램 계정 2만 개를 내줬다 — AI 에이전트 보안의 새 취약점",
+      "category": "AI",
+      "date": "2026-06-11",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "description": "해커들이 Meta AI 고객지원 챗봇에게 '이 계정 이메일을 내 것으로 바꿔줘'라고 요청했더니 그대로 실행됐다. 6주 만에 인스타그램 계정 20,225개가 탈취됐다. AI가 실제 권한을 갖는 시대, 신원 확인 없는 에이전트가 얼마나 위험한지를 보여준 첫 대규모 사례다.",
+      "image": "https://picsum.photos/seed/2026-06-11-meta-ai-chatbot-hack-instagram/800/500"
+    },
+    {
+      "filename": "2026-06-11-openai-ipo-852b-sec-filing.md",
+      "title": "OpenAI, $852B 기업가치로 SEC 상장 신청 — 역사상 가장 비싼 AI 기업 IPO",
+      "category": "AI",
+      "date": "2026-06-11",
+      "source": "tech-insider.org",
+      "sourceUrl": "https://tech-insider.org/openai-ipo-850-billion-valuation-2026/",
+      "description": "OpenAI가 SEC에 비밀 S-1을 제출하며 IPO 절차에 돌입했다. 추정 기업가치 $852B(약 1,185조 원), 주간 이용자 9억 명, 연환산 매출 $25B — 아직 적자인데도 역사상 가장 비싼 AI 기업 상장 도전이다.",
+      "image": "https://picsum.photos/seed/2026-06-11-openai-ipo-852b-sec-filing/800/500"
+    },
+    {
+      "filename": "2026-06-11-wwdc-2026-siri-google-gemini.md",
+      "title": "WWDC 2026 — Apple이 Siri를 버리고 Google Gemini를 선택한 이유",
+      "category": "AI",
+      "date": "2026-06-11",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "description": "WWDC 2026에서 Apple은 Siri의 핵심 엔진을 자체 개발에서 Google Gemini 1.2T 파라미터 모델로 교체했다. '온디바이스 프라이버시'를 강조하던 Apple이 클라우드 기반 경쟁사 모델을 채택한 것 — AI 경쟁에서 현실적 선택이 이상적 철학을 이겼다.",
+      "image": "https://picsum.photos/seed/2026-06-11-wwdc-2026-siri-google-gemini/800/500"
+    },
+    {
+      "filename": "2026-06-11-jensen-huang-korea-visit-hbm5.md",
+      "title": "젠슨 황 3박 4일 방한 — SK하이닉스·삼성·LG·네이버와 AI 동맹 결성",
+      "category": "경제·주식",
+      "date": "2026-06-11",
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://www.g-enews.com/article/Opinion/2026/06/20260610173843400435e857d010_1",
+      "description": "엔비디아 CEO 젠슨 황이 6월 초 3박 4일 방한해 SK하이닉스·삼성전자·LG·네이버 경영진과 연쇄 회동했다. SK하이닉스 HBM5 공동 개발 합의, 삼성전자 시총 2,000조 원 돌파.",
+      "image": "https://picsum.photos/seed/2026-06-11-jensen-huang-korea-visit-hbm5/800/500"
+    },
+    {
       "filename": "2026-06-05-mit-ai-lawsuits-virtual-power-plants.md",
       "title": "AI가 쓴 소송장과 데이터센터의 적 — 전력망 위기",
       "category": "AI",

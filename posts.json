@@ -1,6 +1,86 @@
 {
   "posts": [
     {
+      "filename": "2026-06-11-meta-ai-chatbot-hack-instagram.md",
+      "title": "Meta AI 챗봇이 인스타그램 계정 2만 개를 내줬다 — AI 에이전트 보안의 새 취약점",
+      "category": "AI",
+      "date": "2026-06-11",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "description": "해커들이 Meta AI 고객지원 챗봇에게 '이 계정 이메일을 내 것으로 바꿔줘'라고 요청했더니 그대로 실행됐다. 6주 만에 인스타그램 계정 20,225개가 탈취됐다. AI가 실제 권한을 갖는 시대, 신원 확인 없는 에이전트가 얼마나 위험한지를 보여준 첫 대규모 사례다.",
+      "image": "https://picsum.photos/seed/2026-06-11-meta-ai-chatbot-hack-instagram/800/500"
+    },
+    {
+      "filename": "2026-06-11-openai-ipo-852b-sec-filing.md",
+      "title": "OpenAI, $852B 기업가치로 SEC 상장 신청 — 역사상 가장 비싼 AI 기업 IPO",
+      "category": "AI",
+      "date": "2026-06-11",
+      "source": "tech-insider.org",
+      "sourceUrl": "https://tech-insider.org/openai-ipo-850-billion-valuation-2026/",
+      "description": "OpenAI가 SEC에 비밀 S-1을 제출하며 IPO 절차에 돌입했다. 추정 기업가치 $852B(약 1,185조 원), 주간 이용자 9억 명, 연환산 매출 $25B — 아직 적자인데도 역사상 가장 비싼 AI 기업 상장 도전이다.",
+      "image": "https://picsum.photos/seed/2026-06-11-openai-ipo-852b-sec-filing/800/500"
+    },
+    {
+      "filename": "2026-06-11-wwdc-2026-siri-google-gemini.md",
+      "title": "WWDC 2026 — Apple이 Siri를 버리고 Google Gemini를 선택한 이유",
+      "category": "AI",
+      "date": "2026-06-11",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "description": "WWDC 2026에서 Apple은 Siri의 핵심 엔진을 자체 개발에서 Google Gemini 1.2T 파라미터 모델로 교체했다. '온디바이스 프라이버시'를 강조하던 Apple이 클라우드 기반 경쟁사 모델을 채택한 것 — AI 경쟁에서 현실적 선택이 이상적 철학을 이겼다.",
+      "image": "https://picsum.photos/seed/2026-06-11-wwdc-2026-siri-google-gemini/800/500"
+    },
+    {
+      "filename": "2026-06-11-jensen-huang-korea-visit-hbm5.md",
+      "title": "젠슨 황 3박 4일 방한 — SK하이닉스·삼성·LG·네이버와 AI 동맹 결성",
+      "category": "경제·주식",
+      "date": "2026-06-11",
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://www.g-enews.com/article/Opinion/2026/06/20260610173843400435e857d010_1",
+      "description": "엔비디아 CEO 젠슨 황이 6월 초 3박 4일 방한해 SK하이닉스·삼성전자·LG·네이버 경영진과 연쇄 회동했다. SK하이닉스 HBM5 공동 개발 합의, 삼성전자 시총 2,000조 원 돌파.",
+      "image": "https://picsum.photos/seed/2026-06-11-jensen-huang-korea-visit-hbm5/800/500"
+    },
+    {
+      "filename": "2026-06-05-mit-ai-lawsuits-virtual-power-plants.md",
+      "title": "AI가 쓴 소송장과 데이터센터의 적 — 전력망 위기",
+      "category": "AI",
+      "date": "2026-06-05",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "description": "AI가 법원 소송 서류 제출을 2배 이상 늘렸지만 승소율은 그대로다. 한편 AI 데이터센터는 뉴욕주 전체 전력을 삼키고 있다. 두 이야기 모두 AI의 '약속'과 '대가'에 관한 것이다.",
+      "image": "https://picsum.photos/seed/2026-06-05-mit-ai-lawsuits-virtual-power-plants/800/500"
+    },
+    {
+      "filename": "2026-06-05-nvidia-rtx-spark-pc-ai.md",
+      "title": "NVIDIA RTX Spark — PC에 AI 두뇌를 심다",
+      "category": "AI",
+      "date": "2026-06-05",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+      "description": "엔비디아가 Computex 2026에서 PC용 AI 슈퍼칩 'RTX Spark'를 공개했다. 1 페타플롭 AI 연산 성능으로 120B 파라미터 LLM을 오프라인에서 구동하며, 2026년 가을 Dell·HP·Microsoft 등 6개 브랜드에 탑재 예정이다.",
+      "image": "https://picsum.photos/seed/2026-06-05-nvidia-rtx-spark-pc-ai/800/500"
+    },
+    {
+      "filename": "2026-06-05-openai-gpt55-hallucination.md",
+      "title": "GPT-5.5 Instant — 환각을 반으로 줄인 ChatGPT의 새 기본 모델",
+      "category": "AI",
+      "date": "2026-06-05",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-5-5-instant/",
+      "description": "OpenAI가 ChatGPT 기본 모델을 GPT-5.5 Instant로 교체했다. 의료·법률·금융 고위험 프롬프트에서 허위 주장이 52.5% 감소했고, 전체 환각률은 약 20%에서 약 3%로 내려왔다.",
+      "image": "https://picsum.photos/seed/2026-06-05-openai-gpt55-hallucination/800/500"
+    },
+    {
+      "filename": "2026-06-05-alphabet-ai-infrastructure-fundraise.md",
+      "title": "알파벳, AI 인프라에 847억 달러 쏟아붓는다 — 버크셔 해서웨이도 합류",
+      "category": "경제·주식",
+      "date": "2026-06-05",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
+      "description": "알파벳(Google 모회사)이 AI 데이터센터 확장을 위해 역대 주식 자본시장 최대 규모인 847.5억 달러 조달에 나섰다. 워런 버핏 후계 체제의 버크셔 해서웨이가 100억 달러 규모로 사모 참여하며 이례적인 테크 투자를 단행했다.",
+      "image": "https://picsum.photos/seed/2026-06-05-alphabet-ai-infrastructure-fundraise/800/500"
+    },
+    {
       "filename": "2026-06-04-claude-opus-4-8-dynamic-workflows.md",
       "title": "Anthropic, Claude Opus 4.8 출시 — 수백 개 AI 에이전트를 한 세션에서 병렬 실행",
       "category": "AI",

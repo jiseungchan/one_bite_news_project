@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "2026-06-13-magentic-lite-small-model-agent.md",
+      "title": "마이크로소프트, 소형 모델로 AI 에이전트 구동하는 MagenticLite 공개",
+      "category": "AI",
+      "date": "2026-06-13",
+      "source": "Microsoft Research Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "description": "MS Research가 14B 파라미터 오케스트레이터 MagenticBrain과 9B 규모 컴퓨터 사용 모델 Fara1.5로 구성된 에이전트 시스템을 발표했다. 기존 Fara-7B 대비 웹 네비게이션 성능이 거의 2배 향상됐다.",
+      "image": "https://picsum.photos/seed/2026-06-13-magentic-lite-small-model-agent/800/500"
+    },
+    {
       "filename": "2026-06-13-us-first-ai-regulation.md",
       "title": "미국, 연방 차원 첫 AI 규제법 통과",
       "category": "AI",
@@ -89,206 +99,6 @@
       "sourceUrl": "https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html",
       "description": "알파벳(Google 모회사)이 AI 데이터센터 확장을 위해 역대 주식 자본시장 최대 규모인 847.5억 달러 조달에 나섰다. 워런 버핏 후계 체제의 버크셔 해서웨이가 100억 달러 규모로 사모 참여하며 이례적인 테크 투자를 단행했다.",
       "image": "https://picsum.photos/seed/2026-06-05-alphabet-ai-infrastructure-fundraise/800/500"
-    },
-    {
-      "filename": "2026-06-04-claude-opus-4-8-dynamic-workflows.md",
-      "title": "Anthropic, Claude Opus 4.8 출시 — 수백 개 AI 에이전트를 한 세션에서 병렬 실행",
-      "category": "AI",
-      "date": "2026-06-04",
-      "source": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8",
-      "description": "Anthropic이 Claude Opus 4.8을 출시했다. Dynamic Workflows로 최대 동시 16개·총 1,000개 서브에이전트를 병렬 실행할 수 있으며, Fast Mode는 기존 대비 3배 저렴해졌다.",
-      "image": "https://picsum.photos/seed/2026-06-04-claude-opus-4-8-dynamic-workflows/800/500"
-    },
-    {
-      "filename": "2026-06-04-nvidia-cosmos-3-physical-ai.md",
-      "title": "NVIDIA Cosmos 3 — 로봇과 자율주행을 위한 완전 오픈 물리 AI 기반 모델",
-      "category": "AI",
-      "date": "2026-06-04",
-      "source": "NVIDIA Newsroom",
-      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
-      "description": "NVIDIA가 GTC Taipei에서 Cosmos 3를 공개했다. 20조 토큰으로 훈련된 세계 최초 완전 오픈 옴니모델로, 로봇 훈련 사이클을 몇 달에서 며칠로 단축한다.",
-      "image": "https://picsum.photos/seed/2026-06-04-nvidia-cosmos-3-physical-ai/800/500"
-    },
-    {
-      "filename": "2026-06-04-mit-small-business-ai.md",
-      "title": "소규모 사업자도 AI를 쓸 수 있다 — 실용적 진입법",
-      "category": "AI",
-      "date": "2026-06-04",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "description": "MIT Technology Review가 소규모 사업자의 AI 활용 실태를 짚었다. 대기업과의 도입 격차가 벌어지는 가운데, LLM 기반 비서 업무·행정 자동화로 진입 장벽을 낮추는 실용적 접근법을 제시한다.",
-      "image": "https://picsum.photos/seed/2026-06-04-mit-small-business-ai/800/500"
-    },
-    {
-      "filename": "2026-06-04-stanford-hai-ai-index-2026.md",
-      "title": "스탠퍼드 HAI, AI 인덱스 2026 발표 — 생성형 AI, 이제 기술이 아니라 지배 인프라",
-      "category": "AI",
-      "date": "2026-06-04",
-      "source": "인공지능신문",
-      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=39542",
-      "description": "스탠퍼드 HAI가 발표한 AI 인덱스 2026 보고서. 코딩 벤치마크 1년 만에 만점 돌파, 기업 AI 도입률 88%, 미국 민간 투자 2850억 달러 — AI는 이미 '쓸 만한 기술'이 아니라 사회 전반을 재편하는 인프라로 자리잡았다.",
-      "image": "https://picsum.photos/seed/2026-06-04-stanford-hai-ai-index-2026/800/500"
-    },
-    {
-      "filename": "2026-05-19-skhynix-hbm4-mass-production-gb300.md",
-      "title": "SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재",
-      "category": "경제·주식",
-      "date": "2026-05-19",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12076301",
-      "description": "SK하이닉스가 HBM4(5세대 고대역폭 메모리) 양산을 시작하고 엔비디아 GB300 가속기에 공급을 개시했다. 전작 HBM3E 대비 데이터 전송 속도가 50% 향상됐으며, SK하이닉스 주가는 장중 4.3% 상승했다.",
-      "image": "https://picsum.photos/seed/2026-05-19-skhynix-hbm4-mass-production-gb300/800/500"
-    },
-    {
-      "filename": "2026-05-19-deepmind-groot-robot-learning.md",
-      "title": "딥마인드 GROOT — 로봇이 새 동작을 스스로 일반화하는 방법",
-      "category": "AI",
-      "date": "2026-05-19",
-      "source": "인공지능신문",
-      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=33201",
-      "description": "구글 딥마인드가 범용 로봇 학습 알고리즘 'GROOT'를 공개했다. 시연 영상 5개만으로 로봇이 새로운 환경과 물체에 동작을 일반화할 수 있으며, 기존 모방 학습 대비 성공률이 3배 이상 높다.",
-      "image": "https://picsum.photos/seed/2026-05-19-deepmind-groot-robot-learning/800/500"
-    },
-    {
-      "filename": "2026-05-19-samsung-exynos-w1000-ondevice-ai.md",
-      "title": "삼성 엑시노스 W1000 — 손목 위의 온디바이스 AI 가속기",
-      "category": "AI",
-      "date": "2026-05-19",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210712",
-      "description": "삼성전자가 웨어러블(착용형 기기) 전용 AI 가속기 '엑시노스 W1000'을 공개했다. 전작 대비 NPU 성능이 2.4배 향상됐으며, 갤럭시 워치8 시리즈에 최초 탑재될 예정이다.",
-      "image": "https://picsum.photos/seed/2026-05-19-samsung-exynos-w1000-ondevice-ai/800/500"
-    },
-    {
-      "filename": "2026-05-19-openai-social-network.md",
-      "title": "OpenAI가 소셜 네트워크를 만들려는 이유",
-      "category": "AI",
-      "date": "2026-05-19",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/17/1117045/openai-wants-to-build-a-social-network/",
-      "description": "OpenAI가 ChatGPT 피드 기반 소셜 네트워크 구축을 검토 중이다. AI 모델 학습용 고품질 사용자 데이터 확보와 플랫폼 잠금 효과를 동시에 노리는 전략적 행보다.",
-      "image": "https://picsum.photos/seed/2026-05-19-openai-social-network/800/500"
-    },
-    {
-      "filename": "2026-05-13-samsung-skhynix-chips-subsidy.md",
-      "title": "삼성·SK하이닉스, 미국 반도체 보조금 최종 확정 — 합산 8조 원이 뜻하는 것",
-      "category": "경제·주식",
-      "date": "2026-05-13",
-      "source": "매일경제",
-      "sourceUrl": "https://www.mk.co.kr/news/stock/12044201",
-      "description": "미국 상무부가 삼성전자 47억 달러(6.4조 원), SK하이닉스 15억 달러(2조 원)의 CHIPS Act 보조금을 최종 확정했다. 두 종목 모두 3% 안팎 상승했으며, 미국 반도체 공급망 재편에서 한국 기업의 위치가 확인됐다.",
-      "image": "https://picsum.photos/seed/2026-05-13-samsung-skhynix-chips-subsidy/800/500"
-    },
-    {
-      "filename": "2026-05-13-eu-ai-act-june-enforcement.md",
-      "title": "EU AI법 6월 발효 — 국내 기업 40%가 아직 준비 안 됐다",
-      "category": "AI",
-      "date": "2026-05-13",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210418",
-      "description": "EU 인공지능법의 고위험 AI 시스템 의무 조항이 2026년 6월 1일 발효된다. 미준수 시 전 세계 매출의 최대 3~6% 과징금이 부과되는데, 국내 EU 진출 AI 기업 중 40%가 아직 적합성 평가 준비를 시작하지 않은 것으로 나타났다.",
-      "image": "https://picsum.photos/seed/2026-05-13-eu-ai-act-june-enforcement/800/500"
-    },
-    {
-      "filename": "2026-05-13-deepmind-protein-interaction-ai.md",
-      "title": "딥마인드, 단백질 결합 예측 정확도 3배 — 신약 후보 발굴이 18개월에서 9개월로",
-      "category": "바이오",
-      "date": "2026-05-13",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210441",
-      "description": "구글 딥마인드가 단백질 간 결합 예측 정확도를 3배 높인 AI 모델을 공개했다. 신약 후보 발굴 기간이 18개월에서 9개월로 단축될 전망이며, 이미 제약사들이 협약에 들어갔다.",
-      "image": "https://picsum.photos/seed/2026-05-13-deepmind-protein-interaction-ai/800/500"
-    },
-    {
-      "filename": "2026-05-13-ai-model-self-evaluation.md",
-      "title": "AI가 스스로를 믿을 수 있을까 — 모델 자기 평가 과학의 등장",
-      "category": "AI",
-      "date": "2026-05-13",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/05/13/1116201/ai-model-self-evaluation-trustworthy/",
-      "description": "AI 모델이 외부 검증 없이 자신의 답변 품질을 스스로 평가하는 기술이 산업 전반에 확산되고 있다. 환각률 34% 감소, 사실 정확도 13%포인트 향상 — 수치는 인상적이지만, 근본적인 한계도 함께 제기됐다.",
-      "image": "https://www.technologyreview.com/wp-content/uploads/2026/05/ai-self-eval-hero.jpg"
-    },
-    {
-      "filename": "2026-05-12-samsung-foundry-2nm-amd-order.md",
-      "title": "삼성 파운드리 2나노 공정, AMD 수주 성공 — TSMC 독점에 첫 균열",
-      "category": "경제·주식",
-      "date": "2026-05-12",
-      "source": "한국경제",
-      "sourceUrl": "https://www.hankyung.com/economy/",
-      "description": "삼성 파운드리가 AMD로부터 2나노 공정 양산 수주를 받은 것으로 알려졌다. TSMC가 독점하던 최첨단 반도체 공정 시장에 삼성이 처음으로 의미 있는 균열을 낸 것이다.",
-      "image": "https://picsum.photos/seed/2026-05-12-samsung-foundry-2nm-amd-order/800/500"
-    },
-    {
-      "filename": "2026-05-12-apple-intelligence-ios19-siri.md",
-      "title": "Apple Intelligence 2.0 — iOS 19에서 Siri가 완전히 달라진다",
-      "category": "AI",
-      "date": "2026-05-12",
-      "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/rss/allArticle.xml",
-      "description": "Apple이 WWDC 2026 예고와 함께 iOS 19의 Apple Intelligence 2.0을 공개했다. 온디바이스 LLM 기반의 Siri가 앱 전체를 넘나들며 개인 맥락을 이해하는 방식으로 전면 개편된다.",
-      "image": "https://picsum.photos/seed/2026-05-12-apple-intelligence-ios19-siri/800/500"
-    },
-    {
-      "filename": "2026-05-12-openai-gpt5-official-launch.md",
-      "title": "OpenAI GPT-5 정식 출시 — ChatGPT와 API 동시 공개, 추론·멀티모달 통합",
-      "category": "AI",
-      "date": "2026-05-12",
-      "source": "인공지능신문",
-      "sourceUrl": "https://www.aitimes.kr/rss/allArticle.xml",
-      "description": "OpenAI가 GPT-5를 ChatGPT와 API를 통해 동시 공개했다. GPT-4o 대비 추론 능력이 대폭 강화됐고, 텍스트·이미지·음성·코드를 단일 모델에서 처리한다.",
-      "image": "https://picsum.photos/seed/2026-05-12-openai-gpt5-official-launch/800/500"
-    },
-    {
-      "filename": "2026-05-12-google-io-2026-gemini-ultra.md",
-      "title": "Google I/O 2026 — Gemini Ultra 3와 AI 에이전트의 현실화",
-      "category": "AI",
-      "date": "2026-05-12",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "description": "Google I/O 2026에서 Gemini Ultra 3가 공개됐다. 멀티모달 추론 성능이 전작 대비 40% 향상됐고, Project Mariner 에이전트가 실제 웹 브라우저를 제어하는 기능이 정식 출시됐다.",
-      "image": "https://picsum.photos/seed/2026-05-12-google-io-2026-gemini-ultra/800/500"
-    },
-    {
-      "filename": "2026-05-10-microsoft-cloud-ai-earnings.md",
-      "title": "마이크로소프트, 클라우드·AI 힘입어 순이익 18% 급성장 — 월가 추정치 전면 상회",
-      "category": "경제·주식",
-      "date": "2026-05-10",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-03/microsoft-first-quarter-2026-earnings",
-      "description": "마이크로소프트가 2026년 회계연도 3분기 실적에서 순이익이 전년 동기 대비 18% 급증했다. 클라우드와 AI 사업이 성장을 이끌었으며 모든 월가 애널리스트 추정치를 상회했다.",
-      "image": "https://picsum.photos/seed/2026-05-10-microsoft-cloud-ai-earnings/800/500"
-    },
-    {
-      "filename": "2026-05-10-tsmc-arizona-fab2-delay.md",
-      "title": "TSMC 애리조나 2공장 양산, 2027년으로 밀리나 — 장비 부족이 변수",
-      "category": "나노·소재",
-      "date": "2026-05-10",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-04/tsmc-arizona-fab2-delay-2027",
-      "description": "블룸버그에 따르면 TSMC 애리조나 Fab 2의 본격 양산 일정이 반도체 장비 부족으로 2027년으로 지연될 수 있다. 미국 내 첨단 반도체 자급 계획에 차질이 생길 수 있다는 우려가 나온다.",
-      "image": "https://picsum.photos/seed/2026-05-10-tsmc-arizona-fab2-delay/800/500"
-    },
-    {
-      "filename": "2026-05-05-anthropic-series-f-900b.md",
-      "title": "Anthropic, 시리즈 F로 20억 달러 조달 — 기업가치 9,000억 달러",
-      "category": "AI",
-      "date": "2026-05-05",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-04/anthropic-series-f-900b-valuation",
-      "description": "Anthropic이 시리즈 F 라운드에서 20억 달러를 조달했다. 기업가치는 9,000억 달러로 책정됐다.",
-      "image": "https://picsum.photos/seed/2026-05-05-anthropic-series-f-900b/800/500"
-    },
-    {
-      "filename": "2026-05-05-meta-q1-earnings.md",
-      "title": "Meta, 1분기 광고 매출 예상치 상회 — 주가 급등",
-      "category": "경제·주식",
-      "date": "2026-05-05",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-03/meta-first-quarter-earnings-ad-revenue",
-      "description": "Meta가 2026년 1분기 광고 매출에서 시장 컨센서스를 웃도는 실적을 발표했다. 결과 발표 직후 주가는 장 외 거래에서 급등했다.",
-      "image": "https://picsum.photos/seed/2026-05-05-meta-q1-earnings/800/500"
     }
   ]
 }

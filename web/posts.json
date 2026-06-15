@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-15-als-brain-implant-bci-speak.md",
+      "title": "루게릭병 환자, 뇌 임플란트로 말하다 — BCI '파워 유저'의 등장",
+      "category": "AI",
+      "date": "2026-06-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "description": "ALS(루게릭병) 환자가 뇌에 삽입한 임플란트로 발화 능력을 회복했다. MIT Tech Review는 이 남성을 해당 BCI 시스템의 '첫 번째 파워 유저'로 소개했다.",
+      "image": "https://picsum.photos/seed/2026-06-15-als-brain-implant-bci-speak/800/500"
+    },
+    {
+      "filename": "2026-06-15-anthropic-claude-fable5-mythos5.md",
+      "title": "앤트로픽, 클로드 페이블 5·미토스 5 동시 출시 — 인간 전문가 수준 넘었다",
+      "category": "AI",
+      "date": "2026-06-15",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40419",
+      "description": "앤트로픽이 새로운 Claude 시리즈 'Fable 5'와 'Mythos 5'를 동시에 선보였다. 인간 전문가 수준을 넘어섰다는 평가와 함께 AI 모델 경쟁이 새로운 국면에 접어들었다.",
+      "image": "https://picsum.photos/seed/2026-06-15-anthropic-claude-fable5-mythos5/800/500"
+    },
+    {
+      "filename": "2026-06-15-chatgpt-1billion-users-record.md",
+      "title": "챗GPT, 사용자 10억 명 돌파 — 틱톡·유튜브 제치고 역대 최단기 기록",
+      "category": "AI",
+      "date": "2026-06-15",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211296",
+      "description": "챗GPT가 월간 활성 사용자 10억 명을 돌파했다. 틱톡과 유튜브보다 훨씬 빠른 속도로, 인터넷 역사상 가장 빠르게 10억 사용자를 확보한 서비스로 기록됐다.",
+      "image": "https://picsum.photos/seed/2026-06-15-chatgpt-1billion-users-record/800/500"
+    },
+    {
+      "filename": "2026-06-15-semiconductor-supercycle-korea-stocks.md",
+      "title": "반도체 슈퍼사이클, 이제 막 시작됐다",
+      "category": "경제·주식",
+      "date": "2026-06-15",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026061237561",
+      "description": "AI 서버 수요 폭발과 함께 메모리 반도체 업황이 구조적 상승 국면에 접어들었다는 분석이 나온다. 삼성전자·SK하이닉스의 수혜가 이제 시작이라는 시각이 시장에서 힘을 얻고 있다.",
+      "image": "https://picsum.photos/seed/2026-06-15-semiconductor-supercycle-korea-stocks/800/500"
+    },
+    {
       "filename": "2026-06-11-meta-ai-chatbot-hack-instagram.md",
       "title": "Meta AI 챗봇이 인스타그램 계정 2만 개를 내줬다 — AI 에이전트 보안의 새 취약점",
       "category": "AI",

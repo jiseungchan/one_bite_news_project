@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-13-ai-capex-1trillion-bigtech.md",
+      "title": "빅테크 4사, 2026년 상반기 AI 인프라에 1조 달러 쏟아부었다",
+      "category": "경제·주식",
+      "date": "2026-06-13",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-12/big-tech-ai-infrastructure-spend-1-trillion-first-half-2026",
+      "description": "알파벳·마이크로소프트·아마존·메타 4사의 2026년 상반기 AI 인프라 누적 지출이 1조 달러를 돌파했다. 반도체 수혜는 엔비디아·SK하이닉스에 집중됐고, 삼성전자는 HBM 점유율 확대가 최대 과제로 남아 있다.",
+      "image": "https://picsum.photos/seed/2026-06-13-ai-capex-1trillion-bigtech/800/500"
+    },
+    {
+      "filename": "2026-06-13-nvidia-skillspector-ai-agent-security.md",
+      "title": "AI 에이전트 스킬 4개 중 1개는 보안 취약 — NVIDIA SkillSpector 공개",
+      "category": "AI",
+      "date": "2026-06-13",
+      "source": "GitHub / NVIDIA",
+      "sourceUrl": "https://github.com/NVIDIA/SkillSpector",
+      "description": "NVIDIA가 공개한 SkillSpector는 AI 에이전트 스킬의 보안 취약점을 자동 탐지하는 오픈소스 도구다. 42,447개 스킬 분석 결과 26.1%에서 취약점이 발견됐다.",
+      "image": "https://picsum.photos/seed/2026-06-13-nvidia-skillspector-ai-agent-security/800/500"
+    },
+    {
+      "filename": "2026-06-13-magentic-lite-small-model-agent.md",
+      "title": "마이크로소프트, 소형 모델로 AI 에이전트 구동하는 MagenticLite 공개",
+      "category": "AI",
+      "date": "2026-06-13",
+      "source": "Microsoft Research Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/",
+      "description": "MS Research가 14B 파라미터 오케스트레이터 MagenticBrain과 9B 규모 컴퓨터 사용 모델 Fara1.5로 구성된 에이전트 시스템을 발표했다. 기존 Fara-7B 대비 웹 네비게이션 성능이 거의 2배 향상됐다.",
+      "image": "https://picsum.photos/seed/2026-06-13-magentic-lite-small-model-agent/800/500"
+    },
+    {
+      "filename": "2026-06-13-us-first-ai-regulation.md",
+      "title": "미국, 연방 차원 첫 AI 규제법 통과",
+      "category": "AI",
+      "date": "2026-06-13",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/12/1139201/the-us-just-passed-its-first-major-ai-regulation/",
+      "description": "미국이 연방 차원의 첫 번째 주요 AI 규제법을 통과시켰다. EU AI Act 시행 이후 미국도 행정명령을 넘어 입법 단계로 진입했다.",
+      "image": "https://picsum.photos/seed/2026-06-13-us-first-ai-regulation/800/500"
+    },
+    {
       "filename": "2026-06-11-meta-ai-chatbot-hack-instagram.md",
       "title": "Meta AI 챗봇이 인스타그램 계정 2만 개를 내줬다 — AI 에이전트 보안의 새 취약점",
       "category": "AI",

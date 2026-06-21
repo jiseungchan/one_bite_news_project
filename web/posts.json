@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-21-mit-ai-agents-trust.md",
+      "title": "AI 에이전트, 이제 몇 시간씩 자율 작업 가능 — 그래도 아직 믿을 수 없는 이유",
+      "category": "AI",
+      "date": "2026-06-21",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139500/ai-agents-autonomous-work-trust-problem/",
+      "description": "AI 에이전트의 복잡 작업 성공률이 18개월 만에 12%에서 77.3%로 급등했지만, 에러 복구 실패율은 여전히 38%에 달한다. 능력과 신뢰 사이의 간극이 오히려 커지고 있다.",
+      "image": "https://picsum.photos/seed/2026-06-21-mit-ai-agents-trust/800/500"
+    },
+    {
+      "filename": "2026-06-21-gemini-25-pro-update-coding.md",
+      "title": "구글 Gemini 2.5 Pro 업데이트 — 코딩·수학 벤치마크에서 GPT-5 제치고 1위",
+      "category": "AI",
+      "date": "2026-06-21",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215001",
+      "description": "구글 딥마인드가 Gemini 2.5 Pro를 대규모 업데이트해 SWE-bench 72.4%로 GPT-5(68.3%)를 넘어섰고, MATH-500에서는 97.1%로 인간 전문가 평균(91%)도 초과했다.",
+      "image": "https://picsum.photos/seed/2026-06-21-gemini-25-pro-update-coding/800/500"
+    },
+    {
+      "filename": "2026-06-21-openai-operator-pro-enterprise.md",
+      "title": "OpenAI, 기업용 AI 에이전트 플랫폼 'Operator Pro' 정식 출시 — 월 200달러",
+      "category": "AI",
+      "date": "2026-06-21",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215102",
+      "description": "OpenAI가 웹 브라우저를 직접 제어해 예약·구매·데이터 수집 등 실제 업무를 수행하는 기업용 AI 에이전트 플랫폼 'Operator Pro'를 정식 출시했다. 베타 기간 기업 고객들은 주당 평균 47시간의 단순 반복 업무를 자동화했다.",
+      "image": "https://picsum.photos/seed/2026-06-21-openai-operator-pro-enterprise/800/500"
+    },
+    {
+      "filename": "2026-06-21-nvidia-38t-marketcap-blackwell.md",
+      "title": "엔비디아 시가총액 3.8조 달러 돌파 — Blackwell Ultra 수요 폭발, SK하이닉스·삼성 수혜",
+      "category": "경제·주식",
+      "date": "2026-06-21",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-19/nvidia-market-cap-3-8-trillion-blackwell-ultra-demand",
+      "description": "엔비디아 시가총액이 6월 19일 기준 3.82조 달러(약 5,320조 원)로 사상 최고치를 경신했다. Blackwell Ultra GPU 수요가 공급을 5배 초과하며 주가는 연초 대비 87% 상승했고, HBM4를 공급하는 SK하이닉스도 동반 수혜를 누리고 있다.",
+      "image": "https://picsum.photos/seed/2026-06-21-nvidia-38t-marketcap-blackwell/800/500"
+    },
+    {
       "filename": "2026-06-13-ai-capex-1trillion-bigtech.md",
       "title": "빅테크 4사, 2026년 상반기 AI 인프라에 1조 달러 쏟아부었다",
       "category": "경제·주식",
@@ -256,7 +296,7 @@
       "category": "AI",
       "date": "2026-05-12",
       "source": "AI타임스",
-      "sourceUrl": "https://www.aitimes.com/rss/allArticle.xml",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210418",
       "description": "Apple이 WWDC 2026 예고와 함께 iOS 19의 Apple Intelligence 2.0을 공개했다. 온디바이스 LLM 기반의 Siri가 앱 전체를 넘나들며 개인 맥락을 이해하는 방식으로 전면 개편된다.",
       "image": "https://picsum.photos/seed/2026-05-12-apple-intelligence-ios19-siri/800/500"
     },

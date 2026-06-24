@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-20-bci-trials-taking-off.md",
+      "title": "뇌에 전극 하나, 3년의 기적 — BCI 임상시험이 폭발적으로 늘고 있다",
+      "category": "바이오",
+      "date": "2026-06-20",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "description": "ALS 환자가 뇌에 심은 전극 하나로 3년 가까이 일하고 웹을 탐색한다. 중국은 올해 의료용 BCI를 세계 최초로 승인했고, 전 세계 임상 자원자도 2년 사이 두 배 이상 늘었다.",
+      "image": "https://picsum.photos/seed/2026-06-20-bci-trials/800/500"
+    },
+    {
+      "filename": "2026-06-20-chatgpt-market-share-below-50.md",
+      "title": "챗GPT, 처음으로 50% 아래로 — AI 비서 시장의 독주 시대가 끝났다",
+      "category": "AI",
+      "date": "2026-06-20",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211810",
+      "description": "챗GPT의 글로벌 AI 비서 점유율이 사상 처음으로 46.4%로 내려앉았다. 제미나이 27.7%, 클로드 10.3%가 빠르게 따라붙고 있다. 독주에서 3강 구도로 — AI 시장의 지형이 바뀌고 있다.",
+      "image": "https://picsum.photos/seed/2026-06-20-chatgpt-market-share/800/500"
+    },
+    {
+      "filename": "2026-06-20-samsung-ai-transformation.md",
+      "title": "삼성, 'AI 대전환' 선언 — 챗GPT·클로드·제미나이를 전 관계사에 도입한다",
+      "category": "AI",
+      "date": "2026-06-20",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211537",
+      "description": "이재용 회장이 '조직 DNA를 바꾸라'고 선언했다. 6월 중 전 삼성 관계사에 챗GPT·클로드·제미나이 도입, AI 전담조직 신설, 2026년 내 전 직원 교육 완료 — 삼성의 AI 전환은 실험이 아니라 전사 명령이 됐다.",
+      "image": "https://picsum.photos/seed/2026-06-20-samsung-ai/800/500"
+    },
+    {
+      "filename": "2026-06-20-nvidia-ai-infra-2030.md",
+      "title": "2030년 AI 인프라 투자, 지금의 5배 — 엔비디아 CFO가 내다본 숫자",
+      "category": "경제·주식",
+      "date": "2026-06-20",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052125321",
+      "description": "엔비디아 CFO가 빅테크 4사의 AI 인프라 투자가 2030년까지 연 3~4조달러(약 6,000조원)에 달할 것이라고 밝혔다. 지금의 7,000억달러에서 5배 이상 — 이 숫자는 반도체 공급망 전체를 흔드는 변수다.",
+      "image": "https://picsum.photos/seed/2026-06-20-nvidia-ai-infra/800/500"
+    },
+    {
       "filename": "2026-06-18-magentic-lite-small-model-agent.md",
       "title": "소형 모델로 GPT-4급 에이전트를 — 마이크로소프트 MagenticLite 공개",
       "category": "AI",

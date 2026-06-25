@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-06-25-openai-broadcom-jalapeno-chip.md",
+      "title": "OpenAI, 첫 자체 AI 칩 '할라피뇨' 공개 — NVIDIA 의존에서 벗어나는 첫 걸음",
+      "category": "AI",
+      "date": "2026-06-25",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "description": "OpenAI가 Broadcom과 9개월 만에 공동 개발한 첫 자체 AI 추론 칩 'Jalapeño'를 공개했다. 현 세대 GPU 대비 전력 효율이 실질적으로 높으며 2026년 말 배포 예정이다.",
+      "image": "https://picsum.photos/seed/2026-06-25-openai-broadcom-jalapeno-chip/800/500"
+    },
+    {
+      "filename": "2026-06-25-talos-rare-disease-genomic-ai.md",
+      "title": "수년 걸리던 희귀질환 진단, AI가 하루 만에 — 마이크로소프트 Talos 공개",
+      "category": "바이오",
+      "date": "2026-06-25",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "description": "마이크로소프트 리서치가 희귀질환 유전체 자동 재분석 도구 Talos를 공개했다. 4,735명 환자 분석에서 241명을 신규 진단(5.1% 추가 수율), 진단까지 평균 32일, 최단 1일을 달성했다.",
+      "image": "https://picsum.photos/seed/2026-06-25-talos-rare-disease-genomic-ai/800/500"
+    },
+    {
+      "filename": "2026-06-25-ai-brain-mapping-gct-microsoft.md",
+      "title": "AI가 뇌를 해석하기 시작했다 — '왜 그렇게 반응하는지'를 실험으로 증명한 GCT",
+      "category": "AI",
+      "date": "2026-06-25",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "description": "마이크로소프트 리서치가 AI로 뇌의 언어 반응 메커니즘을 규명하는 프레임워크 GCT를 공개했다. LLM이 가설을 세우고 fMRI 실험으로 즉시 검증하는 방식으로, 블랙박스 AI를 검증 가능한 신경과학 이론으로 전환했다.",
+      "image": "https://picsum.photos/seed/2026-06-25-ai-brain-mapping-gct-microsoft/800/500"
+    },
+    {
+      "filename": "2026-06-25-nvidia-q3-fy2026-earnings.md",
+      "title": "엔비디아 Q3 매출 $570억, 전년 대비 +62% — AI 데이터센터가 매출의 90%",
+      "category": "경제·주식",
+      "date": "2026-06-25",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026",
+      "description": "엔비디아가 회계연도 2026년 3분기 매출 $570억을 기록했다. 전년 대비 62% 성장, 데이터센터 부문만 $512억으로 전체의 90%를 차지하며 AI 인프라 투자 사이클이 여전히 현재진행형임을 확인했다.",
+      "image": "https://picsum.photos/seed/2026-06-25-nvidia-q3-fy2026-earnings/800/500"
+    },
+    {
       "filename": "2026-06-18-magentic-lite-small-model-agent.md",
       "title": "소형 모델로 GPT-4급 에이전트를 — 마이크로소프트 MagenticLite 공개",
       "category": "AI",

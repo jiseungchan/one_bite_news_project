@@ -100,19 +100,31 @@ jobs:
 
   # ────────────────────────────────────────────
   # Job 2: 카드뉴스 발행 (기사 수집 → 리서치+집필 → 웹 발행)
-  # stock-briefing 완료 후 실행 (git 충돌 방지)
+  # stock-briefing 완료 후 실행 (git 충돌 방지) — 실패해도 항상 실행
   # ────────────────────────────────────────────
   card-news:
     name: 📰 카드뉴스 자동 발행
     runs-on: ubuntu-latest
     needs: stock-briefing
+    if: always()
     timeout-minutes: 90
+    outputs:
+      today: ${{ steps.date.outputs.today }}
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           ref: main
+
+      - name: Set today (KST)
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.target_date }}" ]; then
+            echo "today=${{ github.event.inputs.target_date }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "today=$(TZ=Asia/Seoul date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Pull latest (stock-briefing 커밋 포함)
         run: git pull origin main
@@ -124,7 +136,7 @@ jobs:
 
       - name: Run card news pipeline via Claude CLI
         run: |
-          TODAY=${{ needs.stock-briefing.outputs.today }}
+          TODAY=${{ steps.date.outputs.today }}
           npx -y @anthropic-ai/claude-code@latest \
             --dangerously-skip-permissions \
             -p "
@@ -155,7 +167,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          TODAY=${{ needs.stock-briefing.outputs.today }}
+          TODAY=${{ steps.date.outputs.today }}
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git pull origin main
@@ -186,13 +198,13 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "[한입뉴스] ${{ needs.stock-briefing.outputs.today }} 자동 발행 완료"
+          subject: "[한입뉴스] ${{ needs.card-news.outputs.today }} 자동 발행 완료"
           to: byungkyu.lee@sk.com
           from: 병규의 한입뉴스 <${{ secrets.MAIL_USERNAME }}>
           html_body: |
             <div style="font-family: -apple-system, sans-serif; max-width: 600px; margin: 0 auto; padding: 24px; color: #111;">
               <h2 style="margin: 0 0 4px; font-size: 20px;">📰 병규의 한입뉴스</h2>
-              <p style="margin: 0 0 24px; color: #6B7280; font-size: 14px;">${{ needs.stock-briefing.outputs.today }} 자동 발행 결과</p>
+              <p style="margin: 0 0 24px; color: #6B7280; font-size: 14px;">${{ needs.card-news.outputs.today }} 자동 발행 결과</p>
 
               <table style="width:100%; border-collapse:collapse; margin-bottom:24px;">
                 <tr style="background:#F9FAFB;">

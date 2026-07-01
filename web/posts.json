@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-01-alphaevolve-schrodinger-molecular.md",
+      "title": "AI 코딩 에이전트가 분자 탐색 속도를 4배 높이다 — AlphaEvolve와 Schrödinger의 협업",
+      "category": "AI",
+      "date": "2026-07-01",
+      "source": "Google Cloud Blog",
+      "sourceUrl": "https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x",
+      "description": "Google DeepMind의 AlphaEvolve가 Schrödinger의 분자 시뮬레이션 코드를 자동 최적화해, 수개월 걸리던 신약 후보 탐색을 수일로 단축했다.",
+      "image": "https://picsum.photos/seed/2026-07-01-alphaevolve-schrodinger-molecular/800/500"
+    },
+    {
+      "filename": "2026-07-01-skillopt-agent-skills.md",
+      "title": "에이전트 스킬을 직접 훈련시킨다 — Microsoft SkillOpt",
+      "category": "AI",
+      "date": "2026-07-01",
+      "source": "Microsoft Research Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "description": "Microsoft Research가 AI 에이전트의 행동 지침(스킬 파일)을 자동으로 최적화하는 SkillOpt를 공개했다. GPT-5.5 기반 평균 성능이 58.8에서 82.3으로 뛰었으며, 4B 파라미터 소형 모델이 프론티어 모델 기준선을 넘는 결과도 확인됐다.",
+      "image": "https://picsum.photos/seed/2026-07-01-skillopt-agent-skills/800/500"
+    },
+    {
+      "filename": "2026-07-01-google-agents-cli.md",
+      "title": "구글, AI 에이전트 개발 전 과정을 단일 CLI로 통합한 'agents-cli' v1.0 출시",
+      "category": "AI",
+      "date": "2026-07-01",
+      "source": "GitHub (google/agents-cli)",
+      "sourceUrl": "https://github.com/google/agents-cli",
+      "description": "구글이 AI 에이전트를 빌드·평가·배포하는 전 과정을 단일 CLI로 묶은 'agents-cli' v1.0.0을 7월 1일 정식 출시했다. Claude Code, Codex 등 주요 코딩 어시스턴트와 직접 연동된다.",
+      "image": "https://picsum.photos/seed/2026-07-01-google-agents-cli/800/500"
+    },
+    {
+      "filename": "2026-07-01-claude-sonnet5-google-cloud.md",
+      "title": "Claude Sonnet 5, Google Cloud 정식 탑재 — AI 클라우드 3파전의 판이 바뀐다",
+      "category": "경제·주식",
+      "date": "2026-07-01",
+      "source": "Google Cloud Blog",
+      "sourceUrl": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud",
+      "description": "Anthropic의 최신 모델 Claude Sonnet 5가 Google Cloud Agent Platform에 정식 출시됐다. 강화된 추론, 코드 생성 개선, 데스크탑·브라우저 자동화 기능을 탑재했으며, 구글은 이로써 기업용 AI 시장에서 OpenAI(Azure), Claude(AWS)와 3파전 구도를 형성했다.",
+      "image": "https://picsum.photos/seed/2026-07-01-claude-sonnet5-google-cloud/800/500"
+    },
+    {
       "filename": "2026-06-29-memora-ai-agent-memory.md",
       "title": "AI 에이전트가 드디어 기억하기 시작했다 — Microsoft Memora의 조화로운 메모리 구조",
       "category": "AI",

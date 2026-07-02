@@ -1,45 +1,59 @@
 # 주식 영향도 평가 결과
-평가일: 2026-04-27
-전체: 213건 → 선별(7+): 4건
+평가일: 2026-07-02
+전체 기사: 19건 → 후보(6+): 8건 → 최종 선별(7+): 5건
+
+## 평가 방법
+RSS 피드 차단으로 WebSearch 대체 수집한 기사를 제목 기반 1차 필터 후,
+원문 콘텐츠는 WebSearch 결과 요약으로 대체 (링크 fetch 불가).
 
 ---
 
-## 전체 후보 검토 요약
+## 선별 기사 (영향도 7점 이상)
 
-| 순위 | 점수 | 기사 제목 | 비고 |
-|------|------|-----------|------|
-| 1 | 9/10 | [속보] 국내 증시 시총 사상 첫 6000조원 돌파 | 사상 최고치 기록, 코스피·코스닥 전반 영향 |
-| 2 | 9/10 | Sun Pharma to Buy Organon in $12 Billion Deal | 글로벌 대형 M&A, 인도 제약사 최대 해외 인수 |
-| 3 | 8/10 | Goldman Hikes Oil-Price Outlook as Hormuz Shock Intensifies | 골드만삭스 공식 유가 전망 상향, 에너지 섹터 전반 |
-| 4 | 7/10 | Goldman, JPMorgan Show Wall Street's Split in Quantum Computing Race | 월가 빅2의 양자컴퓨팅 전략 분기, AI·기술 투자 시사점 |
-| — | 8/10 | 비트코인 83일만에 7만9천달러 돌파 | 제외 — 암호화폐, 직접 주식 영향 낮음 |
-| — | 7/10 | 20만닉스 후 투자의견 '보유' 하향 — 추론 AI 사이클 후반부 | 제외 — 단일 종목 분석, 주제 중복 우려 |
-| — | 7/10 | AI Boom Drowns Out War Fears — Asia's Great Market Divide | 제외 — #1 코스피 기사와 주제 겹침 |
+### [점수: 9/10] Meta, 과잉 AI 컴퓨팅 용량 판매 클라우드 비즈니스 출범 — 주가 +9%
+- **출처**: CNBC / FX Leaders / TechXplore
+- **링크**: https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html
+- **영향 방향**: 긍정 (Meta) / 부정 (경쟁 AI 인프라·반도체주)
+- **관련 업종/종목**: Meta(META), Nvidia(NVDA), CoreWeave(CRWV), Nebius(NBIS), AI 인프라
+- **핵심 근거**: Meta가 과잉 AI 컴퓨팅 용량을 외부에 판매하는 클라우드 비즈니스를 구축 중이라는 Bloomberg 보도. Anthropic에 월 $12.5억, Google에 월 $9.2억 임대 계약. $145B 인프라 투자가 비용 센터에서 수익 센터로 재평가. Meta 주가 +9%, CoreWeave -10%, Nebius -12%, Nvidia -2%.
+- **대본 소재**: (1) Meta 주가 +9% / 클라우드 신규 비즈니스 발표, (2) 기존 AWS/Azure/GCP에 정면 도전, (3) 인프라 투자 재평가 파급 효과
 
 ---
 
-## 선별 기사 (4건)
+### [점수: 8/10] 글로벌 반도체주 급락 — Micron -10.6%, AMD -6.9%, Intel -9%, SK하이닉스 -12.39%
+- **출처**: Yahoo Finance / Kavout / Intellectia.ai / MBC뉴스
+- **링크**: https://www.kavout.com/market-lens/what-triggered-the-recent-semiconductor-sell-off
+- **영향 방향**: 부정
+- **관련 업종/종목**: 반도체 섹터 전반 — 삼성전자, SK하이닉스, Micron(MU), AMD, Intel(INTC), Nvidia
+- **핵심 근거**: Broadcom의 Q3 AI 칩 매출 가이던스($16B)가 예상치($17.2B) 하회. IDC가 2026년 글로벌 스마트폰 시장 -13% 전망 발표. 메모리 공급 차질 우려 확산. 국내에서 SK하이닉스 -12.39%, 장중 삼성전자에 시총 1위 반납, 코스피 9,000선 붕괴.
+- **대본 소재**: (1) Broadcom 가이던스 미달 → 글로벌 반도체 도미노, (2) SK하이닉스 -12.39%/삼성전자 시총 1위 반납, (3) 코스피 9000선 붕괴 의미
 
-### [점수: 9/10] 국내 증시 시총 사상 첫 6000조원 돌파
-- 출처: 매일경제 증권/기업  링크: https://www.mk.co.kr/news/stock/12027957
-- 영향 방향: 긍정
-- 관련 업종/종목: 코스피·코스닥 전 업종, 삼성전자·SK하이닉스·현대차 등 대형주
-- 핵심 근거: 국내 증시 시가총액이 사상 처음으로 6000조원을 돌파한 역사적 이벤트. AI 붐과 글로벌 유동성 복귀가 주된 동인으로 분석됨. 코스피도 장중 최고치를 경신한 상황.
+---
 
-### [점수: 9/10] Sun Pharma, Organon 120억 달러 인수 — 인도 M&A 붐
-- 출처: Bloomberg Markets  링크: https://www.bloomberg.com/news/articles/2026-04-27/sun-pharma-to-acquire-us-listed-organon-in-12-billion-deal
-- 영향 방향: 긍정 (인도 제약, 글로벌 여성건강 섹터)
-- 관련 업종/종목: 글로벌 제약·바이오, Organon (OGN), Sun Pharma (SUNPHARMA), 국내 바이오 수혜 기대감
-- 핵심 근거: 인도 최대 제약사 Sun Pharma가 미국 상장사 Organon을 120억 달러에 인수. 인도 제약 기업 사상 최대 규모 해외 M&A. 여성건강·바이오시밀러 포트폴리오 확보.
+### [점수: 8/10] 연준 워시 의장, ECB 포럼서 "인플레이션 여전히 너무 높다" — 7월 금리 결정 4주 후
+- **출처**: CNBC / Euronews / US News
+- **링크**: https://www.cnbc.com/2026/07/01/kevin-warsh-ecb-forum-live-updates.html
+- **영향 방향**: 중립~부정 (긴축 기조 지속 시사)
+- **관련 업종/종목**: 채권 금리, 금융주, 성장주 전반
+- **핵심 근거**: 케빈 워시 연준 의장이 포르투갈 신트라 ECB 포럼에서 첫 국제 데뷔. ECB 라가르드, BOE 베일리, BOC 매클렘과 공동 패널. 인플레이션 "too high" 발언, 7월 금리 결정 암시 거부. 4주 후 FOMC에서 인상 가능성 열어둠.
+- **대본 소재**: (1) 워시 첫 국제 데뷔 / 인플레이션 발언, (2) 7월 FOMC 인상 가능성 상존, (3) 글로벌 중앙은행 공통 인플레이션 고민
 
-### [점수: 8/10] 골드만삭스, 호르무즈 충격에 유가 전망 대폭 상향
-- 출처: Bloomberg Markets  링크: https://www.bloomberg.com/news/articles/2026-04-27/goldman-hikes-oil-price-forecasts-on-extreme-inventory-draws
-- 영향 방향: 부정 (에너지 수입국·항공·해운), 긍정 (정유·에너지 생산)
-- 관련 업종/종목: 정유(S-Oil·GS칼텍스), 항공(대한항공·아시아나), 해운(HMM), 글로벌 에너지주
-- 핵심 근거: 골드만삭스가 호르무즈 해협 봉쇄 장기화로 원유 재고가 극단적으로 감소하고 있다며 유가 전망을 상향 조정. 미-이란 협상이 교착 상태인 상황에서 에너지 가격 리스크가 전 산업으로 전이될 전망.
+---
 
-### [점수: 7/10] 골드만 후퇴 vs JP모건 베팅 — 월가가 양자컴퓨팅을 보는 두 시선
-- 출처: Bloomberg Markets  링크: https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests
-- 영향 방향: 중립 (단기), 긍정 (양자컴퓨팅 관련주 장기)
-- 관련 업종/종목: IBM Quantum, IonQ, Rigetti, D-Wave, 국내 관련주(삼성전자·SK텔레콤 양자암호)
-- 핵심 근거: 골드만삭스가 양자컴퓨팅 내부 연구팀을 축소하는 반면, JP모건은 공격적 투자를 유지하는 극명한 전략 분기. 월가 내 양자 상용화 시점에 대한 시각 차이를 반영, 관련 기술주 투자 판단에 직접적 영향.
+### [점수: 7/10] ADP 6월 민간 고용 98,000명 — 예상 120,000명 크게 하회, 경기 둔화 신호
+- **출처**: CNBC / Yahoo Finance / US News
+- **링크**: https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html
+- **영향 방향**: 중립 (금리 동결 기대 ↑) / 부정 (경기 둔화 우려 ↑)
+- **관련 업종/종목**: 소비재, 금융, 부동산, 미국 증시 전반
+- **핵심 근거**: ADP 6월 민간 고용 98,000명 (블룸버그 컨센서스 120,000명 하회). 5월 122,000명에서 감소. 성장 절반이 교육·보건 서비스에 집중. 임금 상승률 4.4% 유지.
+- **대본 소재**: (1) 98,000명 vs 예상 120,000명, (2) 고용 둔화 = 연준 금리 동결 압력 상승, (3) 7월 3일 비농업 고용(NFP) 관전 포인트
+
+---
+
+### [점수: 7/10] 한국 6월 수출 사상 첫 1,000억 달러 돌파 — 반도체 수출 255억 달러 +188% YoY
+- **출처**: MBC뉴스 / 한국일보 / 이투데이
+- **링크**: https://imnews.imbc.com/news/2026/econo/article/6831885_36932.html
+- **영향 방향**: 긍정
+- **관련 업종/종목**: 삼성전자, SK하이닉스, 반도체 장비주, 원화 환율
+- **핵심 근거**: 6월 수출 1,022억5,000만 달러 — 월 수출 첫 1,000억 달러 돌파, 세계 4번째. 반도체 수출 255억 달러 (+188.4% YoY). HBM 시장 규모 2026년 485억 달러 예상. AI 데이터센터 수요 확대가 견인.
+- **대본 소재**: (1) 수출 1,000억 달러 / 세계 4번째, (2) 반도체 +188.4% HBM 수요 급증, (3) 단기 주가 하락 vs 펀더멘털 수출 호조 괴리

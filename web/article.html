@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
   <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet" href="style.css">
+  <link rel="canonical" id="canonical-link" href="https://jiseungchan.github.io/one_bite_news_project/article.html">
   <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js" defer></script>
 </head>
 <body class="article-page">
@@ -117,6 +118,29 @@
       /* 페이지 제목 */
       document.title = (meta.title || '한입뉴스') + ' — 병규의 한입뉴스';
 
+      /* canonical URL 업데이트 */
+      const canonical = document.getElementById('canonical-link');
+      if (canonical && filename) {
+        canonical.href = 'https://jiseungchan.github.io/one_bite_news_project/article.html?post=' + encodeURIComponent(filename);
+      }
+
+      /* JSON-LD 구조화 데이터 주입 */
+      const oldLd = document.querySelector('script[type="application/ld+json"]');
+      if (oldLd) oldLd.remove();
+      const ld = document.createElement('script');
+      ld.type = 'application/ld+json';
+      ld.text = JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'NewsArticle',
+        'headline': meta.title || '',
+        'datePublished': meta.date ? meta.date + 'T00:00:00+09:00' : '',
+        'dateModified': meta.date ? meta.date + 'T00:00:00+09:00' : '',
+        'publisher': { '@type': 'Organization', 'name': '병규의 한입뉴스', 'url': 'https://jiseungchan.github.io/one_bite_news_project/' },
+        'url': 'https://jiseungchan.github.io/one_bite_news_project/article.html?post=' + encodeURIComponent(filename || ''),
+        'description': meta.description || ''
+      });
+      document.head.appendChild(ld);
+
       /* 헤더 블록 */
       const headerHtml = `
         <a class="back-btn" href="index.html">← 목록으로</a>
@@ -179,8 +203,8 @@
       let sourcebox = '';
       if (sourceLinks.length > 0 || meta.sourceUrl) {
         const links = sourceLinks.length > 0
-          ? sourceLinks.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join('')
-          : `<a href="${esc(meta.sourceUrl)}" target="_blank" rel="noopener">${esc(meta.source || meta.sourceUrl)}</a>`;
+          ? sourceLinks.map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.label)}</a>`).join('')
+          : `<a href="${esc(meta.sourceUrl)}" target="_blank" rel="noopener noreferrer">${esc(meta.source || meta.sourceUrl)}</a>`;
         sourcebox = `
           <div class="article-source-box">
             <strong>출처 & 더 읽기</strong>

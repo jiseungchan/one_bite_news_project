@@ -3,16 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>병규의 한입뉴스</title>
+  <title>병규의 한입뉴스 — AI·과학기술 핵심 뉴스 큐레이션</title>
+  <meta name="description" content="AI, 바이오, 우주, 에너지, 경제까지 — 병규가 직접 읽고 고른 과학기술 핵심 뉴스를 한 입에 전달합니다.">
+  <meta property="og:title" content="병규의 한입뉴스 — AI·과학기술 핵심 뉴스 큐레이션">
+  <meta property="og:description" content="AI, 바이오, 우주, 에너지, 경제까지 — 병규가 직접 읽고 고른 과학기술 핵심 뉴스를 한 입에 전달합니다.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <a href="#main-content" class="skip-nav">본문으로 바로가기</a>
 
   <!-- ===== 헤더 ===== -->
   <header class="site-header">
     <div class="header-inner">
       <a href="index.html" class="site-logo">한입뉴스</a>
-      <nav>
+      <nav aria-label="카테고리 필터">
         <ul class="site-nav" id="cat-nav">
           <li><a href="#" class="active" data-cat="전체">전체</a></li>
           <li><a href="#" data-cat="AI">AI</a></li>
@@ -95,15 +105,17 @@
         ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
-        <article class="news-card" onclick="location.href='article.html?post=${encodeURIComponent(post.filename)}'">
-          <div class="card-thumb">${thumb}</div>
-          <div class="card-body">
-            <span class="category-tag ${cfg.tagClass}">${post.category}</span>
-            <h3 class="card-title">${post.title}</h3>
-            <p class="card-desc">${post.description || ''}</p>
-            <p class="card-meta">${post.date} · ${post.source || ''}</p>
-          </div>
-        </article>`;
+        <a href="article.html?post=${encodeURIComponent(post.filename)}" class="news-card-link">
+          <article class="news-card">
+            <div class="card-thumb">${thumb}</div>
+            <div class="card-body">
+              <span class="category-tag ${cfg.tagClass}">${post.category}</span>
+              <h3 class="card-title">${post.title}</h3>
+              <p class="card-desc">${post.description || ''}</p>
+              <p class="card-meta">${post.date} · ${post.source || ''}</p>
+            </div>
+          </article>
+        </a>`;
     }
 
     // ===== 섹션 HTML 생성 =====
@@ -131,10 +143,20 @@
         <h1 class="hero-title">${post.title}</h1>
         <p class="hero-comment">${post.description || ''}</p>
         <p class="hero-meta">${post.date} · ${post.source || ''}</p>`;
-      document.getElementById('hero-card').style.cursor = 'pointer';
-      document.getElementById('hero-card').onclick = () => {
+      const heroCard = document.getElementById('hero-card');
+      heroCard.style.cursor = 'pointer';
+      heroCard.setAttribute('tabindex', '0');
+      heroCard.setAttribute('role', 'link');
+      heroCard.setAttribute('aria-label', post.title);
+      heroCard.onclick = () => {
         location.href = 'article.html?post=' + encodeURIComponent(post.filename);
       };
+      heroCard.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          location.href = 'article.html?post=' + encodeURIComponent(post.filename);
+        }
+      });
     }
 
     // ===== 필터링 =====

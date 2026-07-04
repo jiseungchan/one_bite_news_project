@@ -1,18 +1,28 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>병규의 한입뉴스</title>
+  <title>병규의 한입뉴스 — AI·과학기술 핵심 뉴스 큐레이션</title>
+  <meta name="description" content="AI, 바이오, 우주, 에너지, 경제까지 — 병규가 직접 읽고 고른 과학기술 핵심 뉴스를 한 입에 전달합니다.">
+  <meta property="og:title" content="병규의 한입뉴스 — AI·과학기술 핵심 뉴스 큐레이션">
+  <meta property="og:description" content="AI, 바이오, 우주, 에너지, 경제까지 — 병규가 직접 읽고 고른 과학기술 핵심 뉴스를 한 입에 전달합니다.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <a href="#main-content" class="skip-nav">본문으로 바로가기</a>
 
   <!-- ===== 헤더 ===== -->
   <header class="site-header">
     <div class="header-inner">
       <a href="index.html" class="site-logo">한입뉴스</a>
-      <nav>
+      <nav aria-label="카테고리 필터">
         <ul class="site-nav" id="cat-nav">
           <li><a href="#" class="active" data-cat="전체">전체</a></li>
           <li><a href="#" data-cat="AI">AI</a></li>
@@ -31,23 +41,12 @@
   <section class="hero-section" id="hero-section">
     <div class="container">
       <div class="hero-card" id="hero-card">
-        <div class="hero-bg" id="hero-bg"></div>
+        <div style="width:100%;height:100%;background:linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%);position:absolute;inset:0;"></div>
         <div class="hero-overlay"></div>
         <div class="hero-content" id="hero-content">
           <p style="color:rgba(255,255,255,0.5);font-size:16px;">발행된 기사가 없습니다. 파이프라인을 실행해주세요.</p>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- ===== 주식 브리핑 배너 ===== -->
-  <section class="stock-banner-section" id="stock-banner-section" style="display:none;">
-    <div class="container">
-      <div class="stock-banner-header">
-        <span class="stock-banner-label">📈 오늘의 주식 브리핑</span>
-        <a href="stock.html" class="stock-banner-more">전체 보기 →</a>
-      </div>
-      <div id="stock-banner-card"></div>
     </div>
   </section>
 
@@ -106,15 +105,17 @@
         ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
-        <article class="news-card" onclick="location.href='article.html?post=${encodeURIComponent(post.filename)}'">
-          <div class="card-thumb">${thumb}</div>
-          <div class="card-body">
-            <span class="category-tag ${cfg.tagClass}">${post.category}</span>
-            <h3 class="card-title">${post.title}</h3>
-            <p class="card-desc">${post.description || ''}</p>
-            <p class="card-meta">${post.date} · ${post.source || ''}</p>
-          </div>
-        </article>`;
+        <a href="article.html?post=${encodeURIComponent(post.filename)}" class="news-card-link">
+          <article class="news-card">
+            <div class="card-thumb">${thumb}</div>
+            <div class="card-body">
+              <span class="category-tag ${cfg.tagClass}">${post.category}</span>
+              <h3 class="card-title">${post.title}</h3>
+              <p class="card-desc">${post.description || ''}</p>
+              <p class="card-meta">${post.date} · ${post.source || ''}</p>
+            </div>
+          </article>
+        </a>`;
     }
 
     // ===== 섹션 HTML 생성 =====
@@ -137,25 +138,25 @@
     function renderHero(post) {
       if (!post) return;
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-pick' };
-
-      // 배경 이미지 설정
-      const heroBg = document.getElementById('hero-bg');
-      if (post.image) {
-        heroBg.innerHTML = `<img src="${post.image}" alt="${post.title}" loading="eager">`;
-      } else {
-        heroBg.style.background = 'linear-gradient(135deg,#1a1a2e 0%,#16213e 50%,#0f3460 100%)';
-      }
-
       document.getElementById('hero-content').innerHTML = `
         <span class="category-tag ${cfg.tagClass}">${post.category}</span>
         <h1 class="hero-title">${post.title}</h1>
         <p class="hero-comment">${post.description || ''}</p>
         <p class="hero-meta">${post.date} · ${post.source || ''}</p>`;
-      const card = document.getElementById('hero-card');
-      card.style.cursor = 'pointer';
-      card.onclick = () => {
+      const heroCard = document.getElementById('hero-card');
+      heroCard.style.cursor = 'pointer';
+      heroCard.setAttribute('tabindex', '0');
+      heroCard.setAttribute('role', 'link');
+      heroCard.setAttribute('aria-label', post.title);
+      heroCard.onclick = () => {
         location.href = 'article.html?post=' + encodeURIComponent(post.filename);
       };
+      heroCard.addEventListener('keydown', e => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          location.href = 'article.html?post=' + encodeURIComponent(post.filename);
+        }
+      });
     }
 
     // ===== 필터링 =====
@@ -217,32 +218,6 @@
       });
     });
 
-    // ===== 주식 브리핑 배너 로드 =====
-    fetch('stock-briefs.json')
-      .then(r => r.json())
-      .then(data => {
-        const briefs = (data.briefs || []).sort((a, b) => b.date.localeCompare(a.date));
-        if (briefs.length === 0) return;
-        const latest = briefs[0];
-        const d = new Date(latest.date + 'T00:00:00');
-        const days = ['일', '월', '화', '수', '목', '금', '토'];
-        const dateLabel = `${d.getFullYear()}년 ${d.getMonth()+1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
-        document.getElementById('stock-banner-card').innerHTML = `
-          <article class="stock-banner-card" onclick="location.href='stock-brief.html?date=${latest.date}'">
-            <div class="stock-banner-card-left">
-              <div class="stock-banner-meta">
-                <span class="stock-banner-date">${dateLabel}</span>
-                <span class="stock-banner-count">${latest.count}건 선별</span>
-                <span class="stock-banner-time">${latest.reading_time}</span>
-              </div>
-              ${latest.summary ? `<p class="stock-banner-summary">${latest.summary}</p>` : ''}
-            </div>
-            <span class="stock-banner-arrow">브리핑 보기 →</span>
-          </article>`;
-        document.getElementById('stock-banner-section').style.display = 'block';
-      })
-      .catch(() => {});
-
     // ===== 데이터 로드 =====
     fetch('posts.json')
       .then(r => r.json())
@@ -258,4 +233,3 @@
 
 </body>
 </html>
-

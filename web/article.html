@@ -1,19 +1,28 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>한입뉴스</title>
+  <title>한입뉴스 — 병규의 한입뉴스</title>
+  <meta name="description" content="병규의 한입뉴스 — AI·과학기술 핵심 뉴스 큐레이션">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
   <link rel="stylesheet" href="style.css">
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js" defer></script>
 </head>
 <body class="article-page">
+
+  <a href="#article-wrap" class="skip-nav">본문으로 바로가기</a>
 
   <!-- 헤더 -->
   <header class="site-header">
     <div class="header-inner">
       <a href="index.html" class="site-logo">한입뉴스</a>
-      <nav>
+      <nav aria-label="카테고리 네비게이션">
         <ul class="site-nav">
           <li><a href="index.html">전체</a></li>
           <li><a href="index.html">AI</a></li>
@@ -236,7 +245,5 @@
         .replace(/"/g, '&quot;');
     }
   </script>
-  <script src="chat-panel.js"></script>
 </body>
 </html>
-

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jiseungchan.github.io/one_bite_news_project/sitemap.xml

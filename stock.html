@@ -4,15 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>주식 브리핑 — 병규의 한입뉴스</title>
+  <meta name="description" content="병규가 직접 큐레이션한 AI·테크 관련 주식 시장 핵심 브리핑. 빅테크, 반도체, AI 투자 트렌드를 한 입에.">
+  <meta property="og:title" content="주식 브리핑 — 병규의 한입뉴스">
+  <meta property="og:description" content="병규가 직접 큐레이션한 AI·테크 관련 주식 시장 핵심 브리핑. 빅테크, 반도체, AI 투자 트렌드를 한 입에.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <a href="#main-content" class="skip-nav">본문으로 바로가기</a>
 
   <!-- 헤더 -->
   <header class="site-header">
     <div class="header-inner">
       <a href="index.html" class="site-logo">한입뉴스</a>
-      <nav>
+      <nav aria-label="카테고리 네비게이션">
         <ul class="site-nav">
           <li><a href="index.html">전체</a></li>
           <li><a href="index.html">AI</a></li>
@@ -35,7 +45,7 @@
   </section>
 
   <!-- 브리핑 목록 -->
-  <main>
+  <main id="main-content">
     <section class="main-section">
       <div class="container">
         <div class="section-header">
@@ -81,19 +91,21 @@
         }
 
         list.innerHTML = briefs.map(b => `
-          <article class="brief-card" onclick="location.href='stock-brief.html?date=${b.date}'">
-            <div class="brief-card-left">
-              <span class="brief-date">${formatDate(b.date)}</span>
-              <div class="brief-meta-row">
-                <span class="brief-count-badge">${b.count}건 선별</span>
-                <span class="brief-time">${b.reading_time}</span>
+          <a href="stock-brief.html?date=${b.date}" class="brief-card-link">
+            <article class="brief-card">
+              <div class="brief-card-left">
+                <span class="brief-date">${formatDate(b.date)}</span>
+                <div class="brief-meta-row">
+                  <span class="brief-count-badge">${b.count}건 선별</span>
+                  <span class="brief-time">${b.reading_time}</span>
+                </div>
+                ${b.summary ? `<p class="brief-summary">${b.summary}</p>` : ''}
               </div>
-              ${b.summary ? `<p class="brief-summary">${b.summary}</p>` : ''}
-            </div>
-            <div class="brief-card-right">
-              <span class="brief-arrow">브리핑 보기 →</span>
-            </div>
-          </article>
+              <div class="brief-card-right">
+                <span class="brief-arrow">브리핑 보기 →</span>
+              </div>
+            </article>
+          </a>
         `).join('');
       })
       .catch(() => {

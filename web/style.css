@@ -37,12 +37,14 @@
 }
 
 /* ===== 카드 링크 래퍼 ===== */
-.news-card-link {
+.news-card-link,
+.brief-card-link {
   display: block;
   color: inherit;
   text-decoration: none;
 }
-.news-card-link:focus-visible .news-card {
+.news-card-link:focus-visible .news-card,
+.brief-card-link:focus-visible .brief-card {
   outline: 3px solid var(--color-accent);
   outline-offset: 2px;
 }

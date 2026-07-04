@@ -1,6 +1,66 @@
 {
   "posts": [
     {
+      "filename": "2026-07-02-openai-gpt56-launch.md",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개..."정부 요청으로 제한적 출시"",
+      "category": "AI",
+      "date": "2026-07-02",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212175",
+      "description": "오픈AI가 최고 성능 모델 GPT-5.6을 세 가지 버전으로 공개했으나, 정부 요청에 따라 제한적 출시 방식을 택했다. AI 모델 배포가 정부 협의의 영역으로 들어온 첫 공식 사례다.",
+      "image": "https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-02-anthropic-claude-sonnet5.md",
+      "title": "앤트로픽, 클로드 소네트 5 공개 — 오퍼스급 에이전트 성능을 더 낮은 비용으로",
+      "category": "AI",
+      "date": "2026-07-02",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40772",
+      "description": "앤트로픽이 클로드 소네트 5를 공개하며 최상위 모델 오퍼스 수준의 에이전트 성능을 중간 가격대에 제공하겠다고 선언했다. 에이전트 비용과 성능 사이의 딜레마를 정면으로 허무는 발표다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-02-google-deepmind-multiagent-safety.md",
+      "title": "수백만 AI 에이전트가 서로 충돌할 때 — 딥마인드가 136억 원을 건 이유",
+      "category": "AI",
+      "date": "2026-07-02",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "description": "구글 딥마인드가 수백만 AI 에이전트 간 대규모 상호작용이 만들어낼 위험을 연구하기 위해 슈미트 사이언스·ARIA·구글.org와 함께 1,000만 달러(약 136억 원) 공동 기금을 조성했다. 신청 마감은 2026년 8월 8일.",
+      "image": "https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-02-anthropic-fable5-export-control.md",
+      "title": "아마존이 찾은 탈옥, 미국이 빗장 잠갔다 — 앤트로픽 클로드 페이블5의 19일",
+      "category": "AI",
+      "date": "2026-07-02",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html",
+      "description": "아마존 연구진이 클로드 페이블5에서 탈옥 취약점을 발견한 지 6월 12일, 미국 상무부는 전격 수출통제를 발동했다. 앤트로픽은 전 세계 서비스를 중단해야 했다. 19일이 지난 7월 1일, 빗장이 풀렸다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-02-huawei-ascend-korea-q4.md",
+      "title": "엔비디아 H20의 4분의 1 가격에 2.87배 성능 — 화웨이 어센드, 한국 AI 시장 노크",
+      "category": "AI",
+      "date": "2026-07-02",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20260701000492",
+      "description": "화웨이가 2026년 4분기 국내 시장에 AI 가속기 어센드 950PR·950DT와 아틀라스 950 슈퍼포드를 출시할 계획이다. 엔비디아 H20 대비 추론 성능 2.87배, 가격은 4분의 1 수준이라고 주장한다.",
+      "image": "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-02-bigtech-ai-capex-2026h2.md",
+      "title": "빅테크 4社, AI에 1,100조 원 베팅 — 하반기 증시를 떠받치는 단 하나의 변수",
+      "category": "경제·주식",
+      "date": "2026-07-02",
+      "source": "EBN",
+      "sourceUrl": "https://kr.investing.com/news/stock-market-news/article-1983586",
+      "description": "UBS는 주요 하이퍼스케일러의 2026년 AI 설비투자(CAPEX)가 기존 예상치보다 23% 급증한 7,700억 달러(약 1,110조 원)에 달할 것으로 추정했다. MS·아마존·메타 세 곳만 합쳐도 5,000억 달러를 넘는다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-06-11-meta-ai-chatbot-hack-instagram.md",
       "title": "Meta AI 챗봇이 인스타그램 계정 2만 개를 내줬다 — AI 에이전트 보안의 새 취약점",
       "category": "AI",

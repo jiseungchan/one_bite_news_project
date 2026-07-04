@@ -13,6 +13,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
   <link rel="stylesheet" href="style.css">
+  <link rel="canonical" href="https://jiseungchan.github.io/one_bite_news_project/">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"병규의 한입뉴스","url":"https://jiseungchan.github.io/one_bite_news_project/","description":"AI, 바이오, 우주, 에너지, 경제까지 — 병규가 직접 읽고 고른 과학기술 핵심 뉴스를 한 입에 전달합니다.","publisher":{"@type":"Organization","name":"병규의 한입뉴스"}}
+  </script>
 </head>
 <body>
 
@@ -102,7 +106,7 @@
     function makeCard(post) {
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-ai', thumbClass: 'thumb-ai' };
       const thumb = post.image
-        ? `<img src="${post.image}" alt="${post.title}" loading="lazy">`
+        ? `<img src="${post.image}" alt="${post.title}" loading="lazy" width="800" height="450" decoding="async">`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
         <a href="article.html?post=${encodeURIComponent(post.filename)}" class="news-card-link">
@@ -138,6 +142,25 @@
     function renderHero(post) {
       if (!post) return;
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-pick' };
+
+      // LCP 최적화: 히어로 이미지를 실제 <img>로 교체 (fetchpriority=high)
+      if (post.image) {
+        const heroCard = document.getElementById('hero-card');
+        const gradDiv = heroCard.querySelector('div[style]');
+        if (gradDiv) {
+          const img = document.createElement('img');
+          img.src = post.image;
+          img.alt = post.title;
+          img.setAttribute('fetchpriority', 'high');
+          img.loading = 'eager';
+          img.decoding = 'sync';
+          img.width = 1280;
+          img.height = 480;
+          img.style.cssText = 'position:absolute;inset:0;width:100%;height:100%;object-fit:cover;';
+          gradDiv.replaceWith(img);
+        }
+      }
+
       document.getElementById('hero-content').innerHTML = `
         <span class="category-tag ${cfg.tagClass}">${post.category}</span>
         <h1 class="hero-title">${post.title}</h1>

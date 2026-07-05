@@ -1,8 +1,48 @@
 {
   "posts": [
     {
+      "filename": "2026-07-05-ai-energy-turbines.md",
+      "title": "AI, 챗봇을 넘어 에너지 플랜트의 운영 레이어로 — 우드사이드 에너지 사례",
+      "category": "AI",
+      "date": "2026-07-05",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines",
+      "description": "호주 우드사이드 에너지가 수년에 걸쳐 탐사·시추·유지보수·플랜트 운영 전반에 AI를 통합한 과정. 거버넌스·데이터 신뢰성·인간 증강 설계가 핵심 성공 요인으로 꼽혔다.",
+      "image": "https://picsum.photos/seed/2026-07-05-ai-energy-turbines/800/500"
+    },
+    {
+      "filename": "2026-07-05-meta-anthropic-claude-cloud.md",
+      "title": "메타, 앤트로픽 클로드 직접 서비스 추진 — 클라우드 시장 진입 신호탄",
+      "category": "AI",
+      "date": "2026-07-05",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212432",
+      "description": "메타가 앤트로픽의 클로드 AI를 자사 데이터센터에 탑재해 기업 고객에게 직접 제공하는 협상이 막바지에 이르렀다. 자체 라마 모델로 채우지 못한 코딩·에이전트 업무 공백을 클로드로 메우는 전략이다.",
+      "image": "https://picsum.photos/seed/2026-07-05-meta-anthropic-claude-cloud/800/500"
+    },
+    {
+      "filename": "2026-07-05-bytedance-seedance-25.md",
+      "title": "바이트댄스 '시댄스 2.5', 최대 3분 영상을 단일 프롬프트로 생성",
+      "category": "AI",
+      "date": "2026-07-05",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212441",
+      "description": "바이트댄스가 이번 주 시댄스 2.5 출시 예정. 기본 30초에서 최대 3분(180초)까지 단일 프롬프트 영상 생성이 가능하며, 통합 음성·영상 아키텍처로 일관성 문제를 정면 돌파했다.",
+      "image": "https://picsum.photos/seed/2026-07-05-bytedance-seedance-25/800/500"
+    },
+    {
+      "filename": "2026-07-05-kospi-samsung-skhynix-superweek.md",
+      "title": "삼성전자·SK하이닉스 이번 주 반등할까 — 코스피 분수령 '슈퍼위크' 전망",
+      "category": "경제·주식",
+      "date": "2026-07-05",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026070345526",
+      "description": "AI 투자 둔화 우려로 삼성전자(-8.84%)·SK하이닉스(-9.28%)가 급락한 직후, 삼성 잠정실적 발표·SK하이닉스 ADR 상장이 맞물리는 7월 6~10일이 반도체주 반등의 분수령으로 꼽힌다.",
+      "image": "https://picsum.photos/seed/2026-07-05-kospi-samsung-skhynix-superweek/800/500"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

@@ -21,3 +21,6 @@ History.txt
 # web/.git nested repo — track contents only
 web/.git
 web/.git_bak
+
+# 로컬 설정 파일 (자격증명 포함 — 커밋 금지)
+tools/emailer_config.py

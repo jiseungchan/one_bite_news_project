@@ -43,14 +43,20 @@ try:
         HEISENBERG_EMAIL, HEISENBERG_PASSWORD,
     )
 except ImportError:
-    print("오류: tools/emailer_config.py 파일이 없습니다. emailer_config.py 를 먼저 설정하세요.")
-    sys.exit(1)
-except Exception:
-    HEISENBERG_EMAIL = ""
+    GMAIL_USER          = ""
+    GMAIL_APP_PASSWORD  = ""
+    RECIPIENT_EMAIL     = ""
+    ANTHROPIC_API_KEY   = ""
+    HEISENBERG_EMAIL    = ""
     HEISENBERG_PASSWORD = ""
 
-if not ANTHROPIC_API_KEY:
-    ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+# 환경변수 우선 (GitHub Actions / CI 호환)
+GMAIL_USER          = os.environ.get("GMAIL_SENDER",        GMAIL_USER)
+GMAIL_APP_PASSWORD  = os.environ.get("GMAIL_APP_PASSWORD",  GMAIL_APP_PASSWORD).replace(" ", "")
+RECIPIENT_EMAIL     = os.environ.get("GMAIL_RECIPIENT",     RECIPIENT_EMAIL)
+ANTHROPIC_API_KEY   = os.environ.get("ANTHROPIC_API_KEY",   ANTHROPIC_API_KEY)
+HEISENBERG_EMAIL    = os.environ.get("HEISENBERG_EMAIL",    HEISENBERG_EMAIL)
+HEISENBERG_PASSWORD = os.environ.get("HEISENBERG_PASSWORD", HEISENBERG_PASSWORD)
 
 # ── 상수 ──────────────────────────────────────────────────
 KST = timezone(timedelta(hours=9))

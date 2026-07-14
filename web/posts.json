@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-14-enterprise-ai-agents-deployment.md",
+      "title": "자율 AI 에이전트, 기업 현장에 투입되다 — 실패율 30%를 감수하고도 도입하는 이유",
+      "category": "AI",
+      "date": "2026-07-14",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "description": "복잡한 업무에서 실패율이 20~30%에 달하는데도, 기업들이 AI 에이전트 도입을 멈추지 않는 이유는 ROI 계산이 이미 기울어졌기 때문이다.",
+      "image": "https://picsum.photos/seed/2026-07-14-enterprise-ai-agents-deployment/800/500"
+    },
+    {
+      "filename": "2026-07-14-korea-ai-content-disclosure-law.md",
+      "title": "AI 생성 콘텐츠 의무 표시제 7월 시행 — 딥페이크·광고·뉴스 모두 포함",
+      "category": "AI",
+      "date": "2026-07-14",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/",
+      "description": "한국 방통위·과기부가 AI 생성 콘텐츠 의무 표시제를 2026년 7월부터 본격 시행. 텍스트·이미지·영상 구분 없이 AI 생성 여부를 명시해야 하며, 네이버·카카오·유튜브 등 대형 플랫폼이 1차 적용 대상이다.",
+      "image": "https://picsum.photos/seed/2026-07-14-korea-ai-content-disclosure-law/800/500"
+    },
+    {
+      "filename": "2026-07-14-slm-small-language-model-breakthrough.md",
+      "title": "소형 언어 모델(SLM)의 역습 — 1B 파라미터로 GPT-4급 작업을 처리하는 방법",
+      "category": "AI",
+      "date": "2026-07-14",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/",
+      "description": "1~7B 파라미터짜리 소형 모델이 특정 도메인에서 GPT-4 수준의 성능을 내기 시작했다. 크기가 아니라 훈련 방식이 달라진 덕분이다.",
+      "image": "https://picsum.photos/seed/2026-07-14-slm-small-language-model-breakthrough/800/500"
+    },
+    {
+      "filename": "2026-07-14-korea-ai-chip-export-q2-surplus.md",
+      "title": "AI 반도체 수출 2분기 사상 최대 — HBM·파운드리 동반 호조, 증시 상승 촉매",
+      "category": "경제·주식",
+      "date": "2026-07-14",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/economy/",
+      "description": "2026년 2분기 한국 반도체 수출이 HBM과 파운드리 수요에 힘입어 분기 사상 최대를 기록했다. 품목 구조가 범용 메모리에서 AI 전용 반도체로 이동하면서 삼성전자·SK하이닉스 주가도 상승 촉매를 얻었다.",
+      "image": "https://picsum.photos/seed/2026-07-14-korea-ai-chip-export-q2-surplus/800/500"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-16-anthropic-j-space-interpretability.md",
+      "title": "AI의 속마음을 처음으로 들여다봤다 — 앤트로픽 'J-렌즈' 연구가 바꾼 것",
+      "category": "AI",
+      "date": "2026-07-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "description": "앤트로픽이 클로드 내부에서 '속마음'에 해당하는 공간을 발견했다. J-렌즈라는 기법으로 모델이 최종 답변에 쓰지 않는 개념들이 모이는 'J-공간'을 관측하는 데 성공한 것이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-16-ai-harness-obsolete-openai-google.md",
+      "title": "모델이 프레임워크를 잡아먹는다 — OpenAI·구글의 '하네스 무용론'",
+      "category": "AI",
+      "date": "2026-07-16",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212582",
+      "description": "OpenAI와 구글이 같은 날 같은 메시지를 냈다. 차세대 모델이 AI 애플리케이션 개발의 핵심 소프트웨어 계층인 '하네스'를 흡수해 버릴 것이라고.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-16-anthropic-claude-science.md",
+      "title": "과학자 전용 AI 연구 플랫폼 등장 — 앤트로픽 '클로드 사이언스'가 바꾸는 것",
+      "category": "AI",
+      "date": "2026-07-16",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40785",
+      "description": "앤트로픽이 과학자 전용 AI 연구 워크벤치 '클로드 사이언스'를 공개했다. 60개 이상 과학 데이터베이스와 연동해 문헌 리뷰부터 단백질 구조 분석까지 한 환경에서 처리한다.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-16-kospi-semiconductor-crash-ai-bubble.md",
+      "title": "코스피 6800대 추락 — AI 거품론이 반도체 투톱을 어떻게 흔들었나",
+      "category": "경제·주식",
+      "date": "2026-07-16",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202607131546349912",
+      "description": "SK하이닉스가 역사적 고점을 찍은 지 3주 만에 코스피는 9114에서 6800대로 내려앉았다. AI 기대를 가장 먼저, 가장 크게 반영했던 한국 반도체 두 종목이 같은 이유로 가장 깊이 빠졌다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

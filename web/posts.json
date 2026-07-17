@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-17-openai-gpt-red-llm-hacker.md",
+      "title": "OpenAI의 AI 해커, GPT-Red — 모델을 공격해서 더 안전하게 만든다",
+      "category": "AI",
+      "date": "2026-07-17",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "description": "OpenAI가 자사 모델을 공격하도록 설계된 내부용 LLM 'GPT-Red'를 공개했다. 사람 레드티머(13%)를 압도하는 84% 공격 성공률로, AI 안전성 훈련의 새 패러다임을 제시한다.",
+      "image": "https://picsum.photos/seed/2026-07-17-openai-gpt-red-llm-hacker/800/500"
+    },
+    {
+      "filename": "2026-07-17-openai-ai-speaker-hardware.md",
+      "title": "OpenAI의 첫 하드웨어 — 화면 없는 AI 컴패니언 스피커",
+      "category": "AI",
+      "date": "2026-07-17",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212776",
+      "description": "OpenAI가 조니 아이브와 함께 만든 첫 소비자 하드웨어는 화면 없는 이동형 AI 스피커다. 200~300달러 가격에 2027년 출시 목표. AI 기기의 새 폼팩터를 선언한다.",
+      "image": "https://picsum.photos/seed/2026-07-17-openai-ai-speaker-hardware/800/500"
+    },
+    {
+      "filename": "2026-07-17-naver-icml-2026-ai-research.md",
+      "title": "네이버, 세계 최고 AI 학회 ICML에서 '풀스택 연구' 공개",
+      "category": "AI",
+      "date": "2026-07-17",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212706",
+      "description": "서울 코엑스에서 열린 ICML 2026에서 네이버가 AI 안전성·에이전트·피지컬 AI 3개 분야의 연구 성과를 선보였다. 상위 2.2% 스포트라이트 선정과 '서울 월드 모델'이 눈에 띈다.",
+      "image": "https://picsum.photos/seed/2026-07-17-naver-icml-2026-ai-research/800/500"
+    },
+    {
+      "filename": "2026-07-17-ai-chipflation-electronics-demand.md",
+      "title": "AI가 D램을 6배 올렸다 — 스마트폰 시장이 2억 대 줄어드는 이유",
+      "category": "경제·주식",
+      "date": "2026-07-17",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026071325911",
+      "description": "AI 인프라 투자가 D램 가격을 1년 새 6배 올리며 일반 소비자 전자제품 시장을 짓눌렀다. 2026년 스마트폰 출하량은 전년 대비 11% 감소. 반도체는 역대 최대 실적, 소비재는 수요 파괴 — K자형 성장이 현실이다.",
+      "image": "https://picsum.photos/seed/2026-07-17-ai-chipflation-electronics-demand/800/500"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

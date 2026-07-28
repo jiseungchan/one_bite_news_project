@@ -1,6 +1,36 @@
 {
   "posts": [
     {
+      "filename": "2026-07-28-aurora-weather-ai.md",
+      "title": "Microsoft Aurora 1.5 — 날씨 예측 AI가 에너지·기후 인프라로 확장",
+      "category": "AI",
+      "date": "2026-07-28",
+      "source": "Microsoft Research",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+      "description": "Microsoft Research가 기상 예측 AI 모델 Aurora 1.5를 공개했다. 기상 변수를 4개에서 26개로 늘리고 확률 앙상블 예측을 추가해, 허리케인 추적 오차를 기존 대비 약 3분의 1로 줄였다.",
+      "image": "https://picsum.photos/seed/2026-07-28-aurora-weather-ai/800/500"
+    },
+    {
+      "filename": "2026-07-28-microsoft-agent-governance-toolkit.md",
+      "title": "AI 에이전트의 월권 행위를 막는 법 — 마이크로소프트, 코드로 에이전트를 통제하는 오픈소스 공개",
+      "category": "AI",
+      "date": "2026-07-28",
+      "source": "GitHub (microsoft/agent-governance-toolkit)",
+      "sourceUrl": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "마이크로소프트가 AI 에이전트의 무단 행동을 애플리케이션 레이어에서 구조적으로 차단하는 오픈소스 거버넌스 프레임워크를 공개했다. 프롬프트가 아닌 코드로 정책을 강제한다.",
+      "image": "https://picsum.photos/seed/2026-07-28-microsoft-agent-governance-toolkit/800/500"
+    },
+    {
+      "filename": "2026-07-28-omniroute-ai-gateway.md",
+      "title": "290개 AI 서비스, 하나의 문으로 — OmniRoute가 AI API 비용 논리를 뒤집다",
+      "category": "AI",
+      "date": "2026-07-28",
+      "source": "GitHub (OmniRoute 공식 저장소)",
+      "sourceUrl": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "오픈소스 AI 게이트웨이 OmniRoute가 290개 제공자·500개 이상 모델을 단일 API로 묶어 월 1.53억 토큰을 사실상 무료로 제공한다. 이번 주 GitHub에서만 1만 1천 개의 스타를 새로 받으며 화제가 됐다.",
+      "image": "https://picsum.photos/seed/2026-07-28-omniroute-ai-gateway/800/500"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",

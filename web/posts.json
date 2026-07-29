@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-29-mit-software-development-ai-intent.md",
+      "title": "코드를 쓰는 게 아니라 의도를 말하는 시대 — AI가 바꾸는 소프트웨어 개발의 근본",
+      "category": "AI",
+      "date": "2026-07-29",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/artificial-intelligence/",
+      "description": "AI 코딩 어시스턴트가 단순 자동완성을 넘어 '의도 기반 개발' 패러다임을 열고 있다. 개발자가 코드를 한 줄씩 작성하는 대신 목표를 말하면 AI가 설계·구현·테스트까지 수행하는 방식이 2026년 소프트웨어 산업의 주류가 됐다.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-29-eu-ai-act-enforcement-first-cases.md",
+      "title": "EU AI법 시행 첫 달 — 유럽이 잡은 첫 번째 위반 사례와 한국 기업의 현실",
+      "category": "AI",
+      "date": "2026-07-29",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com",
+      "description": "EU 인공지능법(AI Act)이 6월 발효된 지 한 달여 만에 유럽연합 집행위원회가 첫 공식 조사를 착수했다. 고위험 AI 시스템을 운영하는 글로벌 기업들이 컴플라이언스 문서화 미비로 제재 위기에 처한 가운데, 국내 AI 기업들의 준비 수준은 여전히 낮다는 조사가 나왔다.",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-29-chatgpt-agent-mode-global-rollout.md",
+      "title": "ChatGPT '에이전트 모드' 전 세계 전면 개방 — AI가 대신 일하는 시대의 시작",
+      "category": "AI",
+      "date": "2026-07-29",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr",
+      "description": "오픈AI가 ChatGPT의 에이전트 모드(Operator)를 기업 사용자를 넘어 일반 사용자 전체로 확대 개방했다. 이제 ChatGPT는 단순 질답을 넘어 웹 검색·파일 생성·앱 조작을 연속으로 수행하는 '디지털 동료'로 자리잡는다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-29-skhynix-samsung-q2-2026-earnings-hbm4.md",
+      "title": "SK하이닉스·삼성전자 2분기 실적 발표 — HBM4 본격화가 만든 숫자들",
+      "category": "경제·주식",
+      "date": "2026-07-29",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com",
+      "description": "SK하이닉스와 삼성전자가 2분기(4~6월) 실적을 발표했다. SK하이닉스는 HBM4(5세대 고대역폭 메모리) 양산 효과로 반도체 사업부 역대 최대 분기 영업이익을 기록했고, 삼성전자도 DS(반도체)부문이 전 분기 대비 뚜렷한 개선세를 보였다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

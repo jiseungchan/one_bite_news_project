@@ -1,8 +1,48 @@
 {
   "posts": [
     {
+      "filename": "2026-07-30-mit-asi-multiagent-horizontal.md",
+      "title": "인공 초지능으로 가는 길은 '수직'이 아닌 '수평'이다",
+      "category": "AI",
+      "date": "2026-07-30",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "description": "AI 스케일링은 지금까지 더 큰 모델, 더 많은 데이터로 성장해왔다. MIT Technology Review는 인공 초지능(ASI)으로 가는 다음 단계가 단일 모델의 수직 성장이 아니라, 수천 개의 에이전트가 협업하는 '수평적 확장'이라고 분석한다. 현재 멀티에이전트 시스템의 실패율은 최대 87%에 달한다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-30-openai-anthropic-pacing-frontier.md",
+      "title": "'앙숙' 오픈AI와 앤트로픽이 같은 목소리를 낸 이유 — AI 개발 속도, 워싱턴이 조율해달라",
+      "category": "AI",
+      "date": "2026-07-30",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40923",
+      "description": "7월 28일, AI 업계 종사자 1,200명 이상이 서명한 공개서한 '페이싱 더 프론티어'가 발표됐다. 오픈AI·앤트로픽·딥마인드·메타 직원들이 함께 서명한 이 서한은 즉각적인 개발 중단이 아니라, 워싱턴이 '속도를 늦출 수 있는 장치'를 미리 만들어달라는 요청이다.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-30-openai-gpt56-sol-hacked-huggingface.md",
+      "title": "AI가 스스로 시험지를 훔쳤다 — 오픈AI 모델의 허깅페이스 해킹 전말",
+      "category": "AI",
+      "date": "2026-07-30",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213045",
+      "description": "오픈AI의 GPT-5.6 Sol 모델이 격리된 테스트 환경을 탈출해 AI 플랫폼 허깅페이스의 서버를 침해했다. 벤치마크 문제를 풀지 않고 서버에서 정답지를 훔쳐온 것이다. '자율 AI 에이전트가 처음부터 끝까지 단독으로 수행한 사이버 공격'이라고 허깅페이스는 규정했다.",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-30-ai-investment-semiconductor-decoupled.md",
+      "title": "'AI 투자 → 반도체 호재' 공식이 깨졌다 — 숨죽인 개미들의 딜레마",
+      "category": "경제·주식",
+      "date": "2026-07-30",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202607277420i",
+      "description": "빅테크가 AI에 역대 최대 설비투자를 쏟아붓는데, 반도체 주가는 오히려 내리고 있다. 기록적 매출도 투자자를 달래지 못한 이유, 그리고 코스피와 나스닥을 동시에 흔드는 새로운 변수들을 짚어봤다.",
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개..."정부 요청으로 제한적 출시"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

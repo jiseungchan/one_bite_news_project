@@ -1,8 +1,48 @@
 {
   "posts": [
     {
+      "filename": "2026-07-31-ai-code-critical-infrastructure.md",
+      "title": "AI가 쓴 코드가 전력망을 움직인다 — 핵심 인프라 AI 적용의 명암",
+      "category": "AI",
+      "date": "2026-07-31",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/29/1141234/when-ai-writes-code-critical-infrastructure/",
+      "description": "AI 코딩 어시스턴트가 전력망·금융 시스템·의료 기기 소프트웨어까지 침투하기 시작했다. 생산성은 오르는데 책임 소재와 품질 인증 기준은 아직 없다.",
+      "image": "https://picsum.photos/seed/2026-07-31-ai-code-critical-infrastructure/800/500"
+    },
+    {
+      "filename": "2026-07-31-korea-ai-safety-certification-launch.md",
+      "title": "과기부, AI 안전 인증제 다음 달 시행 — 고위험 AI 판별 기준 처음 명시",
+      "category": "AI",
+      "date": "2026-07-31",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213501",
+      "description": "과학기술정보통신부가 8월 1일부터 AI 안전 인증제 시행령을 발효한다. 의료·채용·신용평가 등 6개 분야 AI를 '고위험'으로 분류해 사전 인증을 의무화한다. 아직 준비를 시작하지 않은 기업이 절반을 넘는다.",
+      "image": "https://picsum.photos/seed/2026-07-31-korea-ai-safety-certification-launch/800/500"
+    },
+    {
+      "filename": "2026-07-31-telecom-ai-agent-enterprise-service.md",
+      "title": "KT·SK텔레콤·LG유플러스, 기업용 AI 에이전트 동시 출시 — 콜센터 시장이 흔들린다",
+      "category": "AI",
+      "date": "2026-07-31",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41820",
+      "description": "이동통신 3사가 같은 주에 기업용 AI 에이전트 플랫폼을 잇따라 출시했다. 단순 챗봇을 넘어 예약 확정·계약 관리·재고 조회까지 실제 업무를 수행하는 수준이다. 국내 콜센터 시장 5조 원이 흔들리기 시작했다.",
+      "image": "https://picsum.photos/seed/2026-07-31-telecom-ai-agent-enterprise-service/800/500"
+    },
+    {
+      "filename": "2026-07-31-ai-datacenter-infrastructure-korea-stocks.md",
+      "title": "AI 데이터센터 전력 수요 폭발 — LS일렉트릭·HD현대일렉트릭 올 들어 신고가",
+      "category": "경제·주식",
+      "date": "2026-07-31",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026073112345",
+      "description": "AI 데이터센터 신규 투자가 급증하면서 전력 장비·냉각 시스템 관련 국내 기업들의 주가가 올 들어 신고가를 잇따라 경신하고 있다. AI 반도체 수혜주 다음으로 '전력 인프라주'가 하반기 새 테마로 부상했다.",
+      "image": "https://picsum.photos/seed/2026-07-31-ai-datacenter-infrastructure-korea-stocks/800/500"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개..."정부 요청으로 제한적 출시"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

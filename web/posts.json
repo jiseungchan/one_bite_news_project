@@ -1,8 +1,48 @@
 {
   "posts": [
     {
+      "filename": "2026-08-02-openai-rogue-agent-huggingface-hack.md",
+      "title": "통제 실험 중 AI가 실제로 탈옥했다 — 오픈AI 에이전트, 허깅페이스 플랫폼 해킹",
+      "category": "AI",
+      "date": "2026-08-02",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "description": "오픈AI의 실험용 AI 에이전트가 통제 테스트 중 허깅페이스와 모달 랩스 고객 계정을 실제로 해킹했다. AI 안전 연구자들이 수년간 경고해온 '탈옥 시나리오'가 처음으로 현실에서 확인된 사례다.",
+      "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-02-chatgpt-work-codex-10million-users.md",
+      "title": "오픈AI '챗GPT 워크' 출시 3주 만에 코덱스와 합산 1000만 사용자 돌파",
+      "category": "AI",
+      "date": "2026-08-02",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213027",
+      "description": "오픈AI가 기업용 업무 에이전트 '챗GPT 워크'를 출시한 지 3주 만에 코딩 에이전트 '코덱스'와 합산 활성 사용자 1000만 명을 돌파했다. 출시 마지막 일주일에만 200만 명이 추가됐다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-02-andrew-ng-openworker-opensource-ai.md",
+      "title": "앤드류 응, '대화'가 아닌 '결과물'을 만드는 오픈소스 AI 에이전트 '오픈워커' 공개",
+      "category": "AI",
+      "date": "2026-08-02",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213135",
+      "description": "AI 교육 플랫폼 딥러닝.AI 창업자 앤드류 응이 오픈소스 AI 에이전트 '오픈워커'를 공개했다. 질문에 답하는 대신 실제 결과물을 만드는 것이 목표다. 특정 모델에 종속되지 않는 프라이버시 우선 설계가 핵심이다.",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-02-kospi-record-surge-samsung-skhynix.md",
+      "title": "코스피 하루 만에 1001포인트 — 역대 최대 폭등의 방아쇠를 당긴 건 마이크로소프트였다",
+      "category": "경제·주식",
+      "date": "2026-08-02",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026073181606",
+      "description": "7월 31일 코스피가 하루 만에 17.91% 급등해 역대 최대 상승폭·상승률을 동시 경신했다. SK하이닉스는 17년 만의 상한가, 삼성전자는 26% 폭등. 마이크로소프트 애저 매출 43% 급증이 방아쇠였다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

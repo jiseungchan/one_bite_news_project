@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-06-google-deepmind-leadership-shake-up.md",
+      "title": "구글 딥마인드 대격변 — 하사비스는 의장으로, 제프 딘은 창업의 길로",
+      "category": "AI",
+      "date": "2026-08-06",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "description": "구글 딥마인드 CEO 데미스 하사비스가 의장으로 물러나고, 27년 근속 제프 딘은 동료들과 신생 AI 연구 벤처 'Discovery Loop'를 창업했다. 구글의 AI 전략이 '특화 툴'에서 '자율 에이전트 AI'로 전환하는 신호다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-06-openai-codex-99pct-office-agent.md",
+      "title": "챗봇 시대는 끝났다 — 오픈AI, '코덱스가 사내 업무 99% 처리'",
+      "category": "AI",
+      "date": "2026-08-06",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212125",
+      "description": "오픈AI 내부에서 AI 에이전트 코덱스가 주간 출력 토큰의 99.8%를 차지한다. 코딩 도구로 시작했지만 이제 법무·재무·HR까지 점령했다. 챗봇과 에이전트의 시대 교체가 숫자로 확인됐다.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-06-moonshot-kimi-k3-china-ai.md",
+      "title": "중국 AI의 대반격은 멈추지 않는다 — 문샷AI '키미 K3', 2.8조 파라미터로 세계 3위",
+      "category": "AI",
+      "date": "2026-08-06",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41030",
+      "description": "중국 AI 스타트업 문샷AI가 2.8조 파라미터 규모의 오픈소스 모델 '키미 K3'를 공개했다. GDPval-AA v2 벤치마크에서 세계 3위를 기록하며 '중국 AI는 항상 6개월 늦다'는 통념을 다시 한번 허물었다.",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-06-semiconductor-equipment-stocks-ai-capex.md",
+      "title": "AI 증설 온기가 전공정 장비주로 번진다 — 엘티씨 47%·브이엠 26% 반등",
+      "category": "경제·주식",
+      "date": "2026-08-06",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202608068854i",
+      "description": "SK하이닉스가 올해 설비투자를 40조원 후반으로 대폭 늘리면서 반도체 전공정 장비 업체들이 일제히 급등했다. AI 설비투자 확대 수혜가 대형 메모리주를 넘어 국내 중소형 장비 업체로 확산되는 흐름이다.",
+      "image": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

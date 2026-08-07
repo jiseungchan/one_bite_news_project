@@ -1,8 +1,48 @@
 {
   "posts": [
     {
+      "filename": "2026-08-07-mit-ai-benchmark-end-realworld-eval.md",
+      "title": "AI 벤치마크 시대의 끝 — 리더보드를 넘어선 실세계 평가의 시작",
+      "category": "AI",
+      "date": "2026-08-07",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/05/1139889/the-end-of-ai-benchmarks-real-world-evaluation/",
+      "description": "주요 AI 벤치마크 10개 중 7개에서 최고 성능 모델이 95% 이상을 기록하며 변별력을 잃었다. 업계가 고정형 데이터셋 테스트에서 벗어나 실제 업무 성능 평가로 이동하기 시작했다.",
+      "image": "https://picsum.photos/seed/2026-08-07-mit-ai-benchmark-end-realworld-eval/800/500"
+    },
+    {
+      "filename": "2026-08-07-skt-aidot-agent-upgrade.md",
+      "title": "SKT, 에이닷에 에이전트 기능 추가 — 말 한 마디에 예약·결제·일정까지 자동 처리",
+      "category": "AI",
+      "date": "2026-08-07",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212943",
+      "description": "SK텔레콤이 AI 비서 에이닷에 에이전트 기능을 추가했다. 항공·호텔·음식·영화 등 14개 파트너사 API와 직접 연동해 대화 한 번에 예약부터 결제, 일정 등록까지 완결하는 방식으로 전환됐다.",
+      "image": "https://picsum.photos/seed/2026-08-07-skt-aidot-agent-upgrade/800/500"
+    },
+    {
+      "filename": "2026-08-07-deepseek-r2-reasoning-efficiency.md",
+      "title": "DeepSeek R2 공개 — 1년 7개월 만의 귀환, 추론 효율 2배로 오픈소스 최강자 재등극",
+      "category": "AI",
+      "date": "2026-08-07",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41302",
+      "description": "중국 AI 연구소 DeepSeek이 R1 공개 1년 7개월 만에 후속 모델 R2를 출시했다. 동일 추론 품질에서 연산 효율 2.1배 향상, AIME 2026 벤치마크에서 89.4%로 오픈소스 1위를 기록했다.",
+      "image": "https://picsum.photos/seed/2026-08-07-deepseek-r2-reasoning-efficiency/800/500"
+    },
+    {
+      "filename": "2026-08-07-korea-semiconductor-export-july-record.md",
+      "title": "7월 반도체 수출 147억 달러, 역대 최고 — AI 인프라 투자 사이클이 만든 신기록",
+      "category": "경제·주식",
+      "date": "2026-08-07",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026080709871",
+      "description": "7월 반도체 수출액 147억 달러(약 19조 5,000억 원)로 월간 역대 최고치 경신. 빅테크 AI 설비투자 급증에 따른 HBM·NAND 수요가 집중됐고, 삼성전자·SK하이닉스 주가가 동반 강세를 보였다.",
+      "image": "https://picsum.photos/seed/2026-08-07-korea-semiconductor-export-july-record/800/500"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개..."정부 요청으로 제한적 출시"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

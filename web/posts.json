@@ -1,8 +1,48 @@
 {
   "posts": [
     {
+      "filename": "2026-08-01-openai-o3-pro-swe-bench.md",
+      "title": "OpenAI, o3 Pro 공개 — SWE-bench 87.3%, AI가 처음으로 '시니어 개발자 수준'을 넘었다",
+      "category": "AI",
+      "date": "2026-08-01",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/openai-o3-pro-swe-bench-verified-87-percent/",
+      "description": "OpenAI가 추론 특화 모델의 고성능 버전 o3 Pro를 공개했다. 소프트웨어 엔지니어링 능력을 측정하는 SWE-bench Verified에서 87.3%를 기록하며, AI 코딩 에이전트가 처음으로 인간 시니어 개발자 수준에 도달했다는 평가가 나온다.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-01-kakao-agent-marketplace.md",
+      "title": "카카오, 에이전트 마켓플레이스 오픈 — 서드파티 AI가 카카오톡에서 결제·예약을 직접 처리한다",
+      "category": "AI",
+      "date": "2026-08-01",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213041",
+      "description": "카카오가 자체 AI 플랫폼 카나나에 에이전트 마켓플레이스를 추가했다. 외부 개발사가 만든 AI 에이전트가 카카오톡 사용자를 대신해 결제·예약·쇼핑을 처리할 수 있게 됐다. 카카오톡이 메신저를 넘어 에이전트 운영체제(OS)로 진화하는 분기점이다.",
+      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-01-eu-ai-act-first-fine.md",
+      "title": "EU AI법, 시행 두 달 만에 첫 대형 제재 — 채용 AI 3사에 총 4,800만 유로 과징금",
+      "category": "AI",
+      "date": "2026-08-01",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41203",
+      "description": "EU가 AI법(AI Act)의 고위험 AI 시스템 조항을 위반한 채용 심사 AI 기업 3곳에 총 4,800만 유로(약 740억 원)를 제재했다. 6월 법 시행 후 두 달 만에 나온 첫 대형 과징금으로, 글로벌 HR AI 시장에 충격이 파급되고 있다.",
+      "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-01-skhynix-q2-2026-hbm5-earnings.md",
+      "title": "SK하이닉스 2분기 영업이익 8.3조 — HBM5 독점 납품이 만든 반도체 역대 최대 이익률 68%",
+      "category": "경제·주식",
+      "date": "2026-08-01",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026073117510",
+      "description": "SK하이닉스가 2026년 2분기 영업이익 8조 3,000억 원을 기록하며 증권가 컨센서스를 30% 이상 상회했다. HBM5(6세대 고대역폭 메모리) 독점 공급 효과가 본격 반영된 결과로, 영업이익률은 반도체 업계 사상 최고인 68%에 달했다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

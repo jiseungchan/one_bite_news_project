@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-10-skhynix-nasdaq-adr-265b-ipo.md",
+      "title": "SK하이닉스, 나스닥 입성 — 외국기업 미국 IPO 사상 최대 37조 원",
+      "category": "경제·주식",
+      "date": "2026-07-10",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12095003",
+      "description": "SK하이닉스가 오늘(7월 10일) 나스닥에 ADR 형태로 상장했다. 공모가 주당 149달러, 조달 규모 265억 달러(약 37조 원)로 외국기업의 미국 IPO 사상 최대 규모다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-10-tencent-manus-ai-takeover.md",
+      "title": "텐센트가 Manus 최대 주주 협상 — 중국 AI 에이전트 판이 다시 짜인다",
+      "category": "AI",
+      "date": "2026-07-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz",
+      "description": "텐센트가 중국 AI 에이전트 스타트업 Manus의 최대 주주가 되기 위한 협상을 진행 중이라고 FT가 보도했다. 텐센트의 플랫폼 파워와 Manus의 에이전트 기술이 결합될 경우 중국 AI 생태계 판도가 크게 바뀔 수 있다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-10-openai-fidji-simo-resign-ipo.md",
+      "title": "IPO 경쟁 한복판에 오픈AI 핵심 임원 사임 — 피지 시모, 의료 휴직 후 퇴장",
+      "category": "AI",
+      "date": "2026-07-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/openai-executive-fidji-simo-to-step-down-following-medical-leave",
+      "description": "오픈AI의 핵심 임원 피지 시모가 의료 휴직 후 공식 사임을 선언했다. 앤트로픽과 치열한 IPO 경쟁을 벌이는 결정적 시점에 이뤄진 2인자급 경영진의 이탈이다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-10-jpmorgan-ai-agents-portfolio.md",
+      "title": "JP모건이 AI 에이전트로 시장을 이겼다 — 60/40 포트폴리오를 넘은 백테스트",
+      "category": "AI",
+      "date": "2026-07-10",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
+      "description": "JP모건이 자체 개발한 AI 에이전트가 백테스트에서 전통적인 60/40 포트폴리오를 능가한다는 결과를 공개했다. 월가 대형 IB가 AI 에이전트 기반 투자 자동화의 실증 결과를 발표한 건 이번이 처음이다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

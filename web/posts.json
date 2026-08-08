@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-11-emtech-ai-2026-ai-platform.md",
+      "title": "에이전트 AI, 실험실을 떠나다 — MIT가 정의한 2026년 AI의 전환점",
+      "category": "AI",
+      "date": "2026-07-11",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "description": "MIT Technology Review 연례 AI 컨퍼런스 EmTech AI 2026의 핵심 메시지는 하나였다. AI는 이제 도구가 아니라 기업 전체를 움직이는 플랫폼이 됐다. 에이전트 AI 파일럿의 95%가 실패하는 시대, 살아남는 기업들은 무엇이 다른가.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-11-openai-gpt-live-full-duplex.md",
+      "title": "ChatGPT가 드디어 사람처럼 말한다 — OpenAI GPT-Live의 풀 듀플렉스 혁신",
+      "category": "AI",
+      "date": "2026-07-11",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
+      "description": "OpenAI가 7월 8일 GPT-Live를 출시했다. 기존 음성 AI와 달리 듣는 동시에 말할 수 있는 풀 듀플렉스 구조로, AI와의 대화가 워키토키에서 전화통화 수준으로 바뀐다.",
+      "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-11-icml-2026-seoul-first-korea.md",
+      "title": "세계 ML 학자 1만 5천 명이 서울에 모였다 — ICML 2026이 보여준 AI 연구의 지형",
+      "category": "AI",
+      "date": "2026-07-11",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40833",
+      "description": "세계 최대 머신러닝 학술대회 ICML 2026이 7월 6~11일 서울 코엑스에서 열렸다. 사상 첫 한국 개최, 제출 논문 23,918편으로 전년 대비 두 배 급증 — 에이전트 AI 안전성이 이 시대 가장 뜨거운 연구 주제임을 확인했다.",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-11-samsung-q2-2026-record-earnings.md",
+      "title": "영업이익 89.4조, 전년의 19배 — 삼성전자 역대 최대 실적이 남긴 두 가지 숫자",
+      "category": "경제·주식",
+      "date": "2026-07-11",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/economy/",
+      "description": "삼성전자가 2026년 2분기 영업이익 89.4조 원(사상 최대)을 발표했지만 주가는 당일 6% 이상 급락했다. 역대급 실적에도 시장이 웃지 않는 이유를 들여다봤다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

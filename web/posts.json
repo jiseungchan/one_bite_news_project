@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-27-mit-path-to-asi.md",
+      "title": "인공 초지능으로 가는 길 — 수평 확장이 열쇠다",
+      "category": "AI",
+      "date": "2026-07-27",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "description": "MIT Technology Review가 ASI(인공 초지능)로 가는 경로를 분석했다. 다음 확장 축은 수직이 아니라 수평—멀티에이전트 시스템이 분산 초지능을 실현하는 핵심 구조가 될 것이라는 주장이다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-27-anthropic-claude-values.md",
+      "title": "클로드는 힌디어로 더 따뜻하고 러시아어로 더 엄격하다 — 앤트로픽의 가치관 측정 연구",
+      "category": "AI",
+      "date": "2026-07-27",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40961",
+      "description": "앤트로픽이 클로드 모델의 '가치관'을 측정했다. 언어와 모델 버전에 따라 AI의 성향이 달라진다는 분석이 나왔다—힌디어에서는 따뜻하고, 러시아어에서는 엄격해진다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-27-icml-2026-seoul.md",
+      "title": "세계 AI 석학 1만1천 명이 서울에 모인 이유 — ICML 2026",
+      "category": "AI",
+      "date": "2026-07-27",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=40833",
+      "description": "국제기계학습학회(ICML) 2026이 사상 처음으로 한국 서울에서 열렸다. 2만3,918건 역대 최다 논문 투고, 에이전트 AI 안전성이 핵심 주제다.",
+      "image": "https://images.unsplash.com/photo-1563237023-b1e970526dcb?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-27-ai-capex-semiconductor-decoupling.md",
+      "title": "AI 투자 늘어도 반도체주는 왜 빠졌나 — 공식이 깨지고 있다",
+      "category": "경제·주식",
+      "date": "2026-07-27",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202607277420i",
+      "description": "알파벳이 AI 자본지출을 대폭 늘리겠다고 발표했지만 삼성전자·SK하이닉스는 하루 만에 7~8% 급락했다. 'AI 투자 확대 = 반도체주 호재'라는 공식이 균열을 맞고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

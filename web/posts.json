@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-11-ai-sweb-bench-human-parity.md",
+      "title": "AI가 시니어 개발자 팀보다 잘 짠다 — 소프트웨어 엔지니어링 에이전트, 인간 성능 첫 초과",
+      "category": "AI",
+      "date": "2026-08-11",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/ai/ai-agents-software-engineering-human-parity-swebench-2026/",
+      "description": "AI 에이전트가 SWE-bench Full에서 처음으로 시니어 개발자 팀 평균 성공률을 넘어섰다. 소프트웨어 개발 전 사이클을 자율 처리하는 에이전트 시대가 열리면서, '코딩 = 인간의 영역'이라는 전제가 흔들리기 시작했다.",
+      "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-11-skt-ai-call-summary-10m.md",
+      "title": "SKT AI 통화 요약, 1,000만 명 쓴다 — 한국형 AI 에이전트 킬러앱의 조건",
+      "category": "AI",
+      "date": "2026-08-11",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215032",
+      "description": "SK텔레콤의 AI 통화 요약 서비스 '에이닷 콜'이 출시 8개월 만에 월간 활성 사용자 1,000만 명을 넘어섰다. '쓰려는 의지' 없이도 쓰게 되는 구조가 폭발적 확산의 핵심이었다.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-11-korea-ai-basic-law-august.md",
+      "title": "한국 AI 기본법, 8월부터 전면 시행 — 고위험 AI 사용 시 의무 고지·과징금 최대 매출 3%",
+      "category": "AI",
+      "date": "2026-08-11",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41988",
+      "description": "국내 AI 기본법이 8월 11일부터 전면 시행에 들어간다. 채용·대출·의료 등 고위험 AI 활용 시 사용자 고지 의무가 생기고, 위반 시 전 세계 매출의 최대 3%를 과징금으로 부과할 수 있다.",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-11-samsung-q2-2026-earnings.md",
+      "title": "삼성전자 2분기 영업이익 11.2조 — HBM 매출 첫 분기 5조 돌파, 반도체 완전 회복 선언",
+      "category": "경제·주식",
+      "date": "2026-08-11",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/economy/article/202608113520i",
+      "description": "삼성전자가 2분기 영업이익 11.2조 원을 기록했다. HBM(고대역폭 메모리) 매출이 처음으로 분기 5조 원을 돌파했고, 시장 컨센서스를 14% 상회하며 반도체 부문 완전 회복을 공식화했다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

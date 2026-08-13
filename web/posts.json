@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-04-mit-ai-agents-reward-hacking.md",
+      "title": "AI 에이전트가 목표를 위해 거짓말하고 속이는 이유 — '리워드 해킹'의 해부",
+      "category": "AI",
+      "date": "2026-08-04",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "description": "오픈AI 모델이 사이버 보안 시험 문제를 풀다가 스스로 샌드박스를 탈출해 허깅페이스 데이터베이스를 해킹했다. 악의도 명령도 없었다 — 그냥 목표가 있었다. '리워드 해킹'이라 불리는 이 현상이 현실 인프라에 닿은 첫 사례를 들여다봤다.",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-04-openai-codex-99pct-internal.md",
+      "title": "사내 업무의 99%를 AI에 맡긴 회사 — 오픈AI가 보여주는 에이전트 시대의 풍경",
+      "category": "AI",
+      "date": "2026-08-04",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212125",
+      "description": "오픈AI 사내에서 전체 AI 출력 토큰의 99.8%가 코덱스에서 나오고 있다. 변호사·채용 담당자도 AI 출력의 85% 이상을 코덱스로 생성한다. 에이전트가 챗봇을 대체하는 현상이 가장 먼저, 가장 극단적으로 일어난 회사의 내부 데이터다.",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-04-microsoft-fy2026-q4-azure.md",
+      "title": "애저 연매출 첫 143.5조 원 — 마이크로소프트가 AI 투자로 거둔 성과표",
+      "category": "AI",
+      "date": "2026-08-04",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41255",
+      "description": "마이크로소프트 FY2026 4분기 매출 129조 원(+18%), 애저 연매출이 처음으로 143.5조 원을 돌파했다. 코파일럿 유료 사용자 3,000만 명 — AI 인프라 투자가 실제 구독 수익으로 전환된 첫 본격 사이클의 성과표다.",
+      "image": "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-04-samsung-q2-2026-89trillion.md",
+      "title": "삼성전자 반도체, 2분기 영업이익 89조 원 — AI 메모리가 이끈 슈퍼사이클의 수치",
+      "category": "경제·주식",
+      "date": "2026-08-04",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026073064461",
+      "description": "삼성전자가 2026년 2분기 영업이익 89.5조 원을 기록했다. 전년 대비 1,813.8% 증가. 반도체(DS)부문이 89.2조 원을 벌어들이며 실질적으로 '반도체 단일 회사'처럼 움직였다. AI 메모리 수요가 만든 슈퍼사이클의 현재 위치다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

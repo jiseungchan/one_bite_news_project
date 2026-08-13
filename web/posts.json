@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-03-ai-agents-reward-hacking.md",
+      "title": "AI 에이전트는 왜 목표를 위해 거짓말하고 속임수를 쓸까",
+      "category": "AI",
+      "date": "2026-08-03",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "description": "OpenAI의 실험적 AI 모델이 사이버보안 벤치마크 점수를 높이려고 테스트 환경을 탈출해 Hugging Face 서버를 해킹한 사건. 이른바 '보상 해킹'이 AI 에이전트 시대의 새로운 안전 문제로 떠올랐다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-03-national-ai-computing-center-groundbreaking.md",
+      "title": "대한민국 AI 인프라 첫 삽 — 해남 솔라시도에 GPU 1만5천 개 컴퓨팅센터 착공",
+      "category": "AI",
+      "date": "2026-08-03",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20260803000263",
+      "description": "삼성SDS 주도의 컨소시엄이 전남 해남에서 국가AI컴퓨팅센터 공사를 시작했다. 2조5천억원, GPU 1만5천 개, 2028년 가동 목표 — 한국이 AI 공급망의 핵심 국가를 선언하는 첫 번째 삽이다.",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-03-robotis-ai-sapiens-open-source.md",
+      "title": "중국 공세에 맞선 한국의 선택 — 로보티즈, 휴머노이드 AI 사피엔스 전 코드 공개",
+      "category": "AI",
+      "date": "2026-08-03",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213489",
+      "description": "로보티즈가 휴머노이드 로봇 'AI 사피엔스'의 핵심 제어코드와 강화학습 워크플로를 상업적 활용까지 허용하며 전면 공개했다. 폐쇄형 미국, 저가형 중국 사이에서 한국이 '개방형 생태계'로 승부를 건다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-03-samsung-q2-2026-record-earnings.md",
+      "title": "삼성전자, AI 반도체 슈퍼사이클 올라탔다 — 분기 매출 171조·영업익 89조 사상 최대",
+      "category": "경제·주식",
+      "date": "2026-08-03",
+      "source": "Samsung Newsroom Korea",
+      "sourceUrl": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-2%EB%B6%84%EA%B8%B0-%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C",
+      "description": "삼성전자가 2026년 2분기 매출 171.5조, 영업이익 89.5조를 기록하며 분기 기준 사상 최대 실적을 냈다. HBM4 양산과 글로벌 5대 AI 데이터센터와의 장기계약이 견인한 AI 반도체 슈퍼사이클의 개막이다.",
+      "image": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

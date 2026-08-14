@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-14-nhn-q2-2026-record-earnings.md",
+      "title": "NHN, 2분기 영업이익 164% 급증 — AI GPU가 만든 역대 최대 실적의 행간",
+      "category": "경제·주식",
+      "date": "2026-08-14",
+      "source": "ZDNet Korea / 에디데일리",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260811102653",
+      "description": "NHN이 2026년 2분기 창사 이래 최대 매출과 영업이익을 기록했다. AI GPU 사업이 실적 개선의 최대 공신이었다. 숫자보다 중요한 건 이 회사가 무엇으로 변하고 있느냐다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-14-apple-alibaba-china-ai.md",
+      "title": "애플, 알리바바와 손잡고 중국 전용 AI를 만들다 — 아이폰이 살아남는 법",
+      "category": "AI",
+      "date": "2026-08-14",
+      "source": "MacRumors / Reuters",
+      "sourceUrl": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "description": "애플이 중국 시장을 위한 자체 대형 언어 모델(LLM)을 알리바바의 도움을 받아 개발했다. 글로벌 AI 전략과 중국 규제 사이에서 애플이 찾은 타협점이다.",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-14-google-deepmind-hassabis-departure.md",
+      "title": "구글 딥마인드 대격변 — 하사비스가 물러서고, 전설적 엔지니어 4명이 한꺼번에 나갔다",
+      "category": "AI",
+      "date": "2026-08-14",
+      "source": "Axios / Fortune",
+      "sourceUrl": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "description": "AI 역사상 가장 상징적인 이름 중 하나인 데미스 하사비스가 구글 딥마인드 CEO 자리에서 물러났다. 같은 날 구글 27년 베테랑 제프 딘도 회사를 떠났다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-14-mit-post-transformer-llm-startups.md",
+      "title": "트랜스포머 이후를 꿈꾸는 스타트업들 — LLM의 다음 판을 누가 짜나",
+      "category": "AI",
+      "date": "2026-08-14",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "description": "트랜스포머가 한계를 드러내고 있다. 샌프란시스코를 중심으로 세 스타트업이 '그 이후'를 만들고 있다. Manifest AI, Subquadratic, Liquid AI의 접근법을 들여다봤다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

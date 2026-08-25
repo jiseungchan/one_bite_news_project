@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-07-25-ai-hiring-bias-llm.md",
+      "title": "AI가 인간보다 65% 더 편견을 갖는다 — 채용 시뮬레이션이 드러낸 LLM의 민낯",
+      "category": "AI",
+      "date": "2026-07-25",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "description": "프린스턴대·시카고대 연구팀이 ChatGPT, Claude, Gemini를 채용 시뮬레이션에 투입한 결과, AI가 인간보다 65% 더 강하게 직군별 편견을 형성했다. OpenAI의 최신 추론 모델 o3는 편향 지수가 최댓값(2.0) 근처인 1.83을 기록했다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-25-kaist-nvidia-ai-lab.md",
+      "title": "KAIST-엔비디아, 에이전틱 AI 공동연구소 설립 — 5년간 4,400억 원 규모 협력",
+      "category": "AI",
+      "date": "2026-07-25",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213123",
+      "description": "KAIST 김재철AI대학원과 엔비디아가 에이전틱 AI 전문 공동연구소를 설립했다. 5년간 3억 달러(약 4,400억 원) 규모 협력으로, 매년 740억 원 상당 컴퓨팅 자원과 엔비디아 인턴십을 KAIST 연구자에게 제공한다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-25-naver-nvidia-sovereign-ai-factory.md",
+      "title": "엔비디아, 네이버에 1.4조원 투자 — 세종에 200MW 소버린 AI 팩토리 짓는다",
+      "category": "AI",
+      "date": "2026-07-25",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41162",
+      "description": "네이버가 브룩필드·엔비디아로부터 총 14조 원 규모 투자를 유치하며, 세종 데이터센터(GAC 세종)에 200MW급 소버린 AI 팩토리를 구축한다. 이재명 대통령의 샌프란시스코 AI 서밋을 계기로 발표됐으며, 장기 목표는 1GW 확장이다.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+    },
+    {
+      "filename": "2026-07-25-kimi-k3-samsung-skhynix-shock.md",
+      "title": "키미K3 쇼크, 삼성·하이닉스 시총 수십조 증발 — 딥시크 2탄인가, 과도한 공포인가",
+      "category": "경제·주식",
+      "date": "2026-07-25",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202607192337i",
+      "description": "중국 무샷AI의 '키미K3' 오픈소스 모델 공개 직후 글로벌 반도체 주식 시총 3.3조 달러가 증발했다. 삼성전자 5.2%, SK하이닉스 4.45% 급락했지만 3일 만에 대부분 회복했다. 딥시크 쇼크 2탄 우려와 함께, HBM 장기 수요는 오히려 늘 수 있다는 반론도 나온다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

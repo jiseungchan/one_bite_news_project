@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-13-anthropic-decart-acquisition.md",
+      "title": "앤트로픽, AI 스타트업 디카트 60억 달러 인수 협상 — 실시간 세계 시뮬레이션을 클로드에 이식한다",
+      "category": "AI",
+      "date": "2026-08-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "description": "앤트로픽이 실시간 AI 세계 시뮬레이션 스타트업 디카트를 약 60억 달러에 인수하는 협상을 진행 중이다. 성사 시 클로드는 텍스트를 넘어 실시간 3D 환경을 직접 생성·조작하는 세계 모델 능력을 갖추게 된다.",
+      "image": "https://images.unsplash.com/photo-1679403766680-5e7e5fb62be7?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-13-kospi-chip-rally.md",
+      "title": "코스피, 10일 만에 23% 급등 — HBM 수요가 다시 불 지른 반도체 랠리",
+      "category": "경제·주식",
+      "date": "2026-08-13",
+      "source": "Bloomberg Markets",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-13/korean-stocks-rise-22-in-ten-days-as-chip-rally-regains-steam",
+      "description": "한국 증시가 10일 만에 23% 급등하며 반도체 랠리가 재점화됐다. AI 데이터센터 수요를 등에 업은 HBM 수요가 삼성전자·SK하이닉스 주가를 끌어올리는 동력이 됐다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-13-cerebras-ai-demand.md",
+      "title": "세레브라스 주가 급락 — AI 컴퓨트 수요의 '울퉁불퉁함'이 웨이퍼 스케일 칩을 강타하다",
+      "category": "AI",
+      "date": "2026-08-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-12/cerebras-hardware-business-declines-in-sign-of-lumpy-demand",
+      "description": "세레브라스의 하드웨어 매출이 감소하며 주가가 급락했다. AI 컴퓨트 수요가 폭발적으로 증가하는 것처럼 보여도, 대기업 주문에 의존하는 특수 AI 칩 시장은 분기별로 극단적인 진폭을 보인다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-13-india-ai-workers.md",
+      "title": "인도 노동자 수천 명이 자신을 대체할 로봇을 직접 훈련시키고 있다",
+      "category": "AI",
+      "date": "2026-08-13",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them",
+      "description": "전 세계 AI 기업들이 로봇 훈련 데이터 수집을 위해 인도 노동자 수천 명을 고용하고 있다. 이 노동자들이 하는 일은 바로 자신의 일자리를 빼앗을 로봇을 직접 가르치는 것이다.",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

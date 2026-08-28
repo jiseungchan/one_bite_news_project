@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-16-openai-revenue-40b-ipo.md",
+      "title": "OpenAI, 연 환산 매출 400억 달러 돌파 — IPO 앞두고 공개된 숫자들",
+      "category": "AI",
+      "date": "2026-08-16",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+      "description": "OpenAI의 연 환산 매출이 400억 달러를 넘어섰다. 1년 전 250억 달러 수준에서 60% 이상 성장한 수치다. IPO를 앞두고 공개된 이 숫자는 시장의 기대치를 다시 한번 끌어올리고 있다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-16-uber-pony-ai-robotaxis-europe.md",
+      "title": "Uber + Pony AI, 유럽에 로보택시 2,000대 배치 — 중국 자율주행의 서유럽 상륙",
+      "category": "AI",
+      "date": "2026-08-16",
+      "source": "Bloomberg Markets",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-14/uber-and-china-s-pony-ai-to-deploy-2-000-robotaxis-in-europe",
+      "description": "Uber와 중국 자율주행 스타트업 Pony AI가 유럽에 로보택시 2,000대를 배치하는 협약을 맺었다. 중국산 자율주행 플랫폼이 처음으로 대규모로 서유럽 시장에 진출하는 사례로, Waymo와 Cruise 중심의 미국 진영에 새로운 변수가 생겼다.",
+      "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-16-lg-nvidia-humanoid-robot.md",
+      "title": "구광모·젠슨 황, 두 달 만에 다시 만났다 — LG·엔비디아, 휴머노이드 로봇 2027년 1분기 공개",
+      "category": "AI",
+      "date": "2026-08-16",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12127682",
+      "description": "LG그룹 구광모 회장과 엔비디아 젠슨 황 CEO가 두 달 만에 또다시 회동했다. 양사가 공동 개발 중인 차세대 휴머노이드 로봇이 내년 1분기 공개될 것으로 알려졌다. LG의 하드웨어 설계력과 엔비디아의 Cosmos AI 플랫폼이 만나는 지점이다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-16-kospi-7000-ai-rally.md",
+      "title": "코스피 장중 7,000 회복 — AI 랠리와 미국 물가 완화가 만든 숫자",
+      "category": "경제·주식",
+      "date": "2026-08-16",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/stock/12127622",
+      "description": "코스피가 장중 7,000포인트를 회복했다. 미국 소비자물가지수(CPI) 완화와 AI 반도체 섹터 강세가 동시에 작용했다. 아시아 증시 전반이 상승하는 가운데 한국 시장이 특히 주목받고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

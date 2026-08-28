@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-08-mit-llm-role-confusion-attack.md",
+      "title": "모든 LLM에 막을 수 없는 결함이 있다 — 역할 혼동 공격의 발견",
+      "category": "AI",
+      "date": "2026-08-08",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "description": "ICML 2026 논문이 밝혔다 — LLM은 역할 태그가 아니라 '문체'로 신뢰를 판단하며, 이 결함은 구조적으로 원천 차단이 불가능할 수 있다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-08-google-gemini-950m-mau.md",
+      "title": "구글 제미나이, 월간 사용자 9.5억 돌파 — ChatGPT와의 격차가 5,000만 명으로 좁혀졌다",
+      "category": "AI",
+      "date": "2026-08-08",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213071",
+      "description": "구글 제미나이의 MAU가 9억 5,000만 명을 넘어서며 ChatGPT와의 격차를 5,000만 명으로 줄였다. 5개월 만에 2억 명이 추가됐으며, 연간 트래픽 증가율은 643%에 달한다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-08-amd-taalas-silicon-ai-chips.md",
+      "title": "AMD, AI를 실리콘에 구워넣는 스타트업 'Taalas' 인수 — GPU보다 48배 빠른 추론을 향해",
+      "category": "AI",
+      "date": "2026-08-08",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips",
+      "description": "AMD가 AI 가중치를 실리콘에 물리적으로 새기는 기술을 가진 스타트업 Taalas를 인수한다. HBM 없이 Nvidia GPU 대비 48배 빠른 추론 성능을 시연했다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-08-naver-q2-record-revenue-ai-factory.md",
+      "title": "네이버, 2분기 매출 3조 3,888억 역대 최대 — 이익은 AI 팩토리에 쏟아붓는다",
+      "category": "경제·주식",
+      "date": "2026-08-08",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/business/12120727",
+      "description": "네이버가 2026년 2분기 매출 3조 3,888억 원으로 역대 최대를 달성했다. 전년 대비 16.2% 성장이지만 영업이익은 0.2% 감소 — AI 팩토리 투자 비용이 이익을 압박했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

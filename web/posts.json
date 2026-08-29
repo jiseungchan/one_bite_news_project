@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-29-bill-gates-ai-danger-threshold.md",
+      "title": "빌 게이츠 '우리는 이미 AI 위험 임계점을 넘었다' — 이제 남은 건 무엇인가",
+      "category": "AI",
+      "date": "2026-08-29",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "description": "빌 게이츠가 AI가 바이오·사이버·심리·고용 파괴 등 5개 위험 임계점을 이미 넘었다고 선언했다. 경고음이 울린 지금, 세계 지도자들은 아직 준비가 안 돼 있다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-29-openai-jalapeno-chip.md",
+      "title": "오픈AI, 자체 AI 칩 '할라페뇨' 첫 성능 공개 — 엔비디아 GB300 대비 전력 효율 104배",
+      "category": "AI",
+      "date": "2026-08-29",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-shows/",
+      "description": "오픈AI가 자체 개발한 AI 추론 전용 칩 '할라페뇨'의 첫 벤치마크를 공개했다. DeepSeek R1 추론에서 엔비디아 GB300 시스템 대비 킬로와트당 처리량이 104배에 달한다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-29-ai-recursive-self-improvement.md",
+      "title": "AI가 스스로 AI를 개선한다는 꿈 — 예상보다 훨씬 멀리 있는 이유",
+      "category": "AI",
+      "date": "2026-08-29",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "description": "AI가 AI 연구 자체를 수행하는 '재귀적 자기 개선'의 한계가 드러났다. 코드 작성은 잘해도 진짜 연구에 필요한 개방형 판단과 창의성에서 AI 에이전트는 아직 한참 부족하다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-29-korea-pcb-substrate-ai-stock.md",
+      "title": "AI 서버가 밀어올린 기판주 — 2분기 영업이익 32.8% 급증의 배경",
+      "category": "경제·주식",
+      "date": "2026-08-29",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202608249401i",
+      "description": "AI 서버 수요가 반도체를 넘어 기판(PCB·FCBGA) 업체까지 수혜를 확산시키고 있다. 2분기 국내 PCB 주요 업체의 영업이익이 전 분기 대비 32.8% 급증했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

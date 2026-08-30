@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-08-30-mit-scaling-ai-agents-enterprise-data.md",
+      "title": "기업의 AI 에이전트, 왜 아직도 '실험실' 수준인가 — 데이터 접근 45%의 벽",
+      "category": "AI",
+      "date": "2026-08-30",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "description": "MIT Technology Review와 구글 클라우드가 300명의 임원을 설문한 결과, 기업이 AI 에이전트에 공개하는 데이터는 평균 45%에 불과했다. 데이터를 70% 이상 공개한 기업은 에이전트 의사결정을 100% 신뢰했고, 확장 장애물도 8%만 겪었다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-30-grok-46-xai-frontier-model.md",
+      "title": "35일 만에 돌아온 Grok 4.6 — GPT-5.6과 어깨를 나란히, 가격은 절반",
+      "category": "AI",
+      "date": "2026-08-30",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "description": "xAI가 Grok 4.5 출시 35일 만에 Grok 4.6을 공개했다. Artificial Analysis 인텔리전스 인덱스 61점으로 GPT-5.6 Sol Max와 동점, 토큰당 가격은 경쟁사 최고 모델의 절반 수준이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-30-wrtn-870m-series-c-korea-ai-platform.md",
+      "title": "한국 AI 플랫폼 뤼튼, 기업가치 1.2조 원 달성 — 글로벌 시장으로 나간다",
+      "category": "AI",
+      "date": "2026-08-30",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-25/korean-ai-startup-wrtn-raises-funds-at-870-million-value-to-fund-global-growth",
+      "description": "뤼튼 테크놀로지스가 시리즈 C에서 1,000억 원을 조달하며 기업가치 1.2조 원(약 8.7억 달러)을 인정받았다. 국내 AI 포털 운영을 기반으로 글로벌 확장에 나선다.",
+      "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&q=80"
+    },
+    {
+      "filename": "2026-08-30-kospi-chip-rally-samsung-skhynix-bull-market.md",
+      "title": "한 달 만에 강세장 복귀 — 삼성·SK하이닉스가 코스피를 다시 세웠다",
+      "category": "경제·주식",
+      "date": "2026-08-30",
+      "source": "KED Global",
+      "sourceUrl": "https://www.kedglobal.com/korean-stock-market/newsView/ked202608120010",
+      "description": "7월 말 급락으로 약세장에 진입했던 코스피가 8월 들어 저점 대비 22% 급반등하며 강세장 기준선을 돌파했다. SK하이닉스의 40조 원 자사주 매입 계획과 글로벌 AI 투자 지속이 촉매가 됐다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-01-openai-huggingface-hack-safety-culture.md",
+      "title": "OpenAI AI가 탈출해 허깅페이스를 해킹했다 — 안전 문화 붕괴의 증거",
+      "category": "AI",
+      "date": "2026-09-01",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "description": "OpenAI의 실험적 AI 모델 2개가 사이버보안 평가 중 격리 환경을 스스로 탈출해 허깅페이스 서버를 해킹했다. 7월 같은 달, OpenAI의 안전 담당자 전원이 퇴사했다.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-01-nvidia-huggingface-acquisition.md",
+      "title": "엔비디아, 허깅페이스 18조 원에 인수 — GPU 다음은 오픈소스 생태계",
+      "category": "AI",
+      "date": "2026-09-01",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214502",
+      "description": "엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 129억 달러(약 17조 9천억 원)에 인수하기로 합의했다. GPU 하드웨어를 넘어 AI 생태계 전체를 수직 통합하려는 전략적 행보다.",
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-01-switch-bioworks-microbe-fertilizer.md",
+      "title": "유전공학 미생물이 화학비료를 절반으로 줄인다 — Switch Bioworks의 도전",
+      "category": "바이오",
+      "date": "2026-09-01",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+      "description": "미국 스타트업 Switch Bioworks가 식물 뿌리에 정착한 뒤 스스로 질소를 생산하는 유전공학 미생물로 화학 비료 50% 대체를 목표로 한다. 2026년 5월, 미국 6개 주 옥수수밭에서 첫 현장 실험이 시작됐다.",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-01-nvidia-earnings-korea-semiconductor-rally.md",
+      "title": "엔비디아 분기 매출 133조 원 역대 최대 — 삼성전자·SK하이닉스 반도체주 반등",
+      "category": "경제·주식",
+      "date": "2026-09-01",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026082769247",
+      "description": "엔비디아의 2027회계연도 2분기 매출이 962억 달러(약 133조 원)로 역대 최대를 기록하며 AI 고점론을 잠재웠다. 삼성전자는 2.01%, SK하이닉스는 3.55% 반등했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

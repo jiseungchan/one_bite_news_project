@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-05-mit-kids-outlearn-ai-language.md",
+      "title": "아이들은 AI보다 빨리 언어를 배운다 — 그 이유를 우리는 아직 모른다",
+      "category": "AI",
+      "date": "2026-09-05",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "description": "아이들은 GPT 같은 대형 언어 모델보다 훨씬 적은 데이터로 언어를 익힌다. 그 비결이 아직도 밝혀지지 않았다는 사실이, AI 연구의 가장 중요한 미스터리 중 하나로 떠올랐다.",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-05-nvidia-huggingface-acquisition.md",
+      "title": "엔비디아, 허깅페이스 17.5조원에 인수 — 칩을 넘어 AI 생태계 전체를 손에 넣다",
+      "category": "AI",
+      "date": "2026-09-05",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214830",
+      "description": "엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 129억 달러(약 17.5조원)에 인수했다. 1,800만 개발자가 쓰는 AI 생태계 핵심 허브를 품으며, GPU 제조사에서 AI 인프라 전체를 지배하는 플랫폼 기업으로 도약을 선언했다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-05-china-us-ai-cooperation-xi-visit.md",
+      "title": "시진핑, CEO 대표단 이끌고 방미 — 미중 AI 협력의 새 챕터가 열린다",
+      "category": "AI",
+      "date": "2026-09-05",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214879",
+      "description": "시진핑 중국 국가주석이 9월 24일 미국을 방문하며 대규모 CEO 대표단을 동행시킬 예정이다. 정상회담을 앞두고 미중은 9월 중순 AI 안보 분야 첫 공식 대화를 추진 중이며, AI가 지정학적 협력의 핵심 테이블에 올랐다.",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-05-skhynix-super-investor-buy.md",
+      "title": "목표주가 322만원인데 반도체주 흔들려 — 초고수들이 SK하이닉스를 사는 이유",
+      "category": "경제·주식",
+      "date": "2026-09-05",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202609030963i",
+      "description": "글로벌 장기금리 상승에 SK하이닉스 주가가 흔들리는 사이, 수익률 상위 1%의 '초고수' 투자자들이 저가 매수에 나섰다. 증권사 목표주가는 최고 322만원으로, 현재 가격 대비 여전히 상당한 여유가 남아 있다는 분석이다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

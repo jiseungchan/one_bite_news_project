@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-07-openai-gpt6-astra.md",
+      "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
+      "category": "AI",
+      "date": "2026-09-07",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-6-astra/",
+      "description": "오픈AI가 9월 3일 GPT-6 아스트라를 공개했다. 일반 지식보다 컴퓨터 조작·코딩·사이버보안처럼 '길고 복잡한 실무'에서 역대 가장 큰 도약을 기록한 모델이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-07-hiddenlayer-ai-security-100m.md",
+      "title": "AI 에이전트 보안, 이제 돈이 된다 — 히든레이어 시리즈B 1,380억 원",
+      "category": "AI",
+      "date": "2026-09-07",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "description": "AI 보안 스타트업 히든레이어가 9월 2일 1억 달러(약 1,380억 원) 시리즈B를 마감했다. AI 에이전트가 실제 권한을 갖는 시대, '모델 자체를 지키는' 시장이 열렸다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-07-embodied-ai-vla-robots-2026.md",
+      "title": "로봇이 말을 알아듣기 시작했다 — VLA 모델이 열어젖힌 새 산업 지형",
+      "category": "AI",
+      "date": "2026-09-07",
+      "source": "Nature",
+      "sourceUrl": "https://www.nature.com/articles/d42473-026-00119-z",
+      "description": "VLA(Vision-Language-Action) 모델이 2026년 전환점을 맞이하고 있다. ICLR 2026 관련 논문이 전년 대비 18배 급증했고, 촉각 센서를 더한 로봇은 삽입 작업 성공률 90%를 달성했다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-07-nvidia-q2-fy2027-korea-stocks.md",
+      "title": "엔비디아 13분기 연속 신기록, 메모리 부족이 삼성·SK하이닉스를 밀어 올렸다",
+      "category": "경제·주식",
+      "date": "2026-09-07",
+      "source": "Seoul Economic Daily",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/08/27/samsung-sk-hynix-surge-on-nvidia-results-as-kospi-eyes-7000",
+      "description": "엔비디아가 Q2 FY2027에 매출 $96.2B(약 132조 원)로 13분기 연속 신기록을 썼다. 동시에 메모리 부족이 2028년까지 지속된다는 경고가 삼성전자와 SK하이닉스 주가를 끌어올렸다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-07-02-openai-gpt56-launch.md",
       "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
       "category": "AI",

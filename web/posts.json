@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-08-openai-pachocki-alien-mind-rsi.md",
+      "title": "AI가 스스로 진화하기 직전 — OpenAI 수석과학자가 직접 브레이크 밟은 이유",
+      "category": "AI",
+      "date": "2026-09-08",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
+      "description": "OpenAI 수석과학자 야쿱 파초키가 'An Alien Mind' 에세이를 통해 재귀적 자기 개선(RSI) 위험을 경고했다. AI가 스스로를 개선하는 단계에 가까워지고 있으며, 지금은 '극도의 주의'가 필요한 시점이라고 밝혔다.",
+      "image": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-08-anthropic-decart-acquisition-collapse.md",
+      "title": "앤트로픽, 8조 원짜리 딜 접었다 — 데카르트 AI 인수 협상 파열",
+      "category": "AI",
+      "date": "2026-09-08",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+      "description": "앤트로픽이 이스라엘계 AI 스타트업 데카르트(Decart)를 약 60억 달러(8조 2,000억 원)에 인수하려던 협상을 공식 철회했다. 실사(due diligence) 후 경영진이 딜을 포기한 것으로 전해진다.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-08-lunit-wclc-ai-lung-cancer.md",
+      "title": "루닛, AI로 폐암 유전자 지도를 읽다 — 세계폐암학회서 연구 3건 공개",
+      "category": "AI",
+      "date": "2026-09-08",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/thebio/2026/09/08/2026090808313963737",
+      "description": "루닛이 세계폐암학회(WCLC 2026)에서 AI 바이오마커 플랫폼 '루닛 스코프 IO'를 활용한 연구 3건을 발표했다. EGFR 변이 아형별 면역 환경 차이를 AI로 정량화하고 TP53 변이 예측 가능성을 제시했다.",
+      "image": "https://images.unsplash.com/photo-1576671081837-49000212a370?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-08-kospi-ai-momentum-rate-7500.md",
+      "title": "AI 모멘텀이 금리 불안 누른다 — 코스피, 7500선이 진짜 분기점",
+      "category": "경제·주식",
+      "date": "2026-09-08",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/stock/12146856",
+      "description": "코스피가 AI 모멘텀과 금리 불안 사이에서 7500선 돌파를 시험하고 있다. 7000~7500선 구간에만 18조 9,000억 원 규모의 개인 순매수 잔고가 쌓여 강한 매물벽을 이루고 있다.",
+      "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

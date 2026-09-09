@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-09-openai-navier-stokes-math-controversy.md",
+      "title": "AI가 수학의 성배를 깼다 — 오픈AI 나비에-스토크스 해결과 그 그늘",
+      "category": "AI",
+      "date": "2026-09-09",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "description": "오픈AI가 1만 개 AI 에이전트를 88시간 동안 가동해 수학계 90년 난제 나비에-스토크스 방정식을 풀었다고 발표했다. 그런데 발표 하루 뒤, 수학자들이 표절을 주장하며 더 뜨거운 논쟁이 시작됐다.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-09-samsung-lg-ai-chip-substrate-kpca.md",
+      "title": "삼성·LG·SKC, AI 칩 기판 전쟁 — KPCA 2026에서 공개된 차세대 패키징 기술",
+      "category": "AI",
+      "date": "2026-09-09",
+      "source": "Seoul Economic Daily",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/09/09/samsung-lg-vie-over-next-generation-ai-chip-substrates",
+      "description": "인천 송도에서 열린 KPCA Show 2026에서 삼성전기·LG이노텍·SKC가 AI 가속기용 차세대 기판 기술을 동시에 공개했다. 글라스 기판, 100mm 초대형 FC-BGA, 2.5D 패키징 — 국내 3사의 기판 경쟁이 본격화됐다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-09-lg-spark-2026-ai-festival.md",
+      "title": "LG Spark 2026 — 서울 마곡에서 엔비디아·구글·아마존이 AI를 시연한다",
+      "category": "AI",
+      "date": "2026-09-09",
+      "source": "The Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10863234",
+      "description": "LG그룹이 서울 LG 사이언스파크에서 AI 기술 축제 LG Spark 2026을 시작했다. 41개 R&D 기술, CLOiD 홈 로봇, 엔비디아·구글·아마존·MS가 참여하는 AI DevCon이 9월 9~17일 열린다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-09-kospi-7000-goldman-sachs-12000.md",
+      "title": "코스피 7,051 — 33거래일 만에 7,000선 안착, 골드만삭스는 12,000 목표치를 고수한다",
+      "category": "경제·주식",
+      "date": "2026-09-09",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/stock/2026/09/09/2026090822504650431",
+      "description": "오늘 코스피가 33거래일 만에 7,000선에 안착했다. 외국인·기관이 합산 5조 원 이상을 순매수했고, 골드만삭스는 코스피 목표치 12,000을 여전히 유지하고 있다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

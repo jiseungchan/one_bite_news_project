@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-11-openai-navier-stokes-math-controversy.md",
+      "title": "AI 에이전트 1만 개가 90년 수학 난제를 풀었다 — 그리고 터진 출처 논란",
+      "category": "AI",
+      "date": "2026-09-11",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "description": "OpenAI가 AI 에이전트 1만 개를 88시간 가동해 나비에-스토크스 방정식 난제를 풀었다. 수학계 최대 쾌거지만, 공로 귀속 논란이 터지며 성과와 윤리의 경계를 묻는 논쟁으로 번졌다.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-11-deepseek-v4-1-flash-vision.md",
+      "title": "DeepSeek V4.1 Flash 등장 — 552B 파라미터가 시각(Vision)까지 품었다",
+      "category": "AI",
+      "date": "2026-09-11",
+      "source": "DeepSeek",
+      "sourceUrl": "https://deepseek.com/en/news/deepseek-v4-1-flash/",
+      "description": "DeepSeek이 9월 10일 V4.1 Flash를 공개했다. 552B 파라미터에 네이티브 비전 기능을 얹은 경량-고성능 모델로, 더 큰 V4 Pro를 대부분의 에이전트·코딩 벤치마크에서 뛰어넘었다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-11-intel-emib-tsmc-cowos-ai-packaging.md",
+      "title": "구글·아마존은 인텔로, 엔비디아는 TSMC로 — AI 반도체 패키징 판세가 갈렸다",
+      "category": "나노·소재",
+      "date": "2026-09-11",
+      "source": "TechTimes",
+      "sourceUrl": "https://www.techtimes.com/articles/327312/20260911/emib-vs-cowos-google-amazon-back-intel-inference-nvidia-keeps-training-tsmc.htm",
+      "description": "AI 칩이 거대해지면서 패키징 기술이 새 경쟁 전선이 됐다. TSMC CoWoS의 78주 리드타임과 고비용에 지친 구글·아마존이 인텔 EMIB를 선택하기 시작했고, 엔비디아는 여전히 TSMC를 고수했다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-11-korea-memory-stocks-ai-inference.md",
+      "title": "SK증권, 삼성·하이닉스 목표주가 대폭 상향 — AI 추론이 바꾼 메모리 산업의 방정식",
+      "category": "경제·주식",
+      "date": "2026-09-11",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/it",
+      "description": "SK증권이 삼성전자 목표주가를 50만 원, SK하이닉스를 300만 원으로 상향했다. AI 추론 수요 급증이 메모리를 '일시적 수급 변수'에서 'AI 성능의 핵심 결정 인자'로 격상시켰다는 분석이다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

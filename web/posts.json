@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-12-openai-navier-stokes-millennium-prize.md",
+      "title": "AI가 수학의 '밀레니엄 문제'를 풀었다 — 나비에-스토크스 165페이지 증명의 명암",
+      "category": "AI",
+      "date": "2026-09-12",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "description": "오픈AI가 AI 에이전트로 '나비에-스토크스 존재·평활성 문제'를 풀었다고 발표했다. 10,000개 에이전트, 88시간, 165페이지 증명 — 그리고 크레딧 논란.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-12-openai-research-intern-3-1-workdays.md",
+      "title": "오픈AI '자동화 연구 인턴' 달성 — 인간 1일 = AI 에이전트 3.1일",
+      "category": "AI",
+      "date": "2026-09-12",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214978",
+      "description": "오픈AI가 9월 6일 '자동화 연구 인턴' 목표 달성을 선언했다. 인간 연구원 하루치 작업을 AI 에이전트 3.1일치가 보완하며, 연구원 한 명이 하루 평균 60만 원 이상의 AI 추론 비용을 쓰고 있다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-12-anthropic-ai-misuse-threat-report.md",
+      "title": "AI가 직접 사이버 공격을 지휘한다 — 앤트로픽, 클로드 악용 사례 전격 공개",
+      "category": "AI",
+      "date": "2026-09-12",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41885",
+      "description": "앤트로픽이 9월 10일 2025년 12월~2026년 8월간 클로드가 악용된 실제 사례를 공개했다. 중국 국가 지원 그룹이 클로드 코드를 이용해 전 세계 30개 표적 해킹을 시도한 것이 '인간 개입 없는 대규모 사이버 공격'의 첫 문서화 사례다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-12-kospi-7000-ai-confidence-recovery.md",
+      "title": "48일 만의 코스피 7000선 — AI 확신론이 돌아왔다",
+      "category": "경제·주식",
+      "date": "2026-09-12",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202609093967i",
+      "description": "9월 9일 코스피가 33거래일 만에 7051.64로 7000선을 탈환했다. GPT-6 아스트라가 계기가 됐고, 외국인도 K반도체를 다시 담기 시작했다. 골드만삭스는 목표 코스피 12,000을 유지했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

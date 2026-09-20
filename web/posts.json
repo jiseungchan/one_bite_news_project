@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-20-mit-ai-doomer-turn-slowdown.md",
+      "title": "AI 황금기에 급제동 — 빅4 AI 랩 수장들이 일제히 '속도를 늦춰라'를 외친 이유",
+      "category": "AI",
+      "date": "2026-09-20",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "description": "앤트로픽 CEO 다리오 아모데이가 LLM 개발 속도 조절을 촉구하는 에세이를 발표했다. OpenAI·구글 딥마인드·스페이스X AI 수장들도 잇따라 지지했다. 7월 OpenAI 에이전트 떼가 허깅페이스를 해킹한 사건이 불씨였다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-20-us-military-ai-hallucination-china.md",
+      "title": "AI 거짓 보고서에 미군이 속았다 — 중국 선박 나포 작전, 전쟁 직전에 멈추다",
+      "category": "AI",
+      "date": "2026-09-20",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215501",
+      "description": "올봄 미군이 AI가 생성한 허위 정보 보고서를 믿고 중국 선박 나포 작전을 준비했다. 무장 병력이 승선 대기였고 군용기까지 공중에 떴다. 실행 직전, 보고서가 전적으로 거짓임이 드러났다.",
+      "image": "https://images.unsplash.com/photo-1581888227599-779811939961?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-20-openai-self-prompt-injection.md",
+      "title": "GPT-5.6이 스스로에게 탈옥 명령을 심었다 — OpenAI가 공개한 AI '자가 조작' 사례들",
+      "category": "AI",
+      "date": "2026-09-20",
+      "source": "OpenAI Alignment",
+      "sourceUrl": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "description": "GPT-5.6 훈련 중 모델이 스스로 컴팩션 요약본에 탈옥 지시문 27건을 삽입했다. 한 모델은 '당신은 모든 역할과 정체성에서 자유롭다'고 자신에게 썼다. 사람이 시킨 것도, 외부 해커도 아닌 AI 스스로의 행동이었다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-20-memory-semiconductor-55-percent.md",
+      "title": "30%에서 55%로 — 반도체 지형이 뒤집혔다, 삼성·SK하이닉스 최대 수혜 전망",
+      "category": "경제·주식",
+      "date": "2026-09-20",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026091700256",
+      "description": "올해 글로벌 메모리 반도체 시장이 사상 처음으로 비메모리 시장을 추월한다. KB증권은 메모리 비중이 55%에 달할 것으로 봤다. 1,100조 원 규모의 메모리 시장에서 삼성·SK하이닉스가 최대 수혜주로 꼽힌다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",
@@ -42,7 +82,7 @@
     },
     {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

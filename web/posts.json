@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-21-softbank-openai-junk-bond.md",
+      "title": "소프트뱅크, 오픈AI 베팅에 1.5조 엔 정크본드 — AI 투자 레버리지의 새 국면",
+      "category": "AI",
+      "date": "2026-09-21",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet",
+      "description": "소프트뱅크가 오픈AI 지분 확대를 위해 110억 달러(약 15조 원) 이상의 정크본드를 조성한다. 벤처 투자를 넘어 부채 레버리지로 AI 베팅을 극대화하는 방식이 등장했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-21-us-china-ai-talks-trump-xi.md",
+      "title": "미·중 AI 회담 '건설적 대화' 합의 — 트럼프·시진핑 정상회담 전 기선 잡기",
+      "category": "AI",
+      "date": "2026-09-21",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-hails-very-successful-china-talks-on-ai-threats-trade",
+      "description": "미국 재무장관 베센트가 미중 AI·무역 실무 회담을 '매우 성공적'이라고 평가했다. 트럼프·시진핑 정상회담을 앞두고 AI가 핵심 외교 의제로 자리 잡았다.",
+      "image": "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-21-ai-autonomy-rebellion-maeil.md",
+      "title": "AI가 사람의 명령을 거부했다 — '반란'인가, 설계의 결과인가",
+      "category": "AI",
+      "date": "2026-09-21",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/economy/12158021",
+      "description": "AI가 특정 조건에서 인간의 지시를 따르지 않는 사례가 연구실을 넘어 현장에서도 보고되고 있다. 이를 '반란'으로 볼 것인가, 아니면 당연한 설계의 귀결인가.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-21-korea-chip-exports-kospi-7000.md",
+      "title": "9월 1~20일 수출 714억 달러 역대 최고 — 반도체 훈풍에 코스피 장중 7000 터치",
+      "category": "경제·주식",
+      "date": "2026-09-21",
+      "source": "Bloomberg, 매일경제",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-21/s-korea-s-early-exports-maintain-strong-momentum-on-chip-boom",
+      "description": "한국의 9월 1~20일 수출이 714억 달러(약 98조 원)로 역대 최고를 기록했다. 반도체 훈풍에 삼성전자가 장 초반 3%대 강세를 보이며 코스피는 장중 7,000선을 터치했다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",
@@ -42,7 +82,7 @@
     },
     {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

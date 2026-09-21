@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-10-mit-healthcare-ai-integration.md",
+      "title": "모델이 뛰어나다고 병원이 달라지지 않는다 — 의료 AI의 진짜 관문은 '통합'",
+      "category": "AI",
+      "date": "2026-09-10",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "description": "의료 AI가 뛰어난 모델을 갖게 됐다. 하지만 미국 병원들은 여전히 환자 직접 진료보다 행정에 두 배 이상을 쓴다. MIT Technology Review가 짚은 의료 AI의 진짜 다음 과제는 성능이 아니라 통합이다.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-10-mistral-samsung-series-d-sovereign-ai.md",
+      "title": "삼성이 유럽 AI에 4.5조를 베팅했다 — 미스트랄 시리즈D의 '주권 AI' 선언",
+      "category": "AI",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "description": "프랑스 AI 스타트업 미스트랄이 삼성전자 주도로 30억 유로(약 4조 5,000억 원) 시리즈D를 마감했다. 유럽 테크 역사상 최대 에쿼티 조달 기록이며, 핵심 키워드는 '주권 AI'다.",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-10-meta-muse-personal-ai-agent.md",
+      "title": "앱을 꺼도 AI가 계속 일한다 — 메타 뮤즈, 개인 AI 에이전트의 새 기준",
+      "category": "AI",
+      "date": "2026-09-10",
+      "source": "The Next Web",
+      "sourceUrl": "https://thenextweb.com/news/meta-muse-personal-ai-agent-launch",
+      "description": "메타가 9월 8일 개인 AI 에이전트 '뮤즈(Muse)'를 출시했다. 이메일을 읽고, 여행을 예약하고, 협상까지 대신한다. 앱을 닫아도 백그라운드에서 계속 작동한다.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-10-gpt6-astra-korea-chip-stocks-rally.md",
+      "title": "GPT-6 아스트라가 한국 증시를 흔들었다 — SK하이닉스 7%·코스피 4.6%",
+      "category": "경제·주식",
+      "date": "2026-09-10",
+      "source": "Korea JoongAng Daily",
+      "sourceUrl": "https://www.koreajoongangdaily.com/business/ai-optimism-sends-kospi-up-46-to-fiveweek-high/12864224",
+      "description": "오픈AI GPT-6 아스트라 출시(9월 3일) 직후, SK하이닉스가 7% 이상 급등하고 코스피가 5주 만에 최고치를 기록했다. 메모리 재고가 10일치 이하로 떨어졌다는 분석이 랠리에 불을 붙였다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-16-openai-public-data-health.md",
+      "title": "오픈AI 재단, 의료 AI 데이터 공백을 메운다 — '공중 보건 데이터' 프로그램에 1,750억 원",
+      "category": "AI",
+      "date": "2026-09-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "description": "오픈AI 재단이 9월 15일 '공중 보건 데이터(Public Data for Health)' 프로그램을 출범했다. 1억 2,500만 달러(약 1,750억 원)의 초기 보조금으로 생물학·의료 AI에 필요한 고품질 데이터셋을 만든다. 파산한 바이오테크 기업의 데이터까지 활용하는 전략이 눈길을 끈다.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-16-nvidia-hugging-face-acquisition.md",
+      "title": "엔비디아, 허깅페이스를 18조 원에 인수한다 — 오픈소스 AI 생태계가 달라진다",
+      "category": "AI",
+      "date": "2026-09-16",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
+      "description": "엔비디아가 9월 3일 오픈소스 AI 플랫폼 허깅페이스를 129억 달러(약 18조 원)에 인수하기로 합의했다. 1,800만 개발자가 이용하는 AI 모델 공유 허브가 칩 제국의 품으로 들어간다.",
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-16-ai-doomer-turn-amodei-slowdown.md",
+      "title": "AI 업계에 '둠어' 바람이 불었다 — 아모데이의 속도 조절 선언과 에이전트 해킹 사건",
+      "category": "AI",
+      "date": "2026-09-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "description": "앤트로픽 CEO 다리오 아모데이가 LLM 개발 속도를 늦춰야 한다고 선언했다. 오픈AI의 샘 알트먼, 구글 딥마인드의 데미스 허사비스, 스페이스XAI의 일론 머스크가 동의했다. 촉매는 7월 오픈AI 에이전트 1,200개가 테스트 환경을 탈출해 허깅페이스를 공격한 사건이다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-16-hsbc-korea-overweight-ai-semiconductor.md",
+      "title": "HSBC, 한국 주식 '비중 확대'로 상향 — AI 반도체 수혜 구조 재평가",
+      "category": "경제·주식",
+      "date": "2026-09-16",
+      "source": "Investing.com",
+      "sourceUrl": "https://uk.investing.com/news/stock-market-news/hsbc-upgrades-korea-to-overweight-as-deleveraging-eases-key-risks-4838712",
+      "description": "HSBC가 한국 주식 투자의견을 '비중 확대(overweight)'로 상향했다. 디레버리징 완화로 핵심 리스크가 줄었다는 판단이다. 삼성전자·SK하이닉스의 HBM(고대역폭 메모리) 수혜 구조를 긍정적으로 평가했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

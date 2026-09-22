@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-13-deepseek-v41-flash-release.md",
+      "title": "딥시크 V4.1 플래시 등장 — 플래그십보다 빠르고, 비용은 절반",
+      "category": "AI",
+      "date": "2026-09-13",
+      "source": "SiliconANGLE",
+      "sourceUrl": "https://siliconangle.com/2026/09/10/deepseek-releases-v4-1-flash-says-it-outperforms-flagship-v4-pro/",
+      "description": "딥시크가 9월 10일 V4.1 플래시를 공개했다. 자사 최고 모델 V4-Pro보다 성능이 높으면서도 비용은 훨씬 낮다. 9월 14일부터 V4-Pro API 요청은 전부 V4.1 플래시로 전환된다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-13-openai-chatgpt-ads-1billion.md",
+      "title": "ChatGPT가 광고로 1조를 벌기 시작했다 — 200일 만의 기록",
+      "category": "AI",
+      "date": "2026-09-13",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+      "description": "오픈AI가 ChatGPT 광고 사업의 연환산 매출 10억 달러(약 1조 3,800억 원) 돌파를 공식 발표했다. 미국 광고 서비스 시작 200일 만이다. 2026년 전체 광고 목표는 25억 달러다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-13-sony-warner-anthropic-copyright.md",
+      "title": "소니·워너, 앤트로픽을 고소하다 — AI 저작권 전쟁이 수조 원 규모로",
+      "category": "AI",
+      "date": "2026-09-13",
+      "source": "Variety",
+      "sourceUrl": "https://variety.com/2026/music/news/sony-music-publishing-warner-chappell-anthropic-lawsuit-1236847442/",
+      "description": "소니 뮤직 퍼블리싱과 워너 채플 뮤직이 앤트로픽을 상대로 수조 원대 저작권 침해 소송을 제기했다. '수만 개'의 음악 작품이 Claude 훈련에 무단 사용됐다는 주장이다.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-13-kospi-7000-hbm7-samsung-rally.md",
+      "title": "코스피 7,000 코앞 — 삼성의 7세대 HBM이 반도체 랠리에 불을 질렀다",
+      "category": "경제·주식",
+      "date": "2026-09-13",
+      "source": "Seoul Economic Daily",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/09/08/kospi-nears-7000-on-chip-rally-goldman-sees-12000",
+      "description": "9월 8일 코스피가 4.61% 급등하며 6,995까지 치솟았다. 삼성전자의 7세대 HBM 샘플 출하 소식이 도화선이 됐다. 골드만삭스는 코스피 목표치를 12,000으로 유지했다.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

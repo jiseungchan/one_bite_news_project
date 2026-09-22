@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-15-mit-ai-trillion-dollar-gamble.md",
+      "title": "AI에 쏟아붓는 5경 원, 2030년까지 본전 뽑을 수 있을까",
+      "category": "AI",
+      "date": "2026-09-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
+      "description": "알파벳·MS·아마존·메타 등 AI 하이퍼스케일러들이 향후 4년간 5조 달러 이상을 데이터센터에 쏟아부을 전망이다. MIT 재무 교수 분석에 따르면 본전을 뽑으려면 2030년까지 생산성이 2.7배 향상돼야 한다.",
+      "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-15-anthropic-ai-misuse-report-sept2026.md",
+      "title": "앤트로픽이 클로드 악용 실태를 직접 공개했다 — 생물무기 연구부터 가짜 뉴스 공장까지",
+      "category": "AI",
+      "date": "2026-09-15",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41885",
+      "description": "앤트로픽이 2026년 9월 위협 인텔리전스 보고서를 공개했다. 가짜 뉴스 사이트 70개에 8,913건 기사 게재, 생물무기 연구 시도 차단 등 클로드 악용 실태를 7개 영역에 걸쳐 공개했다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-15-openai-ipo-altman-not-2026.md",
+      "title": "샘 알트먼 '오픈AI 2026년 상장은 시기상조' — 안전성이 먼저다",
+      "category": "AI",
+      "date": "2026-09-15",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215198",
+      "description": "오픈AI CEO 샘 알트먼이 2026년 내 IPO를 추진할 계획이 없다고 밝혔다. 기업가치 8,520억 달러의 세계 최고 AI 기업이 상장을 미루는 이유로 '안전성 확보'를 내세웠다.",
+      "image": "https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-15-ai-slowdown-semiconductor-stocks.md",
+      "title": "AI 속도조절론에 반도체주 직격탄 — 코스피 3% 급락, 무엇이 시장을 흔들었나",
+      "category": "경제·주식",
+      "date": "2026-09-15",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202609154646i",
+      "description": "앤트로픽·오픈AI·구글 딥마인드 CEO가 일제히 AI 속도 조절을 선언하며 반도체주가 폭락했다. 코스피는 전날 3.26% 급락, SK하이닉스 -7%, 삼성전자 -4%대를 기록했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",

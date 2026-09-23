@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-23-claude-crispr-enzyme-discovery.md",
+      "title": "AI가 과학자 없이 새 효소 시스템을 찾아냈다 — 950개 에이전트, 21시간 만에",
+      "category": "AI",
+      "date": "2026-09-23",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "description": "앤트로픽 생명과학팀이 클로드 AI를 이용해 CRISPR와 유사한 반복 서열 패턴을 가진 미지의 효소 시스템 ART를 자율 발견했다. 950개 에이전트가 20만 개 역전사효소를 분석해 3,500개 후보 중 20건을 선별해냈다.",
+      "image": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-23-claude-opus-5-5-launch.md",
+      "title": "클로드 Opus 5.5 출시 — 플래그십 AI, 40% 저렴·30% 빠르게 왔다",
+      "category": "AI",
+      "date": "2026-09-23",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "description": "앤트로픽이 9월 22일 클로드 Opus 5.5를 출시했다. 전작 대비 40% 비용 절감, 30% 속도 향상을 달성하면서도 코딩 Terminal-Bench 66.4%, 컴퓨터 사용 81.8%의 신기록을 세웠다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-23-anthropic-accenture-ai-evaluation.md",
+      "title": "AI 안전 검사관이 회사 안으로 들어간다 — 앤트로픽·액센추어 5년간 1조 4,000억 원 투자",
+      "category": "경제·주식",
+      "date": "2026-09-23",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "description": "앤트로픽과 액센추어가 AI 독립 평가를 위해 5년간 최소 10억 달러(약 1조 4,000억 원)를 공동 투자한다. 외부 평가자가 직원 수준의 접근 권한으로 AI 개발 전 과정을 들여다보는 '임베디드 평가' 모델이다.",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-23-anthropic-life-sciences-verification.md",
+      "title": "신약 개발에 AI를 풀어놨다 — 앤트로픽 생명과학 검증 프로그램의 의미",
+      "category": "AI",
+      "date": "2026-09-23",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "description": "앤트로픽이 9월 17일 생명과학 검증 프로그램(LSVP)을 출시해 제약·바이오 연구자들에게 기존에 차단됐던 AI 기능을 개방했다. 신약 개발·임상 연구·기초과학까지 AI가 직접 개입할 수 있는 새 장이 열렸다.",
+      "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",
@@ -42,7 +82,7 @@
     },
     {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개..."정부 요청으로 제한적 출시"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

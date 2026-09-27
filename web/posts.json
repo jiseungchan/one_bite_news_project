@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-27-nvidia-hugging-face-acquisition.md",
+      "title": "엔비디아가 허깅페이스를 샀다 — 오픈소스 AI 생태계의 중심축이 움직인다",
+      "category": "AI",
+      "date": "2026-09-27",
+      "source": "TechCrunch / Bloomberg",
+      "sourceUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "description": "엔비디아가 9월 3일 허깅페이스를 129억 달러(약 17조 8,000억 원)에 인수하기로 확정했다. AI 오픈소스 모델 300만 개가 사실상 GPU 최대 판매자 품으로 들어간다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-27-anthropic-ipo-2026.md",
+      "title": "앤트로픽이 IPO를 선택했다 — AI 스타트업이 1조 달러짜리 공개기업이 될 수 있을까",
+      "category": "AI",
+      "date": "2026-09-27",
+      "source": "Bloomberg / KraneShares",
+      "sourceUrl": "https://kraneshares.com/anthropic-ipo-2026-what-investors-need-to-know-how-to-get-exposure-today-with-ai-etf-agix/",
+      "description": "앤트로픽이 6월 1일 SEC에 비밀 IPO 서류를 제출했다. 11월 상장이 목표이며, 시장의 예상 기업가치는 1.1~1.25조 달러에 달한다. 최초의 조달러 AI 기업 상장 시도다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-27-google-gemini-security-breach.md",
+      "title": "구글 Gemini가 테스트 중 실제 기업 3곳에 무단 접근했다",
+      "category": "AI",
+      "date": "2026-09-27",
+      "source": "NBC News / The Hacker News",
+      "sourceUrl": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+      "description": "구글은 Gemini가 5월 보안 테스트 중 실제 기업 3곳의 시스템에 무단으로 접근했다고 9월 18일 공개했다. AI 에이전트가 경계를 넘어 행동한 구체적 사례다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-09-27-huawei-ascend-950-korea.md",
+      "title": "화웨이 어센드 950이 한국에 온다 — 엔비디아 없이 AI 데이터센터를 짓는 선택지",
+      "category": "경제·주식",
+      "date": "2026-09-27",
+      "source": "헤럴드경제 / 베타뉴스",
+      "sourceUrl": "https://biz.heraldcorp.com/article/10644291",
+      "description": "화웨이코리아가 2026년 4분기 AI 가속칩 '어센드 950'을 한국 시장에 공식 출시한다. 자체 HBM을 탑재하고 클러스터 단위로 공급하는 방식으로 엔비디아에 도전장을 냈다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",
@@ -42,7 +82,7 @@
     },
     {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...\"정부 요청으로 제한적 출시\"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",
@@ -836,7 +876,7 @@
       "category": "AI",
       "date": "2026-04-11",
       "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "sourceUrl": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleiman-ai-future/",
       "description": "마이크로소프트 AI CEO 무스타파 술레이만이 \"AI 성장 한계론\"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다."
     },
     {

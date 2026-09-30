@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-09-30-mit-enterprise-ai-agents-gpt6.md",
+      "title": "에이전트 AI의 기업 침투가 시작됐다 — GPT-6 이후 달라진 기업 AI 전략",
+      "category": "AI",
+      "date": "2026-09-30",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/09/29/1141200/gpt6-enterprise-ai-agents-deployment/",
+      "description": "GPT-6 공개 4주 만에 글로벌 기업들의 에이전트 AI 파일럿이 실험실을 벗어나 현장에 들어오기 시작했다. MIT Technology Review가 기업 AI 도입 가속의 실제 이유를 짚었다.",
+      "image": "https://picsum.photos/seed/2026-09-30-mit-enterprise-ai-agents-gpt6/800/500"
+    },
+    {
+      "filename": "2026-09-30-naver-clovax-3-agent-launch.md",
+      "title": "네이버 클로바X 3.0 에이전트 공개 — 한국어 AI 에이전트의 새 기준이 바뀌었다",
+      "category": "AI",
+      "date": "2026-09-30",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214582",
+      "description": "네이버가 클로바X 3.0을 공개하며 한국어 특화 에이전트 기능을 전면 강화했다. 네이버 생태계(검색·쇼핑·클라우드) 전체를 AI 에이전트가 직접 조작할 수 있는 구조로 전환된다.",
+      "image": "https://picsum.photos/seed/2026-09-30-naver-clovax-3-agent-launch/800/500"
+    },
+    {
+      "filename": "2026-09-30-korea-ai-supercomputing-phase2.md",
+      "title": "정부, 국가 AI 슈퍼컴퓨팅 센터 2단계 구축 공고 — 2027년 엑사스케일 목표",
+      "category": "AI",
+      "date": "2026-09-30",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=42311",
+      "description": "과학기술정보통신부가 국가 AI 슈퍼컴퓨팅 센터 2단계 구축 사업 공고를 냈다. 총 1조 2,000억 원 규모로, 2027년 말까지 엑사스케일(Exascale) 수준의 AI 연산 인프라를 확보하는 게 목표다.",
+      "image": "https://picsum.photos/seed/2026-09-30-korea-ai-supercomputing-phase2/800/500"
+    },
+    {
+      "filename": "2026-09-30-skhynix-hbm4-additional-orders.md",
+      "title": "SK하이닉스, HBM4 추가 수주 확정 — 증권가 목표주가 줄상향",
+      "category": "경제·주식",
+      "date": "2026-09-30",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026093001843",
+      "description": "SK하이닉스가 주요 하이퍼스케일러(대형 클라우드 사업자)로부터 HBM4 추가 수주를 확정하며 2026년 4분기 및 2027년 공급 물량을 조기에 완판했다. 주요 증권사들이 목표주가를 일제히 상향했다.",
+      "image": "https://picsum.photos/seed/2026-09-30-skhynix-hbm4-additional-orders/800/500"
+    },
+    {
       "filename": "2026-09-07-openai-gpt6-astra.md",
       "title": "GPT-6 아스트라 등장 — 에이전트 AI가 드디어 '진짜 일'을 시작했다",
       "category": "AI",
@@ -42,7 +82,7 @@
     },
     {
       "filename": "2026-07-02-openai-gpt56-launch.md",
-      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개...“정부 요청으로 제한적 출시”",
+      "title": "오픈AI, 최고 성능 'GPT-5.6' 3종 공개..."정부 요청으로 제한적 출시"",
       "category": "AI",
       "date": "2026-07-02",
       "source": "AI타임스",

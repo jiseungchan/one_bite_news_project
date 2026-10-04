@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-04-claude-sonnet-5-5-launch.md",
+      "title": "클로드 소네트 5.5 — 포켓몬 레드를 클리어한 AI의 다음 과제",
+      "category": "AI",
+      "date": "2026-10-04",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+      "description": "앤트로픽이 9월 28일 클로드 소네트 5.5를 출시했다. 전작 대비 30% 빠르고 태스크당 토큰을 30% 적게 쓰면서도, 코딩 벤치마크에서는 소네트 계열 최초로 오퍼스에 버금가는 수치를 찍었다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-04-claude-opus-5-5-enterprise-pricing.md",
+      "title": "클로드 오퍼스 5.5, 40% 가격 인하 — 엔터프라이즈 AI 비용의 판이 바뀐다",
+      "category": "경제·주식",
+      "date": "2026-10-04",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-opus-5-5",
+      "description": "앤트로픽이 클로드 오퍼스 5.5를 출시하며 전작 대비 40% 가격 인하를 단행했다. 캐시 읽기 60% 인하, 68만 줄 코드 마이그레이션을 하루 만에 처리하는 성능까지. 2년 사이 최상위 AI 모델 가격이 80% 하락했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-04-claude-ebola-response-who.md",
+      "title": "AI가 에볼라 최전선에 섰다 — 상황 보고서 하루에서 1시간으로",
+      "category": "AI",
+      "date": "2026-10-04",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/features/ebola-response",
+      "description": "WHO AFRO와 CEPI가 DRC 에볼라 대응에 클로드를 투입했다. 7,672건 확진, 63개 보건구역 확산 속에서 AI가 상황 보고서 작성 시간을 하루에서 1시간으로 단축했다.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-04-anthropic-accenture-embedded-evaluation.md",
+      "title": "AI 안전의 새 표준 — 앤트로픽, 1조 원 규모 '내부 감사관' 제도 도입",
+      "category": "AI",
+      "date": "2026-10-04",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "description": "앤트로픽이 엑센추어 계열사 Faculty와 파트너십을 맺어 AI 모델 개발 과정에 외부 평가자를 상주시키는 '임베디드 평가' 체계를 도입했다. 5년간 최소 10억 달러 투자, 직원 동등 내부 접근권이 핵심이다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
       "filename": "2026-10-02-anthropic-frontier-academy.md",
       "title": "앤트로픽, 1,380억 원 투자로 AI 전문 엔지니어 1만 명 키운다",
       "category": "AI",

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-05-claude-sonnet-5-5.md",
+      "title": "클로드 소네트 5.5 출시 — 오퍼스급 성능을 절반 가격에, 속도는 30% 빠르게",
+      "category": "AI",
+      "date": "2026-10-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/claude-sonnet-5-5",
+      "description": "앤트로픽이 9월 28일 클로드 소네트 5.5를 공개했다. 소네트 5 대비 속도 30% 향상, 비용 30% 절감을 달성하면서도 오퍼스 5.5에 근접하는 지식업무 성능을 보였다. 에픽게임즈·슬랙·젠데스크 등이 이미 적용 중이다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-05-claude-ebola-response.md",
+      "title": "AI가 에볼라와 싸우는 법 — 클로드가 WHO 보고서 작성 시간을 '하루'에서 '1시간'으로 줄였다",
+      "category": "AI",
+      "date": "2026-10-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/features/ebola-response",
+      "description": "콩고민주공화국 에볼라 대응에 클로드가 실전 투입됐다. WHO·CEPI·INRB와 협력해 상황 보고서 자동화, 바이러스 유전체 분석, 백신 연구 추적까지 — 속도가 생존율을 바꾸는 현장에서 AI의 역할이 달라지고 있다.",
+      "image": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-05-claude-shaped-science.md",
+      "title": "3개월에 논문 36편 — 18개 학문 분야를 가로지른 AI 협업 연구의 실험",
+      "category": "AI",
+      "date": "2026-10-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/research/claude-shaped-science",
+      "description": "하버드 물리학자 매슈 슈워츠가 클로드와 함께 3개월 동안 진화생물학·생태학·우주론·경제학 등 18개 분야에서 논문 36편을 완성했다. AI가 채울 수 있는 공간은 가장 어려운 문제가 아니라 아무도 가지 않은 공간이었다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-05-robot-automation-economics.md",
+      "title": "로봇은 미국 업무의 74%를 '기술적으로' 할 수 있다 — 하지만 비용이 40년을 가로막는다",
+      "category": "경제·주식",
+      "date": "2026-10-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "description": "앤트로픽 리서치팀이 발표한 로봇 자동화 전망 연구. 현재 로봇은 미국 전체 물리 업무의 74%를 수행할 능력이 있지만, 비용 경쟁력은 0.3%에 불과하다. 연 3% 가격 하락 추세라면 10% 경쟁력 도달에 40년이 걸린다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
       "filename": "2026-10-02-anthropic-frontier-academy.md",
       "title": "앤트로픽, 1,380억 원 투자로 AI 전문 엔지니어 1만 명 키운다",
       "category": "AI",

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-06-mit-ai-popularity-paradox.md",
+      "title": "AI를 싫어하는데 왜 못 끊을까 — 퓨 리서치가 밝힌 역설",
+      "category": "AI",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "description": "AI에 대한 대중의 감정은 빠르게 식어가고 있다. 하지만 사용자는 계속 늘고 있다. 미국 성인의 절반이 챗봇을 쓴다고 답했는데, 이는 2023년보다 두 배 이상 증가한 수치다.",
+      "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-06-reflection-ai-beam-open-source.md",
+      "title": "리플렉션 AI, 5010억 파라미터 'Beam' 공개 — 서구권 오픈소스가 딥시크에 도전장",
+      "category": "AI",
+      "date": "2026-10-06",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215987",
+      "description": "엔비디아가 투자한 리플렉션 AI가 오픈웨이트 모델 'Beam'을 공개했다. 501B 파라미터에 Apache 2.0 라이선스. 중국산 딥시크·Qwen에 맞서는 첫 미국산 대형 오픈소스 모델이다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-06-ms-meta-claude-usage-cut.md",
+      "title": "MS·메타, 클로드 사용 절반으로 줄였다 — 자체 AI로의 전환이 시작됐다",
+      "category": "AI",
+      "date": "2026-10-06",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215998",
+      "description": "마이크로소프트와 메타가 내부 직원들의 앤트로픽 클로드 사용을 대폭 줄이고 있다. 메타는 사용 인원이 6만→3만 명으로 절반이 됐고, 마이크로소프트는 월 한도를 10만→1만 달러로 낮췄다.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-06-samsung-q3-hbm4-kospi.md",
+      "title": "삼성전자 3분기 실적 D-3 — 영업익 100조 시대, HBM4가 열 수 있을까",
+      "category": "경제·주식",
+      "date": "2026-10-06",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20261006000043",
+      "description": "삼성전자 3분기 잠정실적이 8일 발표된다. 증권가는 영업이익 110조 원 이상을 전망하는데, 실현된다면 분기 기준 역대 최고치다. HBM4 본격 양산이 핵심 변수다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-10-05-claude-sonnet-5-5.md",
       "title": "클로드 소네트 5.5 출시 — 오퍼스급 성능을 절반 가격에, 속도는 30% 빠르게",
       "category": "AI",

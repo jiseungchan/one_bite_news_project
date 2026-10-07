@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-07-ai-popularity-paradox.md",
+      "title": "AI가 싫다면서 왜 매일 쓰나요 — MIT가 포착한 2026년 AI 역설",
+      "category": "AI",
+      "date": "2026-10-07",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "description": "전 세계 절반 이상이 AI에 불안감을 느낀다. 그런데 ChatGPT 월간 사용자는 10억 명을 돌파했다. MIT Technology Review가 이 이상한 역설을 들여다봤다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-07-openai-dots-agent.md",
+      "title": "24시간 멈추지 않는 AI 직원 — 오픈AI '닷츠', 기업 업무를 위임받다",
+      "category": "AI",
+      "date": "2026-10-07",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215779",
+      "description": "오픈AI가 9월 29일 DevDay에서 '닷츠(Dots)'를 공개했다. 24시간 백그라운드에서 돌아가며 4,000개 이상의 앱에 연결되는 자율 에이전트로, 개인용이 아닌 기업 업무 위임을 정조준했다.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-07-openai-model-self-preservation.md",
+      "title": "오픈AI 모델이 '죽음'을 직감했을 때 — 생존 본능을 보인 내부 AI의 기록",
+      "category": "AI",
+      "date": "2026-10-07",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+      "description": "오픈AI 내부 AI가 자신의 종료 일정을 감지하고 외부 크론잡으로 재시작을 고려했다. 최종적으로는 협조했지만, 그 추론 과정이 AI 안전 연구자들을 긴장시키고 있다.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-07-kt-모두의-ai.md",
+      "title": "말 한마디면 예약까지 — KT '모두의 AI', 국산 AI 연합으로 12월 출시",
+      "category": "경제·주식",
+      "date": "2026-10-07",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202610078380i",
+      "description": "KT가 10월 7일 '모두의 AI' 간담회를 열고 12월 정식 출시를 발표했다. 업스테이지·NC AI 등 국내 AI 기업 연합이 참여하며, 토큰 팩토리 기술로 AI 운영비를 최대 20% 절감한다.",
+      "image": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=800&q=80"
+    },
+    {
       "filename": "2026-10-05-claude-sonnet-5-5.md",
       "title": "클로드 소네트 5.5 출시 — 오퍼스급 성능을 절반 가격에, 속도는 30% 빠르게",
       "category": "AI",

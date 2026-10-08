@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-08-ai-datacenter-power-crisis.md",
+      "title": "AI 데이터센터가 미국 전력의 8%를 삼킨다 — 에너지 정치학이 AI 경쟁을 뒤흔들기 시작했다",
+      "category": "AI",
+      "date": "2026-10-08",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/06/1142103/ai-data-centers-electricity-demand-energy-politics/",
+      "description": "AI 데이터센터의 전력 소비가 미국 전체 전력의 8%에 근접하면서 에너지 인프라가 AI 경쟁의 핵심 변수로 부상했다. 새 원전 계약부터 석탄 발전소 수명 연장까지 — AI가 에너지 정책을 바꾸고 있다.",
+      "image": "https://picsum.photos/seed/2026-10-08-ai-datacenter-power-crisis/800/500"
+    },
+    {
+      "filename": "2026-10-08-korea-ai-safety-institute-launch.md",
+      "title": "한국 AI 안전연구소 공식 출범 — 초거대 AI 위험도 평가가 의무가 됐다",
+      "category": "AI",
+      "date": "2026-10-08",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214731",
+      "description": "과학기술정통부가 AI 안전연구소를 공식 출범시키며 초거대 AI(매개변수 100억 개 이상 언어 모델) 서비스에 대한 위험도 평가를 의무화했다. 국내 AI 기업 및 해외 AI 서비스 국내 운영자 모두 적용 대상이며, 2027년 1월부터 시행된다.",
+      "image": "https://picsum.photos/seed/2026-10-08-korea-ai-safety-institute-launch/800/500"
+    },
+    {
+      "filename": "2026-10-08-multiagent-coding-stanford.md",
+      "title": "AI 에이전트 10개가 팀을 이루면 — 복잡한 소프트웨어 버그 해결률 78% 달성",
+      "category": "AI",
+      "date": "2026-10-08",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41892",
+      "description": "스탠퍼드·MIT 공동 연구팀이 AI 에이전트 10개를 병렬로 투입한 멀티에이전트 코딩 시스템에서 SWE-bench 기준 버그 해결률 78.3%를 달성했다. 단일 에이전트(약 40%) 대비 두 배 수준이며, 인간 개발자(약 80%)에 근접했다.",
+      "image": "https://picsum.photos/seed/2026-10-08-multiagent-coding-stanford/800/500"
+    },
+    {
+      "filename": "2026-10-08-skhynix-q3-earnings-estimate.md",
+      "title": "SK하이닉스 3분기 영업이익 7조 원대 추정 — HBM4 출하량 전분기 대비 60% 증가 전망",
+      "category": "경제·주식",
+      "date": "2026-10-08",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/economy/article/2026100815601",
+      "description": "증권가가 SK하이닉스의 3분기(7~9월) 영업이익을 7.8조 원으로 추정했다. HBM4(5세대 고대역폭 메모리) 출하량이 전분기 대비 60% 증가한 것이 핵심 변수라는 분석이다. 잠정 실적 발표는 10월 중순 예정이며, 이 수치는 발표 전 증권가 추정치다.",
+      "image": "https://picsum.photos/seed/2026-10-08-skhynix-q3-earnings-estimate/800/500"
+    },
+    {
       "filename": "2026-10-05-claude-sonnet-5-5.md",
       "title": "클로드 소네트 5.5 출시 — 오퍼스급 성능을 절반 가격에, 속도는 30% 빠르게",
       "category": "AI",

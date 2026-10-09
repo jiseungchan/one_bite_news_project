@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-09-openai-revenue-miss-nasdaq.md",
+      "title": "오픈AI 매출 700억→500억 달러 수정에 나스닥 1.25% 급락",
+      "category": "경제·주식",
+      "date": "2026-10-09",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2634136",
+      "description": "파이낸셜타임스가 오픈AI의 연환산 매출이 예상보다 200억 달러 낮다고 보도하자 AI 기술주가 일제히 급락했다. 나스닥은 8월 이후 최대 낙폭을 기록했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-09-claude-haiku-5-5-price-cut.md",
+      "title": "API 비용 최대 90% 절감 — 앤트로픽 클로드 하이쿠 5.5 출시",
+      "category": "AI",
+      "date": "2026-10-09",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna/",
+      "description": "앤트로픽이 10월 7일 클로드 하이쿠 5.5를 출시했다. 이전 모델 대비 API 비용을 최대 90% 낮추면서 컨텍스트 윈도우는 200K에서 100만 토큰으로 5배 확대했다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-09-openai-safety-researchers-fired.md",
+      "title": "AI의 '생각'을 들여다보지 말라는 건가 — OpenAI 안전 연구원 3명 해고 파문",
+      "category": "AI",
+      "date": "2026-10-09",
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com/2026/10/08/tech/fired-open-ai-researchers-pushed-out",
+      "description": "AI 추론 과정 감시를 강조하던 OpenAI 안전 연구원 3명이 10월 1일 해고됐다. 이들은 이사회에 공개 서한을 보내 '모니터링 불가능한 AI 모델 개발을 멈춰달라'고 촉구했다.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-09-ai-popularity-paradox.md",
+      "title": "AI를 싫어하면서도 멈추지 못하는 이유 — 퓨리서치가 포착한 역설",
+      "category": "AI",
+      "date": "2026-10-09",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "description": "미국 성인의 절반이 AI 챗봇을 쓰면서도 40%는 AI가 사회에 해롭다고 답했다. 퓨리서치 5,119명 조사가 드러낸 이 역설의 정체는 무엇인가.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-10-05-claude-sonnet-5-5.md",
       "title": "클로드 소네트 5.5 출시 — 오퍼스급 성능을 절반 가격에, 속도는 30% 빠르게",
       "category": "AI",

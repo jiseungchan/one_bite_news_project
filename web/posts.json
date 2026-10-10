@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-10-mit-ai-autonomous-research-labs.md",
+      "title": "AI 에이전트가 실험실을 혼자 운영하기 시작했다 — 자율 과학 연구의 1년 성적표",
+      "category": "AI",
+      "date": "2026-10-10",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1141205/autonomous-ai-research-labs-one-year-review/",
+      "description": "사람 없이 AI가 실험을 설계·실행·분석하는 자율 과학 연구 시스템이 도입 1년을 맞았다. 영국 카디프 대학의 '로보사이언티스트 4' 사례를 중심으로 무엇이 가능해졌고 무엇이 아직 인간의 몫인지를 짚는다.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-10-naver-hyperclovax3-launch.md",
+      "title": "네이버, 하이퍼클로바 X 3 공개 — 한국어 AI 최초로 GPT-4o 수준 멀티모달 달성",
+      "category": "AI",
+      "date": "2026-10-10",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213890",
+      "description": "네이버가 차세대 대형언어모델 하이퍼클로바 X 3를 공개했다. 한국어 이해·생성 성능에서 GPT-4o와 동급이며, 이미지·표·문서를 함께 처리하는 멀티모달 기능이 처음으로 탑재됐다.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-10-eu-ai-act-korea-compliance.md",
+      "title": "EU AI법 고위험 시스템 규제 본격 시행 — 국내 기업 준비 실태 긴급 점검",
+      "category": "AI",
+      "date": "2026-10-10",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41520",
+      "description": "EU AI법(EU AI Act)의 고위험 AI 시스템 의무 조항이 10월부터 본격 적용된다. 과징금 상한은 전 세계 매출의 6%. 국내 기업 실태 조사 결과 준비 완료 기업은 절반에 못 미쳤다.",
+      "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-10-samsung-skhynix-q3-earnings.md",
+      "title": "삼성·SK하이닉스 3분기 어닝서프라이즈 — AI 메모리가 두 회사의 운명을 갈랐다",
+      "category": "경제·주식",
+      "date": "2026-10-10",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/finance/article/2026100912345",
+      "description": "삼성전자와 SK하이닉스가 나란히 3분기 어닝서프라이즈를 기록했다. SK하이닉스는 HBM4 독점 공급으로 영업이익률 67%를 달성했고, 삼성전자는 파운드리 적자가 줄며 반등 신호를 보냈다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-05-claude-sonnet-5-5.md",
       "title": "클로드 소네트 5.5 출시 — 오퍼스급 성능을 절반 가격에, 속도는 30% 빠르게",
       "category": "AI",

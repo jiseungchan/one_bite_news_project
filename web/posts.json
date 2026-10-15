@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-15-dead-startup-data-ai-training.md",
+      "title": "망한 스타트업의 유산, AI 훈련 데이터로 팔린다 — 개인정보 없는 '장기 이식' 시장",
+      "category": "AI",
+      "date": "2026-10-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "description": "AI 랩들이 폐업 스타트업의 슬랙 메시지, 이메일, 코드 아카이브를 구입해 훈련 데이터로 활용하기 시작했다. 구글은 파산한 항공사 스피릿 에어라인스의 데이터를 1,000만 달러에 인수했다.",
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-15-glm53-opensource-cyberattack-risk.md",
+      "title": "앤트로픽이 경고한 중국 오픈소스 AI의 위험 — GLM-5.3, 해킹 도구 전환 비용 단 550만 원",
+      "category": "AI",
+      "date": "2026-10-15",
+      "source": "아시아경제",
+      "sourceUrl": "https://view.asiae.co.kr/en/article/2026100116113597794",
+      "description": "앤트로픽 프런티어 레드팀이 중국 AI 랩 Z.ai의 GLM-5.3 오픈웨이트 모델이 심각한 사이버 공격 위협이 될 수 있다는 보고서를 발표했다. 안전 장치를 제거하는 데 드는 비용은 GPU 2,200시간, 약 4,400달러에 불과했다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-15-samsung-sds-fabrix-agent-platform.md",
+      "title": "삼성SDS, AI 에이전트 플랫폼 공공·금융으로 확장 — '패브릭스' 멀티에이전트 시대 본격화",
+      "category": "AI",
+      "date": "2026-10-15",
+      "source": "아시아경제",
+      "sourceUrl": "https://view.asiae.co.kr/en/article/2026062313455833960",
+      "description": "삼성SDS가 기업용 생성형 AI 플랫폼 '패브릭스(FabriX)'를 공공·금융 분야로 전면 확대한다. 이미 국내 정부 전자문서 시스템에 SaaS로 공급하고, 에이전트끼리 협업하는 멀티에이전트 오케스트레이션 기능이 올해 안에 출시될 예정이다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-15-skhynix-q3-2026-earnings-preview.md",
+      "title": "SK하이닉스 3분기 실적 발표 D-12 — 영업이익 74~77조 전망, 이익률 80% 도달하나",
+      "category": "경제·주식",
+      "date": "2026-10-15",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009500055",
+      "description": "SK하이닉스의 2026년 3분기 실적 발표가 10월 27일로 예정됐다. 증권가 컨센서스는 영업이익 74~77조원, 영업이익률 78% 수준이다. 2분기 사상 최대에서 다시 한번 기록 갱신이 유력하다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

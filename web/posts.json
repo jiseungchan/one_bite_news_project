@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-16-mit-robotics-reality-check.md",
+      "title": "로봇 AI가 세상을 바꾸겠지만, 당신의 일상은 아직 멀다",
+      "category": "AI",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "description": "엔비디아·테슬라 CEO들이 외치는 '로봇의 시대'와, 실제 연구실이 마주한 '70%의 벽' 사이의 간극. MIT가 2026년 로봇 AI 진보의 실체를 짚었다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-16-ai-math-breakthrough-security.md",
+      "title": "AI 수학 능력, 2년 만에 3%→35% — 과학 연구 가속과 암호 체계 위협이 동시에 온다",
+      "category": "AI",
+      "date": "2026-10-16",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216279",
+      "description": "학술 수학 문제 해결률이 2024년 2.8%에서 2026년 34.6%로 치솟았다. 이 속도가 의미하는 두 가지 — 과학 연구의 가속과 인터넷 보안의 균열.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-16-openai-gpt61-sol-launch.md",
+      "title": "GPT-6.1 Sol — 100만 토큰 컨텍스트, 소설 한 권 분량을 한 번에",
+      "category": "AI",
+      "date": "2026-10-16",
+      "source": "The Rundown AI",
+      "sourceUrl": "https://www.therundown.ai/tools/gpt-6-1-sol",
+      "description": "OpenAI가 9월 29일 DevDay에서 공개한 GPT-6.1 Sol은 최대 105만 토큰 컨텍스트 윈도우를 지원한다. 한 번의 API 요청으로 단편소설 한 권 분량 처리가 가능해졌다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-16-cxmt-korea-chip-shock.md",
+      "title": "중국 CXMT의 'D램 선언'에 韓 반도체주 7,000억 달러 증발 — 과장인가, 진짜 위협인가",
+      "category": "경제·주식",
+      "date": "2026-10-16",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202610131541233433",
+      "description": "중국 CXMT가 4F² DDR5 서버용 D램 개발을 선언한 후 삼성전자는 7~9%, SK하이닉스는 10~11% 급락했다. 글로벌 반도체 시가총액에서 7,000억 달러가 증발했다.",
+      "image": "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

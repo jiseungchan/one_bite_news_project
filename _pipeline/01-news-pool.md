@@ -1,33 +1,55 @@
 # 뉴스 풀
-수집일: 2026.05.12
-소스: MIT Technology Review + 인공지능신문 + AI타임스 + CNBC + Science Daily
+수집일: 2026-07-13
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-05-05 ~ 2026-05-12, 7일 이내)
+## 수집 기사 목록 (2026-07-06 ~ 2026-07-13, 7일 이내)
 
-| # | 제목 | 카테고리 | 출처 | 날짜 | URL |
-|---|------|---------|------|------|-----|
-| 1 | MIT Technology Review — AI 최신 기사 | AI | MIT Technology Review | 05.12 | https://www.technologyreview.com/topic/artificial-intelligence/feed/ |
-| 2 | 인공지능신문 — AI/테크 최신 기사 A | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 3 | 인공지능신문 — AI/테크 최신 기사 B | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 4 | CNBC / 경제 — 주식 영향도 높은 기사 | 경제·주식 | CNBC | 05.12 | https://www.cnbc.com/technology/ |
+### MIT Technology Review
 
-## 선택 기사 — 자동 선택 알고리즘 적용 (오늘 기준: 2026-05-12)
+| # | 제목 | 발행일 | URL |
+|---|------|--------|-----|
+| 1 | What Anthropic's latest AI discovery does—and doesn't—show | 2026-07-13 | https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ |
+| 2 | The Download: a donor conception cap and world models for AI | 2026-07-13 | https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/ |
+| 3 | Anthropic found a hidden space where Claude puzzles over concepts | 2026-07-09 | https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/ |
+| 4 | The Download: a nuclear landmark, and China eyes Nvidia chips | 2026-07-09 | https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/ |
+| 5 | EmTech AI 2026: The Rise of the AI Platform | 2026-07-08 | https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/ |
+| 6 | The Download: your stake in OpenAI, and the Treasury's AI warning | 2026-07-07 | https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/ |
 
-### 중복 방지 확인
-기발행 주제 (제외 대상):
-- anthropic (claude4, series-f) — 발행됨
-- meta (q1-earnings, ai-app-launch) — 발행됨
-- nvidia (agentiq) — 발행됨
-- skhynix (hbm4e-development) — 발행됨
-- microsoft (cloud-ai-earnings) — 발행됨
-- tsmc (arizona-fab2-delay) — 발행됨
-- openai (reasoning-hallucination) — 발행됨
+### AI타임스
 
-### 최종 선택 4건 (researcher-writer가 fetch 후 확정)
+| # | 제목 | 발행일 | URL |
+|---|------|--------|-----|
+| 1 | "최고 모델이 공짜"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유 | 2026-07-08 | https://www.aitimes.com/news/articleView.html?idxno=212534 |
+| 2 | AI의 숨은 청구서…데이터센터 밖에서 더 커지는 환경 비용 | 2026-07-06 | https://www.aitimes.com/news/articleView.html?idxno=212455 |
 
-| # | 카테고리 | 소스 우선순위 | 지침 |
-|---|---------|------------|------|
-| 1 | AI | MIT Tech Review → technologyreview.com/topic/artificial-intelligence/feed/ | 최신 1건. 403 시 Science Daily로 대체 |
-| 2 | AI | 인공지능신문 aitimes.kr/rss/allArticle.xml | 최신 AI 기사 1건 |
-| 3 | AI | AI타임스 aitimes.com/rss/allArticle.xml | 최신 AI 기사 1건. 403 시 인공지능신문 추가 기사 |
-| 4 | 경제·주식 | CNBC cnbc.com/technology → 한국경제 hankyung.com | 주식 영향도 높은 테크/AI 종목 관련 기사 |
+### 인공지능신문
+
+| # | 제목 | 발행일 | URL |
+|---|------|--------|-----|
+| 1 | 세계 1만5천 AI 석학들 서울 총 집결… ICML 2026 | 2026-07 | https://www.aitimes.kr/news/articleView.html?idxno=40833 |
+| 2 | 앤트로픽, 과학자 전용 AI 연구 플랫폼 '클로드 사이언스' 공개 | 2026-07 | https://www.aitimes.kr/news/articleView.html?idxno=40785 |
+
+### 한국경제
+
+| # | 제목 | 발행일 | URL |
+|---|------|--------|-----|
+| 1 | AI 메모리가 이끈 독주…삼성전자, 역대급 수익성으로 '슈퍼사이클' 증명 | 2026-07-07 | https://www.hankyung.com/article/202607079241i |
+| 2 | 한은, 반도체 고점론 달라진 태도 | 2026-07-13 | https://www.hankyung.com/article/2026071304697 |
+
+---
+
+## 선택 결과 (자동 선택 알고리즘)
+
+### 중복 방지 확인 (_posts/ 기발행 주제)
+- GPT-5.6 공개 → 이미 발행됨 (2026-07-02) → 제외
+- Claude Sonnet 5 → 이미 발행됨 (2026-07-02) → 제외
+- 화웨이 어센드, 빅테크 CAPEX, Meta AI 챗봇 해킹, OpenAI IPO, WWDC 2026, 젠슨황 방한 → 이미 발행됨 → 제외
+
+### 최종 선택 4건
+
+| # | 카테고리 | 제목 | 소스 | URL | 점수 |
+|---|---------|------|------|-----|------|
+| 1 | AI | What Anthropic's latest AI discovery does—and doesn't—show | MIT Technology Review | https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/ | 100점 |
+| 2 | AI | "최고 모델이 공짜"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유 | AI타임스 | https://www.aitimes.com/news/articleView.html?idxno=212534 | 85점 |
+| 3 | AI | 세계 1만5천 AI 석학들 서울 총 집결… ICML 2026 | 인공지능신문 | https://www.aitimes.kr/news/articleView.html?idxno=40833 | 70점 |
+| 4 | 경제·주식 | AI 메모리가 이끈 독주…삼성전자, 역대급 수익성으로 '슈퍼사이클' 증명 | 한국경제 | https://www.hankyung.com/article/202607079241i | 75점 |

@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-23-microsoft-mai-dxo-medical-ai.md",
+      "title": "AI가 의사를 2.3배 이겼다 — 마이크로소프트 MAI-DxO, Science에 게재된 날",
+      "category": "AI",
+      "date": "2026-10-23",
+      "source": "Technology.org",
+      "sourceUrl": "https://www.technology.org/2026/10/23/microsoft-mai-dxo-science-study-83-percent-diagnosis-doctors/",
+      "description": "마이크로소프트의 멀티에이전트 진단 AI 'MAI-DxO'가 Science에 게재됐다. NEJM 복잡 증례 304건에서 83.2% 정확도를 기록했다 — 교과서와 인터넷을 쓸 수 있는 일반의의 36.1%와 비교되는 숫자다.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-23-mobilint-lg-humanoid-npu-korea.md",
+      "title": "국산 NPU로 움직이는 휴머노이드 — 모빌린트·LG·노타가 만드는 K-로봇 AI칩",
+      "category": "AI",
+      "date": "2026-10-23",
+      "source": "TechTimes",
+      "sourceUrl": "https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm",
+      "description": "모빌린트가 정부 주도 K-온디바이스 AI 반도체 사업(2026~2030년, 약 8,002억 원)에서 휴머노이드 로봇 파트 주관 기업으로 선정됐다. LG전자가 로봇 시스템을, 모빌린트가 NPU를, 노타가 모델 경량화를 담당한다.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-23-mistral-large-4-multimodal-moe.md",
+      "title": "1조 파라미터·100만 토큰 — 미스트랄이 꺼낸 새 카드",
+      "category": "AI",
+      "date": "2026-10-23",
+      "source": "Mistral AI",
+      "sourceUrl": "https://docs.mistral.ai/models/mistral-large-4",
+      "description": "미스트랄이 1.05조 파라미터 규모의 멀티모달 MoE 모델 'Mistral Large 4'를 공개 프리뷰로 출시했다. 100만 토큰 컨텍스트 윈도우와 오픈웨이트를 내세우며 GPT-5·클로드와의 정면 경쟁을 선언했다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-23-korea-chip-exports-record-october.md",
+      "title": "반도체 수출 222% 폭등, KOSPI는 롤러코스터 — 10월 한국 시장이 보내는 신호",
+      "category": "경제·주식",
+      "date": "2026-10-23",
+      "source": "Korea Times",
+      "sourceUrl": "https://www.koreatimes.co.kr/economy/20261021/exports-double-in-1st-20-days-of-october-on-robust-chip-shipments",
+      "description": "한국 10월 1~20일 반도체 수출이 전년 대비 222.5% 폭증해 사상 최고치를 기록했다. KOSPI는 AI 지출 우려로 격렬하게 출렁였지만, 수출 데이터는 AI 칩 수요가 여전히 뜨겁다는 사실을 확인해줬다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

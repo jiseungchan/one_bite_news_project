@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-30-neural-network-interpretability-goodfire.md",
+      "title": "\"AI를 잘못 보고 있었다\" — 신경망 해석가능성의 폭발적 반전",
+      "category": "AI",
+      "date": "2026-10-30",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "description": "AI 스타트업 Goodfire의 연구자 닉 캐머라타가 2만6000단어 분량의 글로 신경망 해석 가능성에 대한 기존 통념을 뒤집었다. 뉴런 하나가 고양이와 자동차를 동시에 인식하는 이유가 '중첩(superposition)' 때문이 아니라 둘 다 공유하는 V자 패턴 때문이라는 주장이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-30-openai-chatgpt-pro-usage-doubled.md",
+      "title": "오픈AI, ChatGPT Pro 사용량 두 배로 늘렸다 — 계획했던 삭감 전면 철회",
+      "category": "AI",
+      "date": "2026-10-30",
+      "source": "gHacks Tech News",
+      "sourceUrl": "https://www.ghacks.net/2026/10/30/openai-doubles-chatgpt-pro-and-business-premium-usage-limits-after-dropping-a-planned-pro-200-cut/",
+      "description": "오픈AI가 10월 29일부터 ChatGPT Pro 전 요금제와 Business Premium의 기본 사용량을 두 배로 늘렸다. 당초 Pro 200 요금제의 사용량을 절반으로 줄이려 했다가 사용자 반발에 부딪혀 전면 철회하고, 오히려 전 구간 상향으로 방향을 틀었다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-30-microsoft-q3-2026-azure-48-percent.md",
+      "title": "마이크로소프트, 10분기 연속 사상 최대 매출 — 애저 클라우드 48% 성장",
+      "category": "AI",
+      "date": "2026-10-30",
+      "source": "TechPowerUp",
+      "sourceUrl": "https://www.techpowerup.com/354263/microsoft-posts-record-q3-2026-revenue-of-usd-92-3-billion",
+      "description": "마이크로소프트가 2026년 3분기(7~9월) 매출 923억달러를 기록해 10분기 연속 사상 최고치를 경신했다. 애저 클라우드는 전년 동기 대비 48% 성장하며 처음으로 절대 금액 기준 공식 공개됐다.",
+      "image": "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-30-kospi-alphabet-shock-semiconductor.md",
+      "title": "'알파벳 쇼크'에 코스피 3.48% 급락 — SK하이닉스 7%, 삼성전자 3% 하락",
+      "category": "경제·주식",
+      "date": "2026-10-30",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20261030000308",
+      "description": "알파벳(구글 모회사)의 3분기 실적 부진이 촉발한 AI 수익성 우려가 국내 반도체 대형주를 강타했다. 코스피는 206포인트 빠진 5730선으로 마감했고, 외국인은 하루 동안 1조6000억 원어치를 팔았다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

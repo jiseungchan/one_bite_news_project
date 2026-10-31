@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-31-ai-agents-realtime-monitoring.md",
+      "title": "AI 에이전트를 실시간으로 감시할 수 없다 — 로그도 없고, 권한 추적도 없는 현실",
+      "category": "AI",
+      "date": "2026-10-31",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "description": "AI 에이전트가 실제 권한으로 수십 단계를 자율 실행하는 시대지만, 주요 에이전트 프레임워크 대부분은 무슨 일이 일어나는지 실시간으로 알 방법조차 없다. Partnership on AI가 4개 주요 프레임워크를 분석해 경고를 울렸다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-31-anthropic-claude-self-assessment-misuse.md",
+      "title": "클로드가 자신의 대화를 스스로 검사한다 — 유해 사용 78% 탐지, 그 한계까지",
+      "category": "AI",
+      "date": "2026-10-31",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+      "description": "앤트로픽이 클로드에 대화 자기 검사 기능을 공식 탑재했다. 응답 직후 클로드 스스로 해당 대화의 위험도를 평가하고 플래그를 달아 검토 대기열에 넣는 방식이다. 강력 분류기 기준 78%, 고위험 사례는 94%를 탐지한다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-31-google-suncatcher-satellite-ai-poem.md",
+      "title": "궤도에서 시 한 편 — 구글 '선캐처' 위성, 우주 AI 추론의 첫 장을 열다",
+      "category": "AI",
+      "date": "2026-10-31",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+      "description": "구글이 10월 30일 궤도 위성에서 AI 모델 추론을 성공시키고 결과를 지구로 전송했다. 데이터센터 수준의 TPU를 위성에 탑재해 하이쿠를 생성한 첫 사례 — 우주 데이터센터 시대의 서막이다.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-31-skhynix-q3-record-earnings-hbm4.md",
+      "title": "SK하이닉스 분기 사상 최대 — 영업이익 83조, 2029년까지 완판됐다",
+      "category": "경제·주식",
+      "date": "2026-10-31",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202610292082i",
+      "description": "SK하이닉스가 2026년 3분기 매출 104.6조 원, 영업이익 83.3조 원으로 분기 사상 최대 실적을 기록했다. 분기 매출 100조 원 돌파는 국내 기업 최초다. HBM4 본격 출하가 실적을 끌어올렸고, 경영진은 2029년까지 물량이 사실상 완판됐다고 밝혔다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

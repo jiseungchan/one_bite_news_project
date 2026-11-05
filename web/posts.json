@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-05-anthropic-ipo-s1-sec-filing.md",
+      "title": "앤트로픽, SEC에 상장 신청서 제출 — 'ANT'로 나스닥 입성 도전",
+      "category": "경제·주식",
+      "date": "2026-11-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/s1-sec",
+      "description": "앤트로픽이 10월 26일 미국 증권거래위원회(SEC)에 S-1 등록 신청서를 제출했다. 나스닥 상장 티커는 'ANT', 주관사는 골드만삭스와 모건스탠리다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-05-claude-drug-development-progress.md",
+      "title": "클로드, 신약 개발에 뛰어들다 — 6개 제약사와 초기 성과 공개",
+      "category": "바이오",
+      "date": "2026-11-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/research/early-progress-drug-development",
+      "description": "앤트로픽이 6개 바이오·제약 파트너와 클로드를 활용한 신약 연구 초기 성과를 공개했다. 규제 문서 검토 시간 89% 단축, 항체 결합력 10배 향상 등 구체적 수치가 등장했다.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-05-ai-for-science-expands.md",
+      "title": "앤트로픽 'AI for Science', NSF·슬론·시몬스 재단으로 확장",
+      "category": "AI",
+      "date": "2026-11-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "description": "앤트로픽이 과학 연구자에게 무료 클로드 크레딧을 제공하는 'AI for Science' 프로그램을 확장했다. NSF, 슬론 재단, 시몬스 재단 등 20개 기관이 새로 합류했다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-05-anthropic-gsa-government-claude.md",
+      "title": "미국 정부, 클로드 40% 할인 계약 — 연방·주·지방 500개 기관에 확대",
+      "category": "AI",
+      "date": "2026-11-05",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "description": "앤트로픽이 미국 조달청(GSA)과 협약을 맺어 클로드 엔터프라이즈를 모든 정부 기관에 40% 할인 가격으로 공급한다. 연방 민간 기관 사용량은 1년간 20배 늘었다.",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",
@@ -525,7 +565,7 @@
       "date": "2026-05-03",
       "source": "AI타임스",
       "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=209970",
-      "description": "\"메타가 왓츠앱·인스타그램 내부 기능이 아닌 독립 앱 형태로 '메타 AI'를 글로벌 출시했다. 기존 소셜 플랫폼에 종속됐던 AI를 떼어내 OpenAI·구글과 정면 승부를 선언한 것이다.\""
+      "description": "\"메타가 왓츠앱·인스타그램 내부 기능이 아니라 독립 앱 형태로 '메타 AI'를 글로벌 출시했다. 기존 소셜 플랫폼에 종속됐던 AI를 떼어내 OpenAI·구글과 정면 승부를 선언한 것이다.\""
     },
     {
       "filename": "2026-05-02-openai-reasoning-hallucination.md",

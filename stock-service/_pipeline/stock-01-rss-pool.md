@@ -1,7 +1,7 @@
 # RSS 수집 결과
-수집일: 2026-11-05
+수집일: 2026-11-06
 수집 피드: 7개 / 15개 성공
-총 기사: 197건
+총 기사: 188건
 
 ## 피드별 수집 상태
 
@@ -12,215 +12,206 @@
 | 한국경제 경제 | https://www.hankyung.com/feed/economy | ❌ 접근 불가 |
 | 한국경제 산업 | https://www.hankyung.com/feed/industry | ❌ 접근 불가 |
 | 매일경제 경제 | https://www.mk.co.kr/rss/30000001/ | ✅ 50건 |
-| 매일경제 IT/과학 | https://www.mk.co.kr/rss/30100041/ | ✅ 16건 |
+| 매일경제 IT/과학 | https://www.mk.co.kr/rss/30100041/ | ✅ 11건 |
 | 매일경제 부동산/금융 | https://www.mk.co.kr/rss/40300001/ | ✅ 50건 |
-| 매일경제 증권/기업 | https://www.mk.co.kr/rss/50200011/ | ✅ 32건 |
+| 매일경제 증권/기업 | https://www.mk.co.kr/rss/50200011/ | ✅ 27건 |
 | Reuters Business | https://feeds.reuters.com/reuters/businessNews | ❌ 접근 불가 |
 | Reuters Technology | https://feeds.reuters.com/reuters/technologyNews | ❌ 접근 불가 |
 | Reuters Company | https://feeds.reuters.com/reuters/companyNews | ❌ 접근 불가 |
 | Bloomberg Markets | https://feeds.bloomberg.com/markets/news.rss | ✅ 20건 |
-| Bloomberg Technology | https://feeds.bloomberg.com/technology/news.rss | ✅ 18건 |
+| Bloomberg Technology | https://feeds.bloomberg.com/technology/news.rss | ✅ 16건 |
 | Bloomberg Energy | https://feeds.bloomberg.com/energy/news.rss | ❌ 접근 불가 |
-| Bloomberg Economics | https://feeds.bloomberg.com/economics/news.rss | ✅ 11건 |
+| Bloomberg Economics | https://feeds.bloomberg.com/economics/news.rss | ✅ 14건 |
 
 ## 기사 목록
 
 | # | 제목 | 출처 | 섹션 | 링크 |
 |---|------|------|------|------|
-| 1 | 김승배 한국부동산개발산업연구원장, 경상북도 총괄계획가 위촉 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198370 |
-| 2 | “재건축 아직 멀었으니 고치고 살아야죠”…목동 주민들 찾는다는 ‘이곳’ [현장] | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198369 |
-| 3 | “술 취해 식당 돌진하더니 줄행랑”…집에서 쿨쿨 자던 40대 덜미 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198366 |
-| 4 | 경기도, 부천 공장화재 계기 위험물 관리체계 전면 개선…소방관 처우개선 추진 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198365 |
-| 5 | 빅테크 회사채 쏟아졌지만…美 장기국채 찾는 수요도 견조 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/world/12198363 |
-| 6 | ‘평택 고덕 우미린 더 프리미어’ 6일 분양 돌입 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198362 |
-| 7 | 한화 ‘천무’ 유도미사일 폴란드서 직접 만든다… 첫 해외 공장 착공 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198360 |
-| 8 | “장병 발목 절단되는데 국방부 ‘모델워킹 특강’…제정신 아냐” 野의원 지적 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12198358 |
-| 9 | [신간]“예산은 왜 실패하는가”...내가 낸 세금 어떻게 쓰이나 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12198352 |
-| 10 | “생산적금융 활성화 위해 BDC 운용 규제 합리화를” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12198348 |
-| 11 | “장보려고 가입했는데 AI 사주까지”…일상 혜택 넓히는 쇼핑 멤버십 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12198345 |
-| 12 | 삼성·LG “中 프리미엄 PC방 잡아라… 게이밍 OLED 영토 확장 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198344 |
-| 13 | 터톤캐피탈, 골프존홀딩스 이사회에 “골프존카운티 매각 수용하라” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12198343 |
-| 14 | 민주 ‘신천지 결과’ 당내 신청자만 열람 허용…김민석 “질서 있는 방법” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12198340 |
-| 15 | 한지, 인류무형유산 등재 눈앞…북한 태권도 단독 등재 유력 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12198335 |
-| 16 | 수출입은행, 탄자니아 AI 교육시설 건립에 1.7억 달러 차관 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12198333 |
-| 17 | [속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12198332 |
-| 18 | 리튬 덜 팔고도 에너지 저장 매출 58% 늘린 앨버말 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/world/12198331 |
-| 19 | 대한뉴팜, 장애 예술인 3인 초청 문화예술 전시회 개최 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/it/12198324 |
-| 20 | [단독] ‘인도·아프리카·유럽’ 손잡은 글로벌 통신 사령탑…중국 입김 커지는데 한국은 뒷전 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12198323 |
-| 21 | CJ프레시웨이 3분기 영업익 29% ‘뚝’…온라인 식자재 유통은 2배 성장 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12198322 |
-| 22 | 아이폰 듀오 화면 결함 논란… 구매 대기자 40% “구매 의사 철회” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12198314 |
-| 23 | “진짜 힐링 유튜버였는데 안 믿겨”…자전거 세계일주 한국인, 볼리비아 도로서 참변 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198309 |
-| 24 | 유일한 고정 예능 끝내더니…5년 여정 마친 조세호가 전한 반가운 소식 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12198308 |
-| 25 | “의사도 미국 영주권 전략이 필요하다”…미국투자이민 등 다양한 선택지 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198307 |
-| 26 | 삼성, 국내 과학자에 1조2000억 ‘통큰 투자’…블랙홀 비밀까지 밝혀냈다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198305 |
-| 27 | K2 Safety, 겨울철 현장 맞춤형 방한 안전화 ‘K2-67BE’ 선보여 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198301 |
-| 28 | 오송역에서 국회세종의사당까지 BRT 한번에…2030년 운행 목표 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198296 |
-| 29 | 11월 서울 아파트 분양시장 기대 악화...분양전망지수 연중 최저치 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198294 |
-| 30 | [매부리라운지] 뒤늦게 HUG가 추가 이주비 대출 보증 뛰어든 이유 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198289 |
-| 31 | 한국콜마 노화 원인 정밀타격 신소재, 국가신기술로 지정 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198288 |
-| 32 | ‘허벅허벅 인천’을 아시나요…한·중 바닷길 따라 자전거 라이딩 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12198286 |
-| 33 | ‘자전거 세계일주’ 유튜버, 볼리비아서 뺑소니 사망…향년 33세 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198283 |
-| 34 | 엄마 닮았는데 키는 더 크다…‘23세 결혼’ 이요원, 美명문대 첫째딸 공개 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12198276 |
-| 35 | 지병 있다며 구속 안 한 60대 스토킹범…전자발찌 종료 2주만에 전 연인 살해 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198273 |
-| 36 | 판결은 정치권이 원하는 대로?…사법부 감시와 길들이기 사이 [기자24시] | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/world/12198272 |
-| 37 | “쇠락하던 지방 모텔, SNS 핫플로 탈바꿈 시켰죠” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198270 |
-| 38 | 태권도 관장, 초등학생 원생 머리 휴대폰으로 ‘퍽퍽’…“단순 훈육한 것” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198269 |
-| 39 | “이거 몰랐다면 3500만원 날릴 뻔”…동일 사고도 각각 보장하는 ‘이 보험’ | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12198268 |
-| 40 | 전남개발공사 돈으로 빚 갚나…광주도시공사 “그럴 일 없다” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198267 |
-| 41 | [속보] 강북도 집값 열기 주춤…양천·성북 등 오름폭 줄었다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12198261 |
-| 42 | 청년 창업 지원 나선 은행권…KB국민은행 1인당 최대 3억원 대출상품 출시 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12198266 |
-| 43 | 신정훈, 발전 5사 통합법안 발의…에너지 주권 강화 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12198265 |
-| 44 | 청약 경쟁률 상위 30곳 중 29곳 ‘학세권’…11월 신규 분양 이어져 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198262 |
-| 45 | 속초경찰, 양미리·도루묵 축제 안전관리 강화 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12198260 |
-| 46 | “돈 만져보기도 전에 부담금 내라니”…전국 재건축 조합들, 재초환 폐지 건의 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12198259 |
-| 47 | 3분기 호실적 카카오···AI 고도화 ‘날개’ 단다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12198257 |
-| 48 | “6개 질문 답하면 AI 솔루션 추천”…KT, ‘AX 비즈 포털’ 공개 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/it/12198254 |
-| 49 | 한컴이노스트림, 일본 합작법인 설립…내년 인증 규제 개편 겨냥 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/it/12198253 |
-| 50 | “KTX 달릴 때 통신 끊김 줄인다”…KT, 삼성전자와 AI 기술 실증 나서 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/it/12198252 |
-| 51 | 수출입은행, 탄자니아 AI 교육시설 건립에 1.7억 달러 차관 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198333 |
-| 52 | “이거 몰랐다면 3500만원 날릴 뻔”…동일 사고도 각각 보장하는 ‘이 보험’ | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198268 |
-| 53 | [속보] 강북도 집값 열기 주춤…양천·성북 등 오름폭 줄었다 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198261 |
-| 54 | 청년 창업 지원 나선 은행권…KB국민은행 1인당 최대 3억원 대출상품 출시 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198266 |
-| 55 | 금융위, 망분리 규제 전면해제 추진…“AI는 AI로 막는다” | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198214 |
-| 56 | 광군제·블프 코앞인데 해외직구 할인 얼마나 받을까…수수료·적립 한도가 변수 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198160 |
-| 57 | 증시 조정장에 방카슈랑스 ‘뭉칫돈’…한달새 3조원 넘게 팔려 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198059 |
-| 58 | 저축은행 예금 100조원 그대로인데…손님이 바뀌고 있다 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198056 |
-| 59 | “성인엔 푼돈이지만 10대엔 도박 신호”…케이뱅크, AI로 청소년 이상거래 잡아낸다 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198048 |
-| 60 | 월급도, 아파트도 비슷한데 … 순자산 1억 차이 ‘이것’에 갈렸다 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12196485 |
-| 61 | “나도 이미 털렸겠는데”…파악된 유출 정보 47만건·10억원 규모 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12198020 |
-| 62 | “복수국적이 벼슬?” 해외 저택 살아도 기초연금 ‘따박따박’…수급자 급증 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12197871 |
-| 63 | [속보] 반도체 호황…9월 경상수지 614억6000만달러 흑자, 역대 1위 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12197749 |
-| 64 | [속보] 반도체 수출 폭증에 경상흑자 첫 600억달러 돌파…사상 최대 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12197693 |
-| 65 | 아이 카드서 새벽 소액결제 반복된다면…AI “불법도박 충전중입니다” | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/society/12197501 |
-| 66 | 민주당, 말 꺼내고 벌써 세 번 미뤘다…김민석, 코인과세 유예 제안 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12197430 |
-| 67 | 김승배 한국부동산개발산업연구원장, 경상북도 총괄계획가 위촉 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198370 |
-| 68 | “술 취해 식당 돌진하더니 줄행랑”…집에서 쿨쿨 자던 40대 덜미 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198366 |
-| 69 | 경기도, 부천 공장화재 계기 위험물 관리체계 전면 개선…소방관 처우개선 추진 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198365 |
-| 70 | 빅테크 회사채 쏟아졌지만…美 장기국채 찾는 수요도 견조 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12198363 |
-| 71 | ‘평택 고덕 우미린 더 프리미어’ 6일 분양 돌입 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198362 |
-| 72 | 한화 ‘천무’ 유도미사일 폴란드서 직접 만든다… 첫 해외 공장 착공 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198360 |
-| 73 | “생산적금융 활성화 위해 BDC 운용 규제 합리화를” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12198348 |
-| 74 | 삼성·LG “中 프리미엄 PC방 잡아라… 게이밍 OLED 영토 확장 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198344 |
-| 75 | 터톤캐피탈, 골프존홀딩스 이사회에 “골프존카운티 매각 수용하라” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12198343 |
-| 76 | [속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198341 |
-| 77 | 한지, 인류무형유산 등재 눈앞…북한 태권도 단독 등재 유력 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/culture/12198335 |
-| 78 | 수출입은행, 탄자니아 AI 교육시설 건립에 1.7억 달러 차관 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198333 |
-| 79 | [속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12198332 |
-| 80 | 리튬 덜 팔고도 에너지 저장 매출 58% 늘린 앨버말 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12198331 |
-| 81 | [단독] ‘인도·아프리카·유럽’ 손잡은 글로벌 통신 사령탑…중국 입김 커지는데 한국은 뒷전 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12198323 |
-| 82 | NewJeans’ ETA hits 500mn streams on Spotify | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/english/12198316 |
-| 83 | 아이폰 듀오 화면 결함 논란… 구매 대기자 40% “구매 의사 철회” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12198314 |
-| 84 | “진짜 힐링 유튜버였는데 안 믿겨”…자전거 세계일주 한국인, 볼리비아 도로서 참변 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198309 |
-| 85 | “의사도 미국 영주권 전략이 필요하다”…미국투자이민 등 다양한 선택지 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198307 |
-| 86 | 삼성, 국내 과학자에 1조2000억 ‘통큰 투자’…블랙홀 비밀까지 밝혀냈다 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198305 |
-| 87 | 실적은 웃었지만...원화 강세에 목표주가 급락 ‘현백’ [오늘, 이 종목] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198304 |
-| 88 | K2 Safety, 겨울철 현장 맞춤형 방한 안전화 ‘K2-67BE’ 선보여 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198301 |
-| 89 | 오송역에서 국회세종의사당까지 BRT 한번에…2030년 운행 목표 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198296 |
-| 90 | 11월 서울 아파트 분양시장 기대 악화...분양전망지수 연중 최저치 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198294 |
-| 91 | 단기 부진일뿐 방향성은 여전....“한화솔루션 4만원” [오늘, 이 종목] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198293 |
-| 92 | [매부리라운지] 뒤늦게 HUG가 추가 이주비 대출 보증 뛰어든 이유 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198289 |
-| 93 | 한국콜마 노화 원인 정밀타격 신소재, 국가신기술로 지정 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198288 |
-| 94 | ‘허벅허벅 인천’을 아시나요…한·중 바닷길 따라 자전거 라이딩 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/culture/12198286 |
-| 95 | ‘자전거 세계일주’ 유튜버, 볼리비아서 뺑소니 사망…향년 33세 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198283 |
-| 96 | 지병 있다며 구속 안 한 60대 스토킹범…전자발찌 종료 2주만에 전 연인 살해 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198273 |
-| 97 | 판결은 정치권이 원하는 대로?…사법부 감시와 길들이기 사이 [기자24시] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12198272 |
-| 98 | “쇠락하던 지방 모텔, SNS 핫플로 탈바꿈 시켰죠” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198270 |
-| 99 | 태권도 관장, 초등학생 원생 머리 휴대폰으로 ‘퍽퍽’…“단순 훈육한 것” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198269 |
-| 100 | “이거 몰랐다면 3500만원 날릴 뻔”…동일 사고도 각각 보장하는 ‘이 보험’ | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198268 |
-| 101 | 전남개발공사 돈으로 빚 갚나…광주도시공사 “그럴 일 없다” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198267 |
-| 102 | [속보] 강북도 집값 열기 주춤…양천·성북 등 오름폭 줄었다 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198261 |
-| 103 | 청년 창업 지원 나선 은행권…KB국민은행 1인당 최대 3억원 대출상품 출시 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198266 |
-| 104 | “애매하면 일단 KB금융”…목표가 20.5만원 [오늘, 이 종목] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198263 |
-| 105 | 청약 경쟁률 상위 30곳 중 29곳 ‘학세권’…11월 신규 분양 이어져 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198262 |
-| 106 | 속초경찰, 양미리·도루묵 축제 안전관리 강화 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198260 |
-| 107 | “돈 만져보기도 전에 부담금 내라니”…전국 재건축 조합들, 재초환 폐지 건의 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12198259 |
-| 108 | 3분기 호실적 카카오···AI 고도화 ‘날개’ 단다 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198257 |
-| 109 | 전자발찌 풀리자마자 기다렸다는 듯…스토킹 전력 60대, 전 연인 찾아가 살해 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198250 |
-| 110 | “빗물 재활용한 생태 놀이터”… 삼성물산, IFLA 글로벌 조경 우수상 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198248 |
-| 111 | 4살 여자아이, 학원버스에 3시간 갇혀…부모에겐 “등원 안 했다” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12198245 |
-| 112 | 오세훈 “국가유산의 가장 큰 적은 국가유산청…22년째 삽도 못 떠” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/politics/12198242 |
-| 113 | [속보] 李대통령 지지율 40.6%…20대 12.7%p ‘급등’ [미디어토마토] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12198233 |
-| 114 | “아이 6살 됐다고 카시트 빼셨나요?”…日, 초등생도 의무화 추진 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12198222 |
-| 115 | 금융위, 망분리 규제 전면해제 추진…“AI는 AI로 막는다” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12198214 |
-| 116 | 美민주당 압승에 반도체 충격 … “악재 감안해도 지금은 싼 구간” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12198208 |
-| 117 | “생산적금융 활성화 위해 BDC 운용 규제 합리화를” | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198348 |
-| 118 | 터톤캐피탈, 골프존홀딩스 이사회에 “골프존카운티 매각 수용하라” | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198343 |
-| 119 | [속보] 급락장에 코스피 이어 코스닥도 매도 사이드카 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198332 |
-| 120 | [단독] ‘인도·아프리카·유럽’ 손잡은 글로벌 통신 사령탑…중국 입김 커지는데 한국은 뒷전 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198323 |
-| 121 | 아이폰 듀오 화면 결함 논란… 구매 대기자 40% “구매 의사 철회” | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198314 |
-| 122 | 美민주당 압승에 반도체 충격 … “악재 감안해도 지금은 싼 구간” | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198208 |
-| 123 | ‘피터 틸’ 설립 크레센도EP, 1조3000억 목표 4호 블라인드펀드 1차 클로징 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198172 |
-| 124 | 고점 대비 반토막 난 삼전닉스…내년 실적 믿고 지금 사도 될까 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198148 |
-| 125 | “현대차 무슨 일 있습니까”…美 민주당 승리에 ‘친환경차’ 기대감 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198144 |
-| 126 | SK하이닉스 급락에 줍줍…삼바는 팔았다 [주식 초고수는 지금] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198142 |
-| 127 | “현대백화점, 지누스 적자 축소에 위안”…목표가↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198097 |
-| 128 | 나노실리칸첨단소재, 차세대 정품 인증 플랫폼 ‘베릭’ 출시 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198096 |
-| 129 | “의회 없어도 돼” … 중간선거 참패한 트럼프 ‘마지막 한 방’은? | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198095 |
-| 130 | [속보] 코스피 4%대 급락…매도 사이드카 발동 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198091 |
-| 131 | [MK시그널] 에버포스 매도신호 포착, 수익률 68% 달성 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198082 |
-| 132 | 에브리봇, 中 DDT와 ‘자율주행 4족 보행 로봇’ 공동개발 및 상용화 계약 체결 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198063 |
-| 133 | 효성티앤씨, 자원순환 ‘리젠 되돌림 캠페인’ 시민 참여로 확장 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198046 |
-| 134 | 공제회·KIC 노조, 서울시 면담… 지방이전 우려 전달 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198040 |
-| 135 | 미 데이터센터 규제 우려에 코스피 하락 출발…삼전닉스 3~6%대 급락 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198029 |
-| 136 | [MK 골든크로스 돌파종목 : 대웅(003090) & 하림지주(003380)] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197955 |
-| 137 | [MK시그널] 파마리서치, PDRN/PN 기반 재생의학 기술력과 해외 시장 성장 모멘텀 등에 상승률 4.36% 기록 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197950 |
-| 138 | “실망스럽지만 이게 바닥”…휴젤 목표가 낮췄지만 ‘매수’ 유지한 이유 [오늘 나온 보고서] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197913 |
-| 139 | “GS리테일, 적자 사업 정리 효과”…목표가↑ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197885 |
-| 140 | 민주당 선거 압승에 반도체 급락 왜? | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197876 |
-| 141 | 하나증권 “에스엠, SMTR25 데뷔를 기다려야”…목표가 ↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197869 |
-| 142 | 버넥트, 경영권 매각설 부인… “사실무근, 실적 개선에 집중” | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197845 |
-| 143 | 뉴트리·애경바이오팜, 고순도 EPA ‘K-오메가3’ 전략적 협약 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197835 |
-| 144 | “SK텔레콤, AI 데이터센터 사업 확인 필요”…목표가 ↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197782 |
-| 145 | 편의 기능이 공격 통로로…바이낸스 해킹에 악용된 이더리움 지갑 업그레이드[엠블록레터] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197610 |
-| 146 | “트럼프가 코스피 악재였네” 귀신같이 ‘다말올’…찐수혜주 따로 있다 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197497 |
-| 147 | [속보] 미국 중간선거 끝나자 다우지수 3% 급등…18개월만에 최대폭 상승 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197447 |
-| 148 | 8천피 4천피 둘다 적정가입니다…‘모 아니면 도 증시’ 돈버는 전략은 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12197434 |
-| 149 | Marriott Bets on Asia as Hotel and Travel Demand Grows | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-05/marriott-bets-on-asia-as-hotel-and-travel-demand-grows-video |
-| 150 | Indonesia Faces Test in First Dollar Bond Since MSCI Threat | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/indonesia-kicks-off-first-dollar-bond-sale-since-msci-fallout |
-| 151 | Chinese Renewables Stocks Extend Surge After US Midterms | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep |
-| 152 | Post-Midterm Rotation Hits Chips, Boosts China: Markets Wrap | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates |
-| 153 | India Stocks, Bonds Surge as Oil Plunge Eases Inflation Risks | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks |
-| 154 | France Braces for Marches and Strikes Amid Stalled Budget | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/france-braces-for-marches-and-strikes-amid-stalled-budget |
-| 155 | The Race to Dominate Space | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-05/the-race-to-dominate-space-video |
-| 156 | From Bike Parts Salesman to Telecom Tycoon | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-05/sunil-mittal-on-the-battle-for-india-s-telecom-market-video |
-| 157 | Asian Chip Stocks Slide, Oil Plunges After US Midterms | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-05/the-asia-trade-11-5-2026-video |
-| 158 | Wheat Climbs as Weak Russian Export Outlook Fans Supply Concerns | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/wheat-climbs-as-weak-russian-export-outlook-fans-supply-concerns |
-| 159 | Gold Extends Rebound Above $4,100 as Dollar and Yields Decline | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result |
-| 160 | China Bank Funding Costs Hit Record Low on PBOC Rate Shift | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/china-bank-funding-costs-hit-record-low-on-pboc-rate-shift |
-| 161 | Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai |
-| 162 | Deborah Elms: Global Trade Is Being Reshaped at Higher Cost | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-05/deborah-elms-on-trade-reshuffling-and-rising-costs-video |
-| 163 | Japan’s 10-Year Bond Auction Sees Softer Demand as Yields Drop | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/japan-s-10-year-bond-sale-demand-in-line-with-12-month-average |
-| 164 | Treasuries Gain as US Vote Fuels Hopes for Curbing Bond Supply | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/treasuries-gain-as-us-vote-fuels-hopes-for-curbing-bond-supply |
-| 165 | Latest Oil Market News and Analysis for Nov. 5 | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-04/latest-oil-market-news-and-analysis-for-nov-5 |
-| 166 | Philippine October Inflation Accelerates 7.8%, Close to Four-Year High | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/philippine-october-inflation-accelerates-7-8-close-to-four-year-high |
-| 167 | Hong Kong Jails Activist Joshua Wong for 10 Years | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-05/hong-kong-jails-activist-joshua-wong-for-10-years-video |
-| 168 | Australia Chain David Jones Collapses After Almost 200 Years | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years |
-| 169 | Safaricom Grows Profit 36% as Ethiopia Unit’s Losses Narrow | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/safaricom-grows-profit-36-as-ethiopia-business-losses-narrow |
-| 170 | China Blocks SoftBank Acquisition of ABB Robot Unit, FT Says | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit |
-| 171 | Billionaire Mittal’s Satellite Ambition Pitches OneWeb Against Musk’s Starlink | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink |
-| 172 | Toyota Sets Up Robot Unit as Carmakers Push New Technology | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/toyota-sets-up-robot-unit-as-carmakers-push-new-technology |
-| 173 | Nextdc Shares Surge After Rival Data Center Firms Seek Stake | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake |
-| 174 | South Korea’s Current Account Surplus Hits Record on Chip Boom | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom |
-| 175 | Months-Old Chip Startup Tenspresso in Talks for $500 Million Valuation | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/months-old-chip-startup-tenspresso-in-talks-for-500-million-valuation |
-| 176 | Arm Fails to Impress Investors With AI-Fueled Sales Forecast | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/arm-forecast-meets-estimates-after-data-center-push-pays-off |
-| 177 | Qualcomm Slides After Supply Costs Take a Bite Out of Profit | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump |
-| 178 | Isomorphic Labs in Talks for About $5 Billion in Funding | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/isomorphic-labs-in-talks-for-about-5-billion-in-funding |
-| 179 | ScottsMiracle-Gro CEO on Earnings Beat, Growth Outlook | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-04/scottsmiracle-gro-ceo-on-earnings-beat-growth-outlook-video |
-| 180 | John Chambers Makes the Case for AI, Calling It a Win for Society | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-04/john-chambers-backs-ai-calling-it-a-win-for-society-video |
-| 181 | Arm's Results Are 'Perfectly Fine,' CFRA's Zino Says | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-04/arm-s-results-perfectly-fine-cfra-s-zino-says-video |
-| 182 | MercadoLibre Shares Drop As Investments Weigh on Profit | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/mercadolibre-results-meet-estimates-as-fintech-e-commerce-grow |
-| 183 | Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video |
-| 184 | Snap Declines After Daily User Growth Misses Estimates | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/snap-declines-after-daily-user-growth-falls-short-of-estimates |
-| 185 | Big Tech Rallies as Election Results Reshape AI Spending Outlook ｜ Closing Bell | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-04/big-tech-rallies-on-ai-outlook-closing-bell-video |
-| 186 | Goldman, Apollo in Talks to Sell SpaceX’s $40 Billion AI Deal | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-04/goldman-apollo-in-talks-to-sell-spacex-s-40-billion-ai-deal |
-| 187 | Indonesia’s GDP Growth Jumps to 5.5%, Defying Market Slump | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/indonesia-s-gdp-grows-5-47-beating-estimates-in-third-quarter |
-| 188 | Czechs Set for Second Rate Hike This Year as Price Risks Persist | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/czechs-set-for-second-rate-hike-this-year-as-price-risks-persist |
-| 189 | China’s Vice Premier Pushes Back on Trade Barbs at Import Fair | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/china-s-vice-premier-pushes-back-on-trade-barbs-at-import-fair |
-| 190 | Yardeni Sees No Free Fall in AI Capital Spending | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/videos/2026-11-05/yardeni-sees-no-free-fall-in-ai-capital-spending-video |
-| 191 | Chinese LGFV Seeks to Reassure Creditors After Huafa Selloff | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/chinese-lgfv-seeks-to-reassure-creditors-after-huafa-selloff |
-| 192 | IFC’s $22 Billion Africa Push Runs Up Against Shallow Markets | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/ifc-s-22-billion-africa-push-runs-up-against-shallow-markets |
-| 193 | Australia’s Surplus Heads for Decade-Low on Chip, Energy Imports | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/australia-s-surplus-heads-for-decade-low-on-chip-energy-imports |
-| 194 | RBA’s Aggressive Hiking Campaign All-But Over as Tensions Emerge | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-04/rba-s-aggressive-hiking-campaign-all-but-over-as-tensions-emerge |
-| 195 | Brazil Holds Rates Steady After Election Blurred Policy Outlook | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-04/brazil-holds-key-rate-steady-at-13-75-after-lula-s-election-win |
-| 196 | Trump Tariffs, Midterm Losses Leave Canada’s Carney With Tough Deal Choice | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-04/trump-tariffs-midterm-losses-leave-canada-s-carney-with-tough-deal-choice |
-| 197 | Paraguay Names New Central Banker After Lender Is Taken Over | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-04/paraguay-names-new-central-banker-after-lender-is-taken-over |
+| 1 | [Style] 맑고 촉촉한 입체감 살리기…Pure & Glowing Skin | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200445 |
+| 2 | 오늘부터 무려 1500억원 태운다…카카오가 자사주 조기 소각하는 이유 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200442 |
+| 3 | 무협, 日 경제동우회와 AI 시대 한일 경협 논의 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200443 |
+| 4 | 오세훈 “재정 놀부 정권”…국힘도 “미래파탄기금” 협공 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12200440 |
+| 5 | 램리서치, 김태원 신임 한국법인 총괄 대표이사 선임 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200439 |
+| 6 | 부산인터넷방송국, AI로 선박 부품 중복 발주 줄인다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200437 |
+| 7 | IBK투자증권, 달러·엔화 투자 문 넓힌다…외화 신탁 3종 출시 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200434 |
+| 8 | “계약금 만으로 내 집 마련”…삼환기업, ‘화서역 호수공원 아너스빌’ 공급 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12200433 |
+| 9 | [Health Recipe] 자신만 아는 고통, 이명…이명과 함께 살아가기 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200432 |
+| 10 | “한 푼 한 푼 아끼며 살기 지쳤다”…거리로 나온 60만명에 장갑차 동원한 佛 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/world/12200430 |
+| 11 | 캣츠아이, 미국 공연 줄줄이 연기한 이유…“메간, 뇌진탕 진단받아” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12200429 |
+| 12 | [Tour List] 바다가 차려낸 가을 밥상…목포-고흥-사천 남해안 가을맛 기행 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12200428 |
+| 13 | 워커힐 호텔, CJ온스타일서 첫 리빙 컬렉션 선보인다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200425 |
+| 14 | 경기 남부 아파트값 질주 속...시니어주택·지분적립형 등 신규 분양 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12200419 |
+| 15 | 산림청, 재선충 방제약제 공급 체계 개선 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200418 |
+| 16 | 현대로템 ‘통 큰 상생’… 1500억 펀드에 국산화 성과 나눴다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200417 |
+| 17 | 데이터센터 전력 불안 원인 찾아낸 켄텍 학부생들…한전 발명기술혁신대전 동상 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200416 |
+| 18 | 음식 배달기사 뒤따라 ‘불쑥’ 쳐들어온 전 남친…자해협박 30대 남성 체포 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200415 |
+| 19 | “고객이 다시 살렸다”…버거업계에 부는 ‘레트로’ 바람 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200414 |
+| 20 | 美 중간선거 후에도 동맹 압박 지속…외교안보 원로들 “한미 신뢰 회복 시급” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12200413 |
+| 21 | 기아, 광주에 2029년까지 3조 투자…전동화·AI 생산체계 구축 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12200412 |
+| 22 | 백화점 덕분에…롯데쇼핑, 3분기 영업익 34% 급증 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200410 |
+| 23 | 더베이지, 쇼핑앱 출시 이어 ‘라이브 다시 보기’ 도입… 복합 커머스 박차 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200405 |
+| 24 | 민간인 여성에 뚫린 ‘최전방’ GOP 철책…성일종 “이게 이재명정부 안보” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12200403 |
+| 25 | “암모니아선 4척 또 수주”… HD한국조선해양, 연 목표 91% 달성 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200400 |
+| 26 | “20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’ | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12200391 |
+| 27 | ‘소년범 논란’ 조진웅의 ‘시그널2’, 12월 편성 강행…“문제 옹호 아냐” | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12200388 |
+| 28 | “왜 서울과 같이 묶나”...정부 ‘지방우대지수’ 추진에 수도권 반발 확산 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12200387 |
+| 29 | “우리도 원전!” 러시아 손잡은 베트남…서방 제재에 ‘발목’ | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/world/12200385 |
+| 30 | “코스피 폭락 와중에 이건 10% 뛰었네”…급락장 거슬러 오른 종목은 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200384 |
+| 31 | 의료진은 당나귀로, 홍역 백신은 낙타로…수단 산골 찾은 국경없는의사회 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/world/12200383 |
+| 32 | 하나금융 첫 개인주주 간담회…주주환원 확대계획 등 설명 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12200382 |
+| 33 | [속보] 신임 경찰청장 후보자에 김종철 현 청장 대행 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200380 |
+| 34 | 국민 절반 “법원 신뢰하지 않는다”…공소청 신뢰한다는 응답은 25%뿐 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/politics/12200379 |
+| 35 | 김수현·김세의, 법정서 만난다…11일 명예훼손 재판 증인 출석 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200378 |
+| 36 | [속보] 법원, ‘회원 기록 무단수집’ 쿠팡 2000억원대 과징금 효력정지 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/business/12200377 |
+| 37 | “코스피 폭락, 이제 시작일까 두렵다”…5000선 붕괴에 개미 아우성 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200375 |
+| 38 | 코스피 급락에 증권가 “과도한 반응”…데이터센터 리스크 제한적 판단 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200372 |
+| 39 | [단독]“1300억원 코인 세탁 완료”...北, 바이낸스 장물 ‘中 환치기상’에게 넘겼다 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200371 |
+| 40 | “추워도 달립니다” 이번 주말도 서울 마라톤 릴레이…곳곳 차량 통제 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200370 |
+| 41 | 엘리베이터까지 차별화…건설사, 특화상품 내세우며 디자인 경쟁 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/realestate/12200369 |
+| 42 | “악플 자제해주길”…볼리비아서 사망한 유튜버 유가족 호소 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200367 |
+| 43 | [속보] 증시 급락에 신용융자 담보비율 유지 의무 3개월 면제…9일부터 시행 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/stock/12200359 |
+| 44 | 부산시·BNK금융·기보, 기후테크 기업에 150억 금융지원 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/economy/12200358 |
+| 45 | “KTX 안되면 SRT 탔었는데”…철도 통합 첫 총파업 예고, 승객 발 묶이나 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200356 |
+| 46 | 성남 오리역 일대 ‘제4테크노밸리’ 본격 추진…용적률 최대 800% 허용 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200355 |
+| 47 | 미성년자 추행 2번하고 입시학원 근무…50대 남성, 이번엔 강사 성폭행 혐의 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200354 |
+| 48 | “스마트폰 그만” 잔소리 대신 운동…하루 8분 움직이니 사용시간 뚝 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/it/12200346 |
+| 49 | 부산, 외국인 관광객 400만명 ‘성큼’…서울 빼고 카드소비 1조원 첫 돌파 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/society/12200345 |
+| 50 | 사우스케이프·설해원 가구 공급사 디사모빌리, 월터놀·포라다 론칭 | 매일경제 경제 | 경제 | https://www.mk.co.kr/news/culture/12200341 |
+| 51 | 하나금융 첫 개인주주 간담회…주주환원 확대계획 등 설명 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200382 |
+| 52 | 부산시·BNK금융·기보, 기후테크 기업에 150억 금융지원 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200358 |
+| 53 | 아동수당 맡기면 이자 더 준다…KB국민은행, 전용 통장 출시 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200320 |
+| 54 | 폭락장 속 나홀로 플러스 … 파킹 ETF에 한달새 2조2천억 몰렸다 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200306 |
+| 55 | 어린이 경제박사 되세요... 14일 경제교실 개최 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200301 |
+| 56 | 홍콩ELS 과징금 환입 2800억…KB·신한 ‘리딩뱅크’ 경쟁 변수 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200300 |
+| 57 | 케이뱅크 ‘이자 먼저 받는 예금’ 한달만에 1조 돌파 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200287 |
+| 58 | 집 안가보고 잡던 원베일리도 14.5억 ‘뚝’, 강남 아파트 시련의 계절 왔다 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200273 |
+| 59 | “노후자금까지 주식에 넣었는데”...코스피 급락하자 다시 예금으로 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200227 |
+| 60 | 채무조정하면 은행도 부담 던다…금융당국 자본 규제완화 추진 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12200226 |
+| 61 | “우리 손주는 구김없이 커야지”…미성년에 물려준 부동산, 1.4조 육박 | 매일경제 IT/과학 | IT/과학 | https://www.mk.co.kr/news/economy/12199678 |
+| 62 | 비판에도 할 일은 하는 대통령 보고 싶다 [신율의 정치 읽기] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/columnists/12200446 |
+| 63 | 오늘부터 무려 1500억원 태운다…카카오가 자사주 조기 소각하는 이유 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200442 |
+| 64 | 무협, 日 경제동우회와 AI 시대 한일 경협 논의 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200443 |
+| 65 | 정유·석화 NO…AI 전력서 ‘노다지’ 캔다 [CEO 라운지] | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200441 |
+| 66 | 램리서치, 김태원 신임 한국법인 총괄 대표이사 선임 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200439 |
+| 67 | 부산인터넷방송국, AI로 선박 부품 중복 발주 줄인다 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200437 |
+| 68 | IBK투자증권, 달러·엔화 투자 문 넓힌다…외화 신탁 3종 출시 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200434 |
+| 69 | “계약금 만으로 내 집 마련”…삼환기업, ‘화서역 호수공원 아너스빌’ 공급 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12200433 |
+| 70 | “한 푼 한 푼 아끼며 살기 지쳤다”…거리로 나온 60만명에 장갑차 동원한 佛 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12200430 |
+| 71 | “도저히 쪼들려 못살겠다”…프랑스서 60만명 항의 시위 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12200424 |
+| 72 | 경기 남부 아파트값 질주 속...시니어주택·지분적립형 등 신규 분양 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12200419 |
+| 73 | 산림청, 재선충 방제약제 공급 체계 개선 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200418 |
+| 74 | 현대로템 ‘통 큰 상생’… 1500억 펀드에 국산화 성과 나눴다 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200417 |
+| 75 | 데이터센터 전력 불안 원인 찾아낸 켄텍 학부생들…한전 발명기술혁신대전 동상 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200416 |
+| 76 | 음식 배달기사 뒤따라 ‘불쑥’ 쳐들어온 전 남친…자해협박 30대 남성 체포 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200415 |
+| 77 | 美 중간선거 후에도 동맹 압박 지속…외교안보 원로들 “한미 신뢰 회복 시급” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/politics/12200413 |
+| 78 | 기아, 광주에 2029년까지 3조 투자…전동화·AI 생산체계 구축 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/politics/12200412 |
+| 79 | 美 증시 폭락에 트럼프 “공화당 아닌 멍청한 민주당 탓” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200407 |
+| 80 | 與 서울 의원들 “비거주 1주택 종부세 완화 필요” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200402 |
+| 81 | ‘A매치 234경기 146골’ 호날두, 23년 만에 포르투갈 국가대표 은퇴 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/sports/12200401 |
+| 82 | “암모니아선 4척 또 수주”… HD한국조선해양, 연 목표 91% 달성 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200400 |
+| 83 | 美 블루웨이브에 증시 ‘쇼크’...이형일 “선제 대응 나설 것” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200397 |
+| 84 | [속보] 안철수 “李, 당장 긴급 라방 켜서 대책 밝혀라…국민은 집값·주식에 잠 못들어” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12200396 |
+| 85 | ‘개미’ 보호한다더니…대주주 ‘탈출권’만? | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200395 |
+| 86 | 10만가구인데 집값 안정 장담 못한다? | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200393 |
+| 87 | 총상금 5300만원…기업부·MV 부문 신설 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200392 |
+| 88 | “20억 하던 강남 아파트가 14억?”…강남 소형 아파트까지 가격 ‘뚝’ | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12200391 |
+| 89 | “왜 서울과 같이 묶나”...정부 ‘지방우대지수’ 추진에 수도권 반발 확산 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/politics/12200387 |
+| 90 | “우리도 원전!” 러시아 손잡은 베트남…서방 제재에 ‘발목’ | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12200385 |
+| 91 | “코스피 폭락 와중에 이건 10% 뛰었네”…급락장 거슬러 오른 종목은 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200384 |
+| 92 | 의료진은 당나귀로, 홍역 백신은 낙타로…수단 산골 찾은 국경없는의사회 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12200383 |
+| 93 | 하나금융 첫 개인주주 간담회…주주환원 확대계획 등 설명 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12200382 |
+| 94 | [속보] 신임 경찰청장 후보자에 김종철 현 청장 대행 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200380 |
+| 95 | 김수현·김세의, 법정서 만난다…11일 명예훼손 재판 증인 출석 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200378 |
+| 96 | [속보] 법원, ‘회원 기록 무단수집’ 쿠팡 2000억원대 과징금 효력정지 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200377 |
+| 97 | “코스피 폭락, 이제 시작일까 두렵다”…5000선 붕괴에 개미 아우성 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200375 |
+| 98 | 코스피 급락에 증권가 “과도한 반응”…데이터센터 리스크 제한적 판단 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200372 |
+| 99 | [단독]“1300억원 코인 세탁 완료”...北, 바이낸스 장물 ‘中 환치기상’에게 넘겼다 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200371 |
+| 100 | “추워도 달립니다” 이번 주말도 서울 마라톤 릴레이…곳곳 차량 통제 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200370 |
+| 101 | 엘리베이터까지 차별화…건설사, 특화상품 내세우며 디자인 경쟁 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/realestate/12200369 |
+| 102 | “악플 자제해주길”…볼리비아서 사망한 유튜버 유가족 호소 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200367 |
+| 103 | [속보] 증시 급락에 신용융자 담보비율 유지 의무 3개월 면제…9일부터 시행 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/stock/12200359 |
+| 104 | 부산시·BNK금융·기보, 기후테크 기업에 150억 금융지원 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/economy/12200358 |
+| 105 | “KTX 안되면 SRT 탔었는데”…철도 통합 첫 총파업 예고, 승객 발 묶이나 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200356 |
+| 106 | 성남 오리역 일대 ‘제4테크노밸리’ 본격 추진…용적률 최대 800% 허용 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200355 |
+| 107 | 미성년자 추행 2번하고 입시학원 근무…50대 남성, 이번엔 강사 성폭행 혐의 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200354 |
+| 108 | Korea delays crypto tax for fourth time, pushing start to 2029 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/english/12200350 |
+| 109 | “삼전닉스 급락하나요”...‘반도체 매도 지나치다’던 낙관론자도 경고 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/business/12200349 |
+| 110 | 부산, 외국인 관광객 400만명 ‘성큼’…서울 빼고 카드소비 1조원 첫 돌파 | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/society/12200345 |
+| 111 | [속보] 텍사스주지사 당선인 “데이터센터 건설 중단해야...미워하는 것은 아냐” | 매일경제 부동산/금융 | 부동산/금융 | https://www.mk.co.kr/news/world/12200344 |
+| 112 | 오늘부터 무려 1500억원 태운다…카카오가 자사주 조기 소각하는 이유 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200442 |
+| 113 | IBK투자증권, 달러·엔화 투자 문 넓힌다…외화 신탁 3종 출시 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200434 |
+| 114 | “코스피 폭락 와중에 이건 10% 뛰었네”…급락장 거슬러 오른 종목은 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200384 |
+| 115 | “코스피 폭락, 이제 시작일까 두렵다”…5000선 붕괴에 개미 아우성 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200375 |
+| 116 | 코스피 급락에 증권가 “과도한 반응”…데이터센터 리스크 제한적 판단 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200372 |
+| 117 | [단독]“1300억원 코인 세탁 완료”...北, 바이낸스 장물 ‘中 환치기상’에게 넘겼다 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200371 |
+| 118 | [속보] 증시 급락에 신용융자 담보비율 유지 의무 3개월 면제…9일부터 시행 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200359 |
+| 119 | 코스피 5000 붕괴에 초고수들이 주운 종목은 [주식 초고수는 지금] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200331 |
+| 120 | ‘블루 쓰나미’에 5000 붕괴 … 코스피 추가 강제청산 가능성 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200303 |
+| 121 | 5천이 무너졌는데 아직도 “코스피 1만 간다”…이유가 네 가지나 된다는 노무라 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200293 |
+| 122 | 피노, 1830억 원 규모 유증 단행…이차전지 소재 사업 체질 개선 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200277 |
+| 123 | 에브리봇, 中 CMS증권 주관 DDT 설명회 참석…국내 기관투자자 대거 관심 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200263 |
+| 124 | [MK시그널] 마라톤 페트롤리엄 매도신호 포착, 수익률 25.6% 달성 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200243 |
+| 125 | [MK 골든크로스 돌파종목 : 금양그린파워(282720) & 대동기어(008830)] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200213 |
+| 126 | “데이터센터 짓지 마” 외국인, 반도체 3조 던진 이유 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/business/12200206 |
+| 127 | “카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200182 |
+| 128 | [속보] 증시 급락에 코스피 서킷브레이커 발동…5000피 밑으로 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200170 |
+| 129 | [속보] 코스피, 8%대 급락 출발…코스닥 5~6%대↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200167 |
+| 130 | AI 성장 서사 대폭 후퇴…블루웨이브 방어 섹터는 [오늘 나온 보고서] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200165 |
+| 131 | 영국인들, 9달동안 한국 증시 100조 팔았다…“세금 아끼려고” [오늘 나온 보고서] | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200164 |
+| 132 | “잘 나가던 한국금융지주도 급락장엔 속수무책”…목표가↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12200076 |
+| 133 | 헤지펀드의 항복 선언인가? 폭락한 미국 증시 왜 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/business/12200062 |
+| 134 | [속보] 뉴욕증시, AI 기술주 투매에 급락…나스닥 5.5%↓ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12199715 |
+| 135 | TPG, 8300억 들여 롯데렌탈 잔여지분 공개매수…상장폐지 추진 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12199335 |
+| 136 | “예금으로 노후 준비가 됩니까”...은퇴 한참 남은 2030도 이 펀드로 몰린다 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12199679 |
+| 137 | “창신메모리 쇼크는 과했다” … 수율·비용에서 삼전닉스는 ‘넘사벽’ | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/business/12198405 |
+| 138 | “트럼프 힘 빠지면 우린 힘 난다” … 주가상승률·PER 돋보이는 종목들 | 매일경제 증권/기업 | 증권/기업 | https://www.mk.co.kr/news/stock/12198536 |
+| 139 | Japan’s Nikkei Poised to Enter Bear Market as AI Selloff Deepens | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/japan-s-nikkei-breaks-below-key-60-000-level-on-ai-selloff |
+| 140 | Thailand EV Tax Gets Carmakers Weighing More Local Production | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/thailand-ev-tax-carmakers-autos-production-manufacturing-millennium-group-xpeng-omoda-jaecoo |
+| 141 | Putin Transfers Japan Tobacco Assets to Local Firm in Latest Asset Seizure | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/japan-protests-russia-s-seizure-of-japan-tobacco-assets |
+| 142 | India’s HPCL Says Booking Tankers for Hormuz Still Complicated | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/india-hpcl-booking-tankers-strait-hormuz-cargoes-shipping-vessels-complicated |
+| 143 | Decline in Markets as Asia Hit By Major Tech Selloff | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-06/carnage-in-markets-as-asia-hit-by-major-tech-selloff-video |
+| 144 | How China Uses Its ‘National Team’ to Influence the Stock Market | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/how-china-uses-its-national-team-to-influence-the-stock-market |
+| 145 | AI Selloff Drives Asian Stock Markets to Fresh Grim Milestones | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/ai-selloff-asian-stock-markets-nikkei-kospi-taiex-grim-milestones |
+| 146 | AI Slump Deepens as Japan Slides Most Since 2025: Markets Wrap | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates |
+| 147 | Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/japan-bonds-rally-as-global-risk-off-move-boosts-haven-demand |
+| 148 | Latest Oil Market News and Analysis for Nov. 6 | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/latest-oil-market-news-and-analysis-for-nov-6 |
+| 149 | Fesharaki Sees Little Chance of US-Iran Deal | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-06/fesharaki-sees-little-chance-of-us-iran-deal-video |
+| 150 | Copper Moves Lower as US Election Undermines AI and Tariff Trade | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/copper-moves-lower-as-us-election-undermines-ai-and-tariff-trade |
+| 151 | EU Chamber of Commerce in China On Trade Amid Tensions | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-06/eu-chamber-of-commerce-in-china-on-trade-amid-tensions-video |
+| 152 | Coach China President On Consumer Sector | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-06/coach-china-president-on-consumer-sector-video |
+| 153 | Korean Stocks Tumble, Testing 5,000 Milestone as Panic Spreads | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/korean-chip-stocks-sink-10-in-pre-market-as-ai-fears-deepen |
+| 154 | Korea’s $1.7 Trillion Rout Burns Day Traders, Challenges Lee | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/korea-s-1-7-trillion-rout-burns-day-traders-challenges-lee |
+| 155 | Taiwan’s Currency Weakens Past 33 Per US Dollar on AI Jitters | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/taiwan-s-currency-weakens-past-33-per-us-dollar-on-ai-jitters |
+| 156 | Hedge Funds Tout Nvidia, Disney at Sohn Queenstown Conference | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-05/investors-pick-disney-g-mining-at-sohn-conference-in-queenstown |
+| 157 | Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean |
+| 158 | Nasdaq Suffers Worst Rout Since March 2020 | Bloomberg Markets | 시장 | https://www.bloomberg.com/news/videos/2026-11-06/nasdaq-suffers-worst-rout-since-march-2020 |
+| 159 | Indian Stocks Gain Haven Appeal as Investors Flee AI Trade | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/indian-stocks-gain-haven-appeal-as-investors-flee-ai-trade |
+| 160 | Asia Hedge Funds, Rich Investors Face Steep Losses in AI Selloff | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/asia-hedge-funds-rich-investors-face-steep-losses-in-ai-selloff |
+| 161 | SoftBank Leads Asia Bond Losses as AI Rout Spreads to Credit | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/softbank-leads-asia-bond-losses-ai-rout-spreads-credit |
+| 162 | Macquarie Sees Australia Gaining From US Data Center Woes | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/macquarie-sees-australia-gaining-from-us-data-center-woes |
+| 163 | AI Slump Stems From Conflated Return Thesis, Plato’s Allen Says | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/ai-slump-stems-from-conflated-return-thesis-plato-s-allen-says |
+| 164 | Tech Investor Dan Niles: AI Revenue Slowdown Demands Stock Picking | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-06/niles-ai-revenue-slowdown-demands-stock-picking-video |
+| 165 | Why Australian Investor Isn't Betting on Data Centers, AI | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-06/why-australian-investor-won-t-bet-on-data-centers-ai-video |
+| 166 | Blue Owl Sees Gains on Election Results Limiting AI Compute | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/blue-owl-sees-gains-as-election-results-limit-ai-compute-supply |
+| 167 | China’s AI-Propelled Growth May Take a Blue Wave Hit, BE Says | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says |
+| 168 | Plato's Allen on AI Selloff, Investment Strategy | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-06/plato-s-allen-on-ai-selloff-investment-strategy-video |
+| 169 | Hearts & Minds' Howes on Private Credit | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-06/hearts-minds-howes-on-private-credit-video |
+| 170 | Kospi Slides After US Rout, Triggering Circuit Breaker | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/videos/2026-11-06/kospi-slides-after-us-rout-triggering-circuit-breaker-video |
+| 171 | Atlassian’s Shares Slide After Revenue Outlook Disappoints | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-06/atlassian-s-shares-slide-after-revenue-outlook-disappoints |
+| 172 | T-Mobile Customers Swap Roaming, Hotspots For Streaming Benefits | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/t-mobile-customers-swap-roaming-hotspots-for-streaming-benefits |
+| 173 | Microsoft Sours on Neoclouds IREN, Nebius, Nscale on Delays, Costs | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/microsoft-sours-on-neoclouds-iren-nebius-nscale-on-delays-costs |
+| 174 | Tiger Global, Whale Rock, D1 Battered by AI Jitters in October | Bloomberg Technology | 기술 | https://www.bloomberg.com/news/articles/2026-11-05/tiger-global-whale-rock-battered-by-ai-fears-in-painful-october |
+| 175 | ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-06/ecb-deadline-will-show-if-lagarde-succession-is-a-two-horse-race |
+| 176 | Record Farm Slump Threatens More Pain for Philippine Economy | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-06/record-farm-slump-threatens-more-pain-for-philippine-economy |
+| 177 | Thailand Inflation Surges to 3.9%, Breaching BOT’s Target | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-06/thailand-inflation-accelerates-to-3-9-breaching-bot-target |
+| 178 | Japan’s Takaichi Eyes BOJ’s ETF Sales to Fund Economic Security | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-06/japan-s-takaichi-eyes-boj-s-etf-sales-to-fund-economic-security |
+| 179 | Rebekah Jurata Tapped for Treasury Assistant Secretary Role | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/rebekah-jurata-tapped-for-treasury-assistant-secretary-role |
+| 180 | Japan’s Nominal Wages Rise at Fastest Pace In About 30 Years | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/japan-s-nominal-wages-rise-at-fastest-pace-in-almost-30-years |
+| 181 | The Dollar’s Bullish Case Holds Firm After Midterms Shakeout | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/the-dollar-s-bullish-case-holds-firm-after-midterms-shakeout |
+| 182 | Why Would Anyone Leave New Zealand? | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/why-would-anyone-leave-new-zealand |
+| 183 | Canada Strong Fund to Start Its Retail Offering in 2027 | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/canada-strong-fund-to-start-its-retail-offering-in-2027 |
+| 184 | Canada Budget 2026: Carney Relaxes Foreign Buyer Ban, Adds Billions For Housing | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/canada-budget-2026-carney-relaxes-foreign-buyer-ban-adds-billions-for-housing |
+| 185 | Banxico Surprises With Cut to 6.25%, Signals Extended Hold | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/mexico-unexpectedly-cuts-interest-rate-to-four-year-low-of-6-25 |
+| 186 | Lula Consults Mantega, Leftist Economists on Fiscal Plans | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/lula-consults-mantega-leftist-economists-on-plans-for-new-term |
+| 187 | US Midterms Came Too Late to Prevent Bank of England Rate Hike | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/us-midterms-came-too-late-to-save-bank-of-england-from-rate-hike |
+| 188 | Bailey Says Second BOE Hike More Likely Than Not If War Goes On | Bloomberg Economics | 경제 | https://www.bloomberg.com/news/articles/2026-11-05/bailey-says-second-boe-hike-more-likely-than-not-if-war-goes-on |

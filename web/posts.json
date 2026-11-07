@@ -1,6 +1,78 @@
 {
   "posts": [
     {
+      "filename": "2026-11-07-samsung-galaxy-glasses-gemini-ai-launch.md",
+      "title": "\"삼성 갤럭시 글래스, 11월 출시 임박 — 화면 없는 AI 안경이 웨어러블을 다시 쓴다\"",
+      "category": "AI",
+      "date": "2026-11-07",
+      "source": "\"Sammyfans / Notebookcheck\"",
+      "sourceUrl": "\"https://www.sammyfans.com/2026/10/01/samsung-prepares-to-launch-ai-smart-glasses-in-november-2026/\"",
+      "description": "\"삼성이 첫 AI 스마트 글래스 '갤럭시 글래스'를 11월 출시한다. 구글 제미나이를 탑재해 실시간 번역과 사진 촬영, 길 안내가 가능하고 화면은 없다. 메타 레이밴 스마트 글래스의 직접 경쟁자로 등장했다.\""
+    },
+    {
+      "filename": "2026-11-07-mit-reverse-game-theory-ai-alignment.md",
+      "title": "\"'역방향 게임이론'으로 AI 에이전트를 묶어라 — 샌드배깅 문제의 돌파구\"",
+      "category": "AI",
+      "date": "2026-11-07",
+      "source": "\"MIT Technology Review\"",
+      "sourceUrl": "\"https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/\"",
+      "description": "\"MIT 경제학자 스티븐 모리스 팀이 '역방향 게임이론(메커니즘 설계)'으로 AI 에이전트가 의도적으로 능력을 숨기는 '샌드배깅' 문제를 해결할 수 있다는 프리프린트를 발표했다. AI 정렬 연구의 새로운 접근법이다.\""
+    },
+    {
+      "filename": "2026-11-07-korea-financial-ai-hacking.md",
+      "title": "\"미래에셋 3만9천 명 털렸다 — AI 해킹이 금융권을 휩쓴 한 주\"",
+      "category": "AI",
+      "date": "2026-11-07",
+      "source": "\"헤럴드경제 / 스마트비즈\"",
+      "sourceUrl": "\"https://biz.heraldcorp.com/article/10929197\"",
+      "description": "\"미래에셋증권이 AI 에이전트를 활용한 것으로 추정되는 사이버 공격을 받아 고객 3,800명과 임직원 3만5,255명의 개인정보가 유출됐다. 9월 30일 이후 금융권 40건·47만3천 건 정보 유출로 당국이 비상이다.\""
+    },
+    {
+      "filename": "2026-11-07-bluwave-kospi-semiconductor-crash.md",
+      "title": "\"블루웨이브 충격 — AI 데이터센터 규제 우려에 반도체주 패닉셀링\"",
+      "category": "경제·주식",
+      "date": "2026-11-07",
+      "source": "\"세계일보 / 파이낸셜뉴스\"",
+      "sourceUrl": "\"https://www.segye.com/newsView/20261107504930\"",
+      "description": "\"미국 중간선거에서 민주당이 상·하원을 모두 장악하는 '블루웨이브'가 현실화되며 11월 6일 코스피가 6.02% 급락해 5059선으로 주저앉았다. AI 데이터센터 규제 강화 우려가 반도체주 매도 불쏘시개가 됐다.\""
+    },
+    {
+      "filename": "2026-10-18-robotics-ai-reality-check.md",
+      "title": "\"로봇 AI 혁신, 일상을 바꾸기까지는 시간이 더 필요하다\"",
+      "category": "AI",
+      "date": "2026-10-18",
+      "source": "\"MIT Technology Review\"",
+      "sourceUrl": "\"https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/\"",
+      "description": "\"VLA 모델이 로봇 공학에 혁신을 가져왔다지만, 실제 일상에 영향을 주기까지는 아직 먼 거리가 있다. 보스턴 다이나믹스 창업자는 '성공률 70%는 사실상 실패'라고 단언한다.\""
+    },
+    {
+      "filename": "2026-10-18-cxmt-shock-kospi-circuit-breaker.md",
+      "title": "\"CXMT 쇼크가 한국 증시를 무너뜨렸다 — 코스피 서킷브레이커 발동\"",
+      "category": "경제·주식",
+      "date": "2026-10-18",
+      "source": "\"뉴데일리경제\"",
+      "sourceUrl": "\"https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300302.html\"",
+      "description": "\"중국 창신메모리(CXMT)의 D램 기술 추격 소식이 AI 투자 불확실성과 맞물리며 코스피를 7.57% 급락시켰다. 장중 서킷브레이커가 발동됐고, 삼성전자와 SK하이닉스는 각각 9%, 11% 주저앉았다.\""
+    },
+    {
+      "filename": "2026-10-18-ai-math-capability-cryptography.md",
+      "title": "\"AI의 수학 실력이 폭발적으로 성장하고 있다 — 암호 체계까지 위협받는다\"",
+      "category": "AI",
+      "date": "2026-10-18",
+      "source": "\"AI타임스\"",
+      "sourceUrl": "\"https://www.aitimes.com/news/articleView.html?idxno=216279\"",
+      "description": "\"AI의 수학 문제 해결 능력이 불과 2년 만에 2.8%에서 34.6%로 뛰었다. 과학 연구 가속화는 반가운 일이지만, 암호학계는 조용히 경보를 올리기 시작했다.\""
+    },
+    {
+      "filename": "2026-10-18-ai-datacenter-18gw-tax-15t.md",
+      "title": "\"AI 데이터센터 18.4GW 시대, 법인세 15조 원이 온다\"",
+      "category": "AI",
+      "date": "2026-10-18",
+      "source": "\"이데일리\"",
+      "sourceUrl": "\"https://m.news.nate.com/view/20261018n10166\"",
+      "description": "\"정부가 추진 중인 AI 데이터센터가 18.4GW 전부 가동되면 연간 법인세가 약 15조 원에 달할 수 있다는 국회 분석이 나왔다. 하지만 이는 추산치이며, 전력망 부담이라는 다른 변수가 함께 따라온다.\""
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",
@@ -219,6 +291,78 @@
       "sourceUrl": "https://kr.investing.com/news/stock-market-news/article-1983586",
       "description": "UBS는 주요 하이퍼스케일러의 2026년 AI 설비투자(CAPEX)가 기존 예상치보다 23% 급증한 7,700억 달러(약 1,110조 원)에 달할 것으로 추정했다. MS·아마존·메타 세 곳만 합쳐도 5,000억 달러를 넘는다.",
       "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-06-29-talos-rare-disease-genomic-ai.md",
+      "title": "\"희귀질환 유전자 분석, AI가 $11에 자동화한다 — Microsoft·Broad Institute의 Talos\"",
+      "category": "바이오",
+      "date": "2026-06-29",
+      "source": "\"Microsoft Research Blog\"",
+      "sourceUrl": "\"https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/\"",
+      "description": "\"Microsoft Research, Broad Institute 등이 공동 개발한 오픈소스 희귀질환 진단 도구 Talos가 4,735명의 미진단 환자 중 241명(5.1%)에게 새 진단을 제공했다. 1,000개 게놈 분석 비용은 단 $11.\""
+    },
+    {
+      "filename": "2026-06-29-microsoft-q3-fy2026-cloud-ai-earnings.md",
+      "title": "\"마이크로소프트 3분기 매출 82.9조 원, AI 부문 123% 성장 — 클라우드가 다시 빅테크를 들어올렸다\"",
+      "category": "경제·주식",
+      "date": "2026-06-29",
+      "source": "\"Microsoft Investor Relations\"",
+      "sourceUrl": "\"https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast\"",
+      "description": "\"마이크로소프트가 2026 회계연도 3분기(1~3월) 확정 실적을 발표했다. 총매출 $82.9B(+18% YoY), AI 비즈니스 연간 수익 런레이트 $37B 돌파(+123% YoY) — AI가 클라우드 성장의 핵심 동력으로 자리잡은 것이 수치로 확인됐다.\""
+    },
+    {
+      "filename": "2026-06-29-memora-ai-agent-memory.md",
+      "title": "\"AI 에이전트가 드디어 기억하기 시작했다 — Microsoft Memora의 조화로운 메모리 구조\"",
+      "category": "AI",
+      "date": "2026-06-29",
+      "source": "\"Microsoft Research Blog\"",
+      "sourceUrl": "\"https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/\"",
+      "description": "\"Microsoft Research가 AI 에이전트의 장기 기억 문제를 해결한 Memora를 ICML 2026에 공개했다. LoCoMo 벤치마크 86.3%, 토큰 소비 98% 절감 — 'RAG보다 효율적이고 더 정확하다'는 평가를 받고 있다.\""
+    },
+    {
+      "filename": "2026-06-29-gemini-35-flash-google-io.md",
+      "title": "\"Google, Gemini 3.5 Flash 공개 — 에이전트 코딩에서 경쟁 모델 절반 가격으로 앞선다\"",
+      "category": "AI",
+      "date": "2026-06-29",
+      "source": "\"Google Cloud Blog\"",
+      "sourceUrl": "\"https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud\"",
+      "description": "\"Google I/O 2026에서 공개된 Gemini 3.5 Flash가 Terminal-Bench 2.1에서 76.2%, MCP Atlas에서 83.6%를 기록하며 동급 모델 대비 절반 이하의 비용을 실현했다. 24/7 개인 AI 에이전트 Gemini Spark도 함께 발표됐다.\""
+    },
+    {
+      "filename": "2026-06-18-xcode27-agentic-coding.md",
+      "title": "\"Xcode 27, 이제 AI 에이전트가 코드를 짜준다 — WWDC26 에이전트 코딩 기능 정리\"",
+      "category": "AI",
+      "date": "2026-06-18",
+      "source": "\"Apple Developer (WWDC26)\"",
+      "sourceUrl": "\"https://developer.apple.com/videos/play/wwdc2026/259/\"",
+      "description": "\"Apple이 WWDC 2026에서 공개한 Xcode 27은 AI 에이전트가 탐색·구축·정제·조율 4단계로 코딩 작업 전체를 보조한다. 서브-에이전트가 번역과 접근성 작업을 병렬로 처리하는 수준까지 왔다.\""
+    },
+    {
+      "filename": "2026-06-18-magentic-lite-small-model-agent.md",
+      "title": "\"소형 모델로 GPT-4급 에이전트를 — 마이크로소프트 MagenticLite 공개\"",
+      "category": "AI",
+      "date": "2026-06-18",
+      "source": "\"Microsoft Research Blog\"",
+      "sourceUrl": "\"https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/\"",
+      "description": "\"마이크로소프트 리서치가 소형 모델 전용 AI 에이전트 시스템 MagenticLite를 공개했다. 14B 오케스트레이터 모델과 9B 브라우저 에이전트 조합으로, Fara1.5-27B는 Online-Mind2Web 벤치마크에서 90% 이상 성능을 기록했다.\""
+    },
+    {
+      "filename": "2026-06-18-google-cloud-uk-ai-investment.md",
+      "title": "\"Google Cloud, 영국에 2년간 £50억 투자 — HSBC·Vodafone과 대형 AI 계약 체결\"",
+      "category": "경제·주식",
+      "date": "2026-06-18",
+      "source": "\"Google Cloud Blog\"",
+      "sourceUrl": "\"https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud\"",
+      "description": "\"Google Cloud가 영국에 2년간 £50억을 투자하기로 하고 HSBC와 다년간 AI 파트너십, Vodafone과 10년 $10억 계약을 동시에 발표했다. 영국 AI 시장은 2030년까지 £4,000억 경제 효과가 전망된다.\""
+    },
+    {
+      "filename": "2026-06-18-data-formulator-07-enterprise-analytics.md",
+      "title": "\"SQL 몰라도 된다 — Microsoft가 내놓은 AI 데이터 분석 도구 Data Formulator 0.7\"",
+      "category": "AI",
+      "date": "2026-06-18",
+      "source": "\"Microsoft Research Blog\"",
+      "sourceUrl": "\"https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/\"",
+      "description": "\"Microsoft Research가 오픈소스 AI 데이터 분석 플랫폼 Data Formulator 0.7을 공개했다. SQL이나 코딩 없이 자연어로 기업 데이터를 분석하고 시각화할 수 있다.\""
     },
     {
       "filename": "2026-06-11-meta-ai-chatbot-hack-instagram.md",

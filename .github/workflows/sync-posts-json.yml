@@ -1,0 +1,34 @@
+name: sync-posts-json
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to sync posts.json on'
+        required: false
+        default: 'claude/wonderful-turing-61yv3a'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branch || github.ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Run sync-posts.py
+        run: python3 tools/sync-posts.py
+      - name: Commit if changed
+        run: |
+          git config user.email "noreply@anthropic.com"
+          git config user.name "Claude"
+          git add web/posts.json web/posts/
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: sync posts.json via workflow"
+            git push
+          else
+            echo "No changes to commit"
+          fi

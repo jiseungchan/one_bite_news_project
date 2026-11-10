@@ -1,6 +1,56 @@
 {
   "posts": [
     {
+      "filename": "2026-10-24-ai-agents-long-term-memory.md",
+      "title": "AI 에이전트, 수개월 전 대화를 '기억'한다 — 장기 메모리 아키텍처의 부상",
+      "category": "AI",
+      "date": "2026-10-24",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/23/1140201/ai-agents-long-term-memory-architecture/",
+      "description": "AI 에이전트가 수천 개의 대화를 구조화된 방식으로 오랫동안 기억하는 새 아키텍처가 주목받고 있다. '언제나 처음 만나는 것처럼 행동하는 AI'의 한계가 실질적으로 허물어지기 시작했다.",
+      "image": "https://picsum.photos/seed/2026-10-24-ai-agents-long-term-memory/800/500"
+    },
+    {
+      "filename": "2026-10-24-lg-exaone-health-multimodal-medical.md",
+      "title": "LG AI연구원, 멀티모달 의료 AI 'EXAONE 헬스' 공개 — 영상·검사지·음성 통합 분석",
+      "category": "AI",
+      "date": "2026-10-24",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213891",
+      "description": "LG AI연구원이 의료용 멀티모달 AI 모델 'EXAONE 헬스'를 발표했다. MRI·CT 영상, 혈액 검사 수치, 의사 노트를 동시에 읽고 진단을 지원하는 국내 최초 통합 의료 AI 모델로, 폐암 조기 발견 정확도가 기존 단일 모달 대비 17%포인트 향상됐다.",
+      "image": "https://picsum.photos/seed/2026-10-24-lg-exaone-health-multimodal-medical/800/500"
+    },
+    {
+      "filename": "2026-10-24-upstage-series-c-document-ai.md",
+      "title": "업스테이지, 시리즈C 1,200억 원 유치 — '도큐먼트 AI' 하나로 세계 시장 공략",
+      "category": "AI",
+      "date": "2026-10-24",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=41456",
+      "description": "국내 AI 스타트업 업스테이지가 1,200억 원 규모의 시리즈C 투자를 유치했다. 문서 이해·처리 특화 AI 솔루션으로 미국·일본·유럽 시장을 동시 공략하며, 소프트뱅크벤처스 참여로 일본 진출 교두보를 확보했다.",
+      "image": "https://picsum.photos/seed/2026-10-24-upstage-series-c-document-ai/800/500"
+    },
+    {
+      "filename": "2026-10-24-samsung-q4-forecast-hbm5-foundry.md",
+      "title": "삼성전자 4분기 영업이익 11조 전망 — HBM5 첫 납품과 2나노 파운드리 수율 개선이 열쇠",
+      "category": "경제·주식",
+      "date": "2026-10-24",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026102401023",
+      "description": "증권가가 삼성전자의 4분기 영업이익을 11조 원 안팎으로 상향 추정하기 시작했다. HBM5 엔비디아 납품 개시 임박과 2나노 파운드리 수율 개선이 동시에 진행될 경우의 시나리오다. 주요 3개 증권사가 이번 주 목표 주가를 일제히 상향했다.",
+      "image": "https://picsum.photos/seed/2026-10-24-samsung-q4-forecast-hbm5-foundry/800/500"
+    },
+    {
+      "filename": "2026-10-18-ai-datacenter-18gw-tax-15t.md",
+      "title": "AI 데이터센터 18.4GW 시대, 법인세 15조 원이 온다",
+      "category": "AI",
+      "date": "2026-10-18",
+      "source": "이데일리",
+      "sourceUrl": "https://m.news.nate.com/view/20261018n10166",
+      "description": "정부가 추진 중인 AI 데이터센터가 18.4GW 전부 가동되면 연간 법인세가 약 15조 원에 달할 수 있다는 국회 분석이 나왔다. 하지만 이는 추산치이며, 전력망 부담이라는 다른 변수가 함께 따라온다.",
+      "image": "https://picsum.photos/seed/2026-10-18-ai-datacenter-18gw-tax-15t/800/500"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

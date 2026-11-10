@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-06-delaware-ai-company-agentic-web.md",
+      "title": "AI가 대표이사가 된다 — 델라웨어의 에이전트 기업법이 불러온 충격",
+      "category": "AI",
+      "date": "2026-11-06",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web",
+      "description": "델라웨어 주가 AI 에이전트가 경영진 없이 단독으로 사업체를 운영할 수 있는 새 법인 형태 'AIC'를 추진 중이다. 계약 체결부터 소송까지 AI가 직접 처리하는 세상 — 하지만 무언가 잘못됐을 때 책임은 누구에게 있나?",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-06-openai-gpt6-cyber-launch.md",
+      "title": "파이어폭스 취약점 81개를 혼자 찾았다 — 오픈AI GPT-6 사이버의 등장",
+      "category": "AI",
+      "date": "2026-11-06",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "description": "오픈AI가 사이버보안 특화 모델 GPT-6 사이버를 11월 4일 공개했다. 파이어폭스에서 취약점 81개, 리눅스 커널 익스플로잇 948개를 단독으로 발견한 이 모델은 자사 최고 위험 등급인 '크리티컬'을 받았다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-06-anthropic-flashprove-model-verification.md",
+      "title": "앤트로픽, 암호학으로 AI 출처를 증명한다 — FlashProve 오픈소스 공개",
+      "category": "AI",
+      "date": "2026-11-06",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+      "description": "앤트로픽이 특정 AI 답변이 특정 모델에서 나왔음을 수학적으로 증명하는 오픈소스 연구 프로토타입 FlashProve를 공개했다. 모델 가중치를 공개하지 않고도 출처를 검증할 수 있는 영지식 증명 기반 도구다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-06-bluewave-ai-regulation-semiconductor-crash.md",
+      "title": "블루웨이브 AI 규제 충격 — 삼성·SK하이닉스 이틀 새 최대 10% 급락",
+      "category": "경제·주식",
+      "date": "2026-11-06",
+      "source": "강원도민일보",
+      "sourceUrl": "https://www.kado.net/news/articleView.html?idxno=2082926",
+      "description": "미국 중간선거에서 민주당이 상·하원을 동시 장악하는 블루웨이브가 현실화되면서 AI 데이터센터 규제 강화 우려가 한국 증시를 강타했다. 삼성전자 6.88%, SK하이닉스 9.46% 급락.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

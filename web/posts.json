@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-02-neural-network-interpretability-cammarata.md",
+      "title": "\"우리는 잘못 보고 있었다\" — AI 신경망 해석가능성의 판도를 바꿀 주장",
+      "category": "AI",
+      "date": "2026-11-02",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "description": "Goodfire 연구원 Nick Cammarata가 26,000단어 블로그 포스트 하나로 AI 업계를 뒤흔들었다. 신경망은 블랙박스가 아니라 나름의 내부 논리를 가진다는 주장이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-02-openai-anthropic-election-safeguards-2026.md",
+      "title": "선거 당일 AI 감시 체계 전면 가동 — OpenAI·Anthropic이 중간선거를 앞두고 긴장하는 이유",
+      "category": "AI",
+      "date": "2026-11-02",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216803",
+      "description": "11월 3일 미국 중간선거를 앞두고 OpenAI는 수백 명 규모의 선거 운영센터를 가동했고, Anthropic은 Claude의 정치적 중립성을 95~96% 수준으로 검증했다.",
+      "image": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-02-gpt-6-1-terra-launch.md",
+      "title": "GPT-6.1 테라 출시 — '균형 모델'의 귀환, 전 세대보다 비용 50% 낮아",
+      "category": "AI",
+      "date": "2026-11-02",
+      "source": "9to5Mac",
+      "sourceUrl": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/",
+      "description": "OpenAI가 10월 26일 GPT-6.1 Terra를 출시했다. ChatGPT Work·Codex·API에서 사용 가능하며, 전 세대 Terra 대비 비용이 50% 낮다. 최상위 모델 GPT-6.1 Astra는 안전성 우려로 취소됐다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-02-semiconductor-ai-long-term-contracts.md",
+      "title": "AI 반도체, '5년치 예약' 시대 열렸다 — 줄 서서 기다리는 빅테크",
+      "category": "경제·주식",
+      "date": "2026-11-02",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026110293821",
+      "description": "SK하이닉스가 10여 곳과 5년 장기공급계약을 체결하며 AI 반도체 장기계약 시대가 열렸다. DDR5 고정가는 6월 대비 25% 상승했고, 한국의 10월 반도체 수출은 전년비 259% 급증했다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

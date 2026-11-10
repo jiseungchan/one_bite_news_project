@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-21-neural-network-interpretability-cammarata.md",
+      "title": "'AI를 완전히 잘못 이해했다' — 뉴런 90%가 단일 기능을 수행한다는 폭발적 주장",
+      "category": "AI",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "description": "Goodfire 연구원 닉 카마라타가 2만6천 단어 블로그에서 '뉴럴넷 뉴런의 90%는 해석 가능하다'고 주장했다. AI 해석가능성 분야를 뒤흔든 이 선언을 놓고 딥마인드·스탠퍼드 연구자들이 즉각 반박에 나섰다.",
+      "image": "https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-21-openai-google-cloud-model-garden.md",
+      "title": "오픈AI, 구글 클라우드서 GPT-6·Codex 판매 — 3대 클라우드 모두 진출 완료",
+      "category": "AI",
+      "date": "2026-10-21",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216500",
+      "description": "오픈AI가 구글 클라우드 Model Garden을 통해 GPT-6 시리즈와 코딩 에이전트 Codex를 기업 고객에게 판매하기로 했다. 올해 4월 마이크로소프트 독점 계약 종료 후 AWS에 이어 구글까지, 3대 하이퍼스케일러 모두에서 오픈AI 모델을 구매할 수 있게 됐다.",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-21-microsoft-guardian-agents-insider-threat.md",
+      "title": "MS '프론티어 AI는 신뢰할 수 없다' — 가디언 에이전트로 AI를 AI가 감시하는 시대",
+      "category": "AI",
+      "date": "2026-10-21",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216425",
+      "description": "마이크로소프트가 기업 내부 AI 에이전트를 '믿을 수 없는 내부자'로 규정하고, 이를 24시간 감시하는 Guardian Agents를 공개했다. 출처와 무관하게 모든 프론티어 모델은 신뢰할 수 없다는 선언이 업계에 파장을 일으키고 있다.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-21-samsung-skhynix-supermicro-surge.md",
+      "title": "슈퍼마이크로 서프라이즈에 삼성·하이닉스 5~6% 급등 — AI 수요 여전히 견고",
+      "category": "경제·주식",
+      "date": "2026-10-21",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026102150796",
+      "description": "AI 서버 업체 슈퍼마이크로가 1분기 매출 전망을 185~195억 달러로 상향하자 국내 반도체주가 일제히 반등했다. 삼성전자 5.67%, SK하이닉스 5.81% 상승, 코스피 매수 사이드카도 발동됐다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

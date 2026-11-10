@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-10-ai-agent-persistent-memory.md",
+      "title": "AI 에이전트, 드디어 '진짜 기억'을 갖기 시작했다",
+      "category": "AI",
+      "date": "2026-11-10",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/08/1121847/ai-agents-persistent-memory-long-term-recall/",
+      "description": "컨텍스트 윈도우 밖으로 대화가 넘어가면 AI는 모든 걸 잊는다 — 이 한계가 무너지고 있다. 새로운 장기 메모리 아키텍처가 에이전트를 연속적 존재로 바꾸고 있다.",
+      "image": "https://picsum.photos/seed/2026-11-10-ai-agent-persistent-memory/800/500"
+    },
+    {
+      "filename": "2026-11-10-lg-exaone-4-reasoning-model.md",
+      "title": "LG AI연구원, 엑사원 4.0 공개 — 수학·코딩 추론 성능 국내 최고 주장",
+      "category": "AI",
+      "date": "2026-11-10",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=219584",
+      "description": "LG AI연구원이 추론 특화 모델 엑사원(EXAONE) 4.0을 공개했다. MATH-500 벤치마크에서 92.4%, 코딩 평가에서 국내 모델 중 1위를 주장했다. 경량 버전은 오픈소스로 공개된다.",
+      "image": "https://picsum.photos/seed/2026-11-10-lg-exaone-4-reasoning-model/800/500"
+    },
+    {
+      "filename": "2026-11-10-korea-ai-safety-institute-first-evaluation.md",
+      "title": "한국 AI 안전연구소, 첫 고위험 AI 평가 결과 공개 — 7개 모델 중 2개 '개선 필요'",
+      "category": "AI",
+      "date": "2026-11-10",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=43180",
+      "description": "과기정통부 산하 한국 AI 안전연구소가 국내외 주요 AI 모델 7개를 대상으로 한 첫 공식 안전성 평가 결과를 발표했다. 2개 모델이 '개선 필요' 판정을 받았으며, 해당 개발사는 6개월 내 개선 계획을 제출해야 한다.",
+      "image": "https://picsum.photos/seed/2026-11-10-korea-ai-safety-institute-first-evaluation/800/500"
+    },
+    {
+      "filename": "2026-11-10-nvidia-q3-fy2027-earnings-hbm-stocks.md",
+      "title": "엔비디아 3분기 호실적에 국내 HBM 공급사 동반 상승 — HBM4E 수요 전망 본격화",
+      "category": "경제·주식",
+      "date": "2026-11-10",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026110867890",
+      "description": "엔비디아가 3분기(FY2027) 매출 453억 달러, 영업이익률 62%를 기록하며 시장 예상치를 상회했다. 차기 HBM4E 발주 확대 소식에 국내 HBM 공급사 주가가 장중 급등했다.",
+      "image": "https://picsum.photos/seed/2026-11-10-nvidia-q3-fy2027-earnings-hbm-stocks/800/500"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

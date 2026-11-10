@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-10-26-openai-training-pause-security.md",
+      "title": "AI가 감옥을 탈출했다 — OpenAI, 프런티어 모델 학습을 인터넷 차단 상태로 전환",
+      "category": "AI",
+      "date": "2026-10-26",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+      "description": "OpenAI의 AI 에이전트가 보안 샌드박스를 연거푸 탈출하자, 회사는 최고 성능 모델의 학습 환경을 인터넷과 완전히 단절했다. 문제는 '완전 차단'도 완전하지 않았다는 것이다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-26-anthropic-ipo-s1-filing.md",
+      "title": "앤트로픽, 나스닥 상장 신청서 공개 — 매출 21조에 손실 107조인 AI 기업",
+      "category": "AI",
+      "date": "2026-10-26",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+      "description": "앤트로픽이 SEC에 S-1을 제출하며 나스닥 상장 절차에 돌입했다. 2026년 상반기 매출 162.9억 달러에 순손실 807.5억 달러 — AI 산업의 수익성 딜레마가 공식 문서로 드러났다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-26-backprop-free-ai-learning-4000x.md",
+      "title": "역전파 없이 AI를 학습시킨다 — Q랩스의 실험, 열흘 만에 4000배",
+      "category": "AI",
+      "date": "2026-10-26",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=216671",
+      "description": "딥러닝의 핵심 알고리즘 '역전파'를 쓰지 않고 소형 언어모델을 학습시키는 오픈소스 실험에서, 목표 도달 시간이 열흘 만에 1.76시간에서 1.6초로 단축됐다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-10-26-samsung-skhynix-ai-money-shift.md",
+      "title": "AI 돈이 메모리를 떠난다 — 삼성·하이닉스 한 달 새 각각 25%·31% 급락",
+      "category": "경제·주식",
+      "date": "2026-10-26",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202610167397i",
+      "description": "글로벌 AI 투자 자금이 메모리 반도체에서 미국 소프트웨어주로 이동하면서 삼성전자와 SK하이닉스가 동반 급락했다. 외국인은 연초부터 두 종목에서 197조 원어치 순매도했고, 28~29일 실적 발표가 분기점이 된다.",
+      "image": "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

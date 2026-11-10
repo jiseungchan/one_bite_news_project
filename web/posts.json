@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-09-mit-ai-climate-not-proven.md",
+      "title": "AI가 기후 위기를 해결한다는 주장, 아직 증거가 없다",
+      "category": "AI",
+      "date": "2026-11-09",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "description": "AI가 기후 변화 해결에 기여할 것이라는 기대가 커지고 있지만, MIT 테크 리뷰 분석에 따르면 실제 기업들의 도입과 성과 보고는 극히 미미하다. '가능성'과 '현실' 사이의 간극이 여전히 크다.",
+      "image": "https://images.unsplash.com/photo-1569163139599-0f4517e36f51?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-09-openai-gpt6-cyber-security.md",
+      "title": "오픈AI, 사이버보안 특화 'GPT-6 사이버' 공개 — 취약점 공격 성공률 48.5%",
+      "category": "AI",
+      "date": "2026-11-09",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+      "description": "오픈AI가 사이버보안 전용 AI 'GPT-6 사이버'를 공개했다. 실제 취약점 공격 성공률 48.5%, 파이어폭스 미공개 취약점 81건 발견. 위험 등급은 역대 최초로 'Critical'로 상향됐다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-09-samsung-ai-glasses-launch.md",
+      "title": "삼성 첫 AI 안경, 미국서 12일 사전예약 — 젠틀몬스터·워비파커 디자인",
+      "category": "AI",
+      "date": "2026-11-09",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+      "description": "삼성전자가 구글·퀄컴과 함께 만든 첫 AI 안경이 미국에서 11월 12일 사전예약을 시작한다. 젠틀몬스터와 워비파커가 각각 디자인을 맡아 패션 디바이스로 접근한 것이 특징이다.",
+      "image": "https://images.unsplash.com/photo-1574258495973-f010dfbb5371?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-09-kospi-semiconductor-ai-valuation-drop.md",
+      "title": "코스피 반도체주 급락 — AI 수익성 우려에 삼성전자·SK하이닉스 직격탄",
+      "category": "경제·주식",
+      "date": "2026-11-09",
+      "source": "비즈워치",
+      "sourceUrl": "https://news.bizwatch.co.kr/article/market/2026/11/03/0005",
+      "description": "11월 초 AI 수익성 우려가 재점화되면서 코스피가 3~6%대 급락했다. 삼성전자는 한때 19만 원 선도 붕괴, SK하이닉스는 장중 107만 원까지 밀렸다. 증권가는 '수급 충격'으로 분류하며 반도체 중장기 전망은 유지했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

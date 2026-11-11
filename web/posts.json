@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-11-openai-q3-revenue-10b.md",
+      "title": "오픈AI 3분기 매출 100억 달러 돌파 — 전년 대비 50% 급등, 적자 연구소에서 현금 창출 엔진으로",
+      "category": "AI",
+      "date": "2026-11-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+      "description": "오픈AI 2026년 3분기 매출이 전년 동기 대비 약 50% 급증해 100억 달러(약 14조 원)를 돌파했다. GPT-5·6 연속 출시 이후 기업용 수요가 임계점을 넘어선 결과다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-11-anthropic-ipo-presale-premium.md",
+      "title": "앤트로픽 상장 전 주식, 프리미엄 붙여 거래됐다 — IPO 직전 세컨더리 마켓의 신호",
+      "category": "AI",
+      "date": "2026-11-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium",
+      "description": "앤트로픽의 기존 투자자들이 상장 전 보유 주식을 프리미엄을 붙여 세컨더리 마켓에서 판매하고 있다. IPO를 앞두고 초기 투자자들이 차익 실현에 나서는 패턴이 나타났다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-11-cohere-ai-compute-shortage.md",
+      "title": "엔비디아가 투자한 Cohere, 정작 GPU가 없어 싸운다 — AI 컴퓨팅 쟁탈전의 역설",
+      "category": "AI",
+      "date": "2026-11-11",
+      "source": "Bloomberg Technology",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-backed-cohere-in-a-fight-to-secure-ai-computing-power",
+      "description": "엔비디아가 투자한 기업용 AI 스타트업 Cohere가 AI 추론과 훈련에 필요한 컴퓨팅 파워를 확보하기 위해 고군분투하고 있다. 기업가치 $25B에 달하는 회사도 GPU 부족에서 자유롭지 않다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-11-korea-bond-collusion-fine.md",
+      "title": "국고채 담합 금융사 15곳에 1.6조 과징금 — 국내 금융 역사상 최대 제재",
+      "category": "경제·주식",
+      "date": "2026-11-11",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/economy/12205252",
+      "description": "공정거래위원회가 국고채 거래에서 담합한 15개 금융사에 1조 6,000억 원의 과징금을 부과했다. 국내 단일 사건 역대 최대 규모다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

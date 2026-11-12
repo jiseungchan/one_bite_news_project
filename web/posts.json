@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-12-multi-agent-enterprise-shift.md",
+      "title": "멀티에이전트 AI, 기업 소프트웨어를 바꾼다 — 단일 AI에서 팀 AI로",
+      "category": "AI",
+      "date": "2026-11-12",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/08/multi-agent-systems-enterprise-transformation/",
+      "description": "2026년 기업 AI 도입의 패러다임이 바뀌었다. 단일 모델에 질문하는 방식에서 역할이 나뉜 AI 에이전트들이 협업하는 멀티에이전트 시스템으로 전환이 가속화되고 있다. 포춘 500대 기업 중 38%가 이미 프로덕션 환경에서 운영 중이다.",
+      "image": "https://picsum.photos/seed/2026-11-12-multi-agent-enterprise-shift/800/500"
+    },
+    {
+      "filename": "2026-11-12-rebellions-series-d-atom3.md",
+      "title": "리벨리온, 1조 원 시리즈 D 유치 — 국산 AI 칩 '아톰3'로 북미 클라우드 직접 공략",
+      "category": "AI",
+      "date": "2026-11-12",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215832",
+      "description": "국내 AI 반도체 팹리스 리벨리온이 1조 원 규모 시리즈 D 투자를 유치했다. 3세대 AI 추론 칩 '아톰3'를 앞세워 아마존 AWS, 마이크로소프트 애저 공급을 위한 미국 사무소를 연내 개설할 예정이다.",
+      "image": "https://picsum.photos/seed/2026-11-12-rebellions-series-d-atom3/800/500"
+    },
+    {
+      "filename": "2026-11-12-korea-ai-safety-oecd-standard.md",
+      "title": "과기부, AI 안전성 평가 국제 표준화 추진 — OECD와 공동 가이드라인 2027년 시행",
+      "category": "AI",
+      "date": "2026-11-12",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=43478",
+      "description": "과학기술정보통신부가 AI 안전성 평가 체계를 국제 표준으로 연결하는 로드맵을 발표했다. OECD AI 정책 관측소와 공동으로 고위험 AI 평가 가이드라인을 개발하고, 2027년부터 한국 AI 기본법과 연동 시행한다.",
+      "image": "https://picsum.photos/seed/2026-11-12-korea-ai-safety-oecd-standard/800/500"
+    },
+    {
+      "filename": "2026-11-12-hbm5-nvidia-skhynix-samsung-stocks.md",
+      "title": "HBM5 선점 경쟁 불붙다 — 엔비디아 차세대 AI GPU 채택, SK하이닉스·삼성 주가 엇갈려",
+      "category": "경제·주식",
+      "date": "2026-11-12",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/finance/article/2026111201128",
+      "description": "엔비디아가 2027년 출시 예정인 차세대 AI GPU에 HBM5(5세대 고대역폭 메모리) 사용을 공식화했다. SK하이닉스가 단독 1차 공급사로 선정되면서 양사 주가는 엇갈린 흐름을 보였다.",
+      "image": "https://picsum.photos/seed/2026-11-12-hbm5-nvidia-skhynix-samsung-stocks/800/500"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

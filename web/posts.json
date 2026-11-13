@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-13-neuromorphic-chips-ai-inference.md",
+      "title": "AI 추론이 에너지를 먹는다 — 뉴로모픽 칩이 LLM 추론 비용 구조를 뒤집는다",
+      "category": "AI",
+      "date": "2026-11-13",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/10/1142081/neuromorphic-chips-llm-inference-energy/",
+      "description": "챗GPT 한 번의 답변에 구글 검색 10배의 전력이 든다. MIT 리뷰가 조명한 뉴로모픽 칩은 이 방정식을 100분의 1로 바꾸려 한다. Intel Loihi 3와 IBM NorthPole이 그 가능성을 보여줬다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-13-openai-chatgpt-memory-upgrade.md",
+      "title": "챗GPT, 1년치 대화를 기억한다 — 오픈AI '퍼스널 AI' 시대 선언",
+      "category": "AI",
+      "date": "2026-11-13",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=214823",
+      "description": "오픈AI가 챗GPT 메모리 기능을 대폭 강화해 최대 365일간 개인화 맥락을 유지하는 '메모리 2.0'을 출시했다. 대화가 끊겨도 AI가 기억을 이어가는 세상 — 개인 AI 비서의 개념이 근본적으로 바뀐다.",
+      "image": "https://picsum.photos/seed/2026-11-13-chatgpt-memory/800/500"
+    },
+    {
+      "filename": "2026-11-13-korea-ai-semiconductor-roadmap-2028.md",
+      "title": "과기부, 'K-AI 반도체 2단계 로드맵' 발표 — 2028년까지 국산 AI 가속기 개발에 2조 투입",
+      "category": "AI",
+      "date": "2026-11-13",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=42156",
+      "description": "과학기술정보통신부가 엔비디아 의존도를 낮추기 위한 'K-AI 반도체 2단계 로드맵'을 발표했다. 2028년까지 국산 AI 가속기 개발에 국가 R&D 예산 2조 원을 투입하며, 삼성·SK하이닉스·국내 AI 반도체 스타트업이 컨소시엄을 꾸린다.",
+      "image": "https://picsum.photos/seed/2026-11-13-korea-ai-semiconductor/800/500"
+    },
+    {
+      "filename": "2026-11-13-samsung-hbm5-nvidia-rubin-stock.md",
+      "title": "삼성전자, 엔비디아 루빈 HBM5 공급 유력 — 증권가 목표주가 최고 13만 원",
+      "category": "경제·주식",
+      "date": "2026-11-13",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026111301254",
+      "description": "삼성전자가 엔비디아 차세대 GPU 플랫폼 '루빈(Rubin)'용 HBM5(5세대 고대역폭 메모리) 주요 공급업체로 최종 선정될 가능성이 높아지면서, 국내 증권사들이 목표주가를 일제히 상향 조정했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

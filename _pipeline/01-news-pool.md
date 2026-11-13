@@ -1,33 +1,48 @@
 # 뉴스 풀
-수집일: 2026.05.12
-소스: MIT Technology Review + 인공지능신문 + AI타임스 + CNBC + Science Daily
+수집일: 2026.11.13
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-05-05 ~ 2026-05-12, 7일 이내)
+## 중복 방지 — 기발행 주제 제외 목록
 
-| # | 제목 | 카테고리 | 출처 | 날짜 | URL |
-|---|------|---------|------|------|-----|
-| 1 | MIT Technology Review — AI 최신 기사 | AI | MIT Technology Review | 05.12 | https://www.technologyreview.com/topic/artificial-intelligence/feed/ |
-| 2 | 인공지능신문 — AI/테크 최신 기사 A | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 3 | 인공지능신문 — AI/테크 최신 기사 B | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 4 | CNBC / 경제 — 주식 영향도 높은 기사 | 경제·주식 | CNBC | 05.12 | https://www.cnbc.com/technology/ |
+- 자율 코딩 에이전트 (2026-10-12)
+- 한국 AI 기본법 시행령 (2026-10-12)
+- 네이버 하이퍼클로바X 엔터프라이즈 (2026-10-12)
+- SK하이닉스 Q3 HBM5 실적 (2026-10-12)
+- AI 데이터센터 전력·세수 (2026-10-18)
+- CXMT 쇼크·KOSPI (2026-10-18)
+- 로봇공학 현실 점검 (2026-10-18)
 
-## 선택 기사 — 자동 선택 알고리즘 적용 (오늘 기준: 2026-05-12)
+---
 
-### 중복 방지 확인
-기발행 주제 (제외 대상):
-- anthropic (claude4, series-f) — 발행됨
-- meta (q1-earnings, ai-app-launch) — 발행됨
-- nvidia (agentiq) — 발행됨
-- skhynix (hbm4e-development) — 발행됨
-- microsoft (cloud-ai-earnings) — 발행됨
-- tsmc (arizona-fab2-delay) — 발행됨
-- openai (reasoning-hallucination) — 발행됨
+## 수집 결과 풀
 
-### 최종 선택 4건 (researcher-writer가 fetch 후 확정)
+| # | 제목 | 출처 | 발행일 | 점수 | 선택 |
+|---|------|------|--------|------|------|
+| 1 | Neuromorphic chips are finally tackling the AI energy crisis | MIT Technology Review | 2026-11-10 | 93 | ✅ 고정 |
+| 2 | 오픈AI, 챗GPT '메모리 2.0' 출시 — 1년치 대화 기억 보존 | AI타임스 | 2026-11-12 | 87 | ✅ 선택 |
+| 3 | 과기부, K-AI 반도체 2단계 로드맵 발표 — 국산 가속기 2028년까지 | 인공지능신문 | 2026-11-12 | 82 | ✅ 선택 |
+| 4 | 삼성전자, 엔비디아 루빈 HBM5 공급 유력 — 증권가 목표주가 최고 13만 원 | 한국경제 | 2026-11-13 | 88 | ✅ 선택 (경제·주식 쿼터) |
+| 5 | LG전자, 가정용 AI 로봇 허브 사전예약 시작 | AI타임스 | 2026-11-11 | 76 | — 대기 |
+| 6 | 중국 바이두, 어니 5.0 발표 — 멀티모달 추론 GPT-5 수준 주장 | 인공지능신문 | 2026-11-12 | 74 | — 대기 |
 
-| # | 카테고리 | 소스 우선순위 | 지침 |
-|---|---------|------------|------|
-| 1 | AI | MIT Tech Review → technologyreview.com/topic/artificial-intelligence/feed/ | 최신 1건. 403 시 Science Daily로 대체 |
-| 2 | AI | 인공지능신문 aitimes.kr/rss/allArticle.xml | 최신 AI 기사 1건 |
-| 3 | AI | AI타임스 aitimes.com/rss/allArticle.xml | 최신 AI 기사 1건. 403 시 인공지능신문 추가 기사 |
-| 4 | 경제·주식 | CNBC cnbc.com/technology → 한국경제 hankyung.com | 주식 영향도 높은 테크/AI 종목 관련 기사 |
+---
+
+## 자동 선택 결과
+
+- **MIT Tech Review 고정**: #1 (뉴로모픽 칩 AI 추론 에너지 혁명)
+- **AI/테크 선택**: #2 (챗GPT 메모리 2.0), #3 (K-AI 반도체 로드맵)
+- **경제·주식 쿼터**: #4 (삼성전자 HBM5 주가 전망)
+- **총 4건 확정**
+
+---
+
+## 점수 산정 메모
+
+| 기사 | 시의성(40) | 주제일치도(35) | 소스신뢰도(25) | 합계 |
+|------|-----------|--------------|--------------|------|
+| #1 MIT 뉴로모픽 | 35 | 35 | 23 | 93 |
+| #4 삼성 HBM5 | 40 | 30 | 18 | 88 |
+| #2 챗GPT 메모리 | 38 | 30 | 19 | 87 |
+| #3 K-AI 반도체 | 35 | 29 | 18 | 82 |
+| #5 LG 로봇 허브 | 32 | 25 | 19 | 76 |
+| #6 바이두 어니 5.0 | 35 | 22 | 17 | 74 |

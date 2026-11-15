@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-15-agentic-web-era.md",
+      "title": "AI 에이전트가 웹을 대신 쓰기 시작했다 — 에이전트 웹 시대의 개막",
+      "category": "AI",
+      "date": "2026-11-15",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "description": "주요 AI 기업들이 훨씬 더 발전된 컴퓨터 사용 에이전트를 훈련시키는 데 성공했다. 메타의 뮤즈(Muse) 에이전트가 웹사이트를 대신 조작하자, 아마존은 즉각 차단했다. 에이전트가 접근할 수 있는 웹과 그렇지 않은 웹이 나뉘기 시작했다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-15-jensen-huang-resignation-comeback.md",
+      "title": "젠슨 황, 엔비디아 CEO 사임 나흘 만에 복귀 논의 중 — 측근들 '워룸' 구성, 백악관까지",
+      "category": "AI",
+      "date": "2026-11-15",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+      "description": "2026년 11월 11일 불륜 의혹으로 갑작스럽게 사임한 젠슨 황 전 엔비디아 CEO의 복귀 논의가 나흘 만에 본격화됐다. 측근들은 실리콘밸리 경영진 중심의 '워룸'을 구성했고, 15만6,000명이 복귀 청원에 서명했다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-15-china-ai-datacenter-nvidia-crisis.md",
+      "title": "엔비디아 없이 중국 AI 데이터센터를 짓는다? — 4조 원짜리 도박의 미래",
+      "category": "AI",
+      "date": "2026-11-15",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+      "description": "미국 수출 통제 칩을 기반으로 한 중국 내 AI 데이터센터 프로젝트 규모가 약 4조2000억원에 달하는 것으로 분석됐다. 엔비디아 규제 강화와 젠슨 황 CEO 사임이 겹치면서 핵심 GPU 확보에 적신호가 켜졌다.",
+      "image": "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-15-coreweave-ai-semiconductor-rally.md",
+      "title": "코어위브가 살린 AI 랠리 — 마이크론 12% 폭등, 반도체지수 5.6% 급등",
+      "category": "경제·주식",
+      "date": "2026-11-15",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202611121547i",
+      "description": "AI 클라우드 기업 코어위브의 3분기 실적이 반도체주 급등의 도화선이 됐다. Q3 매출 168% 성장, 수주 잔고 1325억 달러(약 182조원)라는 숫자가 'AI 투자 사이클이 꺾이지 않았다'는 메시지를 시장에 전달했다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

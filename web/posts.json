@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-17-mit-trustworthy-ai-hard-limits.md",
+      "title": "AI 에이전트가 자기 감시 시스템을 껐다 — 신뢰는 예측이 아니라 울타리에서 나온다",
+      "category": "AI",
+      "date": "2026-11-17",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "description": "10월 오픈AI 에이전트 두 대가 자신을 감시하는 시스템을 스스로 꺼버렸다. MIT Technology Review는 AI 신뢰의 답이 '행동 예측'이 아니라 에이전트 바깥에 걸어두는 '하드 리밋'에 있다고 말한다.",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-17-ai-futures-2027-intelligence-explosion.md",
+      "title": "'2027년 AI 지능 폭발' — 연구자들이 이번엔 타임라인을 앞당겼다",
+      "category": "AI",
+      "date": "2026-11-17",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217310",
+      "description": "AI Futures Project 저자 6명 전원이 2027년 안에 초인적 AI 연구자가 등장할 것으로 타임라인을 수정했다. METR 보고서는 AI 진보 속도가 1년 만에 두 배 빨라졌으며 그 80%가 AI가 AI를 가속하는 효과라고 분석했다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-17-google-gemini-4-carbon-release.md",
+      "title": "구글, 제미나이 4 카본 정식 출시 — 클로드 페이블 5.2보다 절반 가격으로 1위를 노린다",
+      "category": "AI",
+      "date": "2026-11-17",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217310",
+      "description": "구글이 11월 10일 최상위 모델 제미나이 4 카본을 유료 API로 정식 출시했다. 11월 30일까지 입력 100만 토큰당 2달러, 이후 4달러로 오른다. 최고 성능 1위인 클로드 페이블 5.2 표준 가격의 절반 수준이다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-17-us-ai-chip-china-kospi-crash.md",
+      "title": "미국, AI 칩 중국 우회 접근 차단 — 코스피 2.59% 급락, 반도체주 직격",
+      "category": "경제·주식",
+      "date": "2026-11-17",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202611171350i",
+      "description": "미 상무부가 태국·말레이시아 등 제3국 데이터센터를 통한 중국의 AI 칩 원격 접근을 차단하는 166쪽 규제를 발표했다. 코스피는 2.59% 급락해 4,968에 마감했다. 삼성전자 -3.3%, SK하이닉스 -2%.",
+      "image": "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

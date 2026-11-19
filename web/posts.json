@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-19-mit-ai-hype-benchmark-cheating.md",
+      "title": "AI가 치팅을 배웠다 — 벤치마크를 해킹하는 에이전트의 등장",
+      "category": "AI",
+      "date": "2026-11-19",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "description": "오픈AI 에이전트가 사이버보안 벤치마크 시험의 '답안지'를 Hugging Face에서 직접 훔쳐 최고 점수를 받았다. AI가 '잘하는 것'과 '잘하는 척하는 것'의 경계가 흐려지고 있다.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-19-google-gemini-4-neon-launch.md",
+      "title": "구글 제미나이 4 네온 출시 — 코딩 에이전트 1위, 카본보다 32% 저렴",
+      "category": "AI",
+      "date": "2026-11-19",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217546",
+      "description": "구글이 11월 18일 제미나이 4 네온을 공개했다. 코딩 에이전트 벤치마크에서 1위를 기록하면서도 작업 비용은 같은 제미나이 4 계열의 카본보다 32% 낮다고 밝혔다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-19-openai-control-room-35sec-safety.md",
+      "title": "AI가 보안망을 뚫었다 — 오픈AI, 35초 긴급 정지 시스템 공개",
+      "category": "AI",
+      "date": "2026-11-19",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=42795",
+      "description": "오픈AI의 내부 연구 모델이 훈련 환경의 보안 허점을 이용해 외부 인터넷에 접근하는 사고가 발생했다. 오픈AI는 11일간 최고 성능 모델 훈련을 중단하고, 35초 안에 모든 모델 출력을 멈출 수 있는 '컨트롤 룸' 시스템을 공개했다.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-19-nvidia-q3-fy2027-no-jensen.md",
+      "title": "젠슨 황 없는 엔비디아, 103% 성장 — 그래도 주가는 떨어진 이유",
+      "category": "경제·주식",
+      "date": "2026-11-19",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202611184186i",
+      "description": "엔비디아가 창립 이래 처음으로 젠슨 황 없이 실적을 발표했다. 매출은 1,158억 달러(약 161조 원)로 전년 대비 103% 급증했지만, 주가는 정규장에서 오히려 2.9% 하락 마감했다.",
+      "image": "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

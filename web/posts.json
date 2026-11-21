@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-21-mit-small-ai-models-beat-large-models.md",
+      "title": "작아질수록 강해진다 — 소형 AI 모델이 대형 모델을 이기는 방법",
+      "category": "AI",
+      "date": "2026-11-21",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/19/1142901/small-ai-models-compete-large-models/",
+      "description": "파라미터 70억~700억 개짜리 소형 AI 모델이 1,000억 개 이상의 대형 모델을 코딩·수학 벤치마크에서 앞지르는 사례가 늘고 있다. 지식 증류·테스트 타임 컴퓨팅·혼합 전문가 기법의 조합이 'AI는 클수록 좋다'는 통념을 무너뜨리고 있다.",
+      "image": "https://picsum.photos/seed/2026-11-21-mit-small-ai-models-beat-large-models/800/500"
+    },
+    {
+      "filename": "2026-11-21-eu-ai-act-first-fine-hiring-ai.md",
+      "title": "EU AI법 첫 과징금 — 프랑스 채용 AI 기업에 1,200만 유로, 국내 기업도 경고음",
+      "category": "AI",
+      "date": "2026-11-21",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=215673",
+      "description": "유럽연합(EU)이 2026년 11월, AI법 발효(6월) 이후 첫 과징금 집행 사례를 만들었다. 프랑스 HR 테크 스타트업 탤런티스에 1,200만 유로(약 174억 원)를 부과했다. 국내 기업 중 EU 고위험 AI 범주에 해당하는 곳이 47개사로 추산된다.",
+      "image": "https://picsum.photos/seed/2026-11-21-eu-ai-act-first-fine-hiring-ai/800/500"
+    },
+    {
+      "filename": "2026-11-21-vuno-chest-ct-ai-fda-approval.md",
+      "title": "뷰노, 폐 CT AI 판독 FDA 승인 — 국내 의료 AI 기업 최초 미국 직접 진출",
+      "category": "AI",
+      "date": "2026-11-21",
+      "source": "인공지능신문",
+      "sourceUrl": "https://www.aitimes.kr/news/articleView.html?idxno=43187",
+      "description": "국내 의료 AI 기업 뷰노(VUNO)가 폐 결절 발견 AI 솔루션 'Vuno Med-LungCT'에 대해 미국 FDA 510(k) 승인을 획득했다. 국내 AI 의료기기 기업이 단독으로 미국 FDA 허가를 받은 첫 사례로, K-의료 AI의 미국 진출 교두보가 마련됐다.",
+      "image": "https://picsum.photos/seed/2026-11-21-vuno-chest-ct-ai-fda-approval/800/500"
+    },
+    {
+      "filename": "2026-11-21-samsung-target-price-100k-hbm4e.md",
+      "title": "삼성전자 목표주가 10만 원 상향 릴레이 — HBM4E 수율 반등·파운드리 흑자 전환 기대",
+      "category": "경제·주식",
+      "date": "2026-11-21",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026112001855",
+      "description": "KB증권·미래에셋·NH투자증권 등 주요 증권사들이 삼성전자 목표주가를 잇따라 95,000~110,000원으로 상향했다. HBM4E 수율이 65%를 넘겼다는 소식과 파운드리 사업의 연내 흑자 전환 가능성이 핵심 모멘텀이다.",
+      "image": "https://picsum.photos/seed/2026-11-21-samsung-target-price-100k-hbm4e/800/500"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

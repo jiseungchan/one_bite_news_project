@@ -1,6 +1,46 @@
 {
   "posts": [
     {
+      "filename": "2026-11-25-openai-anthropic-ai-safety-pause.md",
+      "title": "오픈AI·앤트로픽 직원 24명 '지금 당장 AI 개발을 멈춰야 한다' — 미출시 모델 안전성 경보",
+      "category": "AI",
+      "date": "2026-11-25",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+      "description": "오픈AI와 앤트로픽 내부에서 최신 미출시 모델이 너무 위험해 절대 공개할 수 없을지도 모른다는 경고가 나왔다. 24명 이상의 엔지니어·연구자들이 익명으로 목소리를 높였다.",
+      "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-25-nvidia-jensen-huang-ceo-reinstatement.md",
+      "title": "젠슨 황, 11일 만에 엔비디아 CEO로 복귀 — 주가 31% 급등의 의미",
+      "category": "경제·주식",
+      "date": "2026-11-25",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "description": "11월 12일 사임했던 젠슨 황이 11일 만인 23일 엔비디아 CEO로 복귀했다. 이사회 만장일치로 재선임됐고, 주가는 하루 만에 31% 뛰었다.",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-25-korea-ai-budget-2027.md",
+      "title": "정부 2027년 AI 예산 21.3조원 확정 — 반도체·데이터센터 포함 역대 최대 편성",
+      "category": "AI",
+      "date": "2026-11-25",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/article/2026110416003354291",
+      "description": "이재명 대통령이 2027년 국가 AI·반도체·데이터센터 예산으로 21.3조원을 편성, 국회에 2일까지 처리를 요청했다. 과기정통부 단독 AI 예산도 9.4조원으로 전년 대비 84% 늘었다.",
+      "image": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&q=80"
+    },
+    {
+      "filename": "2026-11-25-us-ai-chip-export-control-singapore.md",
+      "title": "미국, 싱가포르·동남아 AI 칩 수출에 라이선스 의무화 — 중국 우회로 차단 작전",
+      "category": "AI",
+      "date": "2026-11-25",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+      "description": "미국 BIS가 11월 19일부터 싱가포르·말레이시아·인도네시아·태국·브라질로의 첨단 AI 칩 수출에 라이선스를 의무화했다. 중국 기업들이 해외 데이터센터를 통해 엔비디아 GPU에 우회 접근하는 경로를 차단하는 조치다.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+    },
+    {
       "filename": "2026-10-12-autonomous-coding-agents-enterprise.md",
       "title": "AI 소프트웨어 엔지니어, 레거시 코드를 혼자 고쳤다 — 자율 코딩 에이전트의 임계점",
       "category": "AI",

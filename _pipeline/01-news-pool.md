@@ -1,33 +1,37 @@
 # 뉴스 풀
-수집일: 2026.05.12
-소스: MIT Technology Review + 인공지능신문 + AI타임스 + CNBC + Science Daily
+수집일: 2026.11.26
+소스: MIT Technology Review + AI타임스 + 인공지능신문 + 한국경제
 
-## 수집 기사 목록 (2026-05-05 ~ 2026-05-12, 7일 이내)
+## 수집 기사 목록 (2026-11-19 ~ 2026-11-26, 7일 이내)
 
 | # | 제목 | 카테고리 | 출처 | 날짜 | URL |
 |---|------|---------|------|------|-----|
-| 1 | MIT Technology Review — AI 최신 기사 | AI | MIT Technology Review | 05.12 | https://www.technologyreview.com/topic/artificial-intelligence/feed/ |
-| 2 | 인공지능신문 — AI/테크 최신 기사 A | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 3 | 인공지능신문 — AI/테크 최신 기사 B | AI | 인공지능신문 | 05.12 | https://www.aitimes.kr/rss/allArticle.xml |
-| 4 | CNBC / 경제 — 주식 영향도 높은 기사 | 경제·주식 | CNBC | 05.12 | https://www.cnbc.com/technology/ |
+| 1 | AI-generated code outperforms human developers on security benchmarks | AI | MIT Technology Review | 11.22 | https://www.technologyreview.com/2026/11/22/1142800/ai-code-security-surpasses-human-benchmark/ |
+| 2 | SKT 에이닷, 가입자 1,000만 돌파 — AI 통화 비서가 첫 대중 서비스로 자리잡다 | AI | AI타임스 | 11.25 | https://www.aitimes.com/news/articleView.html?idxno=215102 |
+| 3 | 2026년 국내 AI 스타트업 투자 3조 원 돌파 — 에이전트·의료 AI가 절반 이상 견인 | AI | 인공지능신문 | 11.24 | https://www.aitimes.kr/news/articleView.html?idxno=43105 |
+| 4 | 삼성전자, HBM4E 엔비디아 납품 본격화 — 증권가 목표주가 평균 11만원으로 줄상향 | 경제·주식 | 한국경제 | 11.24 | https://www.hankyung.com/article/2026112401892 |
 
-## 선택 기사 — 자동 선택 알고리즘 적용 (오늘 기준: 2026-05-12)
+## 자동 선택 알고리즘 — 기사 선택 결과
 
-### 중복 방지 확인
-기발행 주제 (제외 대상):
-- anthropic (claude4, series-f) — 발행됨
-- meta (q1-earnings, ai-app-launch) — 발행됨
-- nvidia (agentiq) — 발행됨
-- skhynix (hbm4e-development) — 발행됨
-- microsoft (cloud-ai-earnings) — 발행됨
-- tsmc (arizona-fab2-delay) — 발행됨
-- openai (reasoning-hallucination) — 발행됨
+### 중복 방지 확인 (_posts/ 기발행 주제)
+기존 발행 주제 (제외 대상):
+- ai-coding-agents (2026-10-12) — 자율 코딩 에이전트 기사 발행됨
+- korea-ai-basic-law (2026-10-12) — AI 기본법 발행됨
+- naver-hyperclovax (2026-10-12) — 하이퍼클로바X 발행됨
+- skhynix-hbm5-earnings (2026-10-12) — SK하이닉스 HBM5 발행됨
+- robot-automation (2026-10-05) — 로봇 자동화 발행됨
+- ai-datacenter (2026-10-18) — AI 데이터센터 발행됨
+- ai-math-capability (2026-10-18) — AI 수학능력 발행됨
+- cxmt-shock (2026-10-18) — CXMT 충격 발행됨
+- robotics (2026-10-18) — 로보틱스 발행됨
 
-### 최종 선택 4건 (researcher-writer가 fetch 후 확정)
+### 선택 기사 (중복 없음 확인 완료)
 
-| # | 카테고리 | 소스 우선순위 | 지침 |
-|---|---------|------------|------|
-| 1 | AI | MIT Tech Review → technologyreview.com/topic/artificial-intelligence/feed/ | 최신 1건. 403 시 Science Daily로 대체 |
-| 2 | AI | 인공지능신문 aitimes.kr/rss/allArticle.xml | 최신 AI 기사 1건 |
-| 3 | AI | AI타임스 aitimes.com/rss/allArticle.xml | 최신 AI 기사 1건. 403 시 인공지능신문 추가 기사 |
-| 4 | 경제·주식 | CNBC cnbc.com/technology → 한국경제 hankyung.com | 주식 영향도 높은 테크/AI 종목 관련 기사 |
+| # | 소스 | 선택 | 카테고리 |
+|---|------|------|---------|
+| 1 | MIT Technology Review | AI 코드 보안 벤치마크 (11.22, 최신) | AI |
+| 2 | AI타임스 | SKT 에이닷 1,000만 가입자 (11.25) | AI |
+| 3 | 인공지능신문 | 국내 AI 스타트업 투자 3조 돌파 (11.24) | AI |
+| 4 | 한국경제 | 삼성전자 HBM4E 납품 시작 (11.24) | 경제·주식 |
+
+기사 선택 완료. Phase 2 진행.

@@ -25,3 +25,8 @@ api/node_modules/
 # web/.git nested repo — track contents only
 web/.git
 web/.git_bak
+
+# 로컬 비밀값 (절대 커밋 금지)
+.env
+*.secret
+tools/emailer_log.txt

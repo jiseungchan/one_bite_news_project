@@ -1,27 +1,25 @@
 # ──────────────────────────────────────────────────────────
-# emailer_config.py  — 한입뉴스 이메일 발송 설정
+# emailer_config.py  — 한입뉴스 이메일 발송 설정 (환경변수 전용)
 #
-# 이 파일을 채운 뒤 daily_emailer.py 를 실행하세요.
-# 보안 주의: 이 파일은 .gitignore 에 포함되어 있습니다.
+# 비밀값은 이 파일에 절대 적지 않는다. 저장소가 공개(public)라서
+# 파일에 적은 값은 누구나 볼 수 있다. 아래 환경변수로만 넘긴다.
+#
+#   GMAIL_SENDER        발신 Gmail 주소
+#   GMAIL_APP_PASSWORD  Google 앱 비밀번호 (myaccount.google.com/apppasswords)
+#   GMAIL_RECIPIENT     수신 주소
+#   HEISENBERG_EMAIL / HEISENBERG_PASSWORD  (비우면 Heisenberg 수집 건너뜀)
+#   ANTHROPIC_API_KEY
+#
+# 참고: 매일 아침 발송은 이제 Claude 예약 작업(Gmail 커넥터)이 맡는다.
+#       이 스크립트는 수동 실행용으로만 남겨 둔다.
 # ──────────────────────────────────────────────────────────
+import os
 
-# ── Gmail 설정 ─────────────────────────────────────────────
-# 발신 Gmail 주소 (수신도 같은 주소면 동일하게 입력)
-GMAIL_USER = "forcisco02@gmail.com"
+GMAIL_USER = os.environ.get("GMAIL_SENDER", "")
+GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
+RECIPIENT_EMAIL = os.environ.get("GMAIL_RECIPIENT", "byungkyu.lee@sk.com")
 
-# Google 앱 비밀번호 (16자리, 공백 포함 가능)
-# 발급 방법: myaccount.google.com/apppasswords
-# (2단계 인증이 먼저 활성화되어야 합니다)
-GMAIL_APP_PASSWORD = "wxsq zsfn qfda gxim"
+HEISENBERG_EMAIL = os.environ.get("HEISENBERG_EMAIL", "")
+HEISENBERG_PASSWORD = os.environ.get("HEISENBERG_PASSWORD", "")
 
-# 수신 이메일 주소
-RECIPIENT_EMAIL = "forcisco02@gmail.com"
-
-# ── Heisenberg 로그인 ────────────────────────────────────
-# 이메일+비밀번호 로그인. 비워두면 Heisenberg 수집 건너뜁니다.
-HEISENBERG_EMAIL    = "forcisco02"
-HEISENBERG_PASSWORD = "Destiny96!"
-
-# ── Claude API ────────────────────────────────────────────
-# 비워두면 환경변수 ANTHROPIC_API_KEY 를 자동으로 사용합니다
-ANTHROPIC_API_KEY = ""
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")

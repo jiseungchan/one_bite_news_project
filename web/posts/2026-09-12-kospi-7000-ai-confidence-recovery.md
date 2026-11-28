@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202609093967i"
 description: "9월 9일 코스피가 33거래일 만에 7051.64로 7000선을 탈환했다. GPT-6 아스트라가 계기가 됐고, 외국인도 K반도체를 다시 담기 시작했다. 골드만삭스는 목표 코스피 12,000을 유지했다."
+image: "https://img.hankyung.com/photo/202609/01.45621563.1.jpg"
 ---
 
 ## 배경: 7주 동안 흔들린 AI 투자 심리

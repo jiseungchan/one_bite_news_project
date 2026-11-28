@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217074"
 description: "오픈AI가 사이버보안 전용 AI 'GPT-6 사이버'를 공개했다. 실제 취약점 공격 성공률 48.5%, 파이어폭스 미공개 취약점 81건 발견. 위험 등급은 역대 최초로 'Critical'로 상향됐다."
+image: "images/cards/2026-11-09-openai-gpt6-cyber-security.svg"
 ---
 
 ## 오픈AI, 사이버보안 특화 'GPT-6 사이버' 공개 — 취약점 공격 성공률 48.5%

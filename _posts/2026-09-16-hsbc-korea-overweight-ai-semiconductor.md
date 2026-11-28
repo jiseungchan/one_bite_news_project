@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Investing.com"
 sourceUrl: "https://uk.investing.com/news/stock-market-news/hsbc-upgrades-korea-to-overweight-as-deleveraging-eases-key-risks-4838712"
 description: "HSBC가 한국 주식 투자의견을 '비중 확대(overweight)'로 상향했다. 디레버리징 완화로 핵심 리스크가 줄었다는 판단이다. 삼성전자·SK하이닉스의 HBM(고대역폭 메모리) 수혜 구조를 긍정적으로 평가했다."
+image: "images/cards/2026-09-16-hsbc-korea-overweight-ai-semiconductor.svg"
 ---
 
 ## 반도체 주가 조정의 배경

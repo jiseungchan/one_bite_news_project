@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214231"
 description: "국내 통신3사가 AI 에이전트 서비스를 각기 다른 전략으로 출시하며 경쟁이 본격화됐다. KT는 기업용 B2B, SKT는 개인 비서 중심, LGU+는 스마트홈 통합에 초점을 맞추고 있다. 같은 'AI 에이전트'를 내세우지만 노리는 시장이 전혀 다르다."
+image: "images/cards/2026-10-25-telecom3-ai-agent-competition.svg"
 ---
 
 통신3사가 모두 'AI 에이전트'를 들고 나왔다. 이름은 같지만 방향이 다르다. 같은 시장처럼 보이지만 실제로는 세 개의 다른 시장을 각각 노리고 있다.

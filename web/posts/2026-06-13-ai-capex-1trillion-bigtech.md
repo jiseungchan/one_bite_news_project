@@ -5,7 +5,7 @@ category: 경제·주식
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-06-12/big-tech-ai-infrastructure-spend-1-trillion-first-half-2026"
 description: "알파벳·마이크로소프트·아마존·메타 4사의 2026년 상반기 AI 인프라 누적 지출이 1조 달러를 돌파했다. 반도체 수혜는 엔비디아·SK하이닉스에 집중됐고, 삼성전자는 HBM 점유율 확대가 최대 과제로 남아 있다."
-image: "https://picsum.photos/seed/2026-06-13-ai-capex-1trillion-bigtech/800/500"
+image: "images/cards/2026-06-13-ai-capex-1trillion-bigtech.svg"
 ---
 
 ## 한 줄 요약

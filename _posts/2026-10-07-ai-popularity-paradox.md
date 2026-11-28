@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
 description: "전 세계 절반 이상이 AI에 불안감을 느낀다. 그런데 ChatGPT 월간 사용자는 10억 명을 돌파했다. MIT Technology Review가 이 이상한 역설을 들여다봤다."
+image: "images/cards/2026-10-07-ai-popularity-paradox.svg"
 ---
 
 ## 배경 — AI를 쓰면서 AI를 싫어하는 사람들

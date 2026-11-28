@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=32935"
 description: "EU AI법(EU AI Act)의 고위험 AI 규정이 90일 앞으로 다가왔다. 유럽에 서비스를 제공하는 한국 AI 기업들도 적용 대상이 되며, 적합성 평가·문서화·인적 감독 체계를 갖추지 못하면 전 세계 매출의 최대 3%까지 과징금을 부과받는다."
-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+image: "images/cards/2026-04-19-eu-ai-act-korea-impact.svg"
 ---
 
 ## 한 줄 요약

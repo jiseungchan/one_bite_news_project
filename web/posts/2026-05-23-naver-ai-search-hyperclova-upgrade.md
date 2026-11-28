@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211203"
 description: "네이버가 HyperCLOVA X 2.0 기반 AI 검색 서비스를 전면 개편한 이후 국내 검색 시장 점유율이 62%로 회복됐다. 생성형 AI 답변과 기존 링크 검색을 결합한 '서치 GPT' 방식이 핵심이다."
-image: "https://picsum.photos/seed/2026-05-23-naver-ai-search-hyperclova-upgrade/800/500"
+image: "images/cards/2026-05-23-naver-ai-search-hyperclova-upgrade.svg"
 ---
 
 ## 한 줄 요약

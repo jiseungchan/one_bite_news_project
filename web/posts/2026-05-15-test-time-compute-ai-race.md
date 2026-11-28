@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/14/1116312/test-time-compute-ai-reasoning-race/"
 description: "모델 크기를 키우는 대신, 추론 순간에 더 많은 연산을 쏟아붓는 방식이 AI 성능 경쟁의 새 축이 됐다. OpenAI·Google·Anthropic이 모두 이 방향으로 달리고 있다."
-image: "https://picsum.photos/seed/2026-05-15-test-time-compute-ai-race/800/500"
+image: "images/cards/2026-05-15-test-time-compute-ai-race.svg"
 ---
 
 ## 한 줄 요약

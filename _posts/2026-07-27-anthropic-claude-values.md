@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40961"
 description: "앤트로픽이 클로드 모델의 '가치관'을 측정했다. 언어와 모델 버전에 따라 AI의 성향이 달라진다는 분석이 나왔다—힌디어에서는 따뜻하고, 러시아어에서는 엄격해진다."
+image: "https://cdn.aitimes.kr/news/thumbnail/202607/40961_61724_2821_v150.jpg"
 ---
 
 AI가 가진 '가치관'을 측정할 수 있을까. 앤트로픽(Anthropic)이 2026년 7월, 자사 모델 클로드의 가치 성향을 대규모로 분석한 연구를 공개했다. 결과는 예상보다 훨씬 구체적이고 흥미로웠다.

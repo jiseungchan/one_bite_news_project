@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214879"
 description: "시진핑 중국 국가주석이 9월 24일 미국을 방문하며 대규모 CEO 대표단을 동행시킬 예정이다. 정상회담을 앞두고 미중은 9월 중순 AI 안보 분야 첫 공식 대화를 추진 중이며, AI가 지정학적 협력의 핵심 테이블에 올랐다."
-image: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202609/214879_218618_4234.jpg"
 ---
 
 ## 한 줄 요약

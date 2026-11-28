@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=39731"
 description: "국내외 물류 기업들이 AI 비전(vision) 기반 로봇 자동화를 빠르게 도입하고 있다. 단순 피킹 로봇을 넘어 AI가 재고 배치·동선 최적화까지 통합 관리하는 방향으로 진화하고 있다."
-image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&h=500&fit=crop"
+image: "images/cards/2026-06-07-ai-robotics-warehouse-automation.svg"
 ---
 
 ## 물류 창고가 AI의 가장 빠른 실험실이 됐다

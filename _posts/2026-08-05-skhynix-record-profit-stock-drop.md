@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202607291896i"
 description: "SK하이닉스가 2분기 매출 79조 3천억, 영업이익 60조 5천억 원으로 사상 최대 실적을 기록했지만 주가는 9% 넘게 폭락했다. 이익이 시장 기대치에 5% 미달한 데다 주주환원 정책이 없었기 때문이다. 'AI 투자 = 반도체 호재' 공식이 흔들리고 있다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-08-05-skhynix-record-profit-stock-drop.svg"
 ---
 
 ## 배경: '역대 최대 실적'이 왜 폭락 재료가 됐나

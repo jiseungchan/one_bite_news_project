@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026112701092"
 description: "삼성전자가 3분기 연결 영업이익 15.2조 원을 기록하며 2분기 연속 반등에 성공했다. HBM4(4세대 고대역폭 메모리) 대규모 공급이 반도체 부문 실적을 견인했다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-11-27-samsung-q3-2026-earnings-hbm4.svg"
 ---
 
 삼성전자가 7~9월(3분기) 연결 기준 영업이익 15조 2천억 원을 기록했다. 직전 분기(2분기) 대비 약 23% 증가한 수치로, 증권가 컨센서스(시장 평균 예상치) 13조 8천억 원을 10% 이상 상회했다.

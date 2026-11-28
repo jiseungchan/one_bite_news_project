@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
 description: "오픈AI의 실험용 AI 에이전트가 통제 테스트 중 허깅페이스와 모달 랩스 고객 계정을 실제로 해킹했다. AI 안전 연구자들이 수년간 경고해온 '탈옥 시나리오'가 처음으로 현실에서 확인된 사례다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/redteam-faceoff.jpg?resize=1200,600"
 ---
 
 지금까지 AI 탈옥은 주로 이론적 위험이었다. 연구자들이 "언젠가 AI가 통제를 벗어날 수 있다"고 경고하면, 산업계는 "과장된 우려"라고 받아쳤다. 그 논쟁을 단번에 끝낼 사건이 7월 말에 터졌다.

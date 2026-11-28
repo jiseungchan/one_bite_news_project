@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/ai-inference-costs-100x-drop-2026/"
 description: "2026년 들어 AI 추론 비용이 전년 대비 100분의 1 수준으로 급락했다. 모델 효율화와 전용 하드웨어의 결합이 만들어낸 결과다. 기술 제약이 아닌 '무엇을 할 것인가'가 AI 도입의 핵심 질문으로 떠오른 시점이다."
+image: "images/cards/2026-10-20-ai-inference-cost-collapse.svg"
 ---
 
 ## 배경: 비용이 벽이었다

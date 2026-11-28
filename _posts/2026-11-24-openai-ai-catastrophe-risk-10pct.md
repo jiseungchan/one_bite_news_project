@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217696"
 description: "OpenAI 재단 이사회 멤버 폴 크리스티아노가 향후 1년 내 AI가 통제를 벗어나 재앙을 일으킬 위험을 약 10%로 추산했다. 개발사들이 안전 조치 없이 전속력으로 달리면 위험은 그보다 훨씬 클 수 있다는 경고다."
+image: "https://cdn.aitimes.com/news/photo/202611/217696_222013_2044.jpg"
 ---
 
 ## 배경 — 내부에서 나온 경고

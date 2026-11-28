@@ -5,7 +5,7 @@ source: "GitHub (microsoft/agent-governance-toolkit)"
 sourceUrl: "https://github.com/microsoft/agent-governance-toolkit"
 date: 2026-07-28
 description: "마이크로소프트가 AI 에이전트의 무단 행동을 애플리케이션 레이어에서 구조적으로 차단하는 오픈소스 거버넌스 프레임워크를 공개했다. 프롬프트가 아닌 코드로 정책을 강제한다."
-image: "https://picsum.photos/seed/2026-07-28-microsoft-agent-governance-toolkit/800/500"
+image: "images/cards/2026-07-28-microsoft-agent-governance-toolkit.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213041"
 description: "카카오가 자체 AI 플랫폼 카나나에 에이전트 마켓플레이스를 추가했다. 외부 개발사가 만든 AI 에이전트가 카카오톡 사용자를 대신해 결제·예약·쇼핑을 처리할 수 있게 됐다. 카카오톡이 메신저를 넘어 에이전트 운영체제(OS)로 진화하는 분기점이다."
-image: "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&q=80"
+image: "images/cards/2026-08-01-kakao-agent-marketplace.svg"
 ---
 
 ## 한 줄 요약

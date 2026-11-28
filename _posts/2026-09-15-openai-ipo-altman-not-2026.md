@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215198"
 description: "오픈AI CEO 샘 알트먼이 2026년 내 IPO를 추진할 계획이 없다고 밝혔다. 기업가치 8,520억 달러(약 1,185조 원)의 세계 최고 가치 AI 기업이 상장을 미루는 이유로 '안전성 확보'를 내세웠다. 업계 전반의 AI 속도 조절 분위기가 배경에 있다."
+image: "https://cdn.aitimes.com/news/photo/202609/215198_218993_4639.jpg"
 ---
 
 # 샘 알트먼 "오픈AI 2026년 상장은 시기상조" — 안전성이 먼저다

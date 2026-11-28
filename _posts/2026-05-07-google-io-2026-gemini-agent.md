@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210198"
 description: "구글이 연례 개발자 콘퍼런스 I/O 2026에서 Gemini 2.5 Pro를 안드로이드·크롬·검색 전 플랫폼에 통합한다고 발표했다. AI가 앱을 대신 조작하는 '에이전트 모드'가 핵심이다."
-image: "https://picsum.photos/seed/2026-05-07-google-io-2026-gemini-agent/800/500"
+image: "images/cards/2026-05-07-google-io-2026-gemini-agent.svg"
 ---
 
 ## 한 줄 요약

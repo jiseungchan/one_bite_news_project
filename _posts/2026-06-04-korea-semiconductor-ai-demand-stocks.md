@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026060412345"
 description: "글로벌 AI 인프라 투자 확대 기대감에 국내 반도체 업종이 일제히 상승했다. 삼성전자와 SK하이닉스에 외국인 순매수가 재개됐으며, 증권가는 HBM4E 수요 가시화를 핵심 모멘텀으로 지목했다."
-image: "https://picsum.photos/seed/2026-06-04-korea-semiconductor-ai-demand-stocks/800/500"
+image: "images/cards/2026-06-04-korea-semiconductor-ai-demand-stocks.svg"
 ---
 
 ## 한 줄 요약

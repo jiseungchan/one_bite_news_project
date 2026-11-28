@@ -5,7 +5,7 @@ category: AI
 source: "Microsoft Research"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/"
 description: "마이크로소프트 리서치가 AI로 뇌의 언어 반응 메커니즘을 규명하는 프레임워크 GCT를 공개했다. LLM이 가설을 세우고 fMRI 실험으로 즉시 검증하는 방식으로, 블랙박스 AI를 검증 가능한 신경과학 이론으로 전환했다."
-image: "https://picsum.photos/seed/2026-06-25-ai-brain-mapping-gct-microsoft/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/UnderstandingtheBrain-TWLIFB-1200x627-1-scaled.jpg"
 ---
 
 ## 한 줄 요약

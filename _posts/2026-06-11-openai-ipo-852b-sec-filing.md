@@ -5,7 +5,7 @@ source: tech-insider.org
 sourceUrl: https://tech-insider.org/openai-ipo-850-billion-valuation-2026/
 date: 2026-06-11
 description: OpenAI가 SEC에 비밀 S-1을 제출하며 IPO 절차에 돌입했다. 추정 기업가치 $852B(약 1,185조 원), 주간 이용자 9억 명, 연환산 매출 $25B — 아직 적자인데도 역사상 가장 비싼 AI 기업 상장 도전이다.
-image: https://picsum.photos/seed/2026-06-11-openai-ipo-852b-sec-filing/800/500
+image: "https://tech-insider.org/wp-content/uploads/2026/06/hero-58.webp"
 ---
 
 ## 한 줄 요약

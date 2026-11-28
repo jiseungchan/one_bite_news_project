@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213452"
 description: "과학기술정보통신부가 AI 기본법 세부 시행령을 확정 발표했다. 의료·금융·교통 분야 고위험 AI 개발사는 연 1회 제3자 안전성 점검을 받아야 하며, 불이행 시 최대 매출의 3% 과징금이 부과된다."
+image: "images/cards/2026-10-12-korea-ai-basic-law-enforcement.svg"
 ---
 
 한국의 AI 규제 논의는 몇 년째 공백 상태였다. 2023년 EU가 AI법(AI Act)을 통과시키고, 미국도 행정명령을 발동하는 동안, 국내는 자율규제 원칙만 남겨둔 채 구체적인 의무 규정이 없었다.

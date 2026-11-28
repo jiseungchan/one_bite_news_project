@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026112401892"
 description: "삼성전자가 HBM4E(5세대 고대역폭 메모리) 엔비디아 납품을 11월부터 월 2만 개 규모로 시작했다. SK하이닉스가 독점해온 엔비디아 HBM 공급망에 삼성이 진입하자 주요 증권사들이 목표주가를 일제히 상향했다."
-image: "https://picsum.photos/seed/2026-11-26-samsung-hbm4e-q4-nvidia-supply/800/500"
+image: "images/cards/2026-11-26-samsung-hbm4e-q4-nvidia-supply.svg"
 ---
 
 ## 한 줄 요약

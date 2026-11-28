@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052301892"
 description: "오는 28일 엔비디아 2분기 실적 발표를 앞두고 SK하이닉스·한미반도체·이수페타시스 등 국내 AI 반도체 밸류체인 종목에 선제 매수세가 유입됐다. SK하이닉스는 장 중 3.1% 상승하며 52주 신고가를 경신했다."
-image: "https://picsum.photos/seed/2026-05-23-nvidia-earnings-preview-korean-chipmakers/800/500"
+image: "images/cards/2026-05-23-nvidia-earnings-preview-korean-chipmakers.svg"
 ---
 
 ## 한 줄 요약

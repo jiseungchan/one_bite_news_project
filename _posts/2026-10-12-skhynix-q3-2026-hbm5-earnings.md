@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026101201051"
 description: "증권가가 SK하이닉스의 3분기 영업이익을 18조 원 안팎으로 추정하고 있다. HBM5(5세대 고대역폭 메모리) 공급 본격화가 실적 상승의 핵심 변수다."
+image: "images/cards/2026-10-12-skhynix-q3-2026-hbm5-earnings.svg"
 ---
 
 2023~2024년 반도체 업황은 역대 최악의 침체기를 겪었다. DDR5 메모리 가격이 폭락하고, 메모리 3사(삼성·SK하이닉스·마이크론)의 재고가 쌓이면서 대규모 감산에 들어가야 했다.

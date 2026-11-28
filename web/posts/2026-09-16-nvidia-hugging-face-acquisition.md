@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face"
 description: "엔비디아가 9월 3일 오픈소스 AI 플랫폼 허깅페이스를 129억 달러(약 18조 원)에 인수하기로 합의했다. 1,800만 개발자가 이용하는 AI 모델 공유 허브가 칩 제국의 품으로 들어간다."
+image: "images/cards/2026-09-16-nvidia-hugging-face-acquisition.svg"
 ---
 
 ## 오픈소스 AI 허브의 탄생과 성장

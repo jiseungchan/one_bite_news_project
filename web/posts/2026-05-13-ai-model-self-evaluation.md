@@ -5,6 +5,7 @@ category: AI
 source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/05/13/1116201/ai-model-self-evaluation-trustworthy/
 description: AI 모델이 외부 검증 없이 자신의 답변 품질을 스스로 평가하는 기술이 산업 전반에 확산되고 있다. 환각률 34% 감소, 사실 정확도 13%포인트 향상 — 수치는 인상적이지만, 근본적인 한계도 함께 제기됐다.
+image: "images/cards/2026-05-13-ai-model-self-evaluation.svg"
 ---
 
 ## 한 줄 요약

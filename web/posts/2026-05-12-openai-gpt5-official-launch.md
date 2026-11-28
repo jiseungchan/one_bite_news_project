@@ -5,7 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/rss/allArticle.xml
 date: 2026-05-12
 description: OpenAI가 GPT-5를 ChatGPT와 API를 통해 동시 공개했다. GPT-4o 대비 추론 능력이 대폭 강화됐고, 텍스트·이미지·음성·코드를 단일 모델에서 처리한다.
-image: https://picsum.photos/seed/2026-05-12-openai-gpt5-official-launch/800/500
+image: "images/cards/2026-05-12-openai-gpt5-official-launch.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 코딩 에이전트들이 실제 깃허브 버그 수정 벤치마크인 SWE-bench에서 50%를 넘어섰다. 1년 전만 해도 한 자릿수였던 이 수치가 뭘 뜻하는지, 소프트웨어 엔지니어에게 어떤 의미인지를 따져봤다."
-image: "https://picsum.photos/seed/2026-05-23-ai-coding-agent-swe-benchmark/800/500"
+image: "images/cards/2026-05-23-ai-coding-agent-swe-benchmark.svg"
 ---
 
 ## 한 줄 요약

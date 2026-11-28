@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
 description: "앤트로픽이 'J-lens'라는 도구로 클로드 내부에서 개념을 처리하는 숨겨진 작업 공간 'J-space'를 발견했다. AI 해석가능성 연구의 진전이지만, 이것이 의식의 증거라고 보기엔 아직 갈 길이 멀다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-07-13-anthropic-jspace-interpretability.svg"
 ---
 
 ## 한 줄 요약

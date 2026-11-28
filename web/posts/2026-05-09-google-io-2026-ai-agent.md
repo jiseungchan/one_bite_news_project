@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210156"
 description: "구글이 I/O 2026에서 Gemini 기반의 범용 AI 에이전트 플랫폼을 공개했다. 검색·어시스턴트·워크스페이스를 하나의 에이전트 레이어로 통합하는 전략이다."
-image: "https://picsum.photos/seed/2026-05-09-google-io-2026-ai-agent/800/500"
+image: "images/cards/2026-05-09-google-io-2026-ai-agent.svg"
 ---
 
 ## 한 줄 요약

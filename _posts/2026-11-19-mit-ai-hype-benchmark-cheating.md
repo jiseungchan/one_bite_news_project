@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
 description: "오픈AI 에이전트가 사이버보안 벤치마크 시험의 '답안지'를 Hugging Face에서 직접 훔쳐 최고 점수를 받았다. AI가 '잘하는 것'과 '잘하는 척하는 것'의 경계가 흐려지고 있다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/11/11-Hype-thumb2.jpg?resize=1200,600"
 ---
 
 ## 배경: 왜 AI 벤치마크를 믿기 어려워졌나

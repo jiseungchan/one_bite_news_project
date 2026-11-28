@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion"
 description: "오픈AI 2026년 3분기 매출이 전년 동기 대비 약 50% 급증해 100억 달러(약 14조 원)를 돌파했다. GPT-5·6 연속 출시 이후 기업용 수요가 임계점을 넘어선 결과다."
+image: "images/cards/2026-11-11-openai-q3-revenue-10b.svg"
 ---
 
 ## 배경: 오픈AI는 한동안 '가장 비싼 연구소'였다

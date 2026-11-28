@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209430"
 description: "네이버가 차세대 한국어 특화 AI 모델 하이퍼클로바X 2.0을 공개했다. GPT-4 수준의 한국어 이해력을 갖추면서도 네이버 검색·쇼핑·지도 서비스와 긴밀하게 연결된 국내 최대 AI 생태계 구축을 목표로 한다."
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+image: "images/cards/2026-04-22-naver-hyperclova-x2.svg"
 ---
 
 ## 한 줄 요약

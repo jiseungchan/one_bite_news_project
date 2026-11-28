@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211020"
 description: "바이두가 자체 AI 모델 어니봇(ERNIE Bot) 5.0을 공개했다. 추론 속도와 다국어 처리 능력에서 GPT-5 수준에 도달했다고 주장하며, 중국 내 기업용 API 시장에서 빠르게 점유율을 높이고 있다."
-image: "https://picsum.photos/seed/2026-05-22-baidu-ernie-bot-5/800/500"
+image: "images/cards/2026-05-22-baidu-ernie-bot-5.svg"
 ---
 
 ## 한 줄 요약

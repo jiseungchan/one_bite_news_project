@@ -5,7 +5,7 @@ source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211024"
 date: 2026-05-24
 description: "OpenAI가 클라우드 기반 코딩 에이전트 'Codex'를 ChatGPT Pro·Team·Enterprise 구독자에게 공개했다. 사용자가 자연어로 작업을 지시하면 Codex가 독립적으로 코드를 작성·테스트·수정하며, 복수의 태스크를 병렬로 처리할 수 있다."
-image: "https://picsum.photos/seed/2026-05-24-openai-codex-cloud-coding-agent/800/500"
+image: "https://cdn.aitimes.com/news/photo/202605/211024_213862_4834.jpg"
 ---
 
 ## 한 줄 요약

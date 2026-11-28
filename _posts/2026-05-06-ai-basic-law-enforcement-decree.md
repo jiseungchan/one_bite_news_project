@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210155"
 description: "과기정통부가 AI 기본법 시행령 초안을 공개했다. 의료·금융·교통 등 고위험 영역 AI에 사전 적합성 평가를 의무화하고, 위반 시 최대 3억 원 과태료를 부과한다."
-image: "https://picsum.photos/seed/2026-05-06-ai-basic-law-enforcement-decree/800/500"
+image: "images/cards/2026-05-06-ai-basic-law-enforcement-decree.svg"
 ---
 
 ## 한 줄 요약

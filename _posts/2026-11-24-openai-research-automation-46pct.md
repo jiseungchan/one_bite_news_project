@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217657"
 description: "OpenAI의 AI 에이전트가 2~4시간짜리 AI 연구 작업을 스스로 끝내는 비율이 올해 4월 23%에서 11월 46%로 뛰었다. 연구자가 옆에 없어도 실험 설계부터 결과 분석까지 절반을 AI가 처리한다."
+image: "https://cdn.aitimes.com/news/photo/202611/217657_221975_1539.jpeg"
 ---
 
 ## 배경 — 연구 보조가 아니라 연구자

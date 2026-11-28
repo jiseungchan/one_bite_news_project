@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214201"
 description: "국가AI위원회 주도로 추진된 AI·반도체 통합 특별법이 국회를 통과했다. 2027년까지 연 5조 원 규모 공공 AI 투자와 민간 AI 설비 투자 세액공제 25%가 핵심 내용이다."
-image: "https://picsum.photos/seed/2026-06-06-korea-ai-semiconductor-act-2026/800/500"
+image: "images/cards/2026-06-06-korea-ai-semiconductor-act-2026.svg"
 ---
 
 ## 한 줄 요약

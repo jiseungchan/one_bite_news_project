@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/14/1116380/openai-ai-misinformation-detection/"
 description: "AI가 생성한 텍스트·이미지·오디오를 AI가 역으로 탐지하는 기술이 본격 연구 단계에 들어섰다. OpenAI가 공개한 최신 연구는 GPT 계열 모델이 생성한 콘텐츠를 97% 정확도로 식별한다고 주장하지만, 실전 적용의 한계도 함께 지적됐다."
-image: "https://picsum.photos/seed/2026-05-14-ai-misinformation-detection/800/500"
+image: "images/cards/2026-05-14-ai-misinformation-detection.svg"
 ---
 
 ## 한 줄 요약

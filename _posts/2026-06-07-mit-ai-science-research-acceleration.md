@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 description: "AI가 실험 설계부터 가설 검증까지 과학 연구 전 과정에 침투하고 있다. 논문 생산 속도는 빨라졌지만, 재현성과 신뢰성 문제라는 새로운 과제가 수면 위로 올라왔다."
-image: "https://picsum.photos/seed/2026-06-07-mit-ai-science-research-acceleration/800/500"
+image: "images/cards/2026-06-07-mit-ai-science-research-acceleration.svg"
 ---
 
 ## 한 줄 요약

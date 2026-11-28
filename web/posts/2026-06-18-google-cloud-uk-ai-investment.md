@@ -5,7 +5,7 @@ category: 경제·주식
 source: "Google Cloud Blog"
 sourceUrl: "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud"
 description: "Google Cloud가 영국에 2년간 £50억을 투자하기로 하고 HSBC와 다년간 AI 파트너십, Vodafone과 10년 $10억 계약을 동시에 발표했다. 영국 AI 시장은 2030년까지 £4,000억 경제 효과가 전망된다."
-image: "https://picsum.photos/seed/2026-06-18-google-cloud-uk-ai-investment/800/500"
+image: "images/cards/2026-06-18-google-cloud-uk-ai-investment.svg"
 ---
 
 ## 한 줄 요약

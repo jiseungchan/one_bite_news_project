@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026060389861"
 description: "글로벌 AI 데이터센터 투자가 2026년 상반기에만 전년 대비 85% 급증하면서 고대역폭 메모리(HBM) 수요가 폭발적으로 늘고 있다. SK하이닉스가 HBM4 독점 공급 체제를 구축한 가운데, 삼성전자도 HBM4 품질 인증 통과 소식에 주가가 동반 상승했다."
-image: "https://picsum.photos/seed/2026-06-03-ai-semiconductor-stock-surge/800/500"
+image: "images/cards/2026-06-03-ai-semiconductor-stock-surge.svg"
 ---
 
 ## 한 줄 요약

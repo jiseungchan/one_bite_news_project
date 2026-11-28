@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 description: "대형 AI 모델 한 번 훈련에 가정용 전력 수백 가구분이 소비된다. 데이터센터 전력 수요가 2030년까지 세 배로 뛸 것이란 전망 속에서, 업계는 효율 설계·재생에너지 조달·모델 경량화 세 방향으로 해법을 찾고 있다."
-image: "https://picsum.photos/seed/2026-05-19-ai-energy-carbon-cost/800/500"
+image: "images/cards/2026-05-19-ai-energy-carbon-cost.svg"
 ---
 
 ## 한 줄 요약

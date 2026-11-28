@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215673"
 description: "유럽연합(EU)이 2026년 11월, AI법 발효(6월) 이후 첫 과징금 집행 사례를 만들었다. 프랑스 HR 테크 스타트업 탤런티스에 1,200만 유로(약 174억 원)를 부과했다. 국내 기업 중 EU 고위험 AI 범주에 해당하는 곳이 47개사로 추산된다."
-image: "https://picsum.photos/seed/2026-11-21-eu-ai-act-first-fine-hiring-ai/800/500"
+image: "images/cards/2026-11-21-eu-ai-act-first-fine-hiring-ai.svg"
 ---
 
 ## 한 줄 요약

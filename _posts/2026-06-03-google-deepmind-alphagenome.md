@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33489"
 description: "구글 딥마인드가 유전체 해석 AI 모델 'AlphaGenome'을 공개했다. DNA 서열에서 유전자 발현 패턴을 예측하는 정확도가 기존 모델 대비 30% 이상 향상됐으며, 희귀 유전 질환 연구에 즉시 활용 가능하다."
-image: "https://picsum.photos/seed/2026-06-03-google-deepmind-alphagenome/800/500"
+image: "https://cdn.aitimes.kr/news/thumbnail/202501/33489_50936_3446_v150.jpg"
 ---
 
 ## 한 줄 요약

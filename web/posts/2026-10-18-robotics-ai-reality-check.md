@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
 description: "VLA 모델이 로봇 공학에 혁신을 가져왔다지만, 실제 일상에 영향을 주기까지는 아직 먼 거리가 있다. 보스턴 다이나믹스 창업자는 '성공률 70%는 사실상 실패'라고 단언한다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600"
 ---
 
 요즘 로봇 데모 영상을 보면 감탄이 나온다. VLA(Vision-Language-Action, 시각-언어-행동 통합) 모델을 탑재한 로봇들이 자연어 지시를 이해하고 물체를 잡고 서랍을 여닫는 모습이 마치 공상과학 영화 같다. 그런데 MIT 테크놀로지 리뷰가 10월 8일 내놓은 분석은 이 흥분에 찬물을 끼얹는다. **"AI 로봇 혁신이 당신의 일상을 바꾸기까지는 당분간 기대하지 말라"**는 것이다.

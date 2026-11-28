@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=32900"
 description: "현대차그룹이 보스턴다이나믹스와 공동 개발한 로보틱스 AI 플랫폼을 공개했다. 아틀라스 로봇에 탑재된 이 시스템은 단순 동작 반복을 넘어 환경 인식·판단·실행까지 스스로 처리한다."
-image: https://picsum.photos/seed/hyundai-robot-ai-2026/800/500
+image: "images/cards/2026-04-18-hyundai-robotics-ai-platform.svg"
 ---
 
 ## 한 줄 요약

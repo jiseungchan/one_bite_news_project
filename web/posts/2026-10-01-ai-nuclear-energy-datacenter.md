@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/28/1140201/ai-data-centers-are-driving-a-nuclear-power-renaissance/"
 description: "2030년까지 AI 데이터센터가 미국 전체 전력의 12%를 소비할 것으로 전망되면서, 빅테크가 잇따라 소형 원자로(SMR) 계약에 나서고 있다. 원자력이 '위험한 과거'에서 'AI의 미래 연료'로 재정의되는 속도가 예상보다 빠르다."
+image: "images/cards/2026-10-01-ai-nuclear-energy-datacenter.svg"
 ---
 
 AI 데이터센터의 전력 소비가 임계점에 다가서고 있다. 국제에너지기구(IEA)는 2030년까지 미국 내 데이터센터의 전기 소비량이 현재의 두 배 이상인 2,600억 kWh에 달할 것으로 전망했다. 미국 전체 전력 수요의 12%에 해당하는 수치다. 비교하자면 스페인 전체가 1년 동안 쓰는 전기량과 맞먹는다.

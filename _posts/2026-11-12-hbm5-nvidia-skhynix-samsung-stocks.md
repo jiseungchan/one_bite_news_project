@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026111201128"
 description: "엔비디아가 2027년 출시 예정인 차세대 AI GPU에 HBM5(5세대 고대역폭 메모리) 사용을 공식화했다. SK하이닉스가 단독 1차 공급사로 선정되면서 양사 주가는 엇갈린 흐름을 보였다."
-image: "https://picsum.photos/seed/2026-11-12-hbm5-nvidia-skhynix-samsung-stocks/800/500"
+image: "images/cards/2026-11-12-hbm5-nvidia-skhynix-samsung-stocks.svg"
 ---
 
 ## 한 줄 요약

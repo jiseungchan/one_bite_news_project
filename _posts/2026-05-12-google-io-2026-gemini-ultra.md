@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/topic/artificial-intelligence/
 date: 2026-05-12
 description: Google I/O 2026에서 Gemini Ultra 3가 공개됐다. 멀티모달 추론 성능이 전작 대비 40% 향상됐고, Project Mariner 에이전트가 실제 웹 브라우저를 제어하는 기능이 정식 출시됐다.
-image: https://picsum.photos/seed/2026-05-12-google-io-2026-gemini-ultra/800/500
+image: "images/cards/2026-05-12-google-io-2026-gemini-ultra.svg"
 ---
 
 ## 한 줄 요약

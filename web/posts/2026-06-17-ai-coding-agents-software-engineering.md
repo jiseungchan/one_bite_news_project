@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/ai-coding-agents-are-replacing-junior-developers-heres-what-the-data-shows/"
 description: "AI 코딩 에이전트가 소프트웨어 엔지니어링 벤치마크 SWE-bench에서 70%를 넘어섰다. 실리콘밸리 주요 기업들의 주니어 개발자 채용이 눈에 띄게 줄었고, 업계는 '코딩 에이전트가 가장 빨리 대체하는 직군'을 인정하기 시작했다."
-image: "https://picsum.photos/seed/ai-coding-agents-software-engineering/800/500"
+image: "images/cards/2026-06-17-ai-coding-agents-software-engineering.svg"
 ---
 
 ## 배경

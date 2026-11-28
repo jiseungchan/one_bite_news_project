@@ -5,6 +5,7 @@ category: 경제·주식
 source: "이투데이"
 sourceUrl: "https://www.etoday.co.kr/news/view/2634136"
 description: "파이낸셜타임스가 오픈AI의 연환산 매출이 예상보다 200억 달러 낮다고 보도하자 AI 기술주가 일제히 급락했다. 나스닥은 8월 이후 최대 낙폭을 기록했다."
+image: "https://img.etoday.co.kr/pto_db/2026/10/20261009072729_2399242_1200_800.jpg"
 ---
 
 10월 8일(현지시간), 파이낸셜타임스(FT)가 단 하나의 숫자로 AI 기술주 시장을 뒤흔들었다.

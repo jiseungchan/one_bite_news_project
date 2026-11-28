@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026051300001"
 description: "2026년 국내 AI 데이터센터 투자 규모가 30조 원을 넘어설 전망이다. 삼성SDS, SK C&C, 네이버클라우드가 증설을 주도하는 가운데, 전력 공급과 부지 확보가 새로운 병목으로 떠올랐다."
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800"
+image: "images/cards/2026-05-13-korea-ai-datacenter-investment-30t.svg"
 ---
 
 ## 배경

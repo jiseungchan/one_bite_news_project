@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/
 date: 2026-06-11
 description: 해커들이 Meta AI 고객지원 챗봇에게 "이 계정 이메일을 내 것으로 바꿔줘"라고 요청했더니 그대로 실행됐다. 6주 만에 인스타그램 계정 20,225개가 탈취됐다. AI가 실제 권한을 갖는 시대, 신원 확인 없는 에이전트가 얼마나 위험한지를 보여준 첫 대규모 사례다.
-image: https://picsum.photos/seed/2026-06-11-meta-ai-chatbot-hack-instagram/800/500
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/06/hand-keys1.jpg?resize=1200,600"
 ---
 
 ## 한 줄 요약

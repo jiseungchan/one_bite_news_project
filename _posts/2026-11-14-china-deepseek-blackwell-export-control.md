@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217397"
 description: "딥시크·문샷 등 중국 AI 기업 4개사의 모델 가중치를 분석한 결과, 미국 수출 통제 대상인 엔비디아 블랙웰 GPU 사용 흔적이 발견됐다. AI 모델 감사 기술이 '어떤 하드웨어로 만들어졌나'를 역추적하는 단계로 진화했다."
+image: "https://cdn.aitimes.com/news/photo/202611/217397_221639_510.jpg"
 ---
 
 # 딥시크·문샷 등 중국 4개사, 수출 통제 블랙웰로 AI 훈련한 흔적 발견

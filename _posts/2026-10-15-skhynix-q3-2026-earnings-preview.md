@@ -5,6 +5,7 @@ category: 경제·주식
 source: "서울신문"
 sourceUrl: "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009500055"
 description: "SK하이닉스의 2026년 3분기 실적 발표가 10월 27일로 예정됐다. 증권가 컨센서스는 영업이익 74~77조원, 영업이익률 78% 수준이다. 2분기 사상 최대에서 다시 한번 기록 갱신이 유력하다."
+image: "https://img.seoul.co.kr//img/upload/2026/10/09/SSC_20261009105628_O2.jpg.webp"
 ---
 
 ## 배경: HBM이 만든 역대급 수익성

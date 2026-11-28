@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215257"
 description: "LG AI연구원이 AI 토크 콘서트 2026에서 엑사원 기반 전문가 AI 시리즈를 공개했다. 42만 개 후보물질 중 탈모 효과 물질을 발굴하고, 암 진단·치료 설계를 4주에서 하루로 단축했다."
+image: "https://cdn.aitimes.com/news/photo/202609/215257_219061_430.jpg"
 ---
 
 ## 이번에 흥미로운 건 성능 수치보다 적용 범위다

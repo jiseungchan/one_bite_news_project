@@ -5,6 +5,7 @@ category: AI
 source: "CBC뉴스"
 sourceUrl: "https://www.cbci.co.kr/news/articleView.html?idxno=609159"
 description: "한국인터넷진흥원(KISA)이 한국 고유 IT 환경인 HWP, 망분리, 국산 보안 모듈에 특화된 보안 AI 독자 개발에 나섰다. ChatGPT·클로드 같은 외산 범용 AI만으로는 한국 사이버 위협에 대응하기 어렵다는 판단이다."
+image: "https://www.cbci.co.kr/news/thumbnail/202609/609159_418152_579_v150.jpg"
 ---
 
 클로드나 GPT가 모든 사이버 위협을 막아줄 수 있을까. 한국인터넷진흥원(KISA)의 답은 "한국에서는 그렇지 않다"이다.

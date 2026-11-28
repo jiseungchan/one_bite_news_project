@@ -5,7 +5,7 @@ category: AI
 source: "머니투데이"
 sourceUrl: "https://www.mt.co.kr/article/2026110416003354291"
 description: "이재명 대통령이 2027년 국가 AI·반도체·데이터센터 예산으로 21.3조원을 편성, 국회에 2일까지 처리를 요청했다. 과기정통부 단독 AI 예산도 9.4조원으로 전년 대비 84% 늘었다."
-image: "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=800&q=80"
+image: "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026110416003354291_1.jpg"
 ---
 
 한국 정부가 2027년을 'AI의 나라 원년'으로 선언하고 사상 최대 규모의 AI 관련 예산을 편성했다. 11월 초 공개된 2027년 예산안 분석 자료에 따르면, 정부 전체 AI·반도체·물리AI(Physical AI — 로봇, 자율주행 등 현실 세계에서 작동하는 AI)·AI 데이터센터 관련 지출이 21.3조원에 달한다.

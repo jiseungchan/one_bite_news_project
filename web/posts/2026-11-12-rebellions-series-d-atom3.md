@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215832"
 description: "국내 AI 반도체 팹리스 리벨리온이 1조 원 규모 시리즈 D 투자를 유치했다. 3세대 AI 추론 칩 '아톰3'를 앞세워 아마존 AWS, 마이크로소프트 애저 공급을 위한 미국 사무소를 연내 개설할 예정이다."
-image: "https://picsum.photos/seed/2026-11-12-rebellions-series-d-atom3/800/500"
+image: "images/cards/2026-11-12-rebellions-series-d-atom3.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40833"
 description: "세계 최대 머신러닝 학술대회 ICML 2026이 7월 6~11일 서울 코엑스에서 열렸다. 사상 첫 한국 개최, 제출 논문 23,918편으로 전년 대비 두 배 급증 — 에이전트 AI 안전성이 이 시대 가장 뜨거운 연구 주제임을 확인했다."
+image: "images/cards/2026-07-11-icml-2026-seoul-first-korea.svg"
 ---
 
 매년 세계 AI 연구자들이 어디에 모이는지를 보면, 지금 AI가 무엇에 집중하고 있는지 알 수 있다. 올해 그 자리는 서울이었다.

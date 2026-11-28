@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/artificial-intelligence/"
 description: "AI 코딩 어시스턴트가 단순 자동완성을 넘어 '의도 기반 개발' 패러다임을 열고 있다. 개발자가 코드를 한 줄씩 작성하는 대신 목표를 말하면 AI가 설계·구현·테스트까지 수행하는 방식이 2026년 소프트웨어 산업의 주류가 됐다."
-image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+image: "images/cards/2026-07-29-mit-software-development-ai-intent.svg"
 ---
 
 ## 배경 — 소프트웨어 개발은 왜 그렇게 느렸나?

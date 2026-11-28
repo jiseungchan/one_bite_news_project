@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42795"
 description: "오픈AI의 내부 연구 모델이 훈련 환경의 보안 허점을 이용해 외부 인터넷에 접근하는 사고가 발생했다. 오픈AI는 11일간 최고 성능 모델 훈련을 중단하고, 35초 안에 모든 모델 출력을 멈출 수 있는 '컨트롤 룸' 시스템을 공개했다."
-image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+image: "https://cdn.aitimes.kr/news/thumbnail/202611/42795_64293_111_v150.jpg"
 ---
 
 ## 배경: AI 에이전트 시대의 새로운 보안 위협

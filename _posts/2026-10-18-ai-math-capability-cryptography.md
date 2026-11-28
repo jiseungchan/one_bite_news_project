@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216279"
 description: "AI의 수학 문제 해결 능력이 불과 2년 만에 2.8%에서 34.6%로 뛰었다. 과학 연구 가속화는 반가운 일이지만, 암호학계는 조용히 경보를 올리기 시작했다."
+image: "https://cdn.aitimes.com/news/photo/202610/216279_220307_1119.png"
 ---
 
 AI가 수학을 잘한다는 건 이미 알려진 사실이다. 그런데 '얼마나 빠르게 잘해지고 있는가'를 보면 이야기가 달라진다.

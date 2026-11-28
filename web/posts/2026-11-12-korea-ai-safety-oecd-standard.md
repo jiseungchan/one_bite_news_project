@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=43478"
 description: "과학기술정보통신부가 AI 안전성 평가 체계를 국제 표준으로 연결하는 로드맵을 발표했다. OECD AI 정책 관측소와 공동으로 고위험 AI 평가 가이드라인을 개발하고, 2027년부터 한국 AI 기본법과 연동 시행한다."
-image: "https://picsum.photos/seed/2026-11-12-korea-ai-safety-oecd-standard/800/500"
+image: "images/cards/2026-11-12-korea-ai-safety-oecd-standard.svg"
 ---
 
 ## 한 줄 요약

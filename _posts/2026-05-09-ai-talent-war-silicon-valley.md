@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/07/1116215/ai-talent-war-silicon-valley/"
 description: "AI 핵심 연구자 1명을 영입하기 위해 기업들이 제시하는 보상 패키지가 1,000만 달러를 넘어섰다. 실리콘밸리의 인재 지형도가 근본부터 바뀌고 있다."
-image: "https://picsum.photos/seed/2026-05-09-ai-talent-war-silicon-valley/800/500"
+image: "images/cards/2026-05-09-ai-talent-war-silicon-valley.svg"
 ---
 
 ## 한 줄 요약

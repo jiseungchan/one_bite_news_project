@@ -48,13 +48,17 @@ jobs:
         if: steps.targets.outputs.refs != ''
         run: python tools/merge_branch_content.py ${{ steps.targets.outputs.refs }}
 
+      - name: 새 글 카드 사진 정리 (원문 사진 → 없으면 내용 기반 카드)
+        if: steps.targets.outputs.refs != ''
+        run: python tools/fix_images.py
+
       - name: main에 커밋·push
         id: commit
         if: steps.targets.outputs.refs != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _posts web/posts web/posts.json web/market/notes web/stock-briefs web/stock-briefs.json stock-service/_stock-news _cards 2>/dev/null || true
+          git add _posts web/posts web/posts.json web/images web/market/notes web/stock-briefs web/stock-briefs.json stock-service/_stock-news _cards 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else

@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
 description: "의료 AI가 뛰어난 모델을 갖게 됐다. 하지만 미국 병원들은 여전히 환자 직접 진료보다 행정에 두 배 이상을 쓴다. MIT Technology Review가 짚은 의료 AI의 진짜 다음 과제는 성능이 아니라 통합이다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/Ensemble-contributed-iStock-2263561985.jpg?resize=1200,600"
 ---
 
 ## 배경 — 의료계는 왜 AI 도입이 더딘가

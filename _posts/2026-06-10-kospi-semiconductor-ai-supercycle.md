@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026061032010"
 description: "코스피 반도체 업종 지수가 2026년 2분기 연초 대비 47% 급등했다. AI 추론 수요 폭증이 HBM과 서버용 D램 가격을 동시에 끌어올리며 슈퍼사이클 진입 여부가 쟁점이 됐다."
+image: "images/cards/2026-06-10-kospi-semiconductor-ai-supercycle.svg"
 ---
 
 ## 배경 — 반도체 사이클이 달라졌다

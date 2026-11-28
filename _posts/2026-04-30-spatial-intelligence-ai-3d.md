@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/29/1115612/spatial-intelligence-ai-3d-vision-robots/"
 description: "AI가 평면 이미지를 넘어 3차원 공간을 이해하는 '공간 지능' 연구가 빠르게 진전되고 있다. 로봇이 물건을 집고 자율주행차가 교차로를 읽는 방식이 근본적으로 달라지고 있다."
-image: "https://picsum.photos/seed/spatial-intelligence-ai-3d/800/500"
+image: "images/cards/2026-04-30-spatial-intelligence-ai-3d.svg"
 ---
 
 ## 배경: AI는 오랫동안 '납작한 세계'에 살았다

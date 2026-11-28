@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026051734081"
 description: "관세청이 발표한 4월 반도체 수출액이 156억 달러로 역대 최대를 기록했다. 전년 동월 대비 38.4% 증가한 수치로, HBM(고대역폭 메모리)과 AI 서버용 낸드 플래시 수출이 성장을 이끌었다. 삼성전자·SK하이닉스 주가 반응과 증권가 목표주가 상향 현황을 정리했다."
-image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800"
+image: "images/cards/2026-05-18-korea-ai-semiconductor-export-record.svg"
 ---
 
 ## 배경 — "수출 효자"의 귀환

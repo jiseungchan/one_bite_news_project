@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
 description: "AI가 AI 연구 자체를 수행하는 '재귀적 자기 개선'의 한계가 드러났다. 코드 작성은 잘해도 진짜 연구에 필요한 개방형 판단과 창의성에서 AI 에이전트는 아직 한참 부족하다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600"
 ---
 
 ## 배경 — AI가 AI를 만드는 세계의 약속

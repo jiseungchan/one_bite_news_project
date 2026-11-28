@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216350"
 description: "세르게이 브린 구글 공동 창립자가 제미나이 4 아르곤 공개 직후 'AI가 후속 모델 개발에 참여하기 시작했다'며 구글이 RSI 단계에 진입했다고 밝혔다. 단, 구글 자체 안전 보고서는 '아직 전면 가속은 없다'고 선을 그었다."
+image: "https://cdn.aitimes.com/news/photo/202610/216350_220394_4533.jpg"
 ---
 
 ## 배경 — "자기 자신을 개선하는 AI"는 공상과학인가

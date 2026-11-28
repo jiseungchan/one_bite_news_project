@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33401"
 description: "2026년 상반기 국내 AI 스타트업 투자 총액이 1조 2,000억 원을 넘어섰다. 시리즈B·C 단계 투자가 전년 동기 대비 3.1배 늘었으며, AI 에이전트·헬스케어·물류 분야가 집중 유치하고 있다."
-image: "https://picsum.photos/seed/2026-05-26-korea-ai-startup-investment-2026/800/500"
+image: "https://cdn.aitimes.kr/news/thumbnail/202412/33401_50790_5947_v150.jpg"
 ---
 
 ## 한 줄 요약

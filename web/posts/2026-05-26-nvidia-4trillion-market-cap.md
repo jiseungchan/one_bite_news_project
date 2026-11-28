@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026052531051"
 description: "엔비디아 시가총액이 다시 4조 달러를 넘어섰다. 2분기 실적 가이던스가 시장 전망치를 40% 웃돌았으며, Blackwell Ultra GPU 수요가 공급을 압도하는 상황이 지속되고 있다."
-image: "https://picsum.photos/seed/2026-05-26-nvidia-4trillion-market-cap/800/500"
+image: "images/cards/2026-05-26-nvidia-4trillion-market-cap.svg"
 ---
 
 ## 한 줄 요약

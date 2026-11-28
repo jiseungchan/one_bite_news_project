@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=43105"
 description: "중소벤처기업부·한국벤처투자가 집계한 2026년 1~10월 국내 AI 스타트업 투자 규모가 3조 2,100억 원으로 2025년 전체(2조 1,400억 원) 대비 50% 증가했다. 에이전트 AI와 의료 AI가 각각 1조 원 이상을 차지하며 투자 지형이 뚜렷이 갈라지고 있다."
-image: "https://picsum.photos/seed/2026-11-26-korea-ai-startup-funding-3t-2026/800/500"
+image: "images/cards/2026-11-26-korea-ai-startup-funding-3t-2026.svg"
 ---
 
 ## 한 줄 요약

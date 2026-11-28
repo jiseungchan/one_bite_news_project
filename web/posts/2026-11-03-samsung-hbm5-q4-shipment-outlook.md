@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026110302051"
 description: "삼성전자가 4분기 중 HBM5(5세대 고대역폭 메모리) 첫 출하를 앞두고 있다. 엔비디아 루빈(Rubin) GPU 플랫폼 납품이 확정되면서 국내 증권사들이 목표주가를 잇달아 상향 조정했다."
+image: "images/cards/2026-11-03-samsung-hbm5-q4-shipment-outlook.svg"
 ---
 
 HBM(고대역폭 메모리 — AI GPU에 탑재되는 초고속 메모리 반도체) 시장에서 삼성전자가 오랫동안 SK하이닉스의 뒤를 쫓아왔다. SK하이닉스가 엔비디아 H100·H200·B200에 HBM3·HBM3E를 연속으로 공급하며 AI 메모리 시장의 사실상 1위 자리를 굳히는 동안, 삼성전자는 품질 검증 지연으로 납품이 늦어지는 상황이 반복됐다.

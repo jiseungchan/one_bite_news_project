@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
 description: "FCC가 외국산 휴머노이드·4족 보행·바퀴형 로봇 전체를 수입 금지 목록에 올렸다. AI 칩에서 시작된 트럼프 행정부의 기술 보호주의가 이제 '움직이는 AI'인 로봇 산업까지 확장됐다."
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600"
 ---
 
 ## 배경: AI 보호주의의 다음 전선

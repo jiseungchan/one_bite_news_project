@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/27/1115489/apple-intelligence-private-cloud-compute-privacy-analysis/"
 description: "MIT Technology Review가 애플 인텔리전스의 핵심 인프라인 '프라이빗 클라우드 컴퓨트'를 독립 분석했다. 애플의 주장대로 서버에서 데이터가 남지 않는지, 구조적으로 가능한 일인지 따져봤다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-28-apple-intelligence-privacy-mit.svg"
 ---
 
 ## 한 줄 요약

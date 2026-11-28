@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
 description: "MIT Technology Review와 구글 클라우드가 300명의 임원을 설문한 결과, 기업이 AI 에이전트에 공개하는 데이터는 평균 45%에 불과했다. 데이터를 70% 이상 공개한 기업은 에이전트 의사결정을 100% 신뢰했고, 확장 장애물도 8%만 겪었다."
+image: "images/cards/2026-08-30-mit-scaling-ai-agents-enterprise-data.svg"
 ---
 
 ## 배경: AI 에이전트는 왜 현장에서 힘을 못 쓰나

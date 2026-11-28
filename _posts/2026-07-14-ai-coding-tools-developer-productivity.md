@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/"
 description: "AI 코딩 도구가 단순 자동완성을 넘어 설계·리뷰·테스트까지 맡는 시대가 됐다. 개발자 생산성은 올랐지만, '개발자가 해야 할 일'의 경계도 함께 달라지고 있다."
-image: "https://picsum.photos/seed/2026-07-14-ai-coding-tools-developer-productivity/800/500"
+image: "images/cards/2026-07-14-ai-coding-tools-developer-productivity.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026042921082"
 description: "삼성전자 파운드리 2나노 GAA 공정 수율이 60%를 넘겼다. 6개월 전 40% 수준에서 급격한 개선이지만, TSMC의 75~80%와는 여전히 격차가 있다."
-image: "https://picsum.photos/seed/2026-04-30-samsung-foundry-2nm-yield/800/500"
+image: "images/cards/2026-04-30-samsung-foundry-2nm-yield.svg"
 ---
 
 ## 한 줄 요약

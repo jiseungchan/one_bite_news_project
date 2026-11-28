@@ -5,6 +5,7 @@ category: 경제·주식
 source: "헤럴드경제 / 베타뉴스"
 sourceUrl: "https://biz.heraldcorp.com/article/10644291"
 description: "화웨이코리아가 2026년 4분기 AI 가속칩 '어센드 950'을 한국 시장에 공식 출시한다. 자체 HBM을 탑재하고 클러스터 단위로 공급하는 방식으로 엔비디아에 도전장을 냈다."
+image: "https://wimg.heraldcorp.com/news/cms/2025/12/26/rcv.YNA.20251226.PYH2025122605360001300_P1.jpg"
 ---
 
 화웨이코리아가 2026년 4분기 AI 반도체 '어센드(Ascend) 950'을 한국 시장에 정식 출시한다. 화웨이의 발리안 왕 한국 CEO가 직접 공식 확인했다. 엔비디아가 사실상 독점해온 한국 AI 가속칩 시장에 중국발 경쟁자가 들어오는 첫 시도다.

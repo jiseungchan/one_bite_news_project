@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211430"
 description: "OpenAI가 클라우드 기반 코딩 에이전트 'Codex'를 ChatGPT Pro·Team 플랜에 탑재했다. 백그라운드에서 여러 코딩 작업을 병렬 처리하며, 사용자가 지시만 내리면 코드 작성·테스트·PR 생성까지 단독 완수한다."
-image: "https://picsum.photos/seed/2026-06-03-openai-codex-coding-agent/800/500"
+image: "images/cards/2026-06-03-openai-codex-coding-agent.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"
 description: "중국 Z.ai가 6월 13일 공개한 GLM-5.2는 753B 파라미터 MoE 오픈소스 모델로, FrontierSWE 코딩 벤치마크에서 GPT-5.5를 1/6 비용에 능가했다. MIT 라이선스, 1M 컨텍스트."
-image: "https://picsum.photos/seed/2026-06-27-glm52-zai-open-weights-beats-gpt55/800/500"
+image: "images/cards/2026-06-27-glm52-zai-open-weights-beats-gpt55.svg"
 ---
 
 ## 오픈소스가 또 한 번 경계를 밀어붙였다

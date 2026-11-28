@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-09-21/bessent-hails-very-successful-china-talks-on-ai-threats-trade"
 description: "미국 재무장관 베센트가 미중 AI·무역 실무 회담을 '매우 성공적'이라고 평가했다. 트럼프·시진핑 정상회담을 앞두고 AI가 핵심 외교 의제로 자리 잡았다."
+image: "images/cards/2026-09-21-us-china-ai-talks-trump-xi.svg"
 ---
 
 트럼프·시진핑 정상회담을 앞두고 미국과 중국이 AI와 무역 의제에서 "건설적인 대화"에 합의했다. 미국 재무장관 스콧 베센트(Scott Bessent)는 이번 실무 회담을 "매우 성공적(very successful)"이라고 평가했다. 이 한마디는 의미심장하다. 미중이 AI 분야에서 실제로 합의에 이른 것이 아니라, 그냥 "잘 대화했다"는 것 자체가 뉴스가 될 만큼 두 나라 사이의 간극이 컸다는 뜻이기도 하다.

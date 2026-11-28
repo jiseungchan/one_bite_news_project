@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217310"
 description: "구글이 11월 10일 최상위 모델 제미나이 4 카본을 유료 API로 정식 출시했다. 11월 30일까지 입력 100만 토큰당 2달러, 이후 4달러로 오른다. 최고 성능 1위인 클로드 페이블 5.2 표준 가격의 절반 수준이다."
+image: "images/cards/2026-11-17-google-gemini-4-carbon-release.svg"
 ---
 
 ## 배경: AI 모델 가격 전쟁이 최상위 티어로 올라왔다

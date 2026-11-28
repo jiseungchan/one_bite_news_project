@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212125"
 description: "OpenAI 내부 데이터에 따르면, 사내 AI 출력 토큰의 99% 이상을 코딩 에이전트 코덱스가 담당한다. 사용자의 25.6%는 8시간 이상 걸리는 업무를 에이전트에 맡기고 있다."
-image: "https://picsum.photos/seed/2026-06-27-openai-codex-99-percent-internal/800/500"
+image: "images/cards/2026-06-27-openai-codex-99-percent-internal.svg"
 ---
 
 ## 99%라는 숫자

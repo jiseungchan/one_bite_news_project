@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/29/1115890/why-ai-agents-fail-last-mile-problem/"
 description: "AI 에이전트는 복잡한 계획을 세우고 중간 단계를 완벽히 수행하면서도, 정작 마지막 실행 단계에서 오류를 낸다. MIT TR이 이 '라스트 마일 문제'의 구조적 원인을 분석했다."
-image: "https://picsum.photos/seed/ai-agent-lastmile-2026/800/500"
+image: "images/cards/2026-04-29-ai-agents-last-mile-problem.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050432010"
 description: "엔비디아가 차세대 AI GPU '루빈 아키텍처' 기반 GB300 출하를 시작했다. HBM4(4세대 고대역폭 메모리) 공급사인 SK하이닉스와 삼성전자의 수혜가 본격화될 전망이며, 양사 주가에도 긍정적 재료로 작용하고 있다."
-image: "https://picsum.photos/seed/2026-05-05-nvidia-gb300-shipment-samsung-sk/800/500"
+image: "images/cards/2026-05-05-nvidia-gb300-shipment-samsung-sk.svg"
 ---
 
 ## 배경 — 블랙웰에서 루빈으로, AI 칩 세대교체

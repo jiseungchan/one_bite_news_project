@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209831"
 description: "카카오가 자체 AI 플랫폼 카나나를 기업 고객 대상 B2B 서비스로 확장했다. 법무·회계·HR 분야에 특화된 버티컬 에이전트를 제공하며, 카카오워크와의 통합으로 국내 기업 시장을 정면 공략한다."
-image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&h=500&fit=crop"
+image: "images/cards/2026-05-01-kakao-ai-b2b-enterprise.svg"
 ---
 
 ## 기존에는 어땠나?

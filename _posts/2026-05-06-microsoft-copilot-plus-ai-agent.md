@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33215"
 description: "마이크로소프트가 Copilot+ PC 전 라인업에 AI 에이전트 기능을 탑재한다. 사용자가 자리를 비운 사이에도 PC가 파일 정리, 이메일 초안, 일정 조율을 자동 처리하는 '백그라운드 에이전트' 시대가 열린다."
-image: "https://picsum.photos/seed/2026-05-06-microsoft-copilot-plus-ai-agent/800/500"
+image: "https://cdn.aitimes.kr/news/thumbnail/202412/33215_50501_2430_v150.jpg"
 ---
 
 ## 한 줄 요약

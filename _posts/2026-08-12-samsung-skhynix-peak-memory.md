@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Bloomberg Technology / Bloomberg Markets"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-11/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns"
 description: "HBM 수요 급증이 이끈 메모리 슈퍼사이클에 '피크' 신호가 감지되기 시작했다. 글로벌 투자자들은 성장 불확실성이 커지자 삼성전자·SK하이닉스의 주주환원 정책에 주목하며, AI 셀오프 이후 한국보다 대만 주식을 선호하는 흐름이 강해지고 있다."
+image: "images/cards/2026-08-12-samsung-skhynix-peak-memory.svg"
 ---
 
 ## 배경 — HBM이 만든 메모리 슈퍼사이클

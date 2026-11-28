@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
 description: "오픈AI가 AI 에이전트로 '나비에-스토크스 존재·평활성 문제'를 풀었다고 발표했다. 10,000개 에이전트, 88시간, 165페이지 증명 — 그리고 크레딧 논란."
+image: "images/cards/2026-09-12-openai-navier-stokes-millennium-prize.svg"
 ---
 
 ## 배경: 20년 이상 미해결된 수학의 최고 난제

@@ -5,6 +5,7 @@ category: 경제·주식
 source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/stock/12044201
 description: 미국 상무부가 삼성전자 47억 달러(6.4조 원), SK하이닉스 15억 달러(2조 원)의 CHIPS Act 보조금을 최종 확정했다. 두 종목 모두 3% 안팎 상승했으며, 미국 반도체 공급망 재편에서 한국 기업의 위치가 확인됐다.
+image: "images/cards/2026-05-13-samsung-skhynix-chips-subsidy.svg"
 ---
 
 ## 한 줄 요약

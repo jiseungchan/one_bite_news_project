@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
 description: "AI 에이전트가 실제 권한으로 수십 단계를 자율 실행하는 시대지만, 주요 에이전트 프레임워크 대부분은 무슨 일이 일어나는지 실시간으로 알 방법조차 없다. Partnership on AI가 4개 주요 프레임워크를 분석해 경고를 울렸다."
-image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600"
 ---
 
 ## AI 에이전트에 권한을 줬는데, 감시할 방법이 없다

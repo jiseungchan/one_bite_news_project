@@ -5,6 +5,7 @@ category: AI
 source: "The Hacker News"
 sourceUrl: "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
 description: "오픈AI가 사이버보안 특화 모델 GPT-6 사이버를 11월 4일 공개했다. 파이어폭스에서 취약점 81개, 리눅스 커널 익스플로잇 948개를 단독으로 발견한 이 모델은 자사 최고 위험 등급인 '크리티컬'을 받았다."
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg"
 ---
 
 ## 배경: 취약점 발견의 오랜 고충

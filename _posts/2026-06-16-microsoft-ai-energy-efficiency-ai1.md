@@ -5,7 +5,7 @@ source: "Microsoft Cloud Blog"
 sourceUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/"
 date: 2026-06-16
 description: "마이크로소프트가 동료평가 저널 Joule에 발표한 연구에서 AI 쿼리 1건당 전력 소비가 기존 추정치보다 8~20배 효율적이라는 결과가 나왔다. 10억 건 처리 기준으로도 0.3GWh 수준이다."
-image: "https://picsum.photos/seed/2026-06-16-microsoft-ai-energy-efficiency-ai1/800/500"
+image: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/06/Cloud-ai-efficiency-2.jpg"
 ---
 
 ## 한 줄 요약

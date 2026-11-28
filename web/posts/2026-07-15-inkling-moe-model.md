@@ -5,7 +5,7 @@ category: AI
 source: "Hugging Face / GitHub"
 sourceUrl: "https://github.com/huggingface/transformers/releases/tag/v5.14.0"
 description: "Thinking Machines가 개발한 Inkling이 오늘 허깅페이스 Transformers v5.14.0에 추가됐다. 총 9,750억 개 파라미터를 갖지만 추론 시 410억 개만 활성화하는 MoE 구조가 특징이다."
-image: https://picsum.photos/seed/2026-07-15-inkling-moe-model/800/500
+image: "images/cards/2026-07-15-inkling-moe-model.svg"
 ---
 
 ## 한 줄 요약

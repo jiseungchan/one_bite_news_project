@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41456"
 description: "국내 AI 스타트업 업스테이지가 1,200억 원 규모의 시리즈C 투자를 유치했다. 문서 이해·처리 특화 AI 솔루션으로 미국·일본·유럽 시장을 동시 공략하며, 소프트뱅크벤처스 참여로 일본 진출 교두보를 확보했다."
+image: "images/cards/2026-10-24-upstage-series-c-document-ai.svg"
 ---
 
 국내 AI 스타트업 중 글로벌 시장에서 독자적 포지션을 만든 케이스가 드물다. 업스테이지는 그 몇 안 되는 사례에 속한다.

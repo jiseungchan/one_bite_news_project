@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202609154646i"
 description: "앤트로픽·오픈AI·구글 딥마인드 CEO가 일제히 AI 개발 속도를 늦춰야 한다고 나서면서 AI·반도체주가 폭락했다. 나스닥은 0.8% 하락, 코스피는 전날 3.26% 급락했다. AI 인프라 투자 감축 우려가 메모리와 GPU 공급망 전체를 흔들었다."
+image: "https://img.hankyung.com/photo/202609/01.45693113.1.jpg"
 ---
 
 # AI 속도조절론에 반도체주 직격탄 — 코스피 3% 급락, 무엇이 시장을 흔들었나

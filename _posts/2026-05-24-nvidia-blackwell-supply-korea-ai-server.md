@@ -5,7 +5,7 @@ source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052401234"
 date: 2026-05-24
 description: "엔비디아가 Blackwell 아키텍처 GPU의 공급 병목을 해소하면서 국내 AI 서버 조립·납품 업체들의 수주가 증가하고 있다. HD현대일렉트릭·레노버코리아 등 AI 서버 밸류체인 종목들이 강세를 보이고 있다."
-image: "https://picsum.photos/seed/2026-05-24-nvidia-blackwell-supply-korea-ai-server/800/500"
+image: "images/cards/2026-05-24-nvidia-blackwell-supply-korea-ai-server.svg"
 ---
 
 ## 한 줄 요약

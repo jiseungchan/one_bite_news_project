@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/claude-opus-5-5"
 description: "앤트로픽이 클로드 오퍼스 5.5를 출시하며 전작 대비 40% 가격 인하를 단행했다. 입력 토큰 $5→$4, 출력 토큰 $25→$20, 캐시 읽기 $0.50→$0.20. 동시에 68만 줄 코드 마이그레이션을 하루 만에 처리하는 성능을 공개했다."
+image: "https://assets.claude.com/f4d37a1d1f582f53f4e89440062b649b6273a093.jpg"
 ---
 
 9월 22일, 앤트로픽이 클로드 5.5 패밀리의 첫 모델인 클로드 오퍼스 5.5를 출시했다. 앤트로픽이 밝힌 성능 개선도 눈에 띄지만, 시장이 즉각 반응한 건 가격이었다.

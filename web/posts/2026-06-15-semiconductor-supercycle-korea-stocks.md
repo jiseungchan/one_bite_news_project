@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026061237561"
 description: "AI 서버 수요 폭발과 함께 메모리 반도체 업황이 구조적 상승 국면에 접어들었다는 분석이 나온다. 삼성전자·SK하이닉스의 수혜가 이제 시작이라는 시각이 시장에서 힘을 얻고 있다."
-image: "https://picsum.photos/seed/2026-06-15-semiconductor-supercycle-korea-stocks/800/500"
+image: "https://img.hankyung.com/data/datafile/reporterData/reporter_pic/hgsong@hankyung.com.jpg"
 ---
 
 ## 한 줄 요약

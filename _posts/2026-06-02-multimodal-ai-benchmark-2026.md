@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33487"
 description: "중국 오픈소스 멀티모달 모델 InternVL3와 Qwen2.5-VL이 GPT-4o·Gemini 1.5 Pro를 여러 벤치마크에서 앞서기 시작했다. 텍스트·이미지·영상을 동시에 처리하는 멀티모달(다중 입력 방식) AI 시장에서 오픈소스의 반격이 본격화됐다."
-image: "https://picsum.photos/seed/2026-06-02-multimodal-ai-benchmark-2026/800/500"
+image: "images/cards/2026-06-02-multimodal-ai-benchmark-2026.svg"
 ---
 
 ## 한 줄 요약

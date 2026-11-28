@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/rss/allArticle.xml"
 description: "OpenAI가 소프트웨어 개발 전 과정을 자동화하는 클라우드 에이전트 Codex를 공개했다. ChatGPT 내에서 별도 샌드박스 환경으로 구동되며, 코드 작성·테스트·풀리퀘스트(PR) 제출까지 비동기로 처리한다."
-image: "https://picsum.photos/seed/2026-05-13-openai-codex-cloud-agent/800/500"
+image: "images/cards/2026-05-13-openai-codex-cloud-agent.svg"
 ---
 
 ## 한 줄 요약

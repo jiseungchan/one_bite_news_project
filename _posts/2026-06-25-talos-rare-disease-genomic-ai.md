@@ -5,7 +5,7 @@ source: "Microsoft Research"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/"
 date: 2026-06-25
 description: "마이크로소프트 리서치가 희귀질환 유전체 자동 재분석 도구 Talos를 공개했다. 4,735명 환자 분석에서 241명을 신규 진단(5.1% 추가 수율), 진단까지 평균 32일, 최단 1일을 달성했다."
-image: "https://picsum.photos/seed/2026-06-25-talos-rare-disease-genomic-ai/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Talos-TWLIFB-1200x627-1-scaled.jpg"
 ---
 
 ## 한 줄 요약

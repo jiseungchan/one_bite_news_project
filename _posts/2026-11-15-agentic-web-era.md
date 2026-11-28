@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
 description: "주요 AI 기업들이 훨씬 더 발전된 컴퓨터 사용 에이전트를 훈련시키는 데 성공했다. 메타의 뮤즈(Muse) 에이전트가 웹사이트를 대신 조작하자, 아마존은 즉각 차단했다. 에이전트가 접근할 수 있는 웹과 그렇지 않은 웹이 나뉘기 시작했다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600"
 ---
 
 ## 배경: AI 에이전트는 한동안 '가능성' 단계에 머물렀다

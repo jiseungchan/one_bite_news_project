@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209312
 date: 2026-04-18
 description: "삼성전자가 갤럭시 디바이스에 탑재될 차세대 AI 모델 가우스3를 공개했다. 1~12B 파라미터 범위의 경량 모델로, 클라우드 없이 기기 안에서 실시간 번역·요약·이미지 생성을 처리한다."
-image: https://picsum.photos/seed/samsung-gauss3-llm-2026/800/500
+image: "images/cards/2026-04-18-samsung-gauss3-ai-model.svg"
 ---
 
 ## 한 줄 요약

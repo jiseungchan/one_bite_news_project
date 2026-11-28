@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026093001843"
 description: "SK하이닉스가 주요 하이퍼스케일러(대형 클라우드 사업자)로부터 HBM4 추가 수주를 확정하며 2026년 4분기 및 2027년 공급 물량을 조기에 완판했다. 주요 증권사들이 목표주가를 일제히 상향했다."
-image: "https://picsum.photos/seed/2026-09-30-skhynix-hbm4-additional-orders/800/500"
+image: "images/cards/2026-09-30-skhynix-hbm4-additional-orders.svg"
 ---
 
 ## 한 줄 요약

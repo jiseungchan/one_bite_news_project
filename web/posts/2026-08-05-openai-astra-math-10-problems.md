@@ -5,7 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/"
 description: "OpenAI가 아직 공개하지 않은 차세대 모델 Astra로 10년 이상 풀리지 않던 수학·이론 컴퓨터과학 난제 10개를 해결했다. 총 연산 비용은 약 2,000달러(약 260만 원). 모든 증명은 Lean 4로 기계 검증됐다."
-image: "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=800&q=80"
+image: "https://the-decoder.com/wp-content/uploads/2026/07/openai_sol.png"
 ---
 
 ## 배경: AI와 수학의 관계는 어디까지 왔나

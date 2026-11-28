@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
 description: "오픈AI 재단이 9월 15일 '공중 보건 데이터(Public Data for Health)' 프로그램을 출범했다. 1억 2,500만 달러(약 1,750억 원)의 초기 보조금으로 생물학·의료 AI에 필요한 고품질 데이터셋을 만든다. 파산한 바이오테크 기업의 데이터까지 활용하는 전략이 눈길을 끈다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/09/OpenAI-grants.jpg?resize=1200,600"
 ---
 
 ## 왜 생물학 데이터인가

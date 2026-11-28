@@ -5,7 +5,7 @@ category: 바이오
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210089"
 description: "구글 딥마인드가 AlphaFold 3의 후속으로 단백질 하나가 아닌 세포 내 단백질 전체의 상호작용을 예측하는 '알파프로테오믹스' 모델을 공개했다. 신약 개발과 희귀 질환 연구에 새로운 장을 열 수 있다."
-image: "https://picsum.photos/seed/2026-05-05-deepmind-alphaproteomics/800/500"
+image: "images/cards/2026-05-05-deepmind-alphaproteomics.svg"
 ---
 
 ## 배경 — AlphaFold가 풀지 못한 것

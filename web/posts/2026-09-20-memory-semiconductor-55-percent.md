@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026091700256"
 description: "올해 글로벌 메모리 반도체 시장이 사상 처음으로 비메모리 시장을 추월한다. KB증권은 메모리 비중이 역대 최고인 55%에 달할 것으로 예측했다. AI 컴퓨팅이 반도체 산업의 가치 중심 자체를 바꾸고 있다."
+image: "https://img.hankyung.com/photo/202609/01.45721405.1.jpg"
 ---
 
 ## 왜 지금 이게 중요한가?

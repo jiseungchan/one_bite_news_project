@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/01/1116054/ai-autonomous-weapons-frontier-models/"
 description: "GPT-4급 이상의 프런티어 AI 모델이 자율무기 시스템에 직접 통합되기 시작했다. AI 연구자들 사이에서 '오펜하이머 순간' 논쟁이 다시 불붙고 있다."
-image: "https://picsum.photos/seed/2026-05-02-ai-autonomous-weapons-frontier/800/500"
+image: "images/cards/2026-05-02-ai-autonomous-weapons-frontier.svg"
 ---
 
 ## 한 줄 요약

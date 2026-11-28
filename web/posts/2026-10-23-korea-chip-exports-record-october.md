@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Korea Times"
 sourceUrl: "https://www.koreatimes.co.kr/economy/20261021/exports-double-in-1st-20-days-of-october-on-robust-chip-shipments"
 description: "한국 10월 1~20일 반도체 수출이 전년 대비 222.5% 폭증해 사상 최고치를 기록했다. KOSPI는 AI 지출 우려로 격렬하게 출렁였지만, 수출 데이터는 AI 칩 수요가 여전히 뜨겁다는 사실을 확인해줬다."
+image: "https://newsimg.koreatimes.co.kr/2026/10/21/317056ad-c677-4a8d-8f9a-0b7114f8caad.jpg"
 ---
 
 10월 21일 한국 관세청이 발표한 수출 데이터 하나가 요동치는 주식 시장 한가운데서도 눈길을 끌었다.

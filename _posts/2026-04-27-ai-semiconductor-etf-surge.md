@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026041855021"
 description: "국내 AI 반도체 테마 ETF가 이틀 연속 5% 이상 상승했다. 외국인과 기관이 동시에 순매수에 나서면서 수급 구조가 바뀌고 있다는 분석이 나온다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-04-27-ai-semiconductor-etf-surge.svg"
 ---
 
 ## 배경

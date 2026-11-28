@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42156"
 description: "과학기술정보통신부가 엔비디아 의존도를 낮추기 위한 'K-AI 반도체 2단계 로드맵'을 발표했다. 2028년까지 국산 AI 가속기 개발에 국가 R&D 예산 2조 원을 투입하며, 삼성·SK하이닉스·국내 AI 반도체 스타트업이 컨소시엄을 꾸린다."
+image: "images/cards/2026-11-13-korea-ai-semiconductor-roadmap-2028.svg"
 ---
 
 한국은 메모리 반도체 세계 1위다. 그런데 정작 그 메모리를 꽂아 쓰는 AI 가속기는 엔비디아에서 산다. 이 역설을 끊으려는 2단계 계획이 나왔다.

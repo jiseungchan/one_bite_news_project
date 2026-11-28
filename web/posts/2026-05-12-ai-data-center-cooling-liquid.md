@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=168421"
 description: "AI 가속기의 전력 밀도가 공랭식 냉각의 물리적 한계를 넘어서면서, 액침냉각(immersion cooling)이 차세대 데이터센터의 핵심 인프라로 급부상하고 있다."
-image: "https://picsum.photos/seed/2026-05-12-ai-data-center-cooling-liquid/800/500"
+image: "images/cards/2026-05-12-ai-data-center-cooling-liquid.svg"
 ---
 
 ## 한 줄 요약

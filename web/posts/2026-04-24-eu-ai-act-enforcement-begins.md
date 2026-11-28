@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209621"
 description: "유럽연합 AI법(EU AI Act)의 핵심 조항들이 2026년 4월부터 순차 발효되기 시작했다. 고위험 AI 시스템에 대한 적합성 평가 의무, 투명성 요건 등이 실제 집행 단계에 들어서면서 유럽 시장을 겨냥한 한국 AI 기업들의 대응이 시급해졌다."
-image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1200&q=85"
+image: "images/cards/2026-04-24-eu-ai-act-enforcement-begins.svg"
 ---
 
 ## 배경 — EU AI법이란 무엇인가

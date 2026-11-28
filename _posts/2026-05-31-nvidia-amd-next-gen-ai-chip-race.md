@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33412"
 description: "엔비디아가 GB300(블랙웰 울트라) 양산을 본격화하는 가운데, AMD가 MI400 아키텍처로 정면 추격에 나섰다. AI 추론(inference) 수요 폭증이 두 회사의 경쟁을 가속화하고 있으며, 데이터센터 투자 방향이 달라질 수 있다."
-image: "https://picsum.photos/seed/2026-05-31-nvidia-amd-next-gen-ai-chip-race/800/500"
+image: "images/cards/2026-05-31-nvidia-amd-next-gen-ai-chip-race.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=43180"
 description: "과기정통부 산하 한국 AI 안전연구소가 국내외 주요 AI 모델 7개를 대상으로 한 첫 공식 안전성 평가 결과를 발표했다. 2개 모델이 '개선 필요' 판정을 받았으며, 해당 개발사는 6개월 내 개선 계획을 제출해야 한다."
-image: "https://picsum.photos/seed/2026-11-10-korea-ai-safety-institute-first-evaluation/800/500"
+image: "images/cards/2026-11-10-korea-ai-safety-institute-first-evaluation.svg"
 ---
 
 ## 한 줄 요약

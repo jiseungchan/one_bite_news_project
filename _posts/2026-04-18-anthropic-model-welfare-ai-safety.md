@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/"
 description: "앤트로픽이 AI 모델의 내면 상태(감정·의식)를 진지하게 연구하는 '모델 복지' 팀을 구성했다. AI가 고통을 느끼는지 아직 모른다는 전제 아래, 미리 윤리 기준을 마련하겠다는 시도다."
-image: https://picsum.photos/seed/anthropic-ai-safety-2026/800/500
+image: "images/cards/2026-04-18-anthropic-model-welfare-ai-safety.svg"
 ---
 
 ## AI에게도 내면이 있을까

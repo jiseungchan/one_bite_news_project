@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/ai-agent-marathon-1000-step-benchmark-2026/"
 description: "스탠퍼드·버클리 공동 연구팀이 AI 에이전트용 장기 계획 벤치마크 'Marathon-1000'을 공개했다. 최신 모델이 1,000단계 과제를 오류율 3% 미만으로 수행한 최초 사례로, '에이전트는 단기 과제에만 쓸 수 있다'는 통념이 흔들리고 있다."
+image: "images/cards/2026-10-13-ai-agent-marathon-benchmark.svg"
 ---
 
 ## AI 에이전트, '마라톤 과제' 첫 통과 — 1,000단계 계획을 실수 없이 수행하다

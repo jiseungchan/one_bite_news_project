@@ -5,6 +5,7 @@ category: AI
 source: "DeepSeek"
 sourceUrl: "https://deepseek.com/en/news/deepseek-v4-1-flash/"
 description: "DeepSeek이 9월 10일 V4.1 Flash를 공개했다. 552B 파라미터에 네이티브 비전 기능을 얹은 경량-고성능 모델로, 더 큰 V4 Pro를 대부분의 에이전트·코딩 벤치마크에서 뛰어넘었다."
+image: "https://www.deepseek.com/images/blog/deepseek-v4-1-flash/cover.webp"
 ---
 
 ## 기존에는 어땠나

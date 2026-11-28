@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202610167397i"
 description: "글로벌 AI 투자 자금이 메모리 반도체에서 미국 소프트웨어주로 이동하면서 삼성전자와 SK하이닉스가 동반 급락했다. 외국인은 연초부터 두 종목을 합쳐 197조 원어치 팔아치웠고, 28~29일 실적 발표가 분기점이 될 것으로 보인다."
+image: "https://img.hankyung.com/photo/202610/01.46185171.1.jpg"
 ---
 
 # AI 돈이 메모리를 떠난다 — 삼성·하이닉스 한 달 새 각각 25%·31% 급락

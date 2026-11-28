@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
 description: "앤트로픽 CEO 다리오 아모데이가 LLM 개발 속도 조절을 촉구하는 에세이를 발표했다. OpenAI 샘 알트먼, 구글 딥마인드 데미스 허사비스, 스페이스X AI 일론 머스크가 잇따라 지지를 표명했다. 불과 몇 달 전까지 가속 페달을 밟던 이들이 왜 갑자기 브레이크를 잡았을까."
+image: "images/cards/2026-09-20-mit-ai-doomer-turn-slowdown.svg"
 ---
 
 ## 왜 지금 이게 중요한가?

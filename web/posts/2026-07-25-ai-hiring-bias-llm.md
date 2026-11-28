@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
 description: "프린스턴대·시카고대 연구팀이 ChatGPT, Claude, Gemini를 채용 시뮬레이션에 투입한 결과, AI가 인간보다 65% 더 강하게 직군별 편견을 형성했다. OpenAI의 최신 추론 모델 o3는 편향 지수가 최댓값(2.0) 근처인 1.83을 기록했다."
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/ai-slant1b.jpg?resize=1200,600"
 ---
 
 이번에 프린스턴대와 시카고대 공동 연구팀이 흥미로운 실험을 했다. ChatGPT, Claude, Gemini 등 주요 LLM(대규모 언어 모델)에게 '가상 도시의 채용 컨설턴트'를 맡겼더니, AI가 인간보다 약 65% 더 강하게 직군별 편견을 형성하는 것으로 나타났다. 특히 OpenAI의 최신 추론 모델 o3는 편향 지수가 최댓값 2.0에 근접한 1.83을 기록했다. 이 연구는 2026년 7월 서울에서 열린 ICML(국제 기계학습 학회)에서 발표됐다.

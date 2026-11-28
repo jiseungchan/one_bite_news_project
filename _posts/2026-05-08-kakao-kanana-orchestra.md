@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210095"
 description: "카카오가 여러 AI 에이전트를 지휘하는 오케스트레이션 프레임워크 '카나나 오케스트라'를 공개했다. 각기 다른 역할의 에이전트들이 협업해 복잡한 작업을 처리하는 멀티에이전트 시스템이다."
-image: "https://picsum.photos/seed/2026-05-08-kakao-kanana-orchestra/800/500"
+image: "images/cards/2026-05-08-kakao-kanana-orchestra.svg"
 ---
 
 ## 한 줄 요약

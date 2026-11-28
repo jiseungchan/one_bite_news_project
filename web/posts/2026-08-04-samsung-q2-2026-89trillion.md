@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026073064461"
 description: "삼성전자가 2026년 2분기 영업이익 89.5조 원을 기록했다. 전년 대비 1,813.8% 증가. 반도체(DS)부문이 89.2조 원을 벌어들이며 실질적으로 '반도체 단일 회사'처럼 움직였다. AI 메모리 수요가 만든 슈퍼사이클의 현재 위치다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "https://img.hankyung.com/photo/202607/AA.45198069.1.jpg"
 ---
 
 ## 수치가 먼저다

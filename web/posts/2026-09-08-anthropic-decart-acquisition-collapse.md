@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition"
 description: "앤트로픽이 이스라엘계 AI 스타트업 데카르트(Decart)를 약 60억 달러(8조 2,000억 원)에 인수하려던 협상을 공식 철회했다. 실사(due diligence) 후 경영진이 딜을 포기한 것으로 전해진다."
+image: "images/cards/2026-09-08-anthropic-decart-acquisition-collapse.svg"
 ---
 
 ## 배경 — 왜 앤트로픽은 데카르트를 원했나?

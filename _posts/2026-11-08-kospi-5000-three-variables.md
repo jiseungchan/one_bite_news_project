@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202611061657i"
 description: "코스피가 11월 5~6일 이틀간 11% 급락하며 5059포인트로 마감했다. 외국인이 2.8조 원 순매도하고 서킷브레이커까지 발동된 충격 이후, 이번 주 미국 물가·MSCI 정기변경·옵션 만기가 5000선 방어의 분수령이 된다."
+image: "https://img.hankyung.com/photo/202611/ZN.46335137.1.jpg"
 ---
 
 # 코스피 5000선 사수할까 — 이번 주 3대 변수: 미국 물가·MSCI·옵션 만기

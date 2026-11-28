@@ -5,7 +5,7 @@ source: Bloomberg Technology
 sourceUrl: https://www.bloomberg.com/news/features/2026-04-20/google-eyes-new-chips-to-speed-up-ai-results-challenging-nvidia
 date: 2026-04-21
 description: 구글이 AI 추론 속도를 높이기 위해 엔비디아 GPU 의존도를 낮추는 자체 칩 전략을 본격화하고 있다. 단순한 비용 절감을 넘어, AI 서비스 응답 속도와 마진 구조 자체를 바꾸려는 시도다.
-image: https://picsum.photos/seed/google-tpu-chip-2026/800/500
+image: "images/cards/2026-04-21-google-ai-chip-nvidia.svg"
 ---
 
 ## 한 줄 요약

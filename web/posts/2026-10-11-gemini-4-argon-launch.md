@@ -5,6 +5,7 @@ category: AI
 source: "Google DeepMind Blog"
 sourceUrl: "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"
 description: "구글 딥마인드가 9월 30일 프런티어 모델 제미나이 4 아르곤을 발표했다. 출력 토큰 상한이 64K에서 100만으로 늘었고, 사이버 보안 방어 목적의 Fairwind 프로그램을 통해 제한 공개했다."
+image: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png"
 ---
 
 구글 딥마인드(Google DeepMind)가 9월 30일 차세대 프런티어 모델 '제미나이 4 아르곤(Gemini 4 Argon)'을 공개했다. 블로그 포스트를 직접 쓴 것은 딥마인드의 최고과학책임자 코레이 카부크쿠오글루(Koray Kavukcuoglu)다. 이 이름이 낯설다면: 그는 딥시크(DeepSeek)의 R1 시리즈와 경쟁 구도를 설계한 핵심 인물이다.

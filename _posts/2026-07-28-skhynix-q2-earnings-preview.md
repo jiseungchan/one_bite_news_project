@@ -5,7 +5,7 @@ source: 한국경제
 sourceUrl: https://www.hankyung.com/economy/article/2026072885021
 date: 2026-07-28
 description: "SK하이닉스가 7월 30일 2분기 잠정실적을 발표할 예정인 가운데, 증권가 컨센서스는 영업이익 13조 원대를 가리키고 있다. HBM4가 처음 대규모로 반영되는 분기로, 1분기 64%를 기록한 영업이익률이 추가 개선될지 시장의 관심이 집중된다."
-image: https://picsum.photos/seed/2026-07-28-skhynix-q2-earnings-preview/800/500
+image: "images/cards/2026-07-28-skhynix-q2-earnings-preview.svg"
 ---
 
 ## 한 줄 요약

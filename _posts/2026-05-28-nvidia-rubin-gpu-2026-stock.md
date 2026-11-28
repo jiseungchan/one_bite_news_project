@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052891247"
 description: "엔비디아가 차세대 AI GPU '루빈(Rubin)' 플랫폼의 4분기 양산 일정을 공식 확인했다. HBM4E(차세대 고대역폭 메모리) 주 공급사인 SK하이닉스와 삼성전자가 동반 상승했다."
+image: "images/cards/2026-05-28-nvidia-rubin-gpu-2026-stock.svg"
 ---
 
 ## 리드

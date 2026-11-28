@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216500"
 description: "오픈AI가 구글 클라우드 Model Garden을 통해 GPT-6 시리즈와 코딩 에이전트 Codex를 기업 고객에게 판매하기로 했다. 올해 4월 마이크로소프트 독점 계약 종료 후 AWS에 이어 구글까지, 3대 하이퍼스케일러 모두에서 오픈AI 모델을 구매할 수 있게 됐다."
+image: "https://cdn.aitimes.com/news/photo/202610/216500_220586_2755.png"
 ---
 
 ## 배경

@@ -5,6 +5,7 @@ category: AI
 source: "아시아경제"
 sourceUrl: "https://view.asiae.co.kr/en/article/2026062313455833960"
 description: "삼성SDS가 기업용 생성형 AI 플랫폼 '패브릭스(FabriX)'를 공공·금융 분야로 전면 확대한다. 이미 국내 정부 전자문서 시스템에 SaaS로 공급하고, 에이전트끼리 협업하는 멀티에이전트 오케스트레이션 기능이 올해 안에 출시될 예정이다."
+image: "images/cards/2026-10-15-samsung-sds-fabrix-agent-platform.svg"
 ---
 
 ## 배경: 기업용 AI, 이제 에이전트 시대

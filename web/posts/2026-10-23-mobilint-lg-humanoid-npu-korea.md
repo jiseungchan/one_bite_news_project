@@ -5,6 +5,7 @@ category: AI
 source: "TechTimes"
 sourceUrl: "https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm"
 description: "모빌린트가 정부 주도 K-온디바이스 AI 반도체 사업(2026~2030년, 약 8,002억 원)에서 휴머노이드 로봇 파트 주관 기업으로 선정됐다. LG전자가 로봇 시스템을, 모빌린트가 NPU를, 노타가 모델 경량화를 담당한다."
+image: "images/cards/2026-10-23-mobilint-lg-humanoid-npu-korea.svg"
 ---
 
 2026년 10월 22일, 스타트업 하나의 이름이 국내 로봇 산업 지형에 조용히 박혔다. 모빌린트(Mobilint)다.

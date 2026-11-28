@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/04/1138401/ai-cybersecurity-offense-defense/"
 description: "AI가 사이버 공격과 방어 양쪽을 동시에 강화하면서 보안 패러다임 자체가 바뀌고 있다. 피싱 메일 탐지율이 92%까지 올랐지만, AI가 생성한 피싱 메일의 클릭률도 47%로 치솟았다."
-image: "https://picsum.photos/seed/2026-06-05-ai-cybersecurity-offense-defense/800/500"
+image: "images/cards/2026-06-05-ai-cybersecurity-offense-defense.svg"
 ---
 
 ## 한 줄 요약

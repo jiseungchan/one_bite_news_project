@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/features/ebola-response"
 description: "WHO AFRO와 CEPI가 DRC 에볼라(BDBV 변종) 대응에 클로드를 투입했다. 상황 보고서 작성이 하루에서 1시간 이내로 단축됐고, 유전체(genome) 분석이 현장에서 실시간으로 이뤄지고 있다."
+image: "https://assets.claude.com/f61376ab3c75319caa0ec84cde08759db8c483be.jpg"
 ---
 
 민주콩고공화국(DRC)에서 진행 중인 에볼라 바이러스 대응 현장에 AI가 들어갔다. WHO AFRO(세계보건기구 아프리카 지역 사무소)와 CEPI(감염병 예방 혁신 연합)가 앤트로픽의 클로드를 실제 발병 대응에 투입하고 있다.

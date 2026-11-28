@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/s1-sec"
 description: "앤트로픽이 2026년 10월 26일 SEC에 S-1 서류를 제출했다. 나스닥에 'ANT' 티커로 상장을 추진 중이며, 골드만삭스·모건스탠리가 주관사를 맡았다."
+image: "images/cards/2026-10-28-anthropic-ipo-s1-nasdaq.svg"
 ---
 
 앤트로픽이 2026년 10월 26일, 미국 증권거래위원회(SEC)에 S-1 등록 서류(기업공개를 위한 공식 신청서류)를 제출했다. 나스닥 글로벌 셀렉트 마켓(Nasdaq Global Select Market)에 'ANT'라는 티커 심볼로 상장을 추진하겠다는 공식 선언이다.

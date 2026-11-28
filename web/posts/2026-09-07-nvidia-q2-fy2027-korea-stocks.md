@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Seoul Economic Daily"
 sourceUrl: "https://en.sedaily.com/finance/2026/08/27/samsung-sk-hynix-surge-on-nvidia-results-as-kospi-eyes-7000"
 description: "엔비디아가 Q2 FY2027에 매출 $96.2B(약 132조 원)로 13분기 연속 신기록을 썼다. 동시에 메모리 부족이 2028년까지 지속된다는 경고가 삼성전자와 SK하이닉스 주가를 끌어올렸다."
+image: "https://wimg.sedaily.com/news/cms/2026/08/27/news-p.v1.20260827.a620c1c439b74661a0f071a90d4be5e7_P1.jpg"
 ---
 
 ## 숫자부터

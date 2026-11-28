@@ -5,7 +5,7 @@ source: Bloomberg
 sourceUrl: https://www.bloomberg.com/news/articles/2026-05-04/tsmc-arizona-fab2-delay-2027
 date: 2026-05-10
 description: 블룸버그에 따르면 TSMC 애리조나 Fab 2의 본격 양산 일정이 반도체 장비 부족으로 2027년으로 지연될 수 있다. 미국 내 첨단 반도체 자급 계획에 차질이 생길 수 있다는 우려가 나온다.
-image: https://picsum.photos/seed/2026-05-10-tsmc-arizona-fab2-delay/800/500
+image: "images/cards/2026-05-10-tsmc-arizona-fab2-delay.svg"
 ---
 
 ## 한 줄 요약

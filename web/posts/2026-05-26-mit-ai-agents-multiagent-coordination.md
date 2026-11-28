@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/22/multiagent-ai-coordination/"
 description: "단일 AI 모델의 한계를 넘기 위해 여러 AI 에이전트가 역할을 나눠 협력하는 멀티에이전트 프레임워크가 주목받고 있다. 구글·앤트로픽·오픈AI 모두 각자의 에이전트 오케스트레이션 접근법을 공개했다."
-image: "https://picsum.photos/seed/2026-05-26-mit-ai-agents-multiagent-coordination/800/500"
+image: "images/cards/2026-05-26-mit-ai-agents-multiagent-coordination.svg"
 ---
 
 ## 한 줄 요약

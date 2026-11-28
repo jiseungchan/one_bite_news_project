@@ -5,6 +5,7 @@ category: 경제·주식
 source: "파이낸셜뉴스"
 sourceUrl: "https://www.fnnews.com/news/202607131546349912"
 description: "SK하이닉스가 역사적 고점을 찍은 지 3주 만에 코스피는 9114에서 6800대로 내려앉았다. AI 기대를 가장 먼저, 가장 크게 반영했던 한국 반도체 두 종목이 같은 이유로 가장 깊이 빠졌다."
+image: "https://image.fnnews.com/resource/media/image/2026/07/13/202607131509150253_e.jpg"
 ---
 
 ## 배경 — AI 기대가 만든 정점

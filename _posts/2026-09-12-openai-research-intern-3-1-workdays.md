@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214978"
 description: "오픈AI가 9월 6일 '자동화 연구 인턴' 목표 달성을 선언했다. 인간 연구원 하루치 작업을 AI 에이전트 3.1일치가 보완하며, 연구원 한 명이 하루 평균 60만 원 이상의 AI 추론 비용을 쓰고 있다."
+image: "https://cdn.aitimes.com/news/photo/202609/214978_218727_2253.jpeg"
 ---
 
 ## 배경: 작년 가을에 던진 약속

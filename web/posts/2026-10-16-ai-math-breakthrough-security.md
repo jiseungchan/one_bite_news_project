@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216279"
 description: "학술 수학 문제 해결률이 2024년 2.8%에서 2026년 34.6%로 치솟았다. 이 속도가 의미하는 두 가지 — 과학 연구의 가속과 인터넷 보안의 균열."
+image: "https://cdn.aitimes.com/news/photo/202610/216279_220307_1119.png"
 ---
 
 지난주 AI타임스 10월 15일자 뉴스 브리핑이 다룬 숫자 하나가 눈에 띄었다.

@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=210712
 date: 2026-05-19
 description: 삼성전자가 웨어러블(착용형 기기) 전용 AI 가속기 '엑시노스 W1000'을 공개했다. 전작 대비 NPU 성능이 2.4배 향상됐으며, 갤럭시 워치8 시리즈에 최초 탑재될 예정이다.
-image: https://picsum.photos/seed/2026-05-19-samsung-exynos-w1000-ondevice-ai/800/500
+image: "images/cards/2026-05-19-samsung-exynos-w1000-ondevice-ai.svg"
 ---
 
 ## 한 줄 요약

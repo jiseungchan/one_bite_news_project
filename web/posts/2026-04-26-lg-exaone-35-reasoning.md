@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209521"
 description: "LG AI연구원이 자체 개발한 AI 언어모델 EXAONE 3.5를 공개했다. 수학·코딩·과학 추론 벤치마크에서 국내 개발 모델 중 최고 성능을 기록했으며, 오픈소스로 공개해 생태계 확산을 노린다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-26-lg-exaone-35-reasoning.svg"
 ---
 
 ## 배경 — 국내 AI 모델 경쟁의 현주소

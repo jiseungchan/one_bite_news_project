@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41215"
 description: "네이버가 기업 전용 AI 에이전트 플랫폼 '하이퍼클로바X 엔터프라이즈'를 출시했다. 한국어 법률·세무·HR 문서에 특화된 에이전트와 기업 내부 시스템 연동이 핵심이다."
+image: "images/cards/2026-10-12-naver-hyperclovax-enterprise.svg"
 ---
 
 한국 기업들의 AI 도입은 주로 마이크로소프트(Copilot), 구글(Workspace AI), 세일즈포스 같은 글로벌 플랫폼 위에서 이뤄졌다. 기능 자체는 훌륭하지만, 문제가 있었다.

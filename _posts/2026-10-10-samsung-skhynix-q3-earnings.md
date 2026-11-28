@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026100912345"
 description: "삼성전자와 SK하이닉스가 나란히 3분기 어닝서프라이즈를 기록했다. SK하이닉스는 HBM4 독점 공급으로 영업이익률 67%를 달성했고, 삼성전자는 파운드리 적자가 줄며 반등 신호를 보냈다."
+image: "images/cards/2026-10-10-samsung-skhynix-q3-earnings.svg"
 ---
 
 10월 초 발표된 3분기 잠정 실적이 국내 반도체 투자자들의 시선을 사로잡았다. 두 회사 모두 시장 컨센서스(증권사 평균 예상치)를 웃돌았지만, 내부를 들여다보면 서로 다른 이유로 좋은 숫자를 냈다.

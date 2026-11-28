@@ -5,6 +5,7 @@ category: 경제·주식
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/business/12129186"
 description: "삼성전자와 SK하이닉스(삼전닉스)가 올해 상반기에만 현금 보유량을 117조원 늘렸다. AI 반도체 수요 급증이 만들어낸 역대급 수익이 설비투자 실탄으로 쌓이고 있다."
+image: "https://pimg.mk.co.kr/news/cms/202608/17/news-p.v1.20260817.2c372ab8e74045f78332ad4810d06871_R.jpg"
 ---
 
 ## 배경 — 2년 전 적자 기업들이 지금은

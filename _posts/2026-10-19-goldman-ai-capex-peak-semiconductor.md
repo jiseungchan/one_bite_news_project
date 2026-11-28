@@ -5,6 +5,7 @@ category: 경제·주식
 source: "뉴데일리 비즈"
 sourceUrl: "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900073.html"
 description: "골드만삭스 글로벌 투자리서치가 글로벌 하이퍼스케일러의 AI 설비투자(CAPEX) 증가율이 올해 3분기 116%로 정점을 찍고 4분기부터 하향 곡선을 그릴 것으로 전망했다. 시장 주도권이 반도체 하드웨어에서 소프트웨어·서비스로 이동할 수 있다는 관측이 나온다."
+image: "https://image.newdaily.co.kr/site/data/img/2026/10/19/2026101900073_0.png"
 ---
 
 ## 배경: AI 투자 버블 논쟁이 다시 불거졌다

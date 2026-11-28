@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=215102
 date: 2026-06-21
 description: OpenAI가 웹 브라우저를 직접 제어해 예약·구매·데이터 수집 등 실제 업무를 수행하는 기업용 AI 에이전트 플랫폼 'Operator Pro'를 정식 출시했다. 베타 기간 기업 고객들은 주당 평균 47시간의 단순 반복 업무를 자동화했다.
-image: https://picsum.photos/seed/2026-06-21-openai-operator-pro-enterprise/800/500
+image: "images/cards/2026-06-21-openai-operator-pro-enterprise.svg"
 ---
 
 ## 한 줄 요약

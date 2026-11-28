@@ -5,7 +5,7 @@ source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/stock/12076301
 date: 2026-05-19
 description: SK하이닉스가 HBM4(5세대 고대역폭 메모리) 양산을 시작하고 엔비디아 GB300 가속기에 공급을 개시했다. 전작 HBM3E 대비 데이터 전송 속도가 50% 향상됐으며, SK하이닉스 주가는 장중 4.3% 상승했다.
-image: https://picsum.photos/seed/2026-05-19-skhynix-hbm4-mass-production-gb300/800/500
+image: "images/cards/2026-05-19-skhynix-hbm4-mass-production-gb300.svg"
 ---
 
 ## 한 줄 요약

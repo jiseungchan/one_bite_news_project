@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215779"
 description: "오픈AI가 9월 29일 DevDay에서 '닷츠(Dots)'를 공개했다. 24시간 백그라운드에서 돌아가며 4,000개 이상의 앱에 연결되는 자율 에이전트로, 개인용이 아닌 기업 업무 위임을 정조준했다."
+image: "https://cdn.aitimes.com/news/photo/202609/215779_219737_718.jpeg"
 ---
 
 ## 배경 — 에이전트 전쟁의 새 전선

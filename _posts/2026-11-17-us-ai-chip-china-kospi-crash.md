@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202611171350i"
 description: "미 상무부가 태국·말레이시아 등 제3국 데이터센터를 통한 중국의 AI 칩 원격 접근을 차단하는 166쪽 규제를 발표했다. 코스피는 2.59% 급락해 4,968에 마감했다. 삼성전자 -3.3%, SK하이닉스 -2%."
+image: "https://img.hankyung.com/photo/202611/01.46449249.1.jpg"
 ---
 
 ## 배경: 중국이 찾은 우회로, 미국이 막아섰다

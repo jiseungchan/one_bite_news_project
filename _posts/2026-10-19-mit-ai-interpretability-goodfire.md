@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
 description: "AI 해석 가능성(interpretability) 연구자 닉 카마라타가 쓴 2만 6,000단어짜리 블로그 포스트 하나가 AI 안전 커뮤니티를 뒤집었다. 대형 언어 모델은 우리가 생각했던 것보다 훨씬 이해하기 쉬울 수 있다는 주장이다."
+image: "images/cards/2026-10-19-mit-ai-interpretability-goodfire.svg"
 ---
 
 ## 배경: '블랙박스'라는 오래된 통념

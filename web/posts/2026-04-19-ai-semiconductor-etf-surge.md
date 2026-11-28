@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026041855021"
 description: "국내 AI 반도체 관련 ETF가 하루 만에 4~7% 급등하며 거래량이 폭증했다. 외국인과 기관이 동시에 순매수에 나선 배경에는 엔비디아의 호실적 전망과 HBM 수요 재확인이 있다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-04-19-ai-semiconductor-etf-surge.svg"
 ---
 
 ## 한 줄 요약

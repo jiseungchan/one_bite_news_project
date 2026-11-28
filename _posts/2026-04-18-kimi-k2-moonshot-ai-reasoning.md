@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209398"
 description: "중국 스타트업 Moonshot AI가 공개한 추론 모델 Kimi K2가 수학·코딩 벤치마크에서 오픈소스 모델 최고 성적을 기록했다. 1조 파라미터 규모의 MoE 구조로, DeepSeek-R1을 뛰어넘는 성능을 보였다."
-image: https://picsum.photos/seed/kimi-k2-moonshot-2026/800/500
+image: "images/cards/2026-04-18-kimi-k2-moonshot-ai-reasoning.svg"
 ---
 
 ## 오픈소스 추론 경쟁, 다시 뒤집혔다

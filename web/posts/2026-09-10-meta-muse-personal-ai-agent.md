@@ -5,6 +5,7 @@ category: AI
 source: "The Next Web"
 sourceUrl: "https://thenextweb.com/news/meta-muse-personal-ai-agent-launch"
 description: "메타가 9월 8일 개인 AI 에이전트 '뮤즈(Muse)'를 출시했다. 이메일을 읽고, 여행을 예약하고, 협상까지 대신한다. 앱을 닫아도 백그라운드에서 계속 작동한다는 점이 기존 AI 어시스턴트와의 결정적 차이다."
+image: "https://media.thenextweb.com/2026/09/Meta-Muse.jpg"
 ---
 
 ## 배경 — AI 어시스턴트의 공통된 한계

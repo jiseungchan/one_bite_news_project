@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026112001855"
 description: "KB증권·미래에셋·NH투자증권 등 주요 증권사들이 삼성전자 목표주가를 잇따라 95,000~110,000원으로 상향했다. HBM4E 수율이 65%를 넘겼다는 소식과 파운드리 사업의 연내 흑자 전환 가능성이 핵심 모멘텀이다."
-image: "https://picsum.photos/seed/2026-11-21-samsung-target-price-100k-hbm4e/800/500"
+image: "images/cards/2026-11-21-samsung-target-price-100k-hbm4e.svg"
 ---
 
 ## 한 줄 요약

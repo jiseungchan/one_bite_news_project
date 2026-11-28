@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/accenture-embedded-evaluation"
 description: "앤트로픽이 엑센추어 계열사 Faculty와 파트너십을 맺어 AI 모델 개발 과정에 외부 평가자를 상주시키는 '임베디드 평가(embedded evaluation)' 체계를 도입했다. 5년간 최소 10억 달러 투자, 직원과 동등한 내부 접근권이 핵심이다."
+image: "images/cards/2026-10-04-anthropic-accenture-embedded-evaluation.svg"
 ---
 
 9월 18일, 앤트로픽이 엑센추어(Accenture) 산하 AI 전문 자회사 Faculty와 손잡고 새로운 AI 안전 거버넌스 모델을 발표했다. 핵심은 외부 평가자를 단순한 감사인이 아닌 '상주 검증자'로 내부에 배치하는 방식이다.

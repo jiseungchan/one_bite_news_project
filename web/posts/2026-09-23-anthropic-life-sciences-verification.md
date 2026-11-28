@@ -5,7 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/life-sciences-verification-program"
 description: "앤트로픽이 9월 17일 생명과학 검증 프로그램(LSVP)을 출시해 제약·바이오 연구자들에게 기존에 차단됐던 AI 기능을 개방했다. 신약 개발·임상 연구·기초과학까지 AI가 직접 개입할 수 있는 새 장이 열렸다."
-image: "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80"
+image: "images/cards/2026-09-23-anthropic-life-sciences-verification.svg"
 ---
 
 ![생명과학과 AI](https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80)

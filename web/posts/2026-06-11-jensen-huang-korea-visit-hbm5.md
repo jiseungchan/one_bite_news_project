@@ -5,7 +5,7 @@ source: 글로벌이코노믹
 sourceUrl: https://www.g-enews.com/article/Opinion/2026/06/20260610173843400435e857d010_1
 date: 2026-06-11
 description: 엔비디아 CEO 젠슨 황이 6월 초 3박 4일 방한해 SK하이닉스·삼성전자·LG·네이버 경영진과 연쇄 회동했다. SK하이닉스는 "최대 메모리 공급자" 지위를 공식 재확인하고 HBM5 공동 개발에 합의했다. 삼성전자는 신라호텔 비공개 회동에서 HBM4E·HBM5 공급 협상을 진행했다.
-image: https://picsum.photos/seed/2026-06-11-jensen-huang-korea-visit-hbm5/800/500
+image: "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&simg=202606101740540430135e857d01010625224987.jpg"
 ---
 
 ## 한 줄 요약

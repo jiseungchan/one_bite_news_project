@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
 description: "앤트로픽이 335페이지 분량의 IPO 신청서를 SEC에 제출했다. MIT Technology Review는 이 문서가 '진짜 앤트로픽'을 드러냈는지, 아니면 브랜드를 더 두껍게 덧칠했는지 묻는다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-darioB_1.jpg?resize=1200,600"
 ---
 
 앤트로픽이 10월 26일(현지시간) 미국 SEC(증권거래위원회)에 IPO 신청서를 제출했다. 335페이지짜리 이 문서에는 안전한 AI를 만들겠다는 회사의 철학, 재무 현황, 경쟁 구조가 모두 담겨 있다. MIT Technology Review는 이 제출을 "브랜드 시험"으로 읽는다.

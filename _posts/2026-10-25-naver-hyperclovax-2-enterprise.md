@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42103"
 description: "네이버가 하이퍼클로바X의 두 번째 버전과 함께 법률·회계·HR 특화 에이전트 3종을 공개했다. 전문 도메인 문서 이해 정확도가 전작 대비 34%p 향상됐으며, 삼성물산·현대자동차 등 대기업 계약도 발표됐다."
+image: "images/cards/2026-10-25-naver-hyperclovax-2-enterprise.svg"
 ---
 
 네이버가 기업용 AI 플랫폼에서 두 번째 판을 꺼냈다.

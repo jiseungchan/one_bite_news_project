@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211537"
 description: "삼성전자가 3년 전 보안 유출로 금지했던 외부 생성형 AI를 전면 도입한다. 오늘 OpenAI는 삼성전자와 오픈AI 역대 최대 규모의 엔터프라이즈 챗GPT·Codex 공급 계약을 체결했다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800"
+image: "https://cdn.aitimes.com/news/photo/202606/211537_214522_5736.jpg"
 ---
 
 삼성전자가 ChatGPT를 막았던 회사에서, ChatGPT를 가장 크게 도입한 회사가 됐다.

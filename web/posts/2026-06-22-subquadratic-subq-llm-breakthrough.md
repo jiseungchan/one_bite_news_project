@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
 description: "마이애미 스타트업 Subquadratic이 AI 언어 모델의 가장 오래된 병목을 수학적으로 해결했다고 주장한다. SubQ는 1,200만 토큰 컨텍스트를 처리하면서 비용은 기존 대비 300배 이상 절감."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600"
 ---
 
 LLM을 공부하다 보면 자연스럽게 만나는 질문이 있다. "왜 긴 문서를 한꺼번에 처리하면 비용이 폭발적으로 늘어나지?" 이번에 그 질문에 정면으로 부딪힌 회사가 등장했다.

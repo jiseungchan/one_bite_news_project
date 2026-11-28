@@ -5,7 +5,7 @@ category: AI
 source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
 description: "MS Research가 14B 파라미터 오케스트레이터 MagenticBrain과 9B 규모 컴퓨터 사용 모델 Fara1.5로 구성된 에이전트 시스템을 발표했다. 기존 Fara-7B 대비 웹 네비게이션 성능이 거의 2배 향상됐다."
-image: "https://picsum.photos/seed/2026-06-13-magentic-lite-small-model-agent/800/500"
+image: "images/cards/2026-06-13-magentic-lite-small-model-agent.svg"
 ---
 
 ## 한 줄 요약

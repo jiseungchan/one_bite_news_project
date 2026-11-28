@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217419"
 description: "미국 수출 통제 칩을 기반으로 한 중국 내 AI 데이터센터 프로젝트 규모가 약 4조2000억원에 달하는 것으로 분석됐다. 엔비디아 규제 강화와 젠슨 황 CEO 사임이 겹치면서 핵심 GPU 확보에 적신호가 켜졌다."
+image: "https://cdn.aitimes.com/news/photo/202611/217419_221664_659.jpg"
 ---
 
 ## 배경: 중국은 규제 속에서도 AI 데이터센터를 지어왔다

@@ -5,6 +5,7 @@ category: 바이오
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41287"
 description: "구글 딥마인드가 AI로 설계한 신약 후보물질이 미국 FDA 임상 1상 승인을 받았다. 표적 선정부터 후보물질 도출까지 전 과정을 AI가 주도한 첫 사례로, 신약 개발 타임라인이 기존 10~15년에서 3~5년으로 단축될 수 있다는 기대가 현실에 한 발 다가섰다."
+image: "https://cdn.aitimes.kr/news/thumbnail/202608/41287_62178_4727_v150.jpg"
 ---
 
 ### 배경: AlphaFold가 열어젖힌 문

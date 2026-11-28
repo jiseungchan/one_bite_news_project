@@ -5,7 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/google-deepmind-veo-3-generates-video-with-audio/"
 description: "구글 딥마인드가 영상과 오디오를 동시에 생성하는 Veo 3를 공개했다. 텍스트 한 줄로 배경음악·효과음·대사까지 완성된 영상을 뽑아내며, AI 영상 생성의 기준점이 다시 이동했다."
-image: "https://picsum.photos/seed/2026-05-21-google-deepmind-veo3-video-ai/800/500"
+image: "images/cards/2026-05-21-google-deepmind-veo3-video-ai.svg"
 ---
 
 ## 한 줄 요약

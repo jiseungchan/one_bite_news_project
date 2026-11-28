@@ -5,6 +5,7 @@ category: 바이오
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
 description: "미국 스타트업 Switch Bioworks가 식물 뿌리에 정착한 뒤 스스로 질소를 생산하는 유전공학 미생물로 화학 비료 50% 대체를 목표로 한다. 2026년 5월, 미국 6개 주 옥수수밭에서 첫 현장 실험이 시작됐다."
+image: "images/cards/2026-09-01-switch-bioworks-microbe-fertilizer.svg"
 ---
 
 # 유전공학 미생물이 화학비료를 절반으로 줄인다 — Switch Bioworks의 도전

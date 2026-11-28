@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41820"
 description: "이동통신 3사가 같은 주에 기업용 AI 에이전트 플랫폼을 잇따라 출시했다. 단순 챗봇을 넘어 예약 확정·계약 관리·재고 조회까지 실제 업무를 수행하는 수준이다. 국내 콜센터 시장 5조 원이 흔들리기 시작했다."
-image: "https://picsum.photos/seed/2026-07-31-telecom-ai-agent-enterprise-service/800/500"
+image: "images/cards/2026-07-31-telecom-ai-agent-enterprise-service.svg"
 ---
 
 ## 한 줄 요약

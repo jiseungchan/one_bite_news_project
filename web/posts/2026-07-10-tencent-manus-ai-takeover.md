@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-07-10/tencent-in-talks-to-become-largest-holder-of-manus-ft-reports-mrectviz"
 description: "텐센트가 중국 AI 에이전트 스타트업 Manus의 최대 주주가 되기 위한 협상을 진행 중이라고 FT가 보도했다. 텐센트의 플랫폼 파워와 Manus의 에이전트 기술이 결합될 경우 중국 AI 생태계 판도가 크게 바뀔 수 있다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "images/cards/2026-07-10-tencent-manus-ai-takeover.svg"
 ---
 
 ## 배경 — Manus가 뭔데

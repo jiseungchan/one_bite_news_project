@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat / TechCrunch"
 sourceUrl: "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov/"
 description: "OpenAI가 GPT-5.6 3종을 공개했지만 트럼프 행정부 요청으로 사전 승인된 20여 개 기업에만 제한 공개됐다. AI 모델 출시에 정부가 개입한 첫 사례다."
-image: "https://picsum.photos/seed/2026-06-27-openai-gpt56-sol-terra-luna-government/800/500"
+image: "images/cards/2026-06-27-openai-gpt56-sol-terra-luna-government.svg"
 ---
 
 ## OpenAI가 GPT-5.6을 내놨다. 그런데 쓸 수 있는 기업이 20곳뿐이다

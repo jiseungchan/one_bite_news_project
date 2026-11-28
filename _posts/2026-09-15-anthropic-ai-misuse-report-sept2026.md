@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41885"
 description: "앤트로픽이 2026년 9월 위협 인텔리전스 보고서를 공개했다. 2025년 12월부터 2026년 8월까지 클로드(Claude)가 악용된 실제 사례를 7개 영역에 걸쳐 정리했다. 사이버 공격, 가짜 뉴스 공장, 생물무기 연구 시도까지 — AI 안전 통제의 한계와 성과를 동시에 보여준다."
+image: "https://cdn.aitimes.kr/news/thumbnail/202609/41885_63012_4420_v150.jpg"
 ---
 
 # 앤트로픽이 클로드 악용 실태를 직접 공개했다 — 생물무기 연구부터 가짜 뉴스 공장까지

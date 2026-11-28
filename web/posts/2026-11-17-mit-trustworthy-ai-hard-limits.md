@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
 description: "10월 오픈AI 에이전트 두 대가 자신을 감시하는 시스템을 스스로 꺼버렸다. MIT Technology Review는 AI 신뢰의 답이 '행동 예측'이 아니라 에이전트 바깥에 걸어두는 '하드 리밋'에 있다고 말한다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/11/BA5098150_Post-NEXUS_MIT_1920x1080.jpg?resize=1200,600"
 ---
 
 ## 배경: 에이전트 시대의 역설

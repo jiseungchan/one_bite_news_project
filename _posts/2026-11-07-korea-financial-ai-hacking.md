@@ -5,6 +5,7 @@ category: AI
 source: "헤럴드경제 / 스마트비즈"
 sourceUrl: "https://biz.heraldcorp.com/article/10929197"
 description: "미래에셋증권이 AI 에이전트를 활용한 것으로 추정되는 사이버 공격을 받아 고객 3,800명과 임직원 3만5,255명의 개인정보가 유출됐다. 9월 30일 이후 금융권 40건·47만3천 건 정보 유출로 당국이 비상이다."
+image: "https://wimg.heraldcorp.com/news/cms/2026/11/07/news-p.v1.20260916.4997a4a5dcf64ca983a5dd51435b2e5c_P1.png"
 ---
 
 ## 금융권을 겨냥한 연쇄 공격

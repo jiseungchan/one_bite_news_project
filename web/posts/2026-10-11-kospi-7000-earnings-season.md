@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026100815406"
 description: "코스피가 지난주 5.39% 급락하며 7000선을 내줬다. 삼성전자의 어닝 서프라이즈에도 외국인이 6조3000억원을 순매도했다. 이번 주 미국 빅테크 실적과 TSMC 발표가 외국인 복귀의 열쇠다."
+image: "https://img.hankyung.com/photo/202610/99.44807893.1.jpg"
 ---
 
 지난 한 주 코스피(KOSPI — 한국종합주가지수)의 흐름이 이상했다. 삼성전자가 3분기 영업이익으로 시장 예상을 뛰어넘는 어닝 서프라이즈(earning surprise — 예상치를 크게 웃도는 실적 발표)를 냈는데 지수는 오히려 떨어졌다.

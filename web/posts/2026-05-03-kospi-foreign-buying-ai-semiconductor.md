@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050332010"
 description: "외국인 투자자들이 코스피 AI·반도체 종목을 집중 매수하며 삼성전자와 SK하이닉스가 동반 상승했다. GPT-5 공개와 엔비디아 실적 기대감이 맞물리며 글로벌 AI 투자 심리가 국내 반도체주로 유입되고 있다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-05-03-kospi-foreign-buying-ai-semiconductor.svg"
 ---
 
 ## 배경 — AI 수혜주로서 한국 반도체의 위치

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
 description: "ICML 2026 논문이 밝혔다 — LLM은 역할 태그가 아니라 '문체'로 신뢰를 판단하며, 이 결함은 구조적으로 원천 차단이 불가능할 수 있다."
-image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600"
 ---
 
 모든 LLM(대형 언어 모델 — GPT, 클로드 같은 AI 언어 모델의 통칭)에는 원천 차단이 불가능할 수 있는 구조적 결함이 있다는 연구 결과가 나왔다. MIT 부교수 딜런 해드필드-메넬(Dylan Hadfield-Menell)을 포함한 연구팀이 ICML 2026(국제머신러닝학술대회)에서 발표한 논문 "Prompt Injection as Role Confusion"의 결론이다.

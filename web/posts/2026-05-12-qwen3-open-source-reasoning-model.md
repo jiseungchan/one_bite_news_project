@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/alibabas-qwen3-redefines-open-source-reasoning/"
 description: "알리바바가 공개한 Qwen3는 '빠른 응답'과 '깊은 추론'을 상황에 따라 전환하는 하이브리드 구조로, GPT-4o·Claude 3.5 수준의 성능을 오픈소스로 구현했다."
-image: "https://picsum.photos/seed/2026-05-12-qwen3-open-source-reasoning-model/800/500"
+image: "images/cards/2026-05-12-qwen3-open-source-reasoning-model.svg"
 ---
 
 ## 한 줄 요약

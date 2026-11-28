@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41030"
 description: "중국 AI 스타트업 문샷AI가 2.8조 파라미터 규모의 오픈소스 모델 '키미 K3'를 공개했다. GDPval-AA v2 벤치마크에서 세계 3위를 기록하며 '중국 AI는 항상 6개월 늦다'는 통념을 다시 한번 허물었다."
+image: "https://cdn.aitimes.kr/news/thumbnail/202607/41030_61827_4640_v150.jpg"
 ---
 
 ## 배경 — 딥시크 이후 중국 AI는 어디에 있었나?

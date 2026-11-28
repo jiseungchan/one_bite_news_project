@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=215001
 date: 2026-06-21
 description: 구글 딥마인드가 Gemini 2.5 Pro를 대규모 업데이트해 SWE-bench 72.4%로 GPT-5(68.3%)를 넘어섰고, MATH-500에서는 97.1%로 인간 전문가 평균(91%)도 초과했다.
-image: https://picsum.photos/seed/2026-06-21-gemini-25-pro-update-coding/800/500
+image: "images/cards/2026-06-21-gemini-25-pro-update-coding.svg"
 ---
 
 ## 한 줄 요약

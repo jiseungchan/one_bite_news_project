@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/20/1117312/ai-agents-are-becoming-economic-actors/"
 description: "AI 에이전트가 단순 작업 자동화를 넘어 실제 경제적 의사결정을 내리고 거래를 체결하는 '자율 경제 행위자'로 진화하고 있다. 인간의 승인 없이 계약을 맺고 서비스를 구매하는 에이전트들이 이미 기업 환경에 등장했다."
-image: "https://picsum.photos/seed/2026-05-20-ai-agent-economy-mit/800/500"
+image: "images/cards/2026-05-20-ai-agent-economy-mit.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
 description: "아이들은 GPT 같은 대형 언어 모델보다 훨씬 적은 데이터로 언어를 익힌다. 그 비결이 아직도 밝혀지지 않았다는 사실이, AI 연구의 가장 중요한 미스터리 중 하나로 떠올랐다."
-image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600"
 ---
 
 ## 한 줄 요약

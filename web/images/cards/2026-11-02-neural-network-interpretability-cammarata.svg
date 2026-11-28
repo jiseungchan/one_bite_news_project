@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.0" x2="1" y2="0.9"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="680" cy="100" r="190" fill="#fff" fill-opacity=".05"/>
+<g><rect x="600" y="95" width="150" height="200" rx="10" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".6"/><rect x="560" y="120" width="160" height="220" rx="12" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><path d="M585 150h80" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/><path d="M585 175h110" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".7"/><path d="M585 203h85" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".7"/><path d="M585 231h60" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".7"/><path d="M585 259h110" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".7"/><path d="M585 287h85" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" opacity=".7"/><circle cx="720" cy="320" r="38" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><path d="M747 347l30 30" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">우리는 잘못 보고 있었다</text>
+
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-11-02 · MIT Technology Review · 한입뉴스</text>
+</svg>

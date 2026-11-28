@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/10/1142081/neuromorphic-chips-llm-inference-energy/"
 description: "챗GPT 한 번의 답변에 구글 검색 10배의 전력이 든다. MIT 리뷰가 조명한 뉴로모픽 칩은 이 방정식을 100분의 1로 바꾸려 한다. Intel Loihi 3와 IBM NorthPole이 그 가능성을 보여줬다."
+image: "images/cards/2026-11-13-neuromorphic-chips-ai-inference.svg"
 ---
 
 AI 모델 성능 경쟁은 사실상 에너지 소비 경쟁이기도 하다. 모델이 커질수록, 추론이 복잡해질수록, 전기를 더 많이 쓴다. 이 구조를 근본적으로 바꾸려는 시도가 하드웨어 단에서 나오고 있다.

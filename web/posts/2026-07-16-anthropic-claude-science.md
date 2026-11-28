@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40785"
 description: "앤트로픽이 과학자 전용 AI 연구 워크벤치 '클로드 사이언스'를 공개했다. 60개 이상 과학 데이터베이스와 연동해 문헌 리뷰부터 단백질 구조 분석까지 한 환경에서 처리한다."
+image: "https://cdn.aitimes.kr/news/thumbnail/202607/40785_61497_5219_v150.jpg"
 ---
 
 ## 배경 — 과학 연구의 진짜 병목

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210187"
 description: "구글이 AI 오버뷰(AI Overview) 검색에서 발생한 광고 수익을 처음으로 구체적으로 언급했다. AI 검색으로의 전환이 광고 단가와 클릭률 모두에 영향을 미치고 있으며, 검색 비즈니스의 수익 모델 자체가 재편되고 있다."
-image: "https://picsum.photos/seed/2026-05-10-google-ai-search-revenue/800/500"
+image: "images/cards/2026-05-10-google-ai-search-revenue.svg"
 ---
 
 ## 한 줄 요약

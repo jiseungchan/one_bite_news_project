@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212534"
 description: "오픈AI와 앤트로픽이 최고 성능 프론티어 모델을 무료로 풀고, YC 스타트업에 수천억 원 규모 크레딧을 뿌리고 있다. 모델 성능 경쟁을 넘어 생태계 선점 전쟁이 시작됐다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202607/212534_215809_5244.png"
 ---
 
 ## 한 줄 요약

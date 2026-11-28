@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person"
 description: "OpenAI가 7월 8일 GPT-Live를 출시했다. 기존 음성 AI와 달리 듣는 동시에 말할 수 있는 풀 듀플렉스 구조로, AI와의 대화가 워키토키에서 전화통화 수준으로 바뀐다."
+image: "images/cards/2026-07-11-openai-gpt-live-full-duplex.svg"
 ---
 
 음성 AI에는 오래된 불편함이 있었다. 내가 말이 끝나야 AI가 말을 시작하고, AI가 말하는 중엔 끼어들 수 없었다. 워키토키를 쓰는 것과 다를 바 없는 구조다. 오픈AI가 7월 8일 GPT-Live를 공개하며 이 구조를 바꿨다.

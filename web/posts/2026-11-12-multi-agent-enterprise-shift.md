@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/08/multi-agent-systems-enterprise-transformation/"
 description: "2026년 기업 AI 도입의 패러다임이 바뀌었다. 단일 모델에 질문하는 방식에서 역할이 나뉜 AI 에이전트들이 협업하는 멀티에이전트 시스템으로 전환이 가속화되고 있다. 포춘 500대 기업 중 38%가 이미 프로덕션 환경에서 운영 중이다."
-image: "https://picsum.photos/seed/2026-11-12-multi-agent-enterprise-shift/800/500"
+image: "images/cards/2026-11-12-multi-agent-enterprise-shift.svg"
 ---
 
 ## 한 줄 요약

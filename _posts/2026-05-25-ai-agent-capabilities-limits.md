@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/22/1117234/what-ai-agents-can-and-cant-do/"
 description: "AI 에이전트가 실제로 작동하는 영역과 여전히 실패하는 영역을 구분하는 실용적 기준이 등장했다. 코딩·데이터 분석은 안정권이지만, 다단계 실세계 작업에서는 여전히 40~60% 실패율을 보인다."
-image: "https://picsum.photos/seed/2026-05-25-ai-agent-capabilities-limits/800/500"
+image: "images/cards/2026-05-25-ai-agent-capabilities-limits.svg"
 ---
 
 ## 한 줄 요약

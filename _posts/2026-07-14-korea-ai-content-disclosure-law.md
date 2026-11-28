@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/"
 description: "한국 방통위·과기부가 AI 생성 콘텐츠 의무 표시제를 2026년 7월부터 본격 시행. 텍스트·이미지·영상 구분 없이 AI 생성 여부를 명시해야 하며, 네이버·카카오·유튜브 등 대형 플랫폼이 1차 적용 대상이다."
-image: "https://picsum.photos/seed/2026-07-14-korea-ai-content-disclosure-law/800/500"
+image: "images/cards/2026-07-14-korea-ai-content-disclosure-law.svg"
 ---
 
 ## 한 줄 요약

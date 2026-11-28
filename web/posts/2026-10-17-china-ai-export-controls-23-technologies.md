@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216361"
 description: "중국 상무부가 대형 언어 모델·AI 에이전트·칩 설계 등 23가지 AI 기술을 수출 통제 대상에 포함하는 초안을 발표했다. 이미 공개된 오픈소스는 제외, 11월 15일까지 공개 의견 수렴 중이다."
+image: "https://cdn.aitimes.com/news/photo/202610/216361_220408_2333.jpg"
 ---
 
 ## 배경 — 미국이 먼저 막았고, 이제 중국도 막는다

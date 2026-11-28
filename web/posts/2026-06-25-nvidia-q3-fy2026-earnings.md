@@ -5,7 +5,7 @@ category: 경제·주식
 source: "NVIDIA Newsroom"
 sourceUrl: "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026"
 description: "엔비디아가 회계연도 2026년 3분기 매출 $570억을 기록했다. 전년 대비 62% 성장, 데이터센터 부문만 $512억으로 전체의 90%를 차지하며 AI 인프라 투자 사이클이 여전히 현재진행형임을 확인했다."
-image: "https://picsum.photos/seed/2026-06-25-nvidia-q3-fy2026-earnings/800/500"
+image: "https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_dba29dde-5a9b-4ac8-bf58-a0b78da89547-prv.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"
 ---
 
 ## 한 줄 요약

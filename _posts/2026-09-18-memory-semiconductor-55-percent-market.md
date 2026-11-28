@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026091700256"
 description: "2026년, 메모리 반도체가 전체 반도체 시장의 55%를 차지하며 역사상 처음으로 비메모리를 넘어섰다. 시장 규모는 전년 대비 3배 성장해 1,100조 원. KB증권은 최대 수혜주로 삼성전자와 SK하이닉스를 꼽았다."
+image: "https://img.hankyung.com/photo/202609/01.45721405.1.jpg"
 ---
 
 ## 배경 — '비메모리 70:메모리 30'이라는 상식

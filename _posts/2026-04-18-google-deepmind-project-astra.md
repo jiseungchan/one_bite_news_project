@@ -5,7 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/news/articleView.html?idxno=32841
 date: 2026-04-18
 description: "구글 딥마인드가 멀티모달 AI 에이전트 Project Astra의 업그레이드 버전을 공개했다. 스마트폰 카메라로 주변을 인식하고 장기 기억을 유지하면서 사용자를 대신해 웹 검색·예약·파일 편집까지 처리한다."
-image: https://picsum.photos/seed/deepmind-astra-ai-2026/800/500
+image: "images/cards/2026-04-18-google-deepmind-project-astra.svg"
 ---
 
 ## 한 줄 요약

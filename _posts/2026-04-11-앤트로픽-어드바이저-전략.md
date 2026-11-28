@@ -6,7 +6,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209112
 date: 2026-04-11
 description: 앤트로픽이 AI 에이전트의 역할 구조를 뒤집었다. 소형 모델이 작업 전체를 주도하고, Opus는 판단이 필요한 순간에만 짧게 개입한다. 성능은 오르고 비용은 내렸다.
-image: https://picsum.photos/seed/anthropic-ai-strategy/800/500
+image: "https://cdn.aitimes.com/news/photo/202604/209112_211461_3131.jpg"
 ---
 
 ## 한 줄 요약

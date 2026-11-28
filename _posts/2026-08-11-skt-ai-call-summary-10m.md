@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215032"
 description: "SK텔레콤의 AI 통화 요약 서비스 '에이닷 콜'이 출시 8개월 만에 월간 활성 사용자 1,000만 명을 넘어섰다. '쓰려는 의지' 없이도 쓰게 되는 구조가 폭발적 확산의 핵심이었다."
+image: "images/cards/2026-08-11-skt-ai-call-summary-10m.svg"
 ---
 
 ## 기존에는 어땠나?

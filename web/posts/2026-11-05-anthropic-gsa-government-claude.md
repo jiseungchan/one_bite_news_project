@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/expanding-partnership-gsa"
 description: "앤트로픽이 미국 조달청(GSA)과 협약을 맺어 클로드 엔터프라이즈를 모든 정부 기관에 40% 할인 가격으로 공급한다. 연방 민간 기관 사용량은 1년간 20배 늘었다."
+image: "https://assets.claude.com/197a2df5664af9cd602fae73bb2ada3935444cbe.jpg"
 ---
 
 앤트로픽이 10월 27일, 미국 조달청(GSA — General Services Administration, 연방 정부 구매 담당 기관)과 새로운 협약을 발표했다. 이에 따라 미국 연방·주·지방·부족 정부 기관은 클로드 엔터프라이즈(Claude Enterprise), 클로드 포 거버먼트(Claude for Government), 클로드 API(Claude API)를 40% 할인된 가격으로 사용할 수 있다.

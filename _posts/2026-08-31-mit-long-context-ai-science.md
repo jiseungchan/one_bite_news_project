@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/27/1141198/long-context-ai-models-are-changing-scientific-research/"
 description: "AI 모델의 롱컨텍스트(긴 입력 처리) 능력이 실험실 수준을 넘어 실제 과학 논문 작성과 가설 생성에 활용되기 시작했다. 수십만 토큰을 처리하는 모델이 연구자의 '보조 두뇌'가 되는 과정을 MIT가 추적했다."
+image: "images/cards/2026-08-31-mit-long-context-ai-science.svg"
 ---
 
 ## 배경 — 논문 한 편도 못 담던 시절

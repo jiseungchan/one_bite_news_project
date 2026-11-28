@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216399"
 description: "앤트로픽이 공개한 고용 보고서에 따르면 신규 기술직 채용 중 초급 인력 비중이 2025년 초 27%에서 2026년 9%로 급감했다. 같은 기간 AI 에이전트의 업무 시간은 전체 직원 합산 시간의 6배에 달했다."
+image: "https://cdn.aitimes.com/news/photo/202610/216399_220465_34.png"
 ---
 
 ## 배경: 'AI가 일자리를 빼앗는다'는 논쟁의 한복판

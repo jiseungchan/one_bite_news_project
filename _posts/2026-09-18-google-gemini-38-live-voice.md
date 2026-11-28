@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41952"
 description: "구글이 실시간 음성 AI '제미나이 3.8 라이브'를 공개했다. 텍스트 변환 없이 음성을 직접 처리하는 구조로, 음성-대-음성 품질 지수 82.6점으로 1위를 기록했다. 지메일·독스·킵에 전면 통합된다."
+image: "images/cards/2026-09-18-google-gemini-38-live-voice.svg"
 ---
 
 ## 배경 — 음성 AI의 '파이프라인 문제'

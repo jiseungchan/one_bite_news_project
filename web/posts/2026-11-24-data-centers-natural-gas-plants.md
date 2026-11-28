@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas"
 description: "빅테크 데이터센터들이 전력망 연결을 기다리지 않고 직접 천연가스 발전소를 짓기 시작했다. AI 인프라 확장의 발목을 잡는 건 더 이상 GPU가 아니라 전기다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP25350020551834.jpg?resize=1200,600"
 ---
 
 ## 배경 — 전력망이 AI보다 느리다

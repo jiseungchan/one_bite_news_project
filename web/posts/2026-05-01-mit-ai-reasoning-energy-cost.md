@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 description: "AI가 '더 깊이 생각'할수록 전력 소비는 기하급수적으로 늘어난다. 추론 모델의 확산이 데이터센터 전력 수요를 새로운 국면으로 끌어올리고 있다."
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=500&fit=crop"
+image: "images/cards/2026-05-01-mit-ai-reasoning-energy-cost.svg"
 ---
 
 ## 기존에는 어땠나?

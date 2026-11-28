@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/
 date: 2026-05-02
 description: OpenAI의 최신 추론 모델 o3·o4-mini가 이전 세대보다 수학·코딩 벤치마크에서 훨씬 높은 점수를 기록하면서도, 사실과 다른 내용을 생성하는 환각(hallucination) 비율은 오히려 높아졌다는 OpenAI 자체 평가 결과가 공개됐다.
-image: https://picsum.photos/seed/2026-05-02-openai-reasoning-hallucination/800/500
+image: "images/cards/2026-05-02-openai-reasoning-hallucination.svg"
 ---
 
 ## 한 줄 요약

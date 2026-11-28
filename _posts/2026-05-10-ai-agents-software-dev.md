@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/how-ai-agents-are-changing-software-development-2026/"
 description: "AI 에이전트가 소프트웨어 개발의 전 단계에 침투하고 있다. 단순 자동완성을 넘어, 이제 에이전트는 PR(풀 리퀘스트) 작성·코드 리뷰·테스트 실행·배포까지 자율적으로 처리한다. 개발자의 역할이 '코드를 쓰는 사람'에서 '에이전트를 감독하는 사람'으로 이동하고 있다."
-image: "https://picsum.photos/seed/2026-05-10-ai-agents-software-dev/800/500"
+image: "images/cards/2026-05-10-ai-agents-software-dev.svg"
 ---
 
 ## 한 줄 요약

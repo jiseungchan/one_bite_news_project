@@ -5,7 +5,7 @@ source: "Anthropic"
 sourceUrl: "https://github.com/anthropics/anthropic-cookbook/pull/754"
 date: 2026-07-09
 description: "앤트로픽 공식 실험에서 최상위 모델이 계획·종합만 맡고 중간 모델이 실행하는 '코디네이터 패턴'이 단일 최상위 모델 대비 2.5배 저렴하고 3배 빠른 결과를 냈다. AI 에이전트 비용의 구조적 해법이 숫자로 증명됐다."
-image: "https://picsum.photos/seed/2026-07-09-anthropic-coordinator-pattern-cost/800/500"
+image: "images/cards/2026-07-09-anthropic-coordinator-pattern-cost.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209850"
 description: "메타가 라마 4 시리즈를 오픈소스로 공개했다. 추론 특화 모델을 포함해 세 가지 버전으로 구성되며, GPT-4o·클로드 3.5와 직접 비교되는 성능 벤치마크를 함께 내놨다."
-image: "https://picsum.photos/seed/meta-llama4-open-2026/800/500"
+image: "https://cdn.aitimes.com/news/photo/202604/209850_212372_5344.png"
 ---
 
 ## 한 줄 요약

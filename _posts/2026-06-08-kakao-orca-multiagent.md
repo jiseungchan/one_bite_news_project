@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212301"
 description: "카카오브레인이 여러 AI 에이전트가 역할을 분담하고 협력하는 멀티에이전트 프레임워크 'Orca'를 오픈소스로 공개했다. 복잡한 작업을 단일 에이전트 대신 전문화된 에이전트 팀으로 처리하는 구조다."
-image: "https://picsum.photos/seed/2026-06-08-kakao-orca-multiagent/800/500"
+image: "images/cards/2026-06-08-kakao-orca-multiagent.svg"
 ---
 
 ## 한 줄 요약

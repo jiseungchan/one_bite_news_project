@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202609171143i"
 description: "두산이 AI 반도체용 PCB 핵심 소재 CCL(동박적층판) 생산라인 증설에 9,700억원을 투자한다. 국내 광모듈용과 중국 AI 가속기용으로 나눠 2028년 하반기 가동 목표다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "https://img.hankyung.com/photo/202609/01.45725794.1.jpg"
 ---
 
 AI 데이터센터 투자 열기가 반도체 하드웨어를 넘어, 그 안에 들어가는 기판 소재 시장까지 달구고 있다.

@@ -5,6 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/openai-o3-pro-gpqa-diamond-phd-level-benchmark-2026/"
 description: "오픈AI의 o3-Pro가 GPQA 다이아몬드(박사 수준 과학 문제 평가 벤치마크)에서 처음으로 인간 전문가 평균을 넘어섰다. '지식을 아는 것'과 '추론하는 것'의 경계가 무너지고 있다는 신호다."
+image: "images/cards/2026-10-14-openai-o3-pro-phd-science-benchmark.svg"
 ---
 
 AI 모델이 과학 시험을 잘 본다는 소식은 이제 새롭지 않다. 학부 수준 문제는 오래전에 인간을 넘어섰고, 대학원 수준도 최근 2~3년 사이에 대부분 따라잡혔다. 하지만 박사급 전문가만이 풀 수 있는 문제는 달랐다. AI는 여전히 그 벽 앞에서 주춤했다.

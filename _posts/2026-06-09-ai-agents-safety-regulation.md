@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 에이전트가 인간의 직접 지시 없이 웹 브라우징·파일 편집·결제까지 대신 처리하는 시대가 열리면서, '에이전트가 실수하거나 악용될 때 누가 책임지는가'라는 안전·책임 기준을 둘러싼 논쟁이 본격화됐다."
-image: "https://picsum.photos/seed/2026-06-09-ai-agents-safety-regulation/800/500"
+image: "images/cards/2026-06-09-ai-agents-safety-regulation.svg"
 ---
 
 ## 한 줄 요약

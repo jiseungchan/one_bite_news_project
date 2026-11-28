@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology / 매일경제"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing"
 description: "코어위브가 AI 수요 급증을 등에 업고 시장 예상을 뛰어넘는 실적을 발표했다. 주가가 급등한 것보다 더 주목할 점은 전통적으로 보수적인 채권 시장까지 AI 인프라 수요의 지속성을 인정하기 시작했다는 사실이다."
+image: "images/cards/2026-08-12-coreweave-ai-demand-surge.svg"
 ---
 
 ## 배경 — AI 클라우드 전문기업 코어위브

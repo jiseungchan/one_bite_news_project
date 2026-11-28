@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052012345"
 description: "미국 상무부가 엔비디아 H100에 이어 인텔 가우디3·AMD MI300X 등 중저가 AI 가속기에도 수출 허가제를 도입하기로 했다. 중국의 우회 조달 차단이 목적이며, 한국·대만 반도체 공급망에도 파급 효과가 예상된다."
-image: "https://picsum.photos/seed/2026-05-20-us-ai-chip-export-ban-intel-amd/800/500"
+image: "images/cards/2026-05-20-us-ai-chip-export-ban-intel-amd.svg"
 ---
 
 ## 한 줄 요약

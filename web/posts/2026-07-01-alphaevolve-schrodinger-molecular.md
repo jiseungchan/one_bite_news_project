@@ -5,7 +5,7 @@ source: Google Cloud Blog
 sourceUrl: https://cloud.google.com/blog/products/ai-machine-learning/schrodinger-alphaevolve-molecular-discovery-accelerates-4x
 date: 2026-07-01
 description: Google DeepMind의 AlphaEvolve가 Schrödinger의 분자 시뮬레이션 코드를 자동 최적화해, 수개월 걸리던 신약 후보 탐색을 수일로 단축했다.
-image: https://picsum.photos/seed/2026-07-01-alphaevolve-schrodinger-molecular/800/500
+image: "https://storage.googleapis.com/gweb-cloudblog-publish/images/schrodinger-alphaevolve-molecular-discover.max-2500x2500.png"
 ---
 
 ## 한 줄 요약

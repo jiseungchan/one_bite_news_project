@@ -5,6 +5,7 @@ category: AI
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/it/12128930"
 description: "KT가 서울대학교병원과 협력해 AI 네이티브 병원 시스템 구축에 나선다. 진료 예약부터 임상 의사결정까지 AI가 전 과정에 통합되는 방식으로, 국내 상급종합병원 최초의 시도다."
+image: "https://pimg.mk.co.kr/news/cms/202608/16/news-p.v1.20260814.798f80e5e4834227bfbc85b4f80b146e_R.jpg"
 ---
 
 ## 배경 — '스마트 병원'과 'AI 네이티브 병원'은 다르다

@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo"
 description: "OpenAI의 연환산 매출이 IPO를 앞두고 400억 달러를 돌파했다. 지난 6월 SEC 공시 당시 약 250억 달러였던 수치가 두 달여 만에 60% 가까이 뛰었다."
+image: "images/cards/2026-08-15-openai-40b-revenue-ipo.svg"
 ---
 
 ## 배경

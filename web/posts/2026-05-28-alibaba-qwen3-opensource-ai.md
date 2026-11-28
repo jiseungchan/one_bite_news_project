@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211203"
 description: "알리바바 클라우드가 오픈소스 LLM(대규모 언어 모델) Qwen3 시리즈를 공개했다. 최대 235B 파라미터 규모로, 수학·코딩 벤치마크에서 GPT-4.1과 Claude Sonnet 4를 여러 항목에서 앞섰다."
+image: "images/cards/2026-05-28-alibaba-qwen3-opensource-ai.svg"
 ---
 
 ## 리드

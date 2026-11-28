@@ -5,6 +5,7 @@ category: AI
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/business/12127682"
 description: "LG 구광모 회장이 엔비디아 젠슨 황 CEO와 두 달 만에 다시 만났다. 차세대 휴머노이드 로봇을 내년 1분기 공개할 예정이고, LG EXAONE의 글로벌 순위는 급락했지만 증권가는 오히려 '피지컬 AI'를 이유로 LG에 러브콜을 보내고 있다."
+image: "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.7b85ac3d20b443c8a2a5b772f23b5ef3_R.jpg"
 ---
 
 ## 배경

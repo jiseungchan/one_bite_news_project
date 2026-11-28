@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com"
 description: "SK하이닉스와 삼성전자가 2분기(4~6월) 실적을 발표했다. SK하이닉스는 HBM4(5세대 고대역폭 메모리) 양산 효과로 반도체 사업부 역대 최대 분기 영업이익을 기록했고, 삼성전자도 DS(반도체)부문이 전 분기 대비 뚜렷한 개선세를 보였다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "images/cards/2026-07-29-skhynix-samsung-q2-2026-earnings-hbm4.svg"
 ---
 
 ## 배경 — AI 메모리 시장은 어떻게 바뀌었나

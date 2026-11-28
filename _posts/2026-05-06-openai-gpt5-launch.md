@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/05/1116234/openai-gpt-5-launch-smartest-model/"
 description: "OpenAI가 GPT-5를 공식 출시했다. 추론·코딩·멀티모달 전 영역에서 전작을 압도하며, 단순한 버전업이 아닌 아키텍처 수준의 변화가 담겼다는 평가다."
-image: "https://picsum.photos/seed/2026-05-06-openai-gpt5-launch/800/500"
+image: "images/cards/2026-05-06-openai-gpt5-launch.svg"
 ---
 
 ## 한 줄 요약

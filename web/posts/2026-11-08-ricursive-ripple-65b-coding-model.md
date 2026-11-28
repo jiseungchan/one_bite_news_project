@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217107"
 description: "구글 AlphaChip팀 출신이 창업한 리커시브 인텔리전스가 65B 파라미터 오픈웨이트 코딩 모델 Ripple-65B를 공개했다. 500B짜리 경쟁 모델을 에이전틱 코딩 벤치마크에서 앞섰고, 개발 비용은 이전 1위 모델의 10분의 1 수준이다."
+image: "https://cdn.aitimes.com/news/photo/202611/217107_221305_3347.jpg"
 ---
 
 # 65B 모델이 975B 라이벌을 이겼다 — 구글 출신이 만든 오픈소스 코딩 AI

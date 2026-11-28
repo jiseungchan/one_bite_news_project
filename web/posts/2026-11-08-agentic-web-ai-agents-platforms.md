@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
 description: "메타 Muse가 출시 한 달 만에 500만 다운로드를 기록했지만, 아마존은 즉시 접근을 차단했다. 웹이 AI 에이전트 중심으로 재편되면서 플랫폼과 에이전트 간 주도권 싸움이 본격화되고 있다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600"
 ---
 
 # 에이전트 웹의 시대가 열렸다 — 플랫폼은 어떤 AI를 허용할 것인가

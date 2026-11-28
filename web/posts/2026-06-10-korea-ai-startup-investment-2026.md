@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211205"
 description: "2026년 상반기 국내 AI 스타트업 투자액이 사상 처음으로 2조 원을 돌파했다. 생성형 AI 붐이 벤처 생태계 전체의 투자 지형을 바꾸고 있다."
+image: "images/cards/2026-06-10-korea-ai-startup-investment-2026.svg"
 ---
 
 ## 배경 — 스타트업 겨울에서 AI 붐으로

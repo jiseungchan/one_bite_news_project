@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet"
 description: "소프트뱅크가 오픈AI 지분 확대를 위해 110억 달러(약 15조 원) 이상의 정크본드를 조성한다. 벤처 투자를 넘어 부채 레버리지로 AI 베팅을 극대화하는 방식이 등장했다."
+image: "images/cards/2026-09-21-softbank-openai-junk-bond.svg"
 ---
 
 소프트뱅크가 오픈AI에 대한 투자 확대를 위해 110억 달러(약 15조 원) 이상의 정크본드(junk bond — 신용등급 BB+ 이하 기업이 발행하는 고수익·고위험 회사채)를 조성하는 딜에 나섰다. Bloomberg가 2026년 9월 21일 보도한 이 딜은 AI에 대한 민간 자본의 배팅이 전통적인 벤처투자 방식의 경계를 완전히 벗어났음을 상징적으로 보여준다.

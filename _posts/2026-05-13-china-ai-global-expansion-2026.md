@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210150"
 description: "바이두, 알리바바, 딥시크 등 중국 AI 기업들이 2026년 들어 해외 시장 공략을 대폭 강화하고 있다. 미국의 칩 수출 규제에도 불구하고 소프트웨어·서비스 레이어에서 빠르게 글로벌 존재감을 키우는 중이다."
-image: "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800"
+image: "images/cards/2026-05-13-china-ai-global-expansion-2026.svg"
 ---
 
 ## 배경

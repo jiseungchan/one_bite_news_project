@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web"
 description: "델라웨어 주가 AI 에이전트가 경영진 없이 단독으로 사업체를 운영할 수 있는 새 법인 형태 'AIC'를 추진 중이다. 계약 체결부터 소송까지 AI가 직접 처리하는 세상 — 하지만 무언가 잘못됐을 때 책임은 누구에게 있나?"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/MUSH_FOODS_LIFESTYLE_014.jpg?resize=1200,600"
 ---
 
 ## 배경: 도구에서 사업자로

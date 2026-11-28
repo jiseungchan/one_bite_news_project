@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026060211321"
 description: "6월 첫 거래일, 외국인 투자자가 삼성전자·SK하이닉스를 합산 7,800억 원어치 순매수했다. 엔비디아 루빈 플랫폼 출하 일정이 구체화되면서 HBM4·HBM4E 공급업체에 대한 기대감이 집중됐다. 코스피는 장 중 2,920선을 돌파했다."
-image: "https://picsum.photos/seed/2026-06-02-ai-chip-stock-foreign-buying/800/500"
+image: "images/cards/2026-06-02-ai-chip-stock-foreign-buying.svg"
 ---
 
 ## 한 줄 요약

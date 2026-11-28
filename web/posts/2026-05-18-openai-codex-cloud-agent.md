@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/openai-launches-codex-a-cloud-based-coding-agent-that-can-autonomously-build-software/"
 description: "OpenAI가 클라우드 기반 소프트웨어 개발 에이전트 Codex를 공개했다. 사람이 지켜보지 않아도 독립적으로 코드를 작성·테스트·디버깅하는 방식으로, 단순 코드 자동완성을 넘어 개발 작업 전체를 위임하는 시대가 열렸다."
-image: "https://picsum.photos/seed/2026-05-18-openai-codex-cloud-agent/800/500"
+image: "images/cards/2026-05-18-openai-codex-cloud-agent.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Variety"
 sourceUrl: "https://variety.com/2026/music/news/sony-music-publishing-warner-chappell-anthropic-lawsuit-1236847442/"
 description: "소니 뮤직 퍼블리싱과 워너 채플 뮤직이 앤트로픽을 상대로 수조 원대 저작권 침해 소송을 제기했다. '수만 개'의 음악 작품이 Claude 훈련에 무단 사용됐다는 주장이다."
+image: "https://variety.com/wp-content/uploads/2026/11/Reasonable-Doubt.jpg?w=250&h=167&crop=1"
 ---
 
 ## 배경 — 음악 저작권이 왜 AI 업계의 뇌관이 됐나

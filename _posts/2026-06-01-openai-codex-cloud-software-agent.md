@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211501"
 description: "OpenAI가 클라우드 환경에서 독립적으로 코드를 작성·테스트·수정하는 코딩 에이전트 Codex를 공개했다. 단순 코드 자동완성 도구를 넘어, 멀티태스킹 소프트웨어 개발 에이전트로서 풀 PR(Pull Request)을 자율 생성한다."
-image: "https://picsum.photos/seed/2026-06-01-openai-codex-cloud-software-agent/800/500"
+image: "images/cards/2026-06-01-openai-codex-cloud-software-agent.svg"
 ---
 
 ## 한 줄 요약

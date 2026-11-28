@@ -5,7 +5,7 @@ source: "GitHub (google/agents-cli)"
 sourceUrl: "https://github.com/google/agents-cli"
 date: 2026-07-01
 description: "구글이 AI 에이전트를 빌드·평가·배포하는 전 과정을 단일 CLI로 묶은 'agents-cli' v1.0.0을 7월 1일 정식 출시했다. Claude Code, Codex 등 주요 코딩 어시스턴트와 직접 연동된다."
-image: "https://picsum.photos/seed/2026-07-01-google-agents-cli/800/500"
+image: "images/cards/2026-07-01-google-agents-cli.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/08/1116312/openai-gpt5-most-capable-ai-model/"
 description: "OpenAI가 출시한 GPT-5는 현존 최강의 AI 모델로 평가받는다. 추론·코딩·창의성 전 영역에서 기존 모델을 앞서지만, 구글·앤트로픽·중국 AI 기업들의 추격 속도가 빨라지면서 '1위 유지' 자체가 새 과제로 떠올랐다."
-image: "https://picsum.photos/seed/2026-05-10-openai-gpt5-analysis/800/500"
+image: "images/cards/2026-05-10-openai-gpt5-analysis.svg"
 ---
 
 ## 한 줄 요약

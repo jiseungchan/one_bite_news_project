@@ -5,7 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/news/articleView.html?idxno=33120
 date: 2026-05-03
 description: "엔비디아가 여러 AI 에이전트가 협업할 수 있는 오픈소스 플랫폼 AgentIQ를 공개했다. 에이전트 간 통신 표준을 엔비디아가 선점하려는 시도로, GPU 이후 AI 생태계 주도권 경쟁의 새 전선이다."
-image: https://picsum.photos/seed/2026-05-03-nvidia-agentiq-platform/800/500
+image: "images/cards/2026-05-03-nvidia-agentiq-platform.svg"
 ---
 
 ## 한 줄 요약

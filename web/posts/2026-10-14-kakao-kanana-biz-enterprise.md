@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213489"
 description: "카카오가 기업 전용 AI 에이전트 플랫폼 '카나나 비즈'를 출시했다. 한국어 법무·HR 문서에 특화된 에이전트와 카카오워크 연동이 핵심으로, 국내 기업 AI 에이전트 시장의 경쟁이 본격화됐다."
+image: "images/cards/2026-10-14-kakao-kanana-biz-enterprise.svg"
 ---
 
 한국 기업들의 AI 도입은 빠르게 확산됐지만, 실제 현장에선 불편한 진실이 있었다. ChatGPT나 Claude 같은 글로벌 AI 모델은 영어 환경을 기준으로 설계됐다. 한국 근로기준법에 따른 연차 계산, 국내 상법 기준의 계약서 위험 조항 검토, 공정거래법 관련 내부 가이드라인 작성 같은 업무는 "한국어를 알면서도 한국 제도를 아는" AI가 필요했다.

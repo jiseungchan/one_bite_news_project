@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026042200001"
 description: "미국 AI 기업들을 향한 투자 열풍이 나스닥 기술주 전반을 끌어올렸다. 엔비디아, 마이크로소프트, 아마존 등이 동반 상승했고, 국내 AI 수혜 반도체주들도 강세를 보였다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-04-22-nasdaq-ai-tech-rally.svg"
 ---
 
 ## 한 줄 요약

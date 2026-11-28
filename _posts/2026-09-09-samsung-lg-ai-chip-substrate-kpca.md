@@ -5,6 +5,7 @@ category: AI
 source: "Seoul Economic Daily"
 sourceUrl: "https://en.sedaily.com/finance/2026/09/09/samsung-lg-vie-over-next-generation-ai-chip-substrates"
 description: "인천 송도에서 열린 KPCA Show 2026에서 삼성전기·LG이노텍·SKC가 AI 가속기용 차세대 기판 기술을 동시에 공개했다. 글라스 기판, 100mm 초대형 FC-BGA, 2.5D 패키징 — AI 데이터센터 시장을 놓고 국내 3사의 기판 경쟁이 본격화됐다."
+image: "https://wimg.sedaily.com/news/cms/2026/09/09/news-p.v1.20260909.f8ccb008b790403f8cbe8cdfed666028_P1.jpeg"
 ---
 
 ## 배경 — AI 가속기가 기판 시장을 바꾸고 있다

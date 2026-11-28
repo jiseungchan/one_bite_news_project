@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40923"
 description: "7월 28일, AI 업계 종사자 1,200명 이상이 서명한 공개서한 '페이싱 더 프론티어'가 발표됐다. 오픈AI·앤트로픽·딥마인드·메타 직원들이 함께 서명한 이 서한은 즉각적인 개발 중단이 아니라, 워싱턴이 '속도를 늦출 수 있는 장치'를 미리 만들어달라는 요청이다."
+image: "images/cards/2026-07-30-openai-anthropic-pacing-frontier.svg"
 ---
 
 최근 몇 주 사이 AI 업계에서 보기 드문 광경이 펼쳐졌다. 치열하게 경쟁해온 오픈AI와 앤트로픽이, 심지어 구글 딥마인드·메타 직원들까지 함께 같은 서명에 이름을 올렸다.

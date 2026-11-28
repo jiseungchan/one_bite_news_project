@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214731"
 description: "과학기술정통부가 AI 안전연구소를 공식 출범시키며 초거대 AI(매개변수 100억 개 이상 언어 모델) 서비스에 대한 위험도 평가를 의무화했다. 국내 AI 기업 및 해외 AI 서비스 국내 운영자 모두 적용 대상이며, 2027년 1월부터 시행된다."
-image: "https://picsum.photos/seed/2026-10-08-korea-ai-safety-institute-launch/800/500"
+image: "images/cards/2026-10-08-korea-ai-safety-institute-launch.svg"
 ---
 
 ## 한 줄 요약

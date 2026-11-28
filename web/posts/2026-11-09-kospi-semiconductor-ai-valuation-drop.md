@@ -5,6 +5,7 @@ category: 경제·주식
 source: "비즈워치"
 sourceUrl: "https://news.bizwatch.co.kr/article/market/2026/11/03/0005"
 description: "11월 초 AI 수익성 우려가 재점화되면서 코스피가 3~6%대 급락했다. 삼성전자는 한때 19만 원 선도 붕괴, SK하이닉스는 장중 107만 원까지 밀렸다. 증권가는 '수급 충격'으로 분류하며 반도체 중장기 전망은 유지했다."
+image: "images/cards/2026-11-09-kospi-semiconductor-ai-valuation-drop.svg"
 ---
 
 ## 코스피 반도체주 급락 — AI 수익성 우려에 삼성전자·SK하이닉스 직격탄

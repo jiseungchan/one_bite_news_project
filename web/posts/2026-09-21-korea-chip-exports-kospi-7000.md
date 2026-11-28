@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Bloomberg, 매일경제"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-09-21/s-korea-s-early-exports-maintain-strong-momentum-on-chip-boom"
 description: "한국의 9월 1~20일 수출이 714억 달러(약 98조 원)로 역대 최고를 기록했다. 반도체 훈풍에 삼성전자가 장 초반 3%대 강세를 보이며 코스피는 장중 7,000선을 터치했다."
+image: "images/cards/2026-09-21-korea-chip-exports-kospi-7000.svg"
 ---
 
 한국의 9월 1일부터 20일까지 수출액이 714억 달러(약 98조 원)로 역대 최고를 기록했다. 이는 반도체 수요 호조가 주도한 결과로, Bloomberg Economics와 매일경제가 오늘(9월 21일) 동시에 보도했다. 이 소식에 서울 증시에서 삼성전자가 장 초반 3%대 강세를 보였고, 코스피 지수는 장중 7,000선을 터치했다.

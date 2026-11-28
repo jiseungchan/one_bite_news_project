@@ -5,6 +5,7 @@ category: AI
 source: "The Rundown AI"
 sourceUrl: "https://www.therundown.ai/tools/gpt-6-1-sol"
 description: "OpenAI가 9월 29일 DevDay에서 공개한 GPT-6.1 Sol은 최대 105만 토큰 컨텍스트 윈도우를 지원한다. 한 번의 API 요청으로 단편소설 한 권 분량 처리가 가능해졌다."
+image: "https://kycwry9j66ajiiej.public.blob.vercel-storage.com/tools/directory-20261011/gpt-6-1-sol-137b4458b3fb.webp"
 ---
 
 9월 29일 OpenAI DevDay에서 조용히 하지만 의미 있는 모델 하나가 등장했다. GPT-6.1 Sol이다.

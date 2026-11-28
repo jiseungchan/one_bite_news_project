@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
 description: "미국 성인의 절반이 AI 챗봇을 쓰면서도 40%는 AI가 사회에 해롭다고 답했다. 퓨리서치 5,119명 조사가 드러낸 이 역설의 정체는 무엇인가."
+image: "images/cards/2026-10-09-ai-popularity-paradox.svg"
 ---
 
 2026년 2월, 퓨리서치센터(Pew Research Center — 미국의 독립적 여론조사·사회과학 연구기관)는 미국 성인 5,119명에게 AI에 대해 물었다. 결과는 아이러니했다.

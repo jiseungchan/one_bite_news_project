@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052431021"
 description: "엔비디아 루빈과 AMD MI350X를 앞세운 차세대 AI 가속기 경쟁이 본격화됐다. 두 회사의 신제품 모두 HBM4(5세대 고대역폭 메모리)를 탑재할 예정이어서 SK하이닉스·삼성전자의 HBM 수주 전쟁도 달아오르고 있다."
-image: "https://picsum.photos/seed/2026-05-25-nvidia-amd-ai-accelerator-hbm-demand/800/500"
+image: "images/cards/2026-05-25-nvidia-amd-ai-accelerator-hbm-demand.svg"
 ---
 
 ## 한 줄 요약

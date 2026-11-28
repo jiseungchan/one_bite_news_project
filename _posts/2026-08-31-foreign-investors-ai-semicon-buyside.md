@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026083198765"
 description: "8월 한 달간 외국인 투자자가 코스피 AI·반도체 종목을 5조 3,400억 원 순매수한 것으로 집계됐다. SK하이닉스·삼성전자가 매수세를 주도했으며, 코스피는 연고점(3,291)까지 1.4% 남긴 채 재도전 국면에 진입했다."
+image: "images/cards/2026-08-31-foreign-investors-ai-semicon-buyside.svg"
 ---
 
 ## 외국인, 한 달에 5조 넘게 샀다

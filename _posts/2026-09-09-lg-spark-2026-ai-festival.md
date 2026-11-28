@@ -5,6 +5,7 @@ category: AI
 source: "The Korea Herald"
 sourceUrl: "https://www.koreaherald.com/article/10863234"
 description: "LG그룹이 서울 LG 사이언스파크에서 AI 기술 축제 LG Spark 2026을 오늘 시작했다. 물리 AI, AI 데이터센터, 자동차 부품을 아우르는 41개 R&D 기술이 공개되고, 9월 15~16일 엔비디아·구글·아마존·MS가 합류하는 AI DevCon이 예정돼 있다."
+image: "images/cards/2026-09-09-lg-spark-2026-ai-festival.svg"
 ---
 
 ## 배경 — LG가 AI 허브를 자처하는 이유

@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33287"
 description: "마이크로소프트가 Build 2026 개발자 콘퍼런스에서 Copilot Studio 에이전트 마켓플레이스와 자율 업무 처리 기능을 발표했다. 개인 비서를 넘어 조직 내 AI 동료로의 전환이다."
-image: "https://picsum.photos/seed/2026-05-07-microsoft-build-2026-copilot-agent/800/500"
+image: "images/cards/2026-05-07-microsoft-build-2026-copilot-agent.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Sammyfans / Notebookcheck"
 sourceUrl: "https://www.sammyfans.com/2026/10/01/samsung-prepares-to-launch-ai-smart-glasses-in-november-2026/"
 description: "삼성이 첫 AI 스마트 글래스 '갤럭시 글래스'를 11월 출시한다. 구글 제미나이를 탑재해 실시간 번역과 사진 촬영, 길 안내가 가능하고 화면은 없다. 메타 레이밴 스마트 글래스의 직접 경쟁자로 등장했다."
+image: "https://www.sammyfans.com/wp-content/uploads/2024/11/Smart-glass-ray-ban-1000x576.jpg"
 ---
 
 ## 화면 없는 AI 안경이 오는 이유

@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026111301254"
 description: "삼성전자가 엔비디아 차세대 GPU 플랫폼 '루빈(Rubin)'용 HBM5(5세대 고대역폭 메모리) 주요 공급업체로 최종 선정될 가능성이 높아지면서, 국내 증권사들이 목표주가를 일제히 상향 조정했다."
+image: "images/cards/2026-11-13-samsung-hbm5-nvidia-rubin-stock.svg"
 ---
 
 HBM 경쟁에서 SK하이닉스에 뒤처졌던 삼성전자가 반격 발판을 마련할 수 있을지, 반도체 시장의 시선이 쏠리고 있다.

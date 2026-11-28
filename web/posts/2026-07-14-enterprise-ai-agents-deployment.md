@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "복잡한 업무에서 실패율이 20~30%에 달하는데도, 기업들이 AI 에이전트 도입을 멈추지 않는 이유는 ROI 계산이 이미 기울어졌기 때문이다."
-image: "https://picsum.photos/seed/2026-07-14-enterprise-ai-agents-deployment/800/500"
+image: "images/cards/2026-07-14-enterprise-ai-agents-deployment.svg"
 ---
 
 ## 한 줄 요약

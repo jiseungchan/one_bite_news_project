@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/21/1115400/ai-agents-what-they-can-do/"
 description: "AI 에이전트가 단순 챗봇을 넘어 실제 업무를 대신 수행하는 수준으로 진화했다. MIT Tech Review가 정리한 에이전트의 현주소와 실제 한계."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-21-mit-ai-agents-explainer.svg"
 ---
 
 ## 한 줄 요약

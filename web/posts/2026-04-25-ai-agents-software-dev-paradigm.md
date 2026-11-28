@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/how-ai-agents-are-changing-software-development-forever/"
 description: "AI 에이전트가 단순 코드 자동완성을 넘어 요구사항 분석부터 테스트·배포까지 소프트웨어 개발 전 주기를 주도하기 시작했다. GitHub, Microsoft, Cognition AI 등이 이미 이 방향으로 제품 전략을 재편하고 있다."
-image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=85"
+image: "images/cards/2026-04-25-ai-agents-software-dev-paradigm.svg"
 ---
 
 ## 기존에는 어땠나

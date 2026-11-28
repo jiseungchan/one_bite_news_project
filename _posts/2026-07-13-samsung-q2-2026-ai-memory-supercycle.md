@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202607079241i"
 description: "삼성전자가 2026년 2분기 영업이익 89조 4,000억 원을 기록했다. 전년 동기 대비 약 19배 급증한 역대 최고 수치로, HBM(고대역폭 메모리) 주도의 AI 메모리 수요 폭발이 '슈퍼사이클' 진입을 공식화했다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "https://img.hankyung.com/photo/202607/02.44258383.1.jpg"
 ---
 
 ## 한 줄 요약

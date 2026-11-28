@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217310"
 description: "AI 미래 예측 그룹 AI Futures Project가 11월 10일 타임라인을 수정했다. 6명의 저자 모두 2027년 안에 초인적 AI 연구자가 등장할 것으로 전망한다. 'AI 진보 속도가 1년 사이 두 배 빨라졌다'는 METR 보고서가 근거다."
+image: "https://cdn.aitimes.com/news/photo/202611/217310_221536_3841.jpg"
 ---
 
 ## 배경: 예측이 계속 앞당겨지는 이유

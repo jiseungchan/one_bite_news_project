@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209970"
 description: "메타가 AI 어시스턴트 '메타 AI'를 왓츠앱·인스타그램·페이스북에서 분리해 독립 앱으로 글로벌 출시했다. Llama 4 기반으로 이미지 생성·멀티턴 대화·개인화 기억을 지원하며 ChatGPT와 정면 경쟁을 선언했다."
-image: "https://picsum.photos/seed/2026-05-02-meta-ai-standalone-app/800/500"
+image: "images/cards/2026-05-02-meta-ai-standalone-app.svg"
 ---
 
 ## 한 줄 요약

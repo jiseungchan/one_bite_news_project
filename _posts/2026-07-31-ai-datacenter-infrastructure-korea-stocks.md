@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026073112345"
 description: "AI 데이터센터 신규 투자가 급증하면서 전력 장비·냉각 시스템 관련 국내 기업들의 주가가 올 들어 신고가를 잇따라 경신하고 있다. AI 반도체 수혜주 다음으로 '전력 인프라주'가 하반기 새 테마로 부상했다."
-image: "https://picsum.photos/seed/2026-07-31-ai-datacenter-infrastructure-korea-stocks/800/500"
+image: "images/cards/2026-07-31-ai-datacenter-infrastructure-korea-stocks.svg"
 ---
 
 ## 한 줄 요약

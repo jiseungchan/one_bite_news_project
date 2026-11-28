@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209712"
 description: "OpenAI가 ChatGPT의 장기 메모리 기능을 전면 재설계했다. 단순 메모 저장을 넘어, 대화 맥락과 사용자 습관을 스스로 구조화해 '나를 아는 AI'에 한 걸음 더 다가섰다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-27-chatgpt-memory-upgrade-2026.svg"
 ---
 
 ## 배경 — AI는 원래 매번 처음 만나는 사람이었다

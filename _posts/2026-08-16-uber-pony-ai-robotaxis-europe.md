@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Markets"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-14/uber-and-china-s-pony-ai-to-deploy-2-000-robotaxis-in-europe"
 description: "Uber와 중국 자율주행 스타트업 Pony AI가 유럽에 로보택시 2,000대를 배치하는 협약을 맺었다. 중국산 자율주행 플랫폼이 처음으로 대규모로 서유럽 시장에 진출하는 사례로, Waymo와 Cruise 중심의 미국 진영에 새로운 변수가 생겼다."
+image: "images/cards/2026-08-16-uber-pony-ai-robotaxis-europe.svg"
 ---
 
 ## 배경 — 자율주행 전쟁은 이미 시작됐다

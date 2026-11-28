@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/04/1138450/ai-long-term-memory-research/"
 description: "대화를 넘어 며칠, 몇 달의 맥락을 기억하는 AI를 만들려는 연구가 본격화됐다. 컨텍스트 윈도우 확장만으로는 해결되지 않는 '진짜 기억' 문제를 어떻게 풀 것인지 들여다봤다."
-image: "https://picsum.photos/seed/2026-06-05-mit-ai-memory-long-context/800/500"
+image: "images/cards/2026-06-05-mit-ai-memory-long-context.svg"
 ---
 
 ## 한 줄 요약

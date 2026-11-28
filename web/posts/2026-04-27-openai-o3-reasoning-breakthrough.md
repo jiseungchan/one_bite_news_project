@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/"
 description: "OpenAI가 복잡한 수학·코딩·과학 문제에서 기존 모델을 압도하는 추론 모델 o3를 정식 출시했다. 모델이 '더 오래 생각할수록' 성능이 올라가는 구조가 핵심이다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-27-openai-o3-reasoning-breakthrough.svg"
 ---
 
 ## 배경

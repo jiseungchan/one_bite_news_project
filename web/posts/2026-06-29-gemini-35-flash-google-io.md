@@ -5,7 +5,7 @@ source: "Google Cloud Blog"
 sourceUrl: "https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud"
 date: 2026-06-29
 description: "Google I/O 2026에서 공개된 Gemini 3.5 Flash가 Terminal-Bench 2.1에서 76.2%, MCP Atlas에서 83.6%를 기록하며 동급 모델 대비 절반 이하의 비용을 실현했다. 24/7 개인 AI 에이전트 Gemini Spark도 함께 발표됐다."
-image: "https://picsum.photos/seed/2026-06-29-gemini-35-flash-google-io/800/500"
+image: "https://storage.googleapis.com/gweb-cloudblog-publish/images/1148-GC-IO-Header-GC-43-0519.max-2500x2500.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=43187"
 description: "국내 의료 AI 기업 뷰노(VUNO)가 폐 결절 발견 AI 솔루션 'Vuno Med-LungCT'에 대해 미국 FDA 510(k) 승인을 획득했다. 국내 AI 의료기기 기업이 단독으로 미국 FDA 허가를 받은 첫 사례로, K-의료 AI의 미국 진출 교두보가 마련됐다."
-image: "https://picsum.photos/seed/2026-11-21-vuno-chest-ct-ai-fda-approval/800/500"
+image: "images/cards/2026-11-21-vuno-chest-ct-ai-fda-approval.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests"
 description: "JP모건이 자체 개발한 AI 에이전트가 백테스트에서 전통적인 60/40 포트폴리오를 능가한다는 결과를 공개했다. 월가 대형 IB가 AI 에이전트 기반 투자 자동화의 실증 결과를 발표한 건 이번이 처음이다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-07-10-jpmorgan-ai-agents-portfolio.svg"
 ---
 
 ## 배경 — 60/40 포트폴리오라는 오래된 공식

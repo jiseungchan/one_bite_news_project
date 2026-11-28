@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215388"
 description: "구글 딥마인드가 9월 16일 사회와 AGI의 공존을 연구하는 싱크탱크 '딥마인드 연구소'를 출범했다. 공동 창립자 셰인 레그가 기술 속도가 안전 통제를 앞서선 안 된다고 경고했다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202609/215388_219206_1025.png"
 ---
 
 구글 딥마인드가 AI 기술 연구를 넘어, AGI(인공일반지능 — 사람처럼 다양한 영역에서 스스로 추론하는 AI)가 사회에 가져올 변화를 전담으로 연구하는 조직을 만들었다.

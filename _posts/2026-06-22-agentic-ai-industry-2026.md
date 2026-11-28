@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/"
 description: "2026년 상반기, 에이전틱 AI는 실험실을 벗어나 기업 현장에 실제로 배치되고 있다. 도구에서 동료로 전환되는 이 변화의 의미를 정리했다."
-image: "https://picsum.photos/seed/2026-06-22-agentic-ai-industry-2026/800/500"
+image: "images/cards/2026-06-22-agentic-ai-industry-2026.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026060512345"
 description: "증권가가 삼성전자와 SK하이닉스의 목표주가를 일제히 올렸다. HBM4E(6세대 고대역폭 메모리) 수주 가시화와 엔비디아 루빈 GPU 공급 일정이 하반기 실적 전망을 바꾸는 핵심 변수로 떠올랐다."
-image: "https://picsum.photos/seed/2026-06-05-samsung-sk-ai-semiconductor-stock-outlook/800/500"
+image: "images/cards/2026-06-05-samsung-sk-ai-semiconductor-stock-outlook.svg"
 ---
 
 ## 한 줄 요약

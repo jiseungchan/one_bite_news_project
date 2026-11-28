@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217428"
 description: "2026년 11월 11일 불륜 의혹으로 갑작스럽게 사임한 젠슨 황 전 엔비디아 CEO의 복귀 논의가 나흘 만에 본격화됐다. 측근들은 실리콘밸리 경영진 중심의 '워룸'을 구성했고, 15만6,000명이 복귀 청원에 서명했다."
+image: "https://cdn.aitimes.com/news/photo/202611/217428_221673_2817.png"
 ---
 
 ## 배경: 엔비디아를 만든 사람, 갑자기 떠났다

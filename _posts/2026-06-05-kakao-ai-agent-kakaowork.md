@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211250"
 description: "카카오가 기업용 협업 플랫폼에 AI 에이전트를 전면 통합한 '카나나 워크'를 출시했다. 회의 요약부터 업무 지시 자동화까지, 국내 엔터프라이즈 AI 시장의 첫 번째 종합 플랫폼 도전이다."
-image: "https://picsum.photos/seed/2026-06-05-kakao-ai-agent-kakaowork/800/500"
+image: "images/cards/2026-06-05-kakao-ai-agent-kakaowork.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "TechCrunch"
 sourceUrl: "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
 description: "프랑스 AI 스타트업 미스트랄이 삼성전자 주도로 30억 유로(약 4조 5,000억 원) 시리즈D를 마감했다. 유럽 테크 역사상 최대 에쿼티 조달 기록이며, 핵심 키워드는 '주권 AI'다."
+image: "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
 ---
 
 ## 배경 — AI 패권이 미국과 중국에 쏠린 세계

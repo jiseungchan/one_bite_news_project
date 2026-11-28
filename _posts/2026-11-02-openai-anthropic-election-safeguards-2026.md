@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216803"
 description: "11월 3일 미국 중간선거를 앞두고 OpenAI는 수백 명 규모의 선거 운영센터를 가동했고, Anthropic은 Claude의 정치적 중립성을 95~96% 수준으로 검증했다. AI 생성 정치 광고는 이번 사이클에서만 1억 3,700만 달러를 돌파했다."
+image: "https://cdn.aitimes.com/news/photo/202610/216803_220960_331.png"
 ---
 
 11월 3일, 미국 중간선거가 하루 앞으로 다가왔다. 그런데 이번엔 선거 캠프만 분주한 게 아니다. 샌프란시스코의 AI 기업들도 긴장 상태다.

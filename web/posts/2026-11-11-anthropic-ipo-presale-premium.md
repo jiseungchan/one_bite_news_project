@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium"
 description: "앤트로픽의 기존 투자자들이 상장 전 보유 주식을 프리미엄을 붙여 세컨더리 마켓에서 판매하고 있다. IPO를 앞두고 초기 투자자들이 차익 실현에 나서는 패턴이 나타났다."
+image: "images/cards/2026-11-11-anthropic-ipo-presale-premium.svg"
 ---
 
 ## 배경: 세컨더리 마켓이란 무엇인가

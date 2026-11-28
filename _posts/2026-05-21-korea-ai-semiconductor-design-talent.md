@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210589"
 description: "국내 AI 반도체 설계 인력이 3년 만에 2배로 늘었지만, 기업 현장에서는 여전히 만성 인력난을 호소한다. 양적 성장과 실무 적합성 사이의 간극이 구조적 문제로 떠오르고 있다."
-image: "https://picsum.photos/seed/2026-05-21-korea-ai-semiconductor-design-talent/800/500"
+image: "images/cards/2026-05-21-korea-ai-semiconductor-design-talent.svg"
 ---
 
 ## 한 줄 요약

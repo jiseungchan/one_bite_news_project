@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214328"
 description: "앤트로픽이 AI 에이전트의 PC 제어 능력을 대폭 강화한 '컴퓨터 사용 2.0'을 발표했다. 에이전트 작업 성공 벤치마크에서 43%에서 72%로 뛰었고, 22단계까지 이어지는 복합 업무를 스스로 완료한다."
+image: "images/cards/2026-10-01-anthropic-computer-use-2.svg"
 ---
 
 2025년 말 앤트로픽이 처음 공개한 '컴퓨터 사용(Computer Use)' 기능은 AI 에이전트가 실제 PC 화면을 보고 마우스와 키보드를 제어하는 시연으로 업계를 놀라게 했다. 그러나 실제 사용해본 개발자들의 반응은 엇갈렸다. 간단한 작업은 잘 됐지만, 5단계 이상의 복합 업무는 중간에 길을 잃거나 루프에 빠지기 일쑤였다.

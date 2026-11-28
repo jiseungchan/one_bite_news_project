@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210351"
 description: "과학기술정보통신부와 산업통상자원부가 공동으로 'AI 로봇 산업 육성 전략'을 발표했다. 제조·물류·의료 분야에 AI 로봇을 집중 보급하고, 2030년까지 국내 로봇 시장 규모를 30조 원으로 키우겠다는 계획이다."
-image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=500&fit=crop"
+image: "images/cards/2026-05-01-korea-ai-robot-policy-2026.svg"
 ---
 
 ## 기존에는 어땠나

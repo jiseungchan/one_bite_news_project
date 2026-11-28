@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026082769247"
 description: "엔비디아의 2027회계연도 2분기 매출이 962억 달러(약 133조 원)로 역대 최대를 기록하며 AI 고점론을 잠재웠다. 삼성전자는 2.01%, SK하이닉스는 3.55% 반등했다."
+image: "images/cards/2026-09-01-nvidia-earnings-korea-semiconductor-rally.svg"
 ---
 
 # 엔비디아 분기 매출 133조 원 역대 최대 — 삼성전자·SK하이닉스 반도체주 반등

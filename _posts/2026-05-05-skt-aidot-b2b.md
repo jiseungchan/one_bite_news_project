@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210056"
 description: "SK텔레콤이 개인용 AI 에이전트 '에이닷'을 기업 고객용 B2B 서비스로 확장했다. 사내 데이터와 연동한 업무 자동화를 핵심으로, 통신사가 AI 플랫폼 기업으로 전환하는 전략의 본격 가동이다."
-image: "https://picsum.photos/seed/2026-05-05-skt-aidot-b2b/800/500"
+image: "images/cards/2026-05-05-skt-aidot-b2b.svg"
 ---
 
 ## 배경 — 통신사가 AI 회사로 변신하는 이유

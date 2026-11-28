@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026060712345"
 description: "삼성전자와 SK하이닉스가 엔비디아의 차세대 AI GPU 플랫폼 '루빈'에 각각 HBM4E와 HBM4 메모리를 공급하는 계약을 최종 확정했다. 루빈 플랫폼은 2026년 하반기 출하가 시작될 전망이다."
-image: "https://picsum.photos/seed/2026-06-08-samsung-sk-nvidia-rubin-supply/800/500"
+image: "images/cards/2026-06-08-samsung-sk-nvidia-rubin-supply.svg"
 ---
 
 ## 한 줄 요약

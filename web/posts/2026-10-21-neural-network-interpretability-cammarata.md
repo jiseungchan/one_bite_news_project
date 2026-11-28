@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
 description: "Goodfire 연구원 닉 카마라타가 2만6천 단어 블로그에서 '뉴럴넷 뉴런의 90%는 해석 가능하다'고 주장했다. AI 해석가능성(interpretability) 분야를 뒤흔든 이 선언을 놓고 딥마인드·스탠퍼드 연구자들이 즉각 반박에 나섰다."
+image: "images/cards/2026-10-21-neural-network-interpretability-cammarata.svg"
 ---
 
 ## 배경

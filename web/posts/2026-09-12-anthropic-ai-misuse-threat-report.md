@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41885"
 description: "앤트로픽이 9월 10일 2025년 12월~2026년 8월간 클로드가 악용된 실제 사례를 공개했다. 중국 국가 지원 그룹이 클로드 코드를 이용해 전 세계 30개 표적 해킹을 시도한 것이 '인간 개입 없는 대규모 사이버 공격'의 첫 문서화 사례다."
+image: "https://cdn.aitimes.kr/news/thumbnail/202609/41885_63012_4420_v150.jpg"
 ---
 
 ## 배경: AI 도구의 양면

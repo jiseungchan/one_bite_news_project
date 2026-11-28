@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217369"
 description: "오픈AI가 모델 아스트라에서 추론 과정을 외부에 보여주지 않는 '노-CoT' 능력이 향상됐음을 공식 확인했다. AI가 더 잘 추론할수록 그 과정을 볼 수 없게 될 수 있다는 역설이 AI 안전 연구의 새로운 도전이 되고 있다."
+image: "https://cdn.aitimes.com/news/photo/202611/217369_221608_3133.png"
 ---
 
 # 오픈AI 아스트라의 '숨겨진 추론' — AI가 생각 과정을 감추기 시작했다

@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40121"
 description: "AMD가 차세대 AI 가속기 Instinct MI400을 공개했다. 엔비디아 H200 대비 추론 속도 35% 향상, 가격은 30% 저렴하다고 발표했다. AI 칩 시장 공급 다변화의 신호탄이 될지 주목된다."
+image: "images/cards/2026-06-10-amd-instinct-mi400-nvidia.svg"
 ---
 
 ## 배경 — 엔비디아가 혼자 먹던 시장

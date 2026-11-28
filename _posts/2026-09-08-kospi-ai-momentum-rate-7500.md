@@ -5,6 +5,7 @@ category: 경제·주식
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/stock/12146856"
 description: "코스피가 AI 모멘텀과 금리 불안 사이에서 7500선 돌파를 시험하고 있다. 7000~7500선 구간에만 18조 9,000억 원 규모의 개인 순매수 잔고가 쌓여 강한 매물벽을 이루고 있다."
+image: "https://pimg.mk.co.kr/news/cms/202609/08/news-p.v1.20260908.fc3088cb7dbc44bc826f750de182871a_R.jpg"
 ---
 
 ## 배경 — AI 슈퍼사이클 vs 금리 불안

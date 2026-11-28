@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217117"
 description: "오픈AI가 약 1조 4천억 달러 기업가치를 인정받으며 110억 달러 규모의 신규 투자를 유치했다. 그러나 당초 목표(최대 300억 달러)보다 낮은 수준으로 마무리됐다. AI 투자심리 변화의 신호탄일 수 있다."
+image: "https://cdn.aitimes.com/news/photo/202611/217117_221315_2745.jpg"
 ---
 
 # 오픈AI, 1.4조 달러 기업가치에 110억 달러 투자 유치 — 목표는 반으로 줄었다

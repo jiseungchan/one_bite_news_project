@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33487"
 description: "멀티에이전트 프레임워크(여러 AI 에이전트가 역할을 분담해 복잡한 작업을 처리하는 구조)인 AutoGen과 LangGraph가 국내 SI·금융·제조 기업에 빠르게 도입되고 있다. 단일 LLM 호출 방식 대비 복잡 태스크 완료율이 40~60% 높다는 실증 결과가 나왔다."
-image: "https://picsum.photos/seed/2026-05-23-multiagent-ai-framework-autogen-langgraph/800/500"
+image: "images/cards/2026-05-23-multiagent-ai-framework-autogen-langgraph.svg"
 ---
 
 ## 한 줄 요약

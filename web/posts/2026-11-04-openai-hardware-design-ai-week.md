@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216989"
 description: "오픈AI 직원 두 명이 GPT-6와 아스트라로 하드웨어 기기를 1주일 만에 설계·제작했다. AI가 소프트웨어를 넘어 하드웨어까지 만드는 시대가 왔다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202611/216989_221208_3239.png"
 ---
 
 ## AI가 소프트웨어 너머로 넘어갔다

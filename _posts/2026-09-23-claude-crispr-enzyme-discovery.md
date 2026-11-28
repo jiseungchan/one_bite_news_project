@@ -5,7 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
 description: "앤트로픽 생명과학팀이 클로드 AI를 이용해 CRISPR와 유사한 반복 서열 패턴을 가진 미지의 효소 시스템 ART를 자율 발견했다. 950개 에이전트가 20만 개 역전사효소를 분석해 3,500개 후보 중 20건을 선별해냈다."
-image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=800&q=80"
+image: "https://assets.claude.com/07053403910b254b0b595cd7c472568310539e6e.jpg"
 ---
 
 ![AI 효소 발견 — DNA 서열 분석](https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=800&q=80)

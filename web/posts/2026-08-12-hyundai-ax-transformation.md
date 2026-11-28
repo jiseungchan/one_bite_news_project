@@ -5,6 +5,7 @@ category: AI
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/business/12125103"
 description: "현대차그룹이 업무·제조·정비 등 전 영역에 걸친 AI 내재화(AX) 성과를 공개했다. 경영진부터 현장 작업자까지 AI를 실무에 쓰는 조직으로 전환하겠다는 선언을 수치로 뒷받침했다."
+image: "https://pimg.mk.co.kr/news/cms/202608/12/news-p.v1.20260812.fd8ac63eeb164a04af2d47fc83f8b938_R.jpg"
 ---
 
 ## 배경 — 자동차 그룹의 AI 전환 도전

@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines
 date: 2026-07-05
 description: 호주 우드사이드 에너지가 수년에 걸쳐 탐사·시추·유지보수·플랜트 운영 전반에 AI를 통합한 과정. 거버넌스·데이터 신뢰성·인간 증강 설계가 핵심 성공 요인으로 꼽혔다.
-image: https://picsum.photos/seed/2026-07-05-ai-energy-turbines/800/500
+image: "images/cards/2026-07-05-ai-energy-turbines.svg"
 ---
 
 ## 한 줄 요약

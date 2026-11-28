@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33401"
 description: "앤트로픽이 클로드에 영구 메모리(persistent memory) 기능을 정식 탑재했다. 세션이 끊겨도 사용자 맥락을 유지하며, AI 어시스턴트가 개인화 도구로 진화하는 중요한 전환점이다."
-image: "https://picsum.photos/seed/2026-05-21-anthropic-claude-memory-tool-use/800/500"
+image: "images/cards/2026-05-21-anthropic-claude-memory-tool-use.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=32118"
 description: "카카오브레인이 이미지와 텍스트를 동시에 처리하는 멀티모달 AI 모델 'Kanana-V'를 공개했다. 기존 한국어 언어 모델 Kanana에 시각 이해 능력을 추가한 모델로, 이미지 속 텍스트 인식과 도표 해석에서 강점을 보인다."
-image: "https://picsum.photos/seed/2026-05-16-kakaobrains-kanana-v-multimodal/800/500"
+image: "images/cards/2026-05-16-kakaobrains-kanana-v-multimodal.svg"
 ---
 
 ## 한 줄 요약

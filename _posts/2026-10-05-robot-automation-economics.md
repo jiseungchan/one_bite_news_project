@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/research/what-work-can-robots-do"
 description: "앤트로픽 리서치팀이 발표한 로봇 자동화 전망 연구. 현재 로봇은 미국 전체 물리 업무의 74%를 수행할 능력이 있지만, 비용 경쟁력은 0.3%에 불과하다. 연 3% 가격 하락 추세라면 10% 경쟁력 도달에 40년이 걸린다."
+image: "https://assets.claude.com/e8b4129cd355d3af158f0052ff602e5b0a9c603c.jpg"
 ---
 
 AI가 화이트칼라 직업을 흔드는 동안, 블루칼라는 다른 질문을 받고 있었다. "로봇이 내 일을 대신할 수 있나?" 자동화 공포는 10년 넘게 이어져 왔지만, 실제로 '지금 당장 어느 정도나 가능한가'를 수치로 측정한 연구는 드물었다.

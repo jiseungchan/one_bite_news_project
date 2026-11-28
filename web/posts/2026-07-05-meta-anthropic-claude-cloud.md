@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=212432
 date: 2026-07-05
 description: 메타가 앤트로픽의 클로드 AI를 자사 데이터센터에 탑재해 기업 고객에게 직접 제공하는 협상이 막바지에 이르렀다. 자체 라마 모델로 채우지 못한 코딩·에이전트 업무 공백을 클로드로 메우는 전략이다.
-image: https://picsum.photos/seed/2026-07-05-meta-anthropic-claude-cloud/800/500
+image: "https://cdn.aitimes.com/news/photo/202607/212432_215688_614.png"
 ---
 
 ## 한 줄 요약

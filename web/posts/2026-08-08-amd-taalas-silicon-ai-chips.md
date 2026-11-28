@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-06/advanced-micro-devices-to-buy-startup-taalas-for-new-ai-chips"
 description: "AMD가 AI 가중치를 실리콘에 물리적으로 새기는 기술을 가진 스타트업 Taalas를 인수한다. HBM 없이 Nvidia GPU 대비 48배 빠른 추론 성능을 시연했다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "images/cards/2026-08-08-amd-taalas-silicon-ai-chips.svg"
 ---
 
 AMD가 캐나다 토론토 소재 AI 추론 칩 스타트업 Taalas(탈라스)를 인수한다고 2026년 8월 6일 발표했다. 인수금액은 비공개이며, 규제 승인을 거쳐 2026년 4분기 완료 예정이다. Taalas는 2023년 설립됐다.

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/05/1139889/the-end-of-ai-benchmarks-real-world-evaluation/"
 description: "주요 AI 벤치마크 10개 중 7개에서 최고 성능 모델이 95% 이상을 기록하며 변별력을 잃었다. 업계가 고정형 데이터셋 테스트에서 벗어나 실제 업무 성능 평가로 이동하기 시작했다."
-image: "https://picsum.photos/seed/2026-08-07-mit-ai-benchmark-end-realworld-eval/800/500"
+image: "images/cards/2026-08-07-mit-ai-benchmark-end-realworld-eval.svg"
 ---
 
 ## 한 줄 요약

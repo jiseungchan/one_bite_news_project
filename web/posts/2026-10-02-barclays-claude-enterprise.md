@@ -5,7 +5,7 @@ category: 경제·주식
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/barclays-scales-claude"
 description: "영국 대형 은행 바클리스(Barclays)가 클로드를 핵심 업무 전반에 확대 적용했다. 임직원 1만 6,000명 도입, 하루 12만 통 이메일 자동 분류 — 규제·보안 장벽이 높은 금융권이 AI 전환을 본격화하고 있다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-10-02-barclays-claude-enterprise.svg"
 ---
 
 ## 대형 은행의 AI 전환은 왜 느렸나

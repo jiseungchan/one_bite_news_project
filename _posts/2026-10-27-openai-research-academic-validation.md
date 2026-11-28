@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216695"
 description: "오픈AI가 AI가 도출한 수학·물리학 등 세 분야 연구 결과를 학계 동료 검증(peer review)에 제출했다. AI가 만든 지식의 신뢰성을 어떻게 증명할 것인가 — 그 방식이 달라지고 있다."
+image: "https://cdn.aitimes.com/news/photo/202610/216695_220829_3954.jpg"
 ---
 
 오픈AI가 10월 26일(현지시간) 자사 AI 모델이 도출한 수학, 물리학 등 세 분야의 연구 결과를 공개하고, 이를 학계 동료 검증(peer review — 해당 분야 전문가들이 논문의 신뢰성·재현성을 교차 검증하는 절차)에 제출하겠다고 공식 발표했다.

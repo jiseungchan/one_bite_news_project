@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/ai-agents-software-engineering-human-parity-swebench-2026/"
 description: "AI 에이전트가 SWE-bench Full에서 처음으로 시니어 개발자 팀 평균 성공률을 넘어섰다. 소프트웨어 개발 전 사이클을 자율 처리하는 에이전트 시대가 열리면서, '코딩 = 인간의 영역'이라는 전제가 흔들리기 시작했다."
+image: "images/cards/2026-08-11-ai-sweb-bench-human-parity.svg"
 ---
 
 ## 기존에는 어땠나?

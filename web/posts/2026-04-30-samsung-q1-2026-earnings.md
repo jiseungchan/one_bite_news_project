@@ -5,7 +5,7 @@ source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/stock/12034501
 date: 2026-04-30
 description: 삼성전자가 2026년 1분기 영업이익 6.7조 원을 기록하며 시장 컨센서스(증권가 평균 예상치)를 상회했다. 반도체(DS)부문이 흑자로 전환된 것이 핵심 변수였으며, HBM(고대역폭 메모리) 공급 확대가 실적 회복을 이끌었다.
-image: https://picsum.photos/seed/2026-04-30-samsung-q1-2026-earnings/800/500
+image: "images/cards/2026-04-30-samsung-q1-2026-earnings.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "CNN"
 sourceUrl: "https://www.cnn.com/2026/10/08/tech/fired-open-ai-researchers-pushed-out"
 description: "AI 추론 과정 감시를 강조하던 OpenAI 안전 연구원 3명이 10월 1일 해고됐다. 이들은 이사회에 공개 서한을 보내 '모니터링 불가능한 AI 모델 개발을 멈춰달라'고 촉구했다."
+image: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2288600936.jpg?c=16x9&q=w_800,c_fill"
 ---
 
 10월 1일, OpenAI의 안전팀 소속 연구원 3명이 해고됐다. Jasmine Wang, Tomek Korbak, Mikita Balesni. 이들이 해고 직전까지 공동 작성하던 논문의 제목은 'Chain of Thought Monitorability(추론 과정 모니터링 가능성)'였다.

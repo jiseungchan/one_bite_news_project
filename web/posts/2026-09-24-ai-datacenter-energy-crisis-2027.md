@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/23/1141089/ai-data-centers-power-consumption-8-percent-us-electricity/"
 description: "로렌스버클리 국립연구소 최신 보고서에 따르면 AI 데이터센터 전력 소비가 2027년 미국 총 발전량의 8%를 넘어설 전망이다. AI 모델의 추론 수요 폭증이 전력망 증설 속도를 압도하면서, 에너지 확보 능력이 AI 패권 경쟁의 진짜 해자(moat)로 부상하고 있다."
+image: "images/cards/2026-09-24-ai-datacenter-energy-crisis-2027.svg"
 ---
 
 ### 지금까지의 흐름: 전력 소비, 얼마나 빨리 늘었나

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213123"
 description: "KAIST 김재철AI대학원과 엔비디아가 에이전틱 AI 전문 공동연구소를 설립했다. 5년간 3억 달러(약 4,400억 원) 규모 협력으로, 매년 740억 원 상당 컴퓨팅 자원과 엔비디아 인턴십을 KAIST 연구자에게 제공한다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202607/213123_216528_5042.jpeg"
 ---
 
 2026년 7월 24일, KAIST 김재철AI대학원과 엔비디아가 'KAIST-엔비디아 AI 공동연구소' 설립을 공식 발표했다. 5년간 총 3억 달러(약 4,400억 원) 규모의 협력으로, 매년 5천만 달러(약 740억 원) 상당의 AI 컴퓨팅 자원이 KAIST에 제공된다. 공동연구소장은 엔비디아 소속 김현우 박사가 맡는다.

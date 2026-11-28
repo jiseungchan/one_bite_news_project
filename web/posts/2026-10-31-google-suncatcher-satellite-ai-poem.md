@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216837"
 description: "구글이 10월 30일 궤도 위성에서 AI 모델 추론을 성공시키고 결과를 지구로 전송했다. 데이터센터 수준의 TPU를 위성에 탑재해 하이쿠를 생성한 첫 사례 — 우주 데이터센터 시대의 서막이다."
-image: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202610/216837_220994_4557.jpg"
 ---
 
 ## 데이터센터의 다음 주소는 우주다

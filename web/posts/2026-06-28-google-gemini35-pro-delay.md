@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212099"
 description: "구글이 제미나이 3.5 프로 출시를 연기했다. OpenAI GPT-5, Anthropic Claude 4와의 성능 격차가 부담으로 작용한 것으로 알려졌다."
-image: "https://picsum.photos/seed/google-gemini35-pro-delay/800/500"
+image: "images/cards/2026-06-28-google-gemini35-pro-delay.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/06/1116234/ai-science-discovery-research-autonomous/"
 description: "AI가 단순 논문 요약을 넘어 스스로 가설을 세우고 실험을 설계하는 수준에 도달했다. MIT TR이 현재 AI 과학 연구의 실제 능력과 한계를 짚었다."
-image: "https://picsum.photos/seed/2026-05-08-ai-becoming-scientist-mit/800/500"
+image: "images/cards/2026-05-08-ai-becoming-scientist-mit.svg"
 ---
 
 ## 한 줄 요약

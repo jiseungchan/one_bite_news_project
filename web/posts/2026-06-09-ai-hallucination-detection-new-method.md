@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40123"
 description: "KAIST 연구진이 AI 언어 모델의 환각(hallucination — 모델이 사실이 아닌 내용을 자신 있게 생성하는 현상)을 추론 과정 중 실시간으로 탐지하는 기법을 개발했다. 기존 사후 검증 방식 대비 탐지 속도가 8배 빠르고, 정확도는 91.3%다."
-image: "https://picsum.photos/seed/2026-06-09-ai-hallucination-detection-new-method/800/500"
+image: "images/cards/2026-06-09-ai-hallucination-detection-new-method.svg"
 ---
 
 ## 한 줄 요약

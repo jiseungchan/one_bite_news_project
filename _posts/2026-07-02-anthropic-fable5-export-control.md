@@ -5,7 +5,7 @@ source: CNBC
 sourceUrl: https://www.cnbc.com/2026/06/30/anthropic-says-trump-admin-has-lifted-export-controls-on-claude-fable-5-and-mythos-5.html
 date: 2026-07-02
 description: 아마존 연구진이 클로드 페이블5에서 탈옥 취약점을 발견한 지 6월 12일, 미국 상무부는 전격 수출통제를 발동했다. 앤트로픽은 전 세계 서비스를 중단해야 했다. 19일이 지난 7월 1일, 빗장이 풀렸다.
-image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80
+image: "images/cards/2026-07-02-anthropic-fable5-export-control.svg"
 ---
 
 ## 한 줄 요약

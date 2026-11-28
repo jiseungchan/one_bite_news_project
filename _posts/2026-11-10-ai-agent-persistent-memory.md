@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/08/1121847/ai-agents-persistent-memory-long-term-recall/"
 description: "컨텍스트 윈도우 밖으로 대화가 넘어가면 AI는 모든 걸 잊는다 — 이 한계가 무너지고 있다. 새로운 장기 메모리 아키텍처가 에이전트를 연속적 존재로 바꾸고 있다."
-image: "https://picsum.photos/seed/2026-11-10-ai-agent-persistent-memory/800/500"
+image: "images/cards/2026-11-10-ai-agent-persistent-memory.svg"
 ---
 
 ## 한 줄 요약

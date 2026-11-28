@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214978"
 description: "오픈AI가 작년 가을 선언한 목표를 달성했다. '2026년 9월까지 AI 연구 인턴 시스템 구현.' 연구원 한 명당 3.1 에이전트-일을 쓰는 연구실 풍경이 어떤 의미인지 따져봤다."
+image: "https://cdn.aitimes.com/news/photo/202609/214978_218727_2253.jpeg"
 ---
 
 ## 배경 — AI가 AI를 발전시킨다는 역설

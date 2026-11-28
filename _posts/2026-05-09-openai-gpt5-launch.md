@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33287"
 description: "OpenAI가 GPT-5를 정식 출시했다. o3 계열의 추론 능력과 GPT-4o의 대화·창의성을 하나의 모델로 통합한 것이 핵심이다. ChatGPT Plus 가입자에게 우선 제공된다."
-image: "https://picsum.photos/seed/2026-05-09-openai-gpt5-launch/800/500"
+image: "images/cards/2026-05-09-openai-gpt5-launch.svg"
 ---
 
 ## 한 줄 요약

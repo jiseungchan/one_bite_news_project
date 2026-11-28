@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209901"
 description: "국내 AI 반도체 스타트업 리벨리온이 3세대 AI 추론 칩 REBEL-3를 공개했다. 엔비디아 H100 대비 전력 효율 2배를 목표로 삼성 파운드리와 협력해 제조한다."
-image: "https://picsum.photos/seed/2026-04-30-rebellions-rebel3-ai-chip/800/500"
+image: "images/cards/2026-04-30-rebellions-rebel3-ai-chip.svg"
 ---
 
 ## 한 줄 요약

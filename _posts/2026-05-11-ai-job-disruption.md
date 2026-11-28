@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/08/1116201/ai-job-disruption-labor-market/"
 description: "AI로 인한 노동시장 변화가 본격화됐다. 그런데 전문가들이 예측했던 '단순 반복직 대체'가 아니라, 지식·창작·분석 직군이 먼저 흔들리고 있다는 데이터가 나왔다."
-image: "https://picsum.photos/seed/2026-05-11-ai-job-disruption/800/500"
+image: "images/cards/2026-05-11-ai-job-disruption.svg"
 ---
 
 ## 한 줄 요약

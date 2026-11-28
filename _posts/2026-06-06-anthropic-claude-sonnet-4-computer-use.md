@@ -5,7 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/anthropic-claude-sonnet-4-computer-use-agent/"
 description: "Anthropic이 Claude Sonnet 4를 공개했다. 컴퓨터 화면을 보고 마우스·키보드를 직접 조작하는 'Computer Use' 기능이 이전 세대 대비 크게 향상됐으며, 실제 업무 자동화 벤치마크에서 GPT-4o를 앞선 것으로 나타났다."
-image: "https://picsum.photos/seed/2026-06-06-anthropic-claude-sonnet-4-computer-use/800/500"
+image: "images/cards/2026-06-06-anthropic-claude-sonnet-4-computer-use.svg"
 ---
 
 ## 한 줄 요약

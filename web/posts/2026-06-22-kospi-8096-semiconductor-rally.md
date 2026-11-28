@@ -5,7 +5,7 @@ category: 경제·주식
 source: "MBC 뉴스데스크"
 sourceUrl: "https://imnews.imbc.com/replay/2026/nwdesk/article/6828934_37004.html"
 description: "코스피가 6월 22일 612포인트 급등해 8,096으로 마감했다. 역대 최대 하루 상승폭이며 삼성전자 9%, SK하이닉스 16% 상승이 이끌었다. 명목 GDP 성장률 10.5%로 50년 만에 최고치."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800"
+image: "images/cards/2026-06-22-kospi-8096-semiconductor-rally.svg"
 ---
 
 오늘 한국 증시에서 보기 드문 숫자가 나왔다.

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/05/1138412/ai-memory-context-window-limits/"
 description: "LLM의 컨텍스트 창(context window)이 수백만 토큰 규모로 커졌지만, 실제 추론 품질은 길이에 비례하지 않는다. MIT Technology Review가 메모리 아키텍처의 한계와 차세대 접근법을 짚었다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=500&fit=crop"
+image: "images/cards/2026-06-07-mit-ai-memory-context-window.svg"
 ---
 
 ## AI는 정말로 '기억'하고 있을까

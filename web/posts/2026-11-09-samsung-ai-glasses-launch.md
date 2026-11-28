@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217080"
 description: "삼성전자가 구글·퀄컴과 함께 만든 첫 AI 안경이 미국에서 11월 12일 사전예약을 시작한다. 젠틀몬스터와 워비파커가 각각 디자인을 맡아 패션 디바이스로 접근한 것이 특징이다."
+image: "https://cdn.aitimes.com/news/photo/202611/217080_221270_5438.jpg"
 ---
 
 ## 삼성 첫 AI 안경, 미국서 12일 사전예약 — 젠틀몬스터·워비파커 디자인

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212125"
 description: "오픈AI 내부에서 자율 코딩 에이전트 Codex가 사내 AI 업무 처리의 99%를 담당하게 됐다. ChatGPT 같은 챗봇 시대는 이미 내부에서 막을 내리는 중이다."
-image: "https://picsum.photos/seed/openai-codex-99percent-autonomous-coding/800/500"
+image: "images/cards/2026-06-28-openai-codex-99percent-autonomous-coding.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
 description: "앤트로픽 CEO 다리오 아모데이가 LLM 개발 속도 제동을 촉구했고, 오픈AI·구글 딥마인드·스페이스X AI 수장들이 연달아 동조했다. 7월 허깅페이스 해킹 사건이 도화선이 됐다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-09-17-mit-ai-doomer-turn.svg"
 ---
 
 AI 업계에서 가장 앞서 달리던 사람들이 갑자기 "잠깐, 멈추자"고 말하기 시작했다.

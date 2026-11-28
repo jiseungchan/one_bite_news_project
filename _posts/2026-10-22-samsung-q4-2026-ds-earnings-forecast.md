@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026102202041"
 description: "증권가가 삼성전자의 4분기 반도체(DS)부문 영업이익을 5조~7조 원으로 전망하고 있다. HBM5E(5세대 이상 고대역폭 메모리) 엔비디아 납품 여부가 실적의 핵심 변수로 꼽힌다."
-image: "https://picsum.photos/seed/2026-10-22-samsung-q4-2026-ds-earnings-forecast/800/500"
+image: "images/cards/2026-10-22-samsung-q4-2026-ds-earnings-forecast.svg"
 ---
 
 ## 한 줄 요약

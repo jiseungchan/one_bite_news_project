@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202611110093i"
 description: "TSMC 이사회가 오픈AI와 앤트로픽에 각각 최대 5억달러씩 투자하는 방안을 승인했다. 반도체 위탁 생산 전문 기업이 AI 소프트웨어 생태계에 직접 지분을 가지기 시작했다는 점에서 의미가 크다."
+image: "https://img.hankyung.com/photo/202611/01.46107417.1.jpg"
 ---
 
 # TSMC, 오픈AI·앤트로픽에 각 5억달러씩 투자 — 반도체 회사가 AI 소프트웨어를 품는다

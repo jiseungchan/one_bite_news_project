@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33287"
 description: "이미지·영상·텍스트를 동시에 이해하는 멀티모달 AI 모델이 제조·의료·물류 현장에 빠르게 파고들고 있다. 카메라 하나로 불량품을 골라내고, 수술 영상을 보며 다음 단계를 제안하는 AI — 실험실을 벗어나 현장에 착지한 멀티모달 AI의 현주소를 정리했다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800"
+image: "https://cdn.aitimes.kr/news/thumbnail/202412/33287_50599_5334_v150.jpg"
 ---
 
 ## 배경 — 언어 모델의 한계, 눈을 달다

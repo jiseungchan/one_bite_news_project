@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210592"
 description: "2026년 상반기 국내 AI 스타트업 투자액이 1조 원을 돌파했다. 에이전트 AI와 멀티모달 기술이 투자 집중 분야로 부상했으며, 시리즈 B 이상 대형 라운드 비중이 크게 늘었다."
-image: "https://picsum.photos/seed/2026-05-17-korea-ai-startup-investment-1t/800/500"
+image: "images/cards/2026-05-17-korea-ai-startup-investment-1t.svg"
 ---
 
 ## 한 줄 요약

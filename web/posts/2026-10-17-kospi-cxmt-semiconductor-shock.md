@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202610138616i"
 description: "10월 13일 코스피가 5.46% 급락해 장중 6000선 아래로 밀렸다. 중국 CXMT의 차세대 서버용 D램 출시 계획과 외국인 대규모 매도가 한국 반도체주를 직격했다."
+image: "https://img.hankyung.com/photo/202610/01.46036655.1.jpg"
 ---
 
 ## 배경 — 코스피 6000은 어떻게 만들어진 숫자였나

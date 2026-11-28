@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211296"
 description: "챗GPT가 월간 활성 사용자 10억 명을 돌파했다. 틱톡과 유튜브보다 훨씬 빠른 속도로, 인터넷 역사상 가장 빠르게 10억 사용자를 확보한 서비스로 기록됐다."
-image: "https://picsum.photos/seed/2026-06-15-chatgpt-1billion-users-record/800/500"
+image: "https://cdn.aitimes.com/news/photo/202606/211296_214201_5429.jpg"
 ---
 
 ## 한 줄 요약

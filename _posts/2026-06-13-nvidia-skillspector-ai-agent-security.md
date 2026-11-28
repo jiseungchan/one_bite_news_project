@@ -5,7 +5,7 @@ source: "GitHub / NVIDIA"
 sourceUrl: "https://github.com/NVIDIA/SkillSpector"
 date: 2026-06-13
 description: "NVIDIA가 공개한 SkillSpector는 AI 에이전트 스킬의 보안 취약점을 자동 탐지하는 오픈소스 도구다. 42,447개 스킬 분석 결과 26.1%에서 취약점이 발견됐다."
-image: "https://picsum.photos/seed/2026-06-13-nvidia-skillspector-ai-agent-security/800/500"
+image: "images/cards/2026-06-13-nvidia-skillspector-ai-agent-security.svg"
 ---
 
 ## 한 줄 요약

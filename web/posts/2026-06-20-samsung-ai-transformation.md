@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211537"
 description: "이재용 회장이 '조직 DNA를 바꾸라'고 선언했다. 6월 중 전 삼성 관계사에 챗GPT·클로드·제미나이 도입, AI 전담조직 신설, 2026년 내 전 직원 교육 완료 — 삼성의 AI 전환은 실험이 아니라 전사 명령이 됐다."
-image: "https://picsum.photos/seed/2026-06-20-samsung-ai/800/500"
+image: "https://cdn.aitimes.com/news/photo/202606/211537_214522_5736.jpg"
 ---
 
 삼성이 AI 전환을 선택이 아닌 의무로 만들겠다고 선언했다. 이재용 삼성전자 회장은 "일하는 방식과 조직 DNA를 송두리째 바꿔야 한다"며, "R&D부터 생산·마케팅·지원까지 모든 업무 밸류체인(가치사슬 — 기업이 제품을 만들고 전달하는 전 과정)에 AI를 접목해야 한다"고 강조했다.

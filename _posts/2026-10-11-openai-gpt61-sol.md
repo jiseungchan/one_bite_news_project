@@ -5,6 +5,7 @@ category: AI
 source: "TechCrunch"
 sourceUrl: "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/"
 description: "OpenAI가 9월 29일 DevDay에서 GPT-6.1 Sol을 공개했다. GPT-6 Astra 수준에 근접한 성능을 5분의 1 가격에 제공한다. 동시에 내부 안전 우려로 GPT-6.1 Astra 출시를 전면 취소했다."
+image: "images/cards/2026-10-11-openai-gpt61-sol.svg"
 ---
 
 OpenAI의 9월 DevDay에서 예상치 못한 뉴스가 두 개 나왔다. 하나는 새 모델 출시, 다른 하나는 예고됐던 모델의 취소다.

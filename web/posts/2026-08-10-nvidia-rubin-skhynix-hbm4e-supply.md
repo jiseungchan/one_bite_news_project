@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026080932010"
 description: "엔비디아가 차세대 AI 가속기 루빈(Rubin) GPU 플랫폼의 첫 양산 출하를 공식 확인했다. SK하이닉스가 루빈에 탑재될 HBM4E(6세대 고대역폭 메모리) 1차 공급사로 확정됐으며, 주요 증권사들이 목표주가를 최대 28% 일제히 상향했다."
-image: "https://picsum.photos/seed/2026-08-10-nvidia-rubin-skhynix-hbm4e-supply/800/500"
+image: "images/cards/2026-08-10-nvidia-rubin-skhynix-hbm4e-supply.svg"
 ---
 
 ## 한 줄 요약

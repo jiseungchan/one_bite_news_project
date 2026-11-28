@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.1" x2="1" y2="0.8"><stop offset="0" stop-color="#08403c"/><stop offset="1" stop-color="#1b7c75"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="696" cy="66" r="190" fill="#fff" fill-opacity=".05"/>
+<g><rect x="500" y="254" width="26" height="106" rx="4" fill="#fff" fill-opacity=".14"/><rect x="545" y="222" width="26" height="138" rx="4" fill="#fff" fill-opacity=".14"/><rect x="590" y="252" width="26" height="108" rx="4" fill="#fff" fill-opacity=".14"/><rect x="635" y="212" width="26" height="148" rx="4" fill="#fff" fill-opacity=".14"/><rect x="680" y="235" width="26" height="125" rx="4" fill="#fff" fill-opacity=".14"/><rect x="725" y="287" width="26" height="73" rx="4" fill="#fff" fill-opacity=".14"/><rect x="770" y="216" width="26" height="144" rx="4" fill="#fff" fill-opacity=".14"/><polyline points="510,208 555,183 600,285 645,325 690,250 735,320 780,173" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/><circle cx="780" cy="173" r="12" fill="#fff"/><path d="M490 365h300" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity=".6"/></g>
+<rect x="48" y="72" width="109" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">경제·주식</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">Meta, 1분기 광고 매출</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">예상치 상회</text>
+
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-05-05 · Bloomberg · 한입뉴스</text>
+</svg>

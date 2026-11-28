@@ -5,7 +5,7 @@ source: "Microsoft Research"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
 date: 2026-06-10
 description: "마이크로소프트 리서치가 소형 모델 기반 AI 에이전트 시스템 MagenticLite를 공개했다. 14B 파라미터 모델이 웹 내비게이션 벤치마크에서 90% 이상을 달성하며, '더 큰 모델 = 더 똑똑한 에이전트'라는 공식에 도전한다."
-image: "https://picsum.photos/seed/2026-06-10-magentic-lite-small-ai-agents/800/500"
+image: "images/cards/2026-06-10-magentic-lite-small-ai-agents.svg"
 ---
 
 ## 한 줄 요약

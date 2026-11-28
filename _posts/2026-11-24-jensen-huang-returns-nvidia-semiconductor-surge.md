@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202611245389i"
 description: "엔비디아가 젠슨 황의 CEO 즉각 복귀를 발표했다. 발표 직후 뉴욕증시에서 엔비디아 주가는 장중 최대 35% 급등했고, 필라델피아 반도체지수는 13% 올랐다. 국내에서는 삼성전자·SK하이닉스가 나란히 6%대 상승하며 코스피가 5000선을 되찾았다."
+image: "https://img.hankyung.com/photo/202611/01.46460375.1.jpg"
 ---
 
 ## 배경 — 고점 대비 반토막, 그리고 복귀

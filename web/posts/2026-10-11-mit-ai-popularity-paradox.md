@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
 description: "챗GPT가 월 10억 명을 돌파했지만, 미국 성인의 절반 이상은 AI가 사회에 부정적 영향을 미친다고 본다. MIT 테크 리뷰가 퓨리서치와 갤럽 데이터를 종합해 이 '사용-혐오 역설'을 분석했다."
+image: "images/cards/2026-10-11-mit-ai-popularity-paradox.svg"
 ---
 
 지금 AI 업계에서 가장 이상한 숫자가 하나 있다. 챗GPT의 월간 활성 사용자가 2026년 5월 기준 10억 명을 넘었다. 전 세계 인터넷 인구의 약 7분의 1이 매달 한 번 이상 쓴다는 뜻이다. 그런데 같은 시기 퓨리서치(Pew Research Center — 미국의 비영리 여론조사 기관)는 미국 성인 중 AI가 자신과 사회에 긍정적 영향을 미칠 것이라고 기대하는 사람보다 부정적 영향을 걱정하는 사람이 더 많다고 발표했다.

@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202607277420i"
 description: "빅테크가 AI에 역대 최대 설비투자를 쏟아붓는데, 반도체 주가는 오히려 내리고 있다. 기록적 매출도 투자자를 달래지 못한 이유, 그리고 코스피와 나스닥을 동시에 흔드는 새로운 변수들을 짚어봤다."
+image: "https://img.hankyung.com/photo/202607/01.45157397.1.jpg"
 ---
 
 지난 2년간 AI 반도체 투자자들은 비교적 단순한 논리로 수익을 냈다. 빅테크가 AI에 돈을 쓰면 데이터센터가 늘고, GPU·HBM(고대역폭 메모리 — AI GPU에 사용되는 초고속 반도체) 수요가 오르고, 삼성전자·SK하이닉스 주가가 따라 올랐다.

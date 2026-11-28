@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215998"
 description: "마이크로소프트와 메타가 내부 직원들의 앤트로픽 클로드 사용을 대폭 줄이고 있다. 메타는 사용 인원이 6만→3만 명으로 절반이 됐고, 마이크로소프트는 월 한도를 10만→1만 달러로 낮췄다."
+image: "https://cdn.aitimes.com/news/photo/202610/215998_219983_07.jpg"
 ---
 
 B2B AI 시장의 지형이 흔들리고 있다. 앤트로픽의 가장 큰 기업 고객 두 곳, 마이크로소프트와 메타가 클로드(Claude) 사용을 줄이고 있다는 소식이 전해졌다.

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209820"
 description: "바이두가 AI 검색 기능을 전면에 내세운 이후 중국 검색 시장 점유율이 70%를 돌파했다. 기존 링크 목록 방식에서 AI 생성 답변 방식으로의 전환이 사용자 유입을 끌어올렸다는 분석이다."
-image: "https://picsum.photos/seed/baidu-ai-search-china-2026/800/500"
+image: "images/cards/2026-04-29-baidu-ai-search-70-percent.svg"
 ---
 
 ## 한 줄 요약

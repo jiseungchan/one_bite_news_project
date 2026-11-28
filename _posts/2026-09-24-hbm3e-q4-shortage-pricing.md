@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026092381011"
 description: "엔비디아 Q2 실적에서 경고됐던 HBM3E 공급 부족이 4분기 들어 실제 가격 인상으로 이어지고 있다. 삼성전자와 SK하이닉스의 4분기 HBM 평균판매가격(ASP)이 전분기 대비 15~20% 오를 것이라는 증권가 전망이 나왔다."
+image: "images/cards/2026-09-24-hbm3e-q4-shortage-pricing.svg"
 ---
 
 ### 배경: 2주 전 엔비디아가 경고했다

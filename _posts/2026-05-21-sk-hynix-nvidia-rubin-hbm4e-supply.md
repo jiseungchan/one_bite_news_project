@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052132011"
 description: "SK하이닉스가 엔비디아 차세대 루빈(Rubin) GPU 플랫폼에 HBM4E를 단독으로 공급하는 계획이 확정됐다. 삼성전자는 3분기 이후 합류를 목표로 인증 작업 중이며, 이 경쟁 구도가 두 종목의 단기 주가를 갈라놓고 있다."
-image: "https://picsum.photos/seed/2026-05-21-sk-hynix-nvidia-rubin-hbm4e-supply/800/500"
+image: "images/cards/2026-05-21-sk-hynix-nvidia-rubin-hbm4e-supply.svg"
 ---
 
 ## 한 줄 요약

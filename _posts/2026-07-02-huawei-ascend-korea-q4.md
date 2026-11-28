@@ -5,7 +5,7 @@ source: 전자신문
 sourceUrl: https://www.etnews.com/20260701000492
 date: 2026-07-02
 description: 화웨이가 2026년 4분기 국내 시장에 AI 가속기 어센드 950PR·950DT와 아틀라스 950 슈퍼포드를 출시할 계획이다. 엔비디아 H20 대비 추론 성능 2.87배, 가격은 4분의 1 수준이라고 주장한다.
-image: https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80
+image: "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.a384d4b992e14af4ae408f8858a60a2b_P1.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/research/claude-shaped-science"
 description: "하버드 물리학자 매슈 슈워츠가 클로드와 함께 3개월 동안 진화생물학·생태학·우주론·경제학 등 18개 분야에서 논문 36편을 완성했다. AI가 채울 수 있는 공간은 '가장 어려운 문제'가 아니라 '아무도 가지 않은 공간'이었다."
+image: "https://assets.claude.com/07a4728daadcb3b7fc1efc04f417774d81af9c9e.jpg"
 ---
 
 학문 간 경계는 보이지 않는 장벽이다. 진화생물학의 수식과 우주론의 수식이 수학적으로 같은 형태인데도, 두 분야 연구자가 서로 모르는 경우가 흔하다. 각자의 문헌을 다 읽고 연결점을 찾아내는 건 한 사람의 커리어로는 불가능에 가까운 작업이다.

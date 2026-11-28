@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/13/1142089/ai-coauthorship-scientific-publishing-review/"
 description: "2026년 주요 저널에 제출된 논문의 40%에 AI 도구가 공동 저자로 표기됐다. AI가 쓴 논문을 AI가 심사하는 구조가 만들어지면서, 과학 출판의 핵심 신뢰 메커니즘인 동료 심사(peer review)가 흔들리고 있다."
+image: "images/cards/2026-11-16-mit-ai-coauthorship-publishing.svg"
 ---
 
 ## 기존에는 어땠나

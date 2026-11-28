@@ -5,7 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
 description: "앤트로픽 생명과학팀이 클로드 에이전트 950개를 투입해 21시간 만에 ART(배열 결합 역전사효소)라는 새로운 효소계를 발견했다. CRISPR와 구조적으로 유사하며, AI 에이전트가 생물학적 발견을 가속할 수 있음을 보여준 첫 사례다."
-image: "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?w=800&q=80"
+image: "https://assets.claude.com/07053403910b254b0b595cd7c472568310539e6e.jpg"
 ---
 
 ## 효소 하나를 찾으려면 보통 얼마나 걸리나

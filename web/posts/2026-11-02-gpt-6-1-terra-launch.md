@@ -5,6 +5,7 @@ category: AI
 source: "9to5Mac / TechCrunch"
 sourceUrl: "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/"
 description: "OpenAI가 10월 26일 GPT-6.1 Terra를 출시했다. ChatGPT Work·Codex·API에서 사용 가능하며, 전 세대 Terra 대비 비용이 50% 낮다. 최상위 모델 GPT-6.1 Astra는 안전성 우려로 취소됐다."
+image: "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628"
 ---
 
 AI 모델 출시 흐름이 빨라지다 보니 숫자 트래킹이 쉽지 않다. GPT-6.1 Terra가 지난 10월 26일 조용히 출시됐다. 주목할 이유는 간단하다. 비용이 절반이다.

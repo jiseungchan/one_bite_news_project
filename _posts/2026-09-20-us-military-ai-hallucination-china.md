@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215501"
 description: "올봄 미군이 AI가 생성한 허위 정보 보고서를 믿고 중국 선박 나포 작전을 준비했다. 무장 병력이 승선 대기 상태였고 군용기까지 이미 공중에 떴다. 작전 직전, 보고서가 전적으로 거짓임이 드러났다."
+image: "https://cdn.aitimes.com/news/photo/202609/215501_219363_2527.png"
 ---
 
 ## 왜 지금 이게 중요한가?

@@ -5,7 +5,7 @@ category: 바이오
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/rss/allArticle.xml"
 description: "생성AI 기반 의료 영상 판독 시스템이 흉부 X선에서 91%의 정확도를 기록하며 경험 많은 방사선과 의사 수준에 근접했다. 단순 분류를 넘어 자연어로 판독 소견을 자동 작성하는 단계까지 왔다."
-image: "https://picsum.photos/seed/2026-05-19-generative-ai-medical-imaging/800/500"
+image: "images/cards/2026-05-19-generative-ai-medical-imaging.svg"
 ---
 
 ## 한 줄 요약

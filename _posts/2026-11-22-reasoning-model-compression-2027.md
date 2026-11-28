@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/18/1143127/ai-reasoning-models-getting-cheaper-distillation/"
 description: "o3·클로드 소네트 5.5 같은 추론 모델의 성능을 10분의 1 비용으로 재현하는 증류(Distillation) 기술이 2026년 하반기 AI 시장의 판도를 바꾸고 있다. '크고 비싼 모델만이 추론할 수 있다'는 통념이 무너지고 있다."
-image: "https://picsum.photos/seed/2026-11-22-reasoning-model-compression-2027/800/500"
+image: "images/cards/2026-11-22-reasoning-model-compression-2027.svg"
 ---
 
 ## 한 줄 요약

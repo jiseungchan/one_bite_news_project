@@ -5,7 +5,7 @@ source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212534"
 date: 2026-07-13
 description: "OpenAI와 Anthropic이 각자의 최고 성능 모델을 무료로 제공하는 경쟁에 돌입했다. 이 무료 경쟁 뒤에 숨어있는 전략적 계산을 들여다본다."
-image: https://picsum.photos/seed/2026-07-13-openai-anthropic-free-model-war/800/500
+image: "https://cdn.aitimes.com/news/photo/202607/212534_215809_5244.png"
 ---
 
 ## 한 줄 요약

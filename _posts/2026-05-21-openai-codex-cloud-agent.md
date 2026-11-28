@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/openai-launches-codex-a-cloud-based-ai-coding-agent-that-can-do-tasks-in-parallel/"
 description: "OpenAI가 클라우드에서 독립적으로 코딩 작업을 수행하는 에이전트 Codex를 출시했다. 사람의 개입 없이 여러 작업을 병렬로 처리하고 GitHub PR까지 직접 생성한다."
-image: "https://picsum.photos/seed/2026-05-21-openai-codex-cloud-agent/800/500"
+image: "images/cards/2026-05-21-openai-codex-cloud-agent.svg"
 ---
 
 ## 한 줄 요약

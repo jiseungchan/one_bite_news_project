@@ -5,6 +5,7 @@ category: AI
 source: "MacRumors / Reuters"
 sourceUrl: "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/"
 description: "애플이 중국 시장을 위한 자체 대형 언어 모델(LLM)을 알리바바의 도움을 받아 개발했다. 글로벌 AI 전략과 중국 규제 사이에서 애플이 찾은 타협점이다."
+image: "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg"
 ---
 
 ## 배경: 중국에서 AI를 쓰려면

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213071"
 description: "구글 제미나이의 MAU가 9억 5,000만 명을 넘어서며 ChatGPT와의 격차를 5,000만 명으로 줄였다. 5개월 만에 2억 명이 추가됐으며, 연간 트래픽 증가율은 643%에 달한다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-08-08-google-gemini-950m-mau.svg"
 ---
 
 구글의 AI 서비스 제미나이(Gemini)의 월간 활성 사용자(MAU — Monthly Active User, 한 달에 한 번 이상 서비스를 이용하는 실제 사용자 수)가 9억 5,000만 명을 넘어섰다. 구글이 2026년 2분기 실적 발표를 통해 공개한 수치다.

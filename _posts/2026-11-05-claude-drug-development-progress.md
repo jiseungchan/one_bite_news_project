@@ -5,6 +5,7 @@ category: 바이오
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/research/early-progress-drug-development"
 description: "앤트로픽이 6개 바이오·제약 파트너와 클로드를 활용한 신약 연구 초기 성과를 공개했다. 규제 문서 검토 시간 89% 단축, 항체 결합력 10배 향상 등 구체적 수치가 등장했다."
+image: "https://assets.claude.com/9cda0be8d2f8717c894c872c1f27a67231822ac4.jpg"
 ---
 
 앤트로픽이 10월 27일, 클로드를 신약 개발에 적용한 초기 연구 파트너십 결과를 공개했다. 6개 조직과 함께한 협업으로, 아직 대부분 전임상(preclinical — 사람이 아닌 세포·동물 단계) 단계지만 수치가 꽤 인상적이다.

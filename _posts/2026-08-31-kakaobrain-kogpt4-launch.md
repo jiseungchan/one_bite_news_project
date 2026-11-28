@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213401"
 description: "카카오브레인이 자체 개발한 한국어 특화 추론 모델 KoGPT-4를 공개했다. 한국어 법률·의료·금융 벤치마크에서 GPT-5.5 Instant를 앞섰으며, API 상용 서비스와 카카오톡 연동이 단계적으로 시작된다."
+image: "images/cards/2026-08-31-kakaobrain-kogpt4-launch.svg"
 ---
 
 ## 배경 — 한국어 AI의 오래된 약점

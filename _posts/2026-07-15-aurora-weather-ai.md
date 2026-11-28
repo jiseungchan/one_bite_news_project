@@ -5,7 +5,7 @@ category: AI
 source: "Microsoft Research"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/"
 description: "마이크로소프트가 AI 기상 예측 모델 Aurora 1.5를 공개했다. 예측 변수를 4개에서 26개로 늘리고, ECMWF 앙상블 대비 88.9% 지표에서 우세를 기록했으며 허리케인 추적 오류를 기존 대비 약 1/3 수준으로 줄였다."
-image: "https://picsum.photos/seed/2026-07-15-aurora-weather-ai/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/AuroraUpdate-TWLIFB-1200x627-1.jpg"
 ---
 
 ## 한 줄 요약

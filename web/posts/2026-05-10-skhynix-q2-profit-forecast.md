@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050923041"
 description: "증권가가 SK하이닉스의 2분기 영업이익 전망치를 7조 원대로 상향 조정했다. HBM4(4세대 고대역폭 메모리) 조기 공급과 AI 데이터센터 수요 급증이 핵심 변수다. 1분기(4.8조 원 잠정) 대비 약 46% 급증 전망이다."
-image: "https://picsum.photos/seed/2026-05-10-skhynix-q2-profit-forecast/800/500"
+image: "images/cards/2026-05-10-skhynix-q2-profit-forecast.svg"
 ---
 
 ## 한 줄 요약

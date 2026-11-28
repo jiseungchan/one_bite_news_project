@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 모델의 크기 경쟁이 꺾이고 '에너지 효율' 경쟁이 본격화됐다. 동일한 성능을 내면서도 전력 소비를 절반 이하로 줄이는 경량화·최적화 기술들이 2026년 들어 산업 표준으로 자리잡고 있다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800"
+image: "images/cards/2026-05-13-mit-ai-energy-efficiency-smaller-smarter.svg"
 ---
 
 ## 배경

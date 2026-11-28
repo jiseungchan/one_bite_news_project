@@ -5,7 +5,7 @@ source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
 date: 2026-06-17
 description: "마이크로소프트 리서치가 14B짜리 소형 모델로 실제 웹 작업을 자동화하는 에이전트 시스템 MagenticLite를 공개했다. 벤치마크 300개 작업에서 27B 모델이 90% 이상의 성능을 달성했고, 코드와 모델 모두 공개됐다."
-image: "https://picsum.photos/seed/2026-06-17-magentic-lite-small-model-agents/800/500"
+image: "images/cards/2026-06-17-magentic-lite-small-model-agents.svg"
 ---
 
 ## 한 줄 요약

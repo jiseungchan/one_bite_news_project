@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213521"
 description: "LG AI연구원이 EXAONE 4를 공개하며 국산 AI 최초로 한국어 MMLU 벤치마크에서 GPT-5.6(89.7%)을 앞섰다(91.2%). 추론 능력이 전작 EXAONE 3.5 대비 3배 향상됐으며, 법률·금융·제조 특화 기업용 에이전트 모델로 포지셔닝됐다."
-image: "https://picsum.photos/seed/2026-07-21-lg-exaone4-launch/800/500"
+image: "images/cards/2026-07-21-lg-exaone4-launch.svg"
 ---
 
 ## 한 줄 요약

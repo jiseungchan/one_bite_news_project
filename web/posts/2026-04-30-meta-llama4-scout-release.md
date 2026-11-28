@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33150"
 description: "메타가 17B 활성 파라미터 MoE 구조의 경량 멀티모달 모델 Llama 4 Scout를 오픈소스로 공개했다. 컨텍스트 윈도우 1,000만 토큰에 Apache 2.0 라이선스로 상업적 활용도 무료다."
-image: "https://picsum.photos/seed/2026-04-30-meta-llama4-scout-release/800/500"
+image: "images/cards/2026-04-30-meta-llama4-scout-release.svg"
 ---
 
 ## 한 줄 요약

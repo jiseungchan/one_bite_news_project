@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210080"
 description: "마이크로소프트가 Copilot+ PC 전 라인업에 AI 에이전트 기능을 전면 통합했다. 사용자가 지시하면 PC가 앱을 열고, 파일을 찾고, 이메일을 작성하고, 회의 일정을 잡는 것까지 스스로 처리한다. Windows 역사상 가장 큰 UI 패러다임 전환이라는 평가다."
-image: "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=800&q=80"
+image: "images/cards/2026-05-03-microsoft-copilot-ai-agent.svg"
 ---
 
 ## 배경 — AI가 '도구' 안에 갇혀 있던 시절

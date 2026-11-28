@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211023"
 description: "과학기술정보통신부가 AI 안전·신뢰성 가이드라인을 전면 개정하고 고위험 AI 시스템에 사전 안전성 평가를 의무화했다. EU AI법 발효에 맞춰 국내 기업의 글로벌 규제 대응을 지원하는 조치다."
-image: "https://picsum.photos/seed/2026-05-25-mst-ai-safety-guidelines-revision/800/500"
+image: "https://cdn.aitimes.com/news/photo/202605/211023_213859_2827.jpg"
 ---
 
 ## 한 줄 요약

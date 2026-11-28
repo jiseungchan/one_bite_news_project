@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216671"
 description: "딥러닝의 핵심 알고리즘 '역전파'를 쓰지 않고 소형 언어모델을 학습시키는 오픈소스 실험에서, 목표 도달 시간이 열흘 만에 1.76시간에서 1.6초로 단축됐다. 역전파 기준치 손실보다도 낮은 성능을 기록했다."
+image: "images/cards/2026-10-26-backprop-free-ai-learning-4000x.svg"
 ---
 
 # 역전파 없이 AI를 학습시킨다 — Q랩스의 실험, 열흘 만에 4000배

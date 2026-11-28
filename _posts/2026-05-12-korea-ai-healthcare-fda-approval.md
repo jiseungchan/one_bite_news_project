@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=31842"
 description: "뷰노·루닛 등 국내 의료 AI 기업들이 미국 FDA 승인을 잇달아 획득하며 글로벌 임상 현장 진입을 가속하고 있다. 국내 AI 의료기기의 글로벌 경쟁력이 실질적으로 확인되는 시점이다."
-image: "https://picsum.photos/seed/2026-05-12-korea-ai-healthcare-fda-approval/800/500"
+image: "images/cards/2026-05-12-korea-ai-healthcare-fda-approval.svg"
 ---
 
 ## 한 줄 요약

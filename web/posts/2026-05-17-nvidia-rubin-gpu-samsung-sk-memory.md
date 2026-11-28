@@ -5,7 +5,7 @@ category: "경제·주식"
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026051632010"
 description: "엔비디아가 차세대 GPU 플랫폼 루빈의 양산 일정을 앞당기는 방안을 검토 중인 것으로 알려졌다. 삼성전자와 SK하이닉스의 HBM4E 공급 경쟁이 재점화될 전망이다."
-image: "https://picsum.photos/seed/2026-05-17-nvidia-rubin-gpu-samsung-sk-memory/800/500"
+image: "images/cards/2026-05-17-nvidia-rubin-gpu-samsung-sk-memory.svg"
 ---
 
 ## 한 줄 요약

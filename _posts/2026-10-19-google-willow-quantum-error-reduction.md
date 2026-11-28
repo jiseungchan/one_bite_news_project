@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216374"
 description: "구글 퀀텀 AI가 자사 양자 프로세서 윌로우에서 '매직 스테이트 배양' 기술을 검증하며 핵심 연산 오류를 40분의 1로 줄이는 데 성공했다. 논리 정확도 99.99%를 달성했으며, 결과는 국제학술지 사이언스에 게재됐다."
+image: "https://cdn.aitimes.com/news/photo/202610/216374_220433_2444.jpg"
 ---
 
 ## 배경: 양자컴퓨터가 실제로 쓰이려면

@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=212175
 date: 2026-07-02
 description: 오픈AI가 최고 성능 모델 GPT-5.6을 세 가지 버전으로 공개했으나, 정부 요청에 따라 제한적 출시 방식을 택했다.
-image: https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80
+image: "https://cdn.aitimes.com/news/photo/202606/212175_215354_2633.png"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210122"
 description: "앤트로픽이 클로드 4 시리즈(Sonnet·Opus)를 공개했다. 코딩 에이전트 벤치마크에서 전작 대비 30% 이상 성능이 향상됐으며, 장기 멀티스텝 작업 처리 능력이 AI 에이전트 시장의 새 기준을 제시한다."
-image: "https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202605/210122_212694_392.jpeg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/news/articleView.html?idxno=39542
 date: 2026-06-04
 description: 스탠퍼드 HAI가 발표한 AI 인덱스 2026 보고서. 코딩 벤치마크 1년 만에 만점 돌파, 기업 AI 도입률 88%, 미국 민간 투자 2850억 달러 — AI는 이미 '쓸 만한 기술'이 아니라 사회 전반을 재편하는 인프라로 자리잡았다.
-image: https://picsum.photos/seed/2026-06-04-stanford-hai-ai-index-2026/800/500
+image: "https://cdn.aitimes.kr/news/thumbnail/202604/39542_59780_2012_v150.jpg"
 ---
 
 ## 한 줄 요약

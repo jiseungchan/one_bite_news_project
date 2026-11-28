@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211810"
 description: "챗GPT의 글로벌 AI 비서 점유율이 사상 처음으로 46.4%로 내려앉았다. 제미나이 27.7%, 클로드 10.3%가 빠르게 따라붙고 있다. 독주에서 3강 구도로 — AI 시장의 지형이 바뀌고 있다."
-image: "https://picsum.photos/seed/2026-06-20-chatgpt-market-share/800/500"
+image: "images/cards/2026-06-20-chatgpt-market-share-below-50.svg"
 ---
 
 챗GPT가 '50%'라는 선을 처음으로 내줬다. 모바일 분석업체 센서타워(SensorTower)가 발표한 '2026 AI 현황 보고서'에 따르면, 챗GPT의 글로벌 AI 비서 시장 점유율은 5월 말 기준 **46.4%**로 집계됐다. 지난 1월까지만 해도 50%를 웃돌던 수치가 처음으로 절반 아래로 내려간 것이다.

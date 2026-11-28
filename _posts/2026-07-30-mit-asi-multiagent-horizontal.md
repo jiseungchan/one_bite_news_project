@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
 description: "AI 스케일링은 지금까지 더 큰 모델, 더 많은 데이터로 성장해왔다. MIT Technology Review는 인공 초지능(ASI)으로 가는 다음 단계가 단일 모델의 수직 성장이 아니라, 수천 개의 에이전트가 협업하는 '수평적 확장'이라고 분석한다. 현재 멀티에이전트 시스템의 실패율은 최대 87%에 달한다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png?resize=1200,600"
 ---
 
 지금까지 AI는 한 방향으로만 성장해왔다. 더 큰 모델, 더 많은 데이터, 더 많은 컴퓨팅 자원. 업계에서는 이를 '수직 스케일링(vertical scaling)'이라고 부른다. GPT-5.6, 클로드 오퍼스 5, 제미나이 울트라 3 같은 모델들이 이 방식으로 탄생했다.

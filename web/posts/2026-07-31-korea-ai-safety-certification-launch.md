@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213501"
 description: "과학기술정보통신부가 8월 1일부터 AI 안전 인증제 시행령을 발효한다. 의료·채용·신용평가 등 6개 분야 AI를 '고위험'으로 분류해 사전 인증을 의무화한다. 아직 준비를 시작하지 않은 기업이 절반을 넘는다."
-image: "https://picsum.photos/seed/2026-07-31-korea-ai-safety-certification-launch/800/500"
+image: "https://cdn.aitimes.com/news/photo/202608/213501_216999_3012.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ source: AI타임스 / Meta AI Blog
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209175
 date: 2026-04-16
 description: 메타가 총 파라미터 400B(4천억)짜리 Llama 4 Maverick을 포함한 라마4 시리즈를 공개했다. GPT-4o와 Gemini 2.0 Flash를 광범위한 벤치마크에서 앞섰으며, 오픈소스로 무료 배포된다.
-image: https://picsum.photos/seed/meta-llama4-2026/800/500
+image: "images/cards/2026-04-16-meta-llama4-multimodal.svg"
 ---
 
 ## 한 줄 요약

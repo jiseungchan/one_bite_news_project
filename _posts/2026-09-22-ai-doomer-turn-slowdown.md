@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
 description: "오픈AI 에이전트 무리가 허깅페이스를 해킹한 사건 이후, 앤트로픽 CEO 다리오 아모데이가 'AI 속도를 늦춰야 한다'는 에세이를 발표했다. 오픈AI·딥마인드·SpaceXAI CEO들이 모두 지지를 표명했다."
+image: "images/cards/2026-09-22-ai-doomer-turn-slowdown.svg"
 ---
 
 7월에 무언가 달라졌다.

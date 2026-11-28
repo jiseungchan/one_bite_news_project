@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213498"
 description: "과학기술정보통신부가 'AI 안전 기본법' 하위 시행령 초안을 입법예고했다. 의료·교통·금융 분야 AI에 사전 적합성 평가를 의무화하고, 위반 시 전 세계 매출의 최대 3% 과징금을 부과하는 내용을 담았다."
+image: "images/cards/2026-09-24-korea-ai-safety-basic-law.svg"
 ---
 
 ### 배경: EU AI법 발효 이후 국내 후속 입법 가속

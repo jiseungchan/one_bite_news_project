@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026080709871"
 description: "7월 반도체 수출액 147억 달러(약 19조 5,000억 원)로 월간 역대 최고치 경신. 빅테크 AI 설비투자 급증에 따른 HBM·NAND 수요가 집중됐고, 삼성전자·SK하이닉스 주가가 동반 강세를 보였다."
-image: "https://picsum.photos/seed/2026-08-07-korea-semiconductor-export-july-record/800/500"
+image: "images/cards/2026-08-07-korea-semiconductor-export-july-record.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/25/1115445/ai-is-changing-science-itself/"
 description: "AlphaFold가 단백질 구조를 해독한 이후, AI는 이제 가설 생성부터 실험 설계, 데이터 해석까지 과학 연구의 전 과정을 재편하고 있다. 도구가 아닌 공동 연구자로 진화한 AI가 만들어내는 새로운 발견의 지형을 짚었다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-27-ai-science-discovery-paradigm.svg"
 ---
 
 ## 배경 — 과학은 언제나 느렸다

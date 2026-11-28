@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202607079241i"
 description: "삼성전자가 AI 메모리 수요에 힘입어 역대급 수익성을 기록했다. HBM과 DDR5를 앞세운 이번 실적은 반도체 슈퍼사이클 진입을 공식화하는 수치다."
-image: "https://picsum.photos/seed/2026-07-13-samsung-ai-memory-supercycle/800/500"
+image: "https://img.hankyung.com/photo/202607/02.44258383.1.jpg"
 ---
 
 ## 한 줄 요약

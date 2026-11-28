@@ -5,7 +5,7 @@ category: 나노·소재
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33210"
 description: "반도체 설계 자동화 도구(EDA)에 AI가 접목되면서 칩 설계 기간이 기존 대비 최대 50% 단축되고 있다. 삼성전자, TSMC 등 글로벌 파운드리와 ARM, 시놉시스 등이 AI 기반 EDA 도구 도입을 본격화했다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800"
+image: "images/cards/2026-05-13-ai-eda-chip-design-automation.svg"
 ---
 
 ## 배경

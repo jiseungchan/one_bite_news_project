@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.2" x2="1" y2="0.9"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="692" cy="92" r="190" fill="#fff" fill-opacity=".05"/>
+<g><path d="M520 110h200a24 24 0 0 1 24 24v90a24 24 0 0 1-24 24H600l-45 35v-35h-35a24 24 0 0 1-24-24v-90a24 24 0 0 1 24-24z" fill="#fff" fill-opacity=".18" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><circle cx="570" cy="180" r="10" fill="#fff"/><circle cx="620" cy="180" r="10" fill="#fff"/><circle cx="670" cy="180" r="10" fill="#fff"/><path d="M640 270h120a20 20 0 0 1 20 20v50a20 20 0 0 1-20 20h-30v28l-35-28h-55a20 20 0 0 1-20-20v-50a20 20 0 0 1 20-20z" fill="#fff" fill-opacity=".3" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">사내 업무의 99%를 AI에</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">맡긴 회사</text>
+<rect x="48" y="300" width="69" height="38" rx="19" fill="#fff" fill-opacity=".18"/><text x="82.5" y="325" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">오픈AI</text>
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-08-04 · AI타임스 · 한입뉴스</text>
+</svg>

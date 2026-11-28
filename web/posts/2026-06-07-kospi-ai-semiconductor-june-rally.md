@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026060612010"
 description: "6월 첫째 주 코스피가 AI·반도체 섹터 중심으로 강세를 보이며 외국인이 3조 원대 순매수를 기록했다. SK하이닉스와 삼성전자가 동반 상승하며 지수를 끌어올렸다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=500&fit=crop"
+image: "images/cards/2026-06-07-kospi-ai-semiconductor-june-rally.svg"
 ---
 
 ## 외국인이 다시 한국 반도체를 사고 있다

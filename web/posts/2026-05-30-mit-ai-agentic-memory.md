@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/feed/"
 description: "AI 에이전트에 장기 메모리가 더해지면서 단순 응답 도구를 넘어 개인 비서로 진화하고 있다. 메모리 구조 설계 방식과 개인정보 보호 사이의 긴장 관계가 새로운 숙제로 떠올랐다."
-image: "https://picsum.photos/seed/2026-05-30-mit-ai-agentic-memory/800/500"
+image: "images/cards/2026-05-30-mit-ai-agentic-memory.svg"
 ---
 
 ## 한 줄 요약

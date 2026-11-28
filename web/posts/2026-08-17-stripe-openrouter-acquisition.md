@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion"
 description: "결제 플랫폼 스트라이프가 AI 모델 라우팅 서비스 오픈루터를 70억달러(약 9조5,000억원) 이상에 인수했다. 스트라이프가 결제 인프라에서 AI 인프라로 도약하려는 신호탄이다."
+image: "images/cards/2026-08-17-stripe-openrouter-acquisition.svg"
 ---
 
 ## 배경 — 오픈루터가 뭔지부터

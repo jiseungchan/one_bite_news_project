@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211810"
 description: "챗GPT의 글로벌 AI 어시스턴트 시장 점유율이 처음으로 50% 아래로 내려갔다. 2026년 5월 기준 46.4%로, 제미나이(27.7%)와 클로드(10.3%)가 빠르게 공백을 채우고 있다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800"
+image: "images/cards/2026-06-22-chatgpt-market-share-below-50.svg"
 ---
 
 "ChatGPT = AI"라는 등식이 조용히 흔들리기 시작했다.

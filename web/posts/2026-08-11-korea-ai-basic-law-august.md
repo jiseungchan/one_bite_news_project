@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41988"
 description: "국내 AI 기본법이 8월 11일부터 전면 시행에 들어간다. 채용·대출·의료 등 고위험 AI 활용 시 사용자 고지 의무가 생기고, 위반 시 전 세계 매출의 최대 3%를 과징금으로 부과할 수 있다."
+image: "images/cards/2026-08-11-korea-ai-basic-law-august.svg"
 ---
 
 ## 기존에는 어땠나?

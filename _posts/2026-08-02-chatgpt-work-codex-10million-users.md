@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213027"
 description: "오픈AI가 기업용 업무 에이전트 '챗GPT 워크'를 출시한 지 3주 만에 코딩 에이전트 '코덱스'와 합산 활성 사용자 1000만 명을 돌파했다. 출시 마지막 일주일에만 200만 명이 추가됐다."
+image: "images/cards/2026-08-02-chatgpt-work-codex-10million-users.svg"
 ---
 
 숫자가 꽤 인상적이다. 오픈AI가 기업용 업무 에이전트 '챗GPT 워크(ChatGPT Work)'를 7월 9일(현지시간) 출시한 지 약 3주 만에, 코딩 에이전트 '코덱스(Codex)'와 합산 활성 사용자 1000만 명을 넘었다. 마지막 일주일에만 200만 명이 더 붙었다.

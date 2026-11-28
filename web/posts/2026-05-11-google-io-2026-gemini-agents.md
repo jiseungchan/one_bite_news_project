@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210301"
 description: "구글이 연례 개발자 행사 I/O 2026에서 멀티스텝 AI 에이전트 프레임워크와 제미나이 2.5 Pro 성능 업그레이드를 발표했다. AI가 직접 앱을 실행하고 작업을 연속 처리하는 에이전트 시대를 본격 선언했다."
-image: "https://picsum.photos/seed/2026-05-11-google-io-2026-gemini-agents/800/500"
+image: "images/cards/2026-05-11-google-io-2026-gemini-agents.svg"
 ---
 
 ## 한 줄 요약

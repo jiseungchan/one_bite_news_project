@@ -5,7 +5,7 @@ source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/"
 date: 2026-06-29
 description: "Microsoft Research가 AI 에이전트의 장기 기억 문제를 해결한 Memora를 ICML 2026에 공개했다. LoCoMo 벤치마크 86.3%, 토큰 소비 98% 절감 — 'RAG보다 효율적이고 더 정확하다'는 평가를 받고 있다."
-image: "https://picsum.photos/seed/2026-06-29-memora-ai-agent-memory/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Memora-TWLIFB-1200x627-1.jpg"
 ---
 
 ## 한 줄 요약

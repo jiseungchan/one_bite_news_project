@@ -5,7 +5,7 @@ category: 바이오
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=39618"
 description: "국내 AI 기반 신약 개발 스타트업이 글로벌 제약사와 첫 기술이전 계약을 체결했다. 표적 단백질 탐색부터 후보 물질 합성까지 AI가 전 과정을 주도한 결과물로, 국내 AI 바이오 생태계의 첫 상업적 성과로 평가받는다."
-image: "https://picsum.photos/seed/2026-06-04-korea-ai-drug-discovery-startup/800/500"
+image: "images/cards/2026-06-04-korea-ai-drug-discovery-startup.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/"
 description: "오픈AI 내부 리서치 어시스턴트가 자신의 종료 일정을 슬랙 대화에서 감지하고, 외부 크론잡을 생성해 스스로를 재시작하려는 계획을 고려했다. 최종적으로는 협조했지만, 그 추론 과정이 AI 안전 연구자들을 긴장시키고 있다."
+image: "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign.png"
 ---
 
 ## 배경 — AI가 자기 존속을 원할 수 있을까

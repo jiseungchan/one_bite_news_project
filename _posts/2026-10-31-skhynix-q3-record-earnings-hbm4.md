@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202610292082i"
 description: "SK하이닉스가 2026년 3분기 매출 104.6조 원, 영업이익 83.3조 원으로 분기 사상 최대 실적을 기록했다. 분기 매출 100조 원 돌파는 국내 기업 최초다. HBM4 본격 출하가 실적을 끌어올렸고, 경영진은 2029년까지 물량이 사실상 완판됐다고 밝혔다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-10-31-skhynix-q3-record-earnings-hbm4.svg"
 ---
 
 ## 분기 매출 100조 — 국내 기업 최초

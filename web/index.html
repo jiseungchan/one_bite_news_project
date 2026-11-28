@@ -107,7 +107,7 @@
     function makeCard(post) {
       const cfg = CAT_CONFIG[post.category] || { tagClass: 'tag-ai', thumbClass: 'thumb-ai' };
       const thumb = post.image
-        ? `<img src="${post.image}" alt="${post.title}" loading="lazy" width="800" height="450" decoding="async">`
+        ? `<img src="${post.image}" alt="${post.title}" loading="lazy" width="800" height="450" decoding="async"${post.imageFallback ? ` onerror="this.onerror=null;this.src='${post.imageFallback}'"` : ''}>`
         : `<div class="thumb-placeholder ${cfg.thumbClass}">${post.category}</div>`;
       return `
         <a href="article.html?post=${encodeURIComponent(post.filename)}" class="news-card-link">
@@ -151,6 +151,7 @@
         if (gradDiv) {
           const img = document.createElement('img');
           img.src = post.image;
+          if (post.imageFallback) img.onerror = () => { img.onerror = null; img.src = post.imageFallback; };
           img.alt = post.title;
           img.setAttribute('fetchpriority', 'high');
           img.loading = 'eager';

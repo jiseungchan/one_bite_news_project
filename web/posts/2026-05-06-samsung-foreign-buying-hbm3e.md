@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050632010"
 description: "외국인 투자자가 삼성전자를 3거래일 연속 순매수했다. 2분기 HBM3E(5세대 고대역폭 메모리) 공급량 확대 기대감이 수급 전환의 핵심 변수다. 증권가는 목표주가를 일제히 상향 조정 중이다."
-image: "https://picsum.photos/seed/2026-05-06-samsung-foreign-buying-hbm3e/800/500"
+image: "images/cards/2026-05-06-samsung-foreign-buying-hbm3e.svg"
 ---
 
 ## 한 줄 요약

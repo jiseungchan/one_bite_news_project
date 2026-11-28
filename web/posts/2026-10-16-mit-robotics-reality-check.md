@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
 description: "엔비디아·테슬라 CEO들이 외치는 '로봇의 시대'와, 실제 연구실이 마주한 '70%의 벽' 사이의 간극. MIT가 2026년 로봇 AI 진보의 실체를 짚었다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600"
 ---
 
 지난 몇 달간 AI 로봇 뉴스는 숨 가빴다. 구글 딥마인드 Gemini Robotics는 집게로 스노우피(설탕완두) 한 알을 집고, 종이접기를 하고, 점심 도시락을 조립하는 영상을 공개했다. 젠슨 황 엔비디아 CEO는 "물리적 AI의 시대가 왔다"고 선언했고, 일론 머스크는 2026년 말 테슬라 옵티머스가 공장 현장에 1,000대 이상 배치될 것이라고 발표했다.

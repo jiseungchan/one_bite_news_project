@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050233041"
 description: "2026년 4월 반도체 수출이 역대 최고치를 기록하며 5개월 연속 증가세를 이어갔다. AI 서버 수요 급증이 직접적 원인이며, 삼성전자·SK하이닉스 모두 수혜를 입고 있다. 증권가는 2분기 실적 전망을 추가 상향 조정 중이다."
+image: "images/cards/2026-05-04-korea-semiconductor-export-record.svg"
 ---
 
 관세 전쟁, 지정학 리스크, 경기 둔화 우려에도 반도체 수출 숫자는 한 방향만 가리키고 있다. 위로다.

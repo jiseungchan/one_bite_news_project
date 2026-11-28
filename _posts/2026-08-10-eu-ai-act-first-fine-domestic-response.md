@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214315"
 description: "유럽 집행위원회가 EU AI법 고위험 조항 위반을 이유로 글로벌 AI 서비스 기업에 1억 2,000만 유로(약 1,750억 원)의 과징금을 부과했다. 고위험 의무 조항 시행 후 2개월 만의 첫 대규모 제재로, EU에서 AI 서비스를 운영하는 국내 기업들이 긴급 점검에 나섰다."
-image: "https://picsum.photos/seed/2026-08-10-eu-ai-act-first-fine-domestic-response/800/500"
+image: "images/cards/2026-08-10-eu-ai-act-first-fine-domestic-response.svg"
 ---
 
 ## 한 줄 요약

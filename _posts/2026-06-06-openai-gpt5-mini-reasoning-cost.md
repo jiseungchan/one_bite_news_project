@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41023"
 description: "OpenAI가 GPT-5의 경량 버전 GPT-5 Mini를 공개했다. 추론(Reasoning) 능력은 GPT-5 수준을 유지하면서 API 토큰 비용을 80% 낮췄다. ChatGPT Plus 월 20달러 요금제에도 포함된다."
-image: "https://picsum.photos/seed/2026-06-06-openai-gpt5-mini-reasoning-cost/800/500"
+image: "images/cards/2026-06-06-openai-gpt5-mini-reasoning-cost.svg"
 ---
 
 ## 한 줄 요약

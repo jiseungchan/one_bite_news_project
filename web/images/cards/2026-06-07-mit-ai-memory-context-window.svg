@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.4" x2="1" y2="0.8"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="654" cy="74" r="190" fill="#fff" fill-opacity=".05"/>
+<g><circle cx="729" cy="348" r="2" fill="#fff" opacity=".7"/><circle cx="775" cy="217" r="3" fill="#fff" opacity=".7"/><circle cx="568" cy="106" r="4" fill="#fff" opacity=".7"/><circle cx="662" cy="311" r="2" fill="#fff" opacity=".7"/><circle cx="758" cy="207" r="3" fill="#fff" opacity=".7"/><circle cx="563" cy="104" r="4" fill="#fff" opacity=".7"/><circle cx="515" cy="234" r="2" fill="#fff" opacity=".7"/><circle cx="576" cy="265" r="3" fill="#fff" opacity=".7"/><circle cx="736" cy="352" r="4" fill="#fff" opacity=".7"/><circle cx="777" cy="373" r="2" fill="#fff" opacity=".7"/><path d="M640 80c60 50 70 150 40 230h-80c-30-80-20-180 40-230z" fill="#fff" fill-opacity=".2" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><circle cx="640" cy="190" r="24" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><path d="M600 300l-40 50 50-10M680 300l40 50-50-10M620 320l20 50 20-50" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">AI의 기억은 얼마나 길어야</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">할까</text>
+
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-06-07 · MIT Technology Review · 한입뉴스</text>
+</svg>

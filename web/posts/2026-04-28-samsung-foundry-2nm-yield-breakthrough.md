@@ -5,7 +5,7 @@ category: 나노·소재
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026042832041"
 description: "삼성전자 파운드리 사업부가 2nm(나노미터) 공정 수율을 60%대로 끌어올렸다. TSMC의 2nm 공정 양산을 앞두고 삼성이 처음으로 수율 격차를 의미 있는 수준으로 좁히면서, 파운드리 시장 구도에 변화 가능성이 열렸다."
-image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=800&q=80"
+image: "images/cards/2026-04-28-samsung-foundry-2nm-yield-breakthrough.svg"
 ---
 
 ## 한 줄 요약

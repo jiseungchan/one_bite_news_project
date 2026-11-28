@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209450"
 description: "앤트로픽이 '확장 사고(extended thinking)' 기능을 탑재한 클로드 3.7 소네트를 공개했다. 단순 질문엔 빠르게, 복잡한 문제엔 깊게 — 추론 깊이를 상황에 맞게 자동 조절하는 하이브리드 모델이다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "images/cards/2026-04-22-claude-37-sonnet.svg"
 ---
 
 ## 한 줄 요약

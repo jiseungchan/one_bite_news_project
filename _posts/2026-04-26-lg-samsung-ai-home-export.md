@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026042558821"
 description: "LG전자와 삼성전자의 AI 탑재 가전 수출이 올해 들어 두 자릿수 성장세를 이어가고 있다. 반도체 수출 사이클이 둔화되는 시점에 AI 가전이 새로운 수출 버팀목으로 부상하고 있다."
-image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80"
+image: "images/cards/2026-04-26-lg-samsung-ai-home-export.svg"
 ---
 
 ## 배경 — 가전은 '성숙 산업'이었다

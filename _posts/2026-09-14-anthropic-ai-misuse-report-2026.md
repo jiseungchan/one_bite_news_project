@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41885"
 description: "앤트로픽이 클로드의 실제 악용 사례 9개월치를 공개했다. AI가 공격 도구가 아닌 공격 자체를 조율하는 시대가 됐고, 생물학·사이버·불법증류 7개 영역에 걸친 피해 사례가 처음 수면 위로 나왔다."
+image: "images/cards/2026-09-14-anthropic-ai-misuse-report-2026.svg"
 ---
 
 ## 이번에 흥미로운 건 공개의 주체다

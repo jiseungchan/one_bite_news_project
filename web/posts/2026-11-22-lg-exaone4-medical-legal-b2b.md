@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215901"
 description: "LG AI연구원이 차세대 언어 모델 EXAONE 4.0을 공개했다. 의료·법률 도메인 한국어 데이터를 집중 학습한 70B 파라미터 모델로, 세브란스병원·법무법인 태평양과 공동 검증을 완료했다."
-image: "https://picsum.photos/seed/2026-11-22-lg-exaone4-medical-legal-b2b/800/500"
+image: "images/cards/2026-11-22-lg-exaone4-medical-legal-b2b.svg"
 ---
 
 ## 한 줄 요약

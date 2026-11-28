@@ -5,7 +5,7 @@ category: 나노·소재
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33180"
 description: "삼성전자 파운드리 사업부가 2나노 GAA 공정의 시험 생산에 돌입했다. 2025년 3나노에서 경험한 수율 문제를 개선한 새 공정으로, 엔비디아·퀄컴 등 팹리스 고객사의 주목을 받고 있다. TSMC N2와의 정면 경쟁이 시작됐다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "images/cards/2026-05-03-samsung-2nm-gaa-foundry.svg"
 ---
 
 ## 배경 — 삼성 파운드리가 놓친 3나노 수주

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/19/1115334/how-to-evaluate-ai-agents-benchmarks-trust/"
 description: "AI 에이전트가 실험실 벤치마크에서 좋은 점수를 받아도 실제 업무에서는 실패한다. 연구자들은 '평가 기준 자체가 문제'라고 지적하며 새로운 방법론을 제안하고 있다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "images/cards/2026-04-19-mit-ai-agent-evaluation-problem.svg"
 ---
 
 AI 에이전트 시대가 본격적으로 열리면서, 하나의 근본 질문이 떠오르고 있다. 이 에이전트를 어떻게 믿어야 하는가. 그리고 더 정확히는 — 믿을 수 있는지 어떻게 알 수 있는가.

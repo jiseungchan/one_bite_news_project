@@ -5,7 +5,7 @@ source: Bloomberg
 sourceUrl: https://www.bloomberg.com/news/articles/2026-05-04/anthropic-series-f-900b-valuation
 date: 2026-05-05
 description: Anthropic이 시리즈 F 라운드에서 20억 달러를 조달했다. 기업가치는 9,000억 달러로 책정됐다.
-image: https://picsum.photos/seed/2026-05-05-anthropic-series-f-900b/800/500
+image: "images/cards/2026-05-05-anthropic-series-f-900b.svg"
 ---
 
 ## 한 줄 요약

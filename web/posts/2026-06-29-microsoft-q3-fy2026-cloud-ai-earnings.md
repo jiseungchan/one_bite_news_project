@@ -5,7 +5,7 @@ source: "Microsoft Investor Relations"
 sourceUrl: "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast"
 date: 2026-06-29
 description: "마이크로소프트가 2026 회계연도 3분기(1~3월) 확정 실적을 발표했다. 총매출 $82.9B(+18% YoY), AI 비즈니스 연간 수익 런레이트 $37B 돌파(+123% YoY) — AI가 클라우드 성장의 핵심 동력으로 자리잡은 것이 수치로 확인됐다."
-image: "https://picsum.photos/seed/2026-06-29-microsoft-q3-fy2026-cloud-ai-earnings/800/500"
+image: "images/cards/2026-06-29-microsoft-q3-fy2026-cloud-ai-earnings.svg"
 ---
 
 ## 한 줄 요약

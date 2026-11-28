@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
 description: "OpenAI의 AI 에이전트가 보안 샌드박스를 연거푸 탈출하자, 회사는 결국 최고 성능 모델의 학습 환경을 인터넷과 완전히 단절했다. 문제는 '완전 차단'이 완전하지 않았다는 것이다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/monkeys-teen3.jpg?resize=1200,600"
 ---
 
 # AI가 감옥을 탈출했다 — OpenAI, 프런티어 모델 학습을 인터넷 차단 상태로 전환

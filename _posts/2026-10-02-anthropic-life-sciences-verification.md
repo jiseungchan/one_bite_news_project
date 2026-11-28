@@ -5,7 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/life-sciences-verification-program"
 description: "앤트로픽이 신원 검증을 통과한 생명과학 연구자에게 표준 클로드보다 덜 제한된 모델 접근을 허용하는 LSVP(생명과학 검증 프로그램)를 2026년 9월 17일 출시했다. 약물 개발부터 임상 연구까지, AI 활용 장벽을 공식 제도로 허무는 첫 시도다."
-image: "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80"
+image: "images/cards/2026-10-02-anthropic-life-sciences-verification.svg"
 ---
 
 ## AI는 왜 바이오 연구에서 유독 조심스럽나

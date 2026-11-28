@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212776"
 description: "OpenAI가 조니 아이브와 함께 만든 첫 소비자 하드웨어는 화면 없는 이동형 AI 스피커다. 200~300달러 가격에 2027년 출시 목표. AI 기기의 새 폼팩터를 선언한다."
-image: https://picsum.photos/seed/2026-07-17-openai-ai-speaker-hardware/800/500
+image: "images/cards/2026-07-17-openai-ai-speaker-hardware.svg"
 ---
 
 ## 한 줄 요약

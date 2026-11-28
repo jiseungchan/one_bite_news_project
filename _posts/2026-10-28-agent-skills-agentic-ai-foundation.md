@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
 description: "앤트로픽이 Agent Skills 오픈 표준을 에이전틱 AI 파운데이션(AAIF)에 기증했다. ChatGPT·Cursor·GitHub Copilot 등 70개 플랫폼이 이미 통합, 설치 수 2억 8,000만 건을 넘겼다."
+image: "images/cards/2026-10-28-agent-skills-agentic-ai-foundation.svg"
 ---
 
 앤트로픽이 2025년 12월 발표한 '에이전트 스킬(Agent Skills)' 오픈 표준을 에이전틱 AI 파운데이션(Agentic AI Foundation, AAIF)에 기증했다. AAIF는 앤트로픽이 블록(Block)과 오픈AI(OpenAI)와 함께 공동 창설한 리눅스 재단(Linux Foundation) 산하 기관이다.

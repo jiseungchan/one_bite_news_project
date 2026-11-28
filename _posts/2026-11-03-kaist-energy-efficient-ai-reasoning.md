@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41584"
 description: "KAIST 전산학부 연구팀이 기존 트랜스포머 기반 추론 모델 대비 에너지 소비를 80% 줄이는 경량 추론 알고리즘을 발표했다. 스마트폰·웨어러블 등 배터리 의존 디바이스에서 LLM 구동이 현실화될 가능성이 열렸다."
+image: "images/cards/2026-11-03-kaist-energy-efficient-ai-reasoning.svg"
 ---
 
 AI 모델이 커질수록 에너지 소비도 함께 커진다는 건 그동안 업계가 받아들인 '물리 법칙' 같은 것이었다. GPT-5, 클로드 오퍼스 5.5처럼 최고 성능 모델은 추론(실제 답변 생성) 한 번에 작은 소도시 한 시간 치 전력 소비와 맞먹는 비용이 든다는 연구도 나왔다. 그래서 고성능 AI는 클라우드 서버에서만 돌아왔다. 스마트폰이나 웨어러블(착용형 기기)에서 쓰려면 성능을 대폭 타협해야 했다.

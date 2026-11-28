@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211052"
 description: "구글이 Gemini 2.5 Pro를 API로 정식 공개했다. 코딩 벤치마크 SWE-bench에서 72.5%를 기록해 GPT-5를 앞섰으며, 100만 토큰 컨텍스트 창과 멀티모달 추론이 전면 강화됐다."
-image: "https://picsum.photos/seed/2026-05-26-google-gemini25-pro-api-launch/800/500"
+image: "images/cards/2026-05-26-google-gemini25-pro-api-launch.svg"
 ---
 
 ## 한 줄 요약

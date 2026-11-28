@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202611121547i"
 description: "AI 클라우드 기업 코어위브의 3분기 실적이 반도체주 급등의 도화선이 됐다. Q3 매출 168% 성장, 수주 잔고 1325억 달러(약 182조원)라는 숫자가 'AI 투자 사이클이 꺾이지 않았다'는 메시지를 시장에 전달했다."
+image: "https://img.hankyung.com/photo/202611/99.37186149.1.jpg"
 ---
 
 ## 배경: 11월 초, AI 반도체주는 가파른 조정을 받았다

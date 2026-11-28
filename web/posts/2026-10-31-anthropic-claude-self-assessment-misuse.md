@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216824"
 description: "앤트로픽이 클로드에 대화 자기 검사 기능을 공식 탑재했다. 응답 직후 클로드 스스로 해당 대화의 위험도를 평가하고 플래그를 달아 검토 대기열에 넣는 방식이다. 강력 분류기 기준 78%, 고위험 사례는 94%를 탐지한다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-10-31-anthropic-claude-self-assessment-misuse.svg"
 ---
 
 ## 클로드가 자신의 대화를 의심하기 시작했다

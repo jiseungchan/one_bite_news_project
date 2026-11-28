@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
 description: "MIT Technology Review 연례 AI 컨퍼런스 EmTech AI 2026의 핵심 메시지는 하나였다. AI는 이제 도구가 아니라 기업 전체를 움직이는 플랫폼이 됐다. 에이전트 AI 파일럿의 95%가 실패하는 시대, 살아남는 기업들은 무엇이 다른가."
+image: "images/cards/2026-07-11-emtech-ai-2026-ai-platform.svg"
 ---
 
 기업의 AI 도입 이야기에는 익숙한 패턴이 있다. 파일럿(pilot, 소규모 시범 도입)을 시작하고, 내부 발표를 하고, 확장을 못 한다. MIT Technology Review가 지난 4월 발표한 EmTech AI 2026 보고서에 따르면, 기업들이 착수한 AI 파일럿 프로젝트 가운데 실제 규모 확장에 성공한 비율은 단 5%에 불과하다. 나머지 95%는 개념 증명(PoC)에 머물거나 조용히 사라졌다.

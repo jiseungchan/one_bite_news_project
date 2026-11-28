@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/research/early-progress-drug-development"
 description: "앤트로픽이 6개 제약·바이오 기관과 진행한 신약 개발 협업의 초기 결과를 공개했다. CAR T세포 치료제에서 10배 수용체 증가, 규제 서류 검토 시간 89% 단축 등 구체적 수치가 눈길을 끈다."
+image: "https://assets.claude.com/9cda0be8d2f8717c894c872c1f27a67231822ac4.jpg"
 ---
 
 앤트로픽이 6개 기관과 진행한 신약 개발 협업의 초기 결과를 공개했다. 대부분이 전임상(preclinical — 동물실험 단계까지의 연구, 인간 임상시험 이전 단계) 단계지만, 개별 수치들이 꽤 구체적이다.

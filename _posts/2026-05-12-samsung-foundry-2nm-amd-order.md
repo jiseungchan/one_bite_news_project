@@ -5,7 +5,7 @@ source: 한국경제
 sourceUrl: https://www.hankyung.com/economy/
 date: 2026-05-12
 description: 삼성 파운드리가 AMD로부터 2나노 공정 양산 수주를 받은 것으로 알려졌다. TSMC가 독점하던 최첨단 반도체 공정 시장에 삼성이 처음으로 의미 있는 균열을 낸 것이다.
-image: https://picsum.photos/seed/2026-05-12-samsung-foundry-2nm-amd-order/800/500
+image: "images/cards/2026-05-12-samsung-foundry-2nm-amd-order.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42780"
 description: "2026년 1~10월 국내 AI 에이전트 스타트업에 유입된 투자금이 2조 1,400억 원을 돌파했다. 2025년 연간 총액 1조 9,200억 원을 반년 만에 초과한 수치다. AI 에이전트 솔루션이 B2B 시장의 핵심 카테고리로 자리잡은 결과다."
+image: "images/cards/2026-11-16-korea-ai-startup-investment-surge.svg"
 ---
 
 ## 기존에는 어땠나

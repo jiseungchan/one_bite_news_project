@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=39680"
 description: "깃허브가 AI 코딩 에이전트 '코파일럿 워크스페이스'를 전 사용자 대상 정식 출시했다. 이슈 티켓 하나를 입력하면 AI가 계획 수립부터 코드 작성, PR 생성까지 자동으로 처리한다."
-image: "https://picsum.photos/seed/2026-06-05-ai-code-generation-github-copilot-workspace/800/500"
+image: "images/cards/2026-06-05-ai-code-generation-github-copilot-workspace.svg"
 ---
 
 ## 한 줄 요약

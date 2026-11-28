@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215987"
 description: "엔비디아가 투자한 리플렉션 AI가 오픈웨이트 모델 'Beam'을 공개했다. 501B 파라미터에 Apache 2.0 라이선스. 중국산 딥시크·Qwen에 맞서는 첫 미국산 대형 오픈소스 모델이다."
+image: "images/cards/2026-10-06-reflection-ai-beam-open-source.svg"
 ---
 
 오픈소스 LLM(대형언어모델) 생태계를 오랫동안 중국 기업들이 지배해 왔다. 딥시크(DeepSeek), 알리바바의 Qwen — 서구권이 독점 모델에서 앞서가는 동안, 오픈소스 최전선은 베이징과 항저우에서 만들어졌다.

@@ -5,6 +5,7 @@ category: 경제·주식
 source: "강원도민일보"
 sourceUrl: "https://www.kado.net/news/articleView.html?idxno=2082926"
 description: "미국 중간선거에서 민주당이 상·하원을 동시 장악하는 블루웨이브가 현실화되면서 AI 데이터센터 규제 강화 우려가 한국 증시를 강타했다. 삼성전자 6.88%, SK하이닉스 9.46% 급락."
+image: "https://cdn.kado.net/news/photo/202611/2082926_893669_3441.png"
 ---
 
 ## 배경: 선거가 증시를 흔들었다

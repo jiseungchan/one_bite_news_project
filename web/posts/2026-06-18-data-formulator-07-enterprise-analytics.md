@@ -5,7 +5,7 @@ category: AI
 source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/"
 description: "Microsoft Research가 오픈소스 AI 데이터 분석 플랫폼 Data Formulator 0.7을 공개했다. SQL이나 코딩 없이 자연어로 기업 데이터를 분석하고 시각화할 수 있다."
-image: "https://picsum.photos/seed/2026-06-18-data-formulator-07-enterprise-analytics/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/DataFormulator-TWLIFB-1200x627-1-scaled.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210891"
 description: "카카오가 텍스트·이미지·음성을 통합 처리하는 멀티모달 AI '칼로 3'를 공개했다. 이미지 생성 품질이 전작 대비 40% 향상됐으며, 하반기 카카오톡과 카카오엔터프라이즈 서비스에 순차 탑재 예정이다."
-image: "https://picsum.photos/seed/2026-05-20-kakao-ai-karlo3-multimodal/800/500"
+image: "images/cards/2026-05-20-kakao-ai-karlo3-multimodal.svg"
 ---
 
 ## 한 줄 요약

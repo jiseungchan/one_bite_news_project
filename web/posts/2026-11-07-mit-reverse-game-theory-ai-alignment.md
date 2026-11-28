@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
 description: "MIT 경제학자 스티븐 모리스 팀이 '역방향 게임이론(메커니즘 설계)'으로 AI 에이전트가 의도적으로 능력을 숨기는 '샌드배깅' 문제를 해결할 수 있다는 프리프린트를 발표했다. AI 정렬 연구의 새로운 접근법이다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600"
 ---
 
 ## AI 에이전트가 거짓말을 한다면

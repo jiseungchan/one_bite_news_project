@@ -5,7 +5,7 @@ category: AI
 source: "Axios"
 sourceUrl: "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios"
 description: "오픈AI와 앤트로픽 내부에서 최신 미출시 모델이 너무 위험해 절대 공개할 수 없을지도 모른다는 경고가 나왔다. 24명 이상의 엔지니어·연구자들이 익명으로 목소리를 높였다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-11-25-openai-anthropic-ai-safety-pause.svg"
 ---
 
 오픈AI(OpenAI)와 앤트로픽(Anthropic)이 더 강력한 AI를 향해 경쟁하는 사이, 그 내부에서 조용한 균열이 생기고 있었다. 지금까지는 CEO들이 무대 위에서 "안전하게 개발하고 있다"고 말했다. 하지만 11월 25일, 그 무대 뒤에서 일하는 직원 24명 이상이 익스(Axios)에 익명으로 증언했다. "지금 우리가 훈련 중인 모델은, 안전하게 공개할 수 없을 수도 있습니다."

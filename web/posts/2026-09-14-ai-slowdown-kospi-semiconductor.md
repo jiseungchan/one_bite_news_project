@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026091422756"
 description: "AI 속도 조절론이 부상하자 메모리 수요 둔화 우려가 시장을 덮쳤다. 14일 코스피는 3.26% 하락해 6684포인트에 마감, 삼성전자와 SK하이닉스가 각각 4.05%, 6.35% 내렸다."
+image: "https://img.hankyung.com/photo/202609/01.45681630.1.jpg"
 ---
 
 ## 오늘 시장을 움직인 것

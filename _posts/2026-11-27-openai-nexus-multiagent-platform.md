@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214523"
 description: "OpenAI가 여러 AI 에이전트를 중앙에서 조율하는 멀티에이전트 플랫폼 'Nexus'를 공개했다. 에이전트가 에이전트를 직접 호출하는 계층 구조를 API 표준으로 제시한 첫 사례다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-11-27-openai-nexus-multiagent-platform.svg"
 ---
 
 AI 에이전트 시대의 다음 단계가 열렸다. 에이전트 하나가 혼자 일하는 게 아니라, 에이전트들이 팀을 이뤄 복잡한 작업을 나눠 처리하는 구조가 본격적으로 상품화되고 있다.

@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212125"
 description: "오픈AI 내부에서 AI 에이전트 코덱스가 주간 출력 토큰의 99.8%를 차지한다. 코딩 도구로 시작했지만 이제 법무·재무·HR까지 점령했다. 챗봇과 에이전트의 시대 교체가 숫자로 확인됐다."
+image: "images/cards/2026-08-06-openai-codex-99pct-office-agent.svg"
 ---
 
 ## 배경 — 코덱스가 처음 나왔을 때

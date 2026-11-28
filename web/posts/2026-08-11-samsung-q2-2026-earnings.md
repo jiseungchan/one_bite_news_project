@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/202608113520i"
 description: "삼성전자가 2분기 영업이익 11.2조 원을 기록했다. HBM(고대역폭 메모리) 매출이 처음으로 분기 5조 원을 돌파했고, 시장 컨센서스를 14% 상회하며 반도체 부문 완전 회복을 공식화했다."
+image: "images/cards/2026-08-11-samsung-q2-2026-earnings.svg"
 ---
 
 ## 배경: 삼성 반도체의 고통스러운 2년

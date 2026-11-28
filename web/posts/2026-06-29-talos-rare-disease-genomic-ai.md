@@ -5,7 +5,7 @@ source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/"
 date: 2026-06-29
 description: "Microsoft Research, Broad Institute 등이 공동 개발한 오픈소스 희귀질환 진단 도구 Talos가 4,735명의 미진단 환자 중 241명(5.1%)에게 새 진단을 제공했다. 1,000개 게놈 분석 비용은 단 $11."
-image: "https://picsum.photos/seed/2026-06-29-talos-rare-disease-genomic-ai/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/Talos-TWLIFB-1200x627-1-scaled.jpg"
 ---
 
 ## 한 줄 요약

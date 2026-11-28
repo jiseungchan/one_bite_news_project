@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33298"
 description: "카카오브레인이 자체 개발한 이미지 생성 AI 칼로(Karlo) 3세대 모델을 오픈소스로 공개했다. 한국어 프롬프트 이해 능력을 대폭 강화했으며, 텍스트-이미지 생성뿐 아니라 인페인팅(이미지 일부 수정)·스타일 변환 기능도 포함됐다."
-image: "https://picsum.photos/seed/2026-05-10-kakao-karlo3-opensource/800/500"
+image: "images/cards/2026-05-10-kakao-karlo3-opensource.svg"
 ---
 
 ## 한 줄 요약

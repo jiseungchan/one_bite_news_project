@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026110867890"
 description: "엔비디아가 3분기(FY2027) 매출 453억 달러, 영업이익률 62%를 기록하며 시장 예상치를 상회했다. 차기 HBM4E 발주 확대 소식에 국내 HBM 공급사 주가가 장중 급등했다."
-image: "https://picsum.photos/seed/2026-11-10-nvidia-q3-fy2027-earnings-hbm-stocks/800/500"
+image: "images/cards/2026-11-10-nvidia-q3-fy2027-earnings-hbm-stocks.svg"
 ---
 
 ## 한 줄 요약

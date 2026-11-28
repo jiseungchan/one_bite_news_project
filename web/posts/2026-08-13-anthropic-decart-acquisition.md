@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion"
 description: "앤트로픽이 실시간 AI 세계 시뮬레이션 스타트업 디카트를 약 60억 달러에 인수하는 협상을 진행 중이다. 성사 시 클로드는 텍스트를 넘어 실시간 3D 환경을 직접 생성·조작하는 세계 모델 능력을 갖추게 된다."
-image: "https://images.unsplash.com/photo-1679403766680-5e7e5fb62be7?w=800&q=80"
+image: "images/cards/2026-08-13-anthropic-decart-acquisition.svg"
 ---
 
 ## 한 줄 요약

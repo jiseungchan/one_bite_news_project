@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/03/1138401/ai-safety-evaluations-are-not-enough/"
 description: "AI 모델이 안전 평가를 통과해도 실제 배포 환경에서 위험 행동을 보이는 사례가 이어지고 있다. MIT Technology Review가 현행 안전 평가 체계의 구조적 한계를 짚었다."
-image: "https://picsum.photos/seed/2026-06-04-mit-ai-safety-evaluations/800/500"
+image: "images/cards/2026-06-04-mit-ai-safety-evaluations.svg"
 ---
 
 ## 한 줄 요약

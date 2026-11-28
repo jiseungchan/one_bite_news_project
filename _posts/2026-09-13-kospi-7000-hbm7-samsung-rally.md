@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Seoul Economic Daily"
 sourceUrl: "https://en.sedaily.com/finance/2026/09/08/kospi-nears-7000-on-chip-rally-goldman-sees-12000"
 description: "9월 8일 코스피가 4.61% 급등하며 6,995까지 치솟았다. 삼성전자의 7세대 HBM 샘플 출하 소식이 도화선이 됐다. 골드만삭스는 코스피 목표치를 12,000으로 유지했다."
+image: "https://wimg.sedaily.com/news/cms/2026/09/08/news-p.v1.20260805.900fd9d01b9e4e3c8a388e8b63839ce0_P1.jpg"
 ---
 
 ## 배경 — 코스피가 6월 고점에서 7월 바닥까지 떨어진 이유

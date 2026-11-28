@@ -5,7 +5,7 @@ source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212706"
 date: 2026-07-17
 description: "서울 코엑스에서 열린 ICML 2026에서 네이버가 AI 안전성·에이전트·피지컬 AI 3개 분야의 연구 성과를 선보였다. 상위 2.2% 스포트라이트 선정과 '서울 월드 모델'이 눈에 띈다."
-image: https://picsum.photos/seed/2026-07-17-naver-icml-2026-ai-research/800/500
+image: "images/cards/2026-07-17-naver-icml-2026-ai-research.svg"
 ---
 
 ## 한 줄 요약

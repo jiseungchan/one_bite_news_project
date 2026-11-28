@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026060532010"
 description: "SK하이닉스가 엔비디아 루빈(Rubin) GPU 플랫폼용 HBM4E 메모리 단독 공급사로 최종 확정됐다고 한국경제가 보도했다. 계약 규모는 2026~2027년 합산 약 8조 원으로 추정되며, SK하이닉스 주가는 장중 52주 신고가를 경신했다."
-image: "https://picsum.photos/seed/2026-06-06-skhynix-hbm4e-nvidia-rubin-supply/800/500"
+image: "images/cards/2026-06-06-skhynix-hbm4e-nvidia-rubin-supply.svg"
 ---
 
 ## 한 줄 요약

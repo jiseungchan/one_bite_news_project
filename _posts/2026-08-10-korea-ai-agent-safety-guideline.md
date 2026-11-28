@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214298"
 description: "과학기술정보통신부가 'AI 에이전트 안전 가이드라인 1.0'을 최종 확정했다. 2026년 12월 1일부터 의료·법률·금융·교육 분야 AI 에이전트는 국가 AI 안전포털에 의무 등록해야 하며, 미등록 서비스는 시정 명령 및 운영 중지 처분이 가능해진다."
-image: "https://picsum.photos/seed/2026-08-10-korea-ai-agent-safety-guideline/800/500"
+image: "images/cards/2026-08-10-korea-ai-agent-safety-guideline.svg"
 ---
 
 ## 한 줄 요약

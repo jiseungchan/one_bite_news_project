@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211103"
 description: "구글이 AI 영상 생성 모델 Veo 3를 한국을 포함한 아시아 주요국에 정식 출시했다. 텍스트 한 줄로 최대 4K 해상도, 60초짜리 영상을 만들어내며 기존 Sora·Runway의 해상도와 음향 품질을 뛰어넘었다는 평가다."
-image: "https://picsum.photos/seed/2026-05-30-google-veo3-korea-launch/800/500"
+image: "images/cards/2026-05-30-google-veo3-korea-launch.svg"
 ---
 
 ## 한 줄 요약

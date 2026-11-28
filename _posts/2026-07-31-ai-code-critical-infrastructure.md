@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/29/1141234/when-ai-writes-code-critical-infrastructure/"
 description: "AI 코딩 어시스턴트가 전력망·금융 시스템·의료 기기 소프트웨어까지 침투하기 시작했다. 생산성은 오르는데 책임 소재와 품질 인증 기준은 아직 없다."
-image: "https://picsum.photos/seed/2026-07-31-ai-code-critical-infrastructure/800/500"
+image: "images/cards/2026-07-31-ai-code-critical-infrastructure.svg"
 ---
 
 ## 한 줄 요약

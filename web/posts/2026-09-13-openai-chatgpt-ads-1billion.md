@@ -5,6 +5,7 @@ category: AI
 source: "CNBC"
 sourceUrl: "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html"
 description: "오픈AI가 ChatGPT 광고 사업의 연환산 매출 10억 달러(약 1조 3,800억 원) 돌파를 공식 발표했다. 미국 광고 서비스 시작 200일 만이다. 2026년 전체 광고 목표는 25억 달러다."
+image: "images/cards/2026-09-13-openai-chatgpt-ads-1billion.svg"
 ---
 
 ## 배경 — AI 회사가 광고를 팔기 시작한 이유

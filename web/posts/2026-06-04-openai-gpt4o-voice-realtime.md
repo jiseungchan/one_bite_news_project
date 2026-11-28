@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/03/1138450/openai-voice-ai-future-realtime/"
 description: "OpenAI가 실시간 음성 AI 기술의 차기 방향을 공개했다. 감정 톤 인식, 다국어 동시 통역, 대화 맥락 장기 기억이 핵심 축으로, 음성 인터페이스가 텍스트 채팅을 대체하는 전환점이 될 수 있다."
-image: "https://picsum.photos/seed/2026-06-04-openai-gpt4o-voice-realtime/800/500"
+image: "images/cards/2026-06-04-openai-gpt4o-voice-realtime.svg"
 ---
 
 ## 한 줄 요약

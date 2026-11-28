@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33421"
 description: "바이두가 ERNIE 5.0을 공개하며 주요 한국어 벤치마크에서 GPT-4o를 앞서는 성능을 기록했다고 밝혀다. 중국 AI 기업들의 글로벌 언어 지원 확대가 본격화되는 신호다."
-image: "https://picsum.photos/seed/2026-05-17-baidu-ernie5-korean-benchmark/800/500"
+image: "images/cards/2026-05-17-baidu-ernie5-korean-benchmark.svg"
 ---
 
 ## 한 줄 요약

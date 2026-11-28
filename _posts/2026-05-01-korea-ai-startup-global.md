@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33105"
 description: "국내 AI 스타트업들이 동남아시아·일본 시장을 중심으로 글로벌 진출을 본격화하고 있다. 언어 특화 모델과 버티컬 SaaS 전략으로 차별화를 꾀하는 이들의 공통점과 남은 과제를 살폈다."
-image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=800&h=500&fit=crop"
+image: "images/cards/2026-05-01-korea-ai-startup-global.svg"
 ---
 
 ## 기존에는 어땠나?

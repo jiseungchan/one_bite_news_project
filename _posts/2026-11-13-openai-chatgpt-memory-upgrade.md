@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214823"
 description: "오픈AI가 챗GPT 메모리 기능을 대폭 강화해 최대 365일간 개인화 맥락을 유지하는 '메모리 2.0'을 출시했다. 대화가 끊겨도 AI가 기억을 이어가는 세상 — 개인 AI 비서의 개념이 근본적으로 바뀐다."
+image: "images/cards/2026-11-13-openai-chatgpt-memory-upgrade.svg"
 ---
 
 AI를 '도구'라고 부르는 이유 중 하나는 사람이 쓸 때만 존재한다는 느낌 때문이다. 대화창을 닫으면 모든 것이 사라지니까. 이 경험이 달라지려 하고 있다.

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211523"
 description: "삼성전자가 자체 생성형 AI 가우스3를 의료 영상 분석에 특화한 버전으로 확장하며 병원 시장에 진출한다. 삼성서울병원과 공동 개발한 진단 보조 모델로, 흉부 엑스레이 이상 소견 탐지 정확도 94.2%를 달성했다."
-image: "https://picsum.photos/seed/2026-06-01-samsung-gauss3-medical-ai/800/500"
+image: "images/cards/2026-06-01-samsung-gauss3-medical-ai.svg"
 ---
 
 ## 한 줄 요약

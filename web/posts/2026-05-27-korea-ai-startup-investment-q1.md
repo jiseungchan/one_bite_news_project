@@ -5,7 +5,7 @@ source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33410"
 date: 2026-05-27
 description: "2026년 1분기 국내 AI 스타트업에 유입된 투자금이 4,200억 원을 기록했다. 글로벌 벤처 투자가 위축되는 흐름 속에서도 AI 헬스케어·AI 에이전트 분야가 성장을 이끌었다."
-image: "https://picsum.photos/seed/2026-05-27-korea-ai-startup-investment-q1/800/500"
+image: "images/cards/2026-05-27-korea-ai-startup-investment-q1.svg"
 ---
 
 ## 한 줄 요약

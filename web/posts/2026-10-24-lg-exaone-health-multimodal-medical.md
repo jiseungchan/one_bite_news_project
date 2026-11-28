@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213891"
 description: "LG AI연구원이 의료용 멀티모달 AI 모델 'EXAONE 헬스'를 발표했다. MRI·CT 영상, 혈액 검사 수치, 의사 노트를 동시에 읽고 진단을 지원하는 국내 최초 통합 의료 AI 모델로, 폐암 조기 발견 정확도가 기존 단일 모달 대비 17%포인트 향상됐다."
+image: "images/cards/2026-10-24-lg-exaone-health-multimodal-medical.svg"
 ---
 
 의료 AI의 오랜 한계는 '단편성'이었다. X레이 판독 AI, 혈액 검사 해석 AI, 의무기록 요약 AI — 각각은 잘 만들어졌지만 서로 대화하지 않았다. 환자를 종합적으로 보는 역할은 여전히 의사의 몫이었다.

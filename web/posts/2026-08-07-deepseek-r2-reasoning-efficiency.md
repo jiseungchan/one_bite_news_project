@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41302"
 description: "중국 AI 연구소 DeepSeek이 R1 공개 1년 7개월 만에 후속 모델 R2를 출시했다. 동일 추론 품질에서 연산 효율 2.1배 향상, AIME 2026 벤치마크에서 89.4%로 오픈소스 1위를 기록했다."
-image: "https://picsum.photos/seed/2026-08-07-deepseek-r2-reasoning-efficiency/800/500"
+image: "images/cards/2026-08-07-deepseek-r2-reasoning-efficiency.svg"
 ---
 
 ## 한 줄 요약

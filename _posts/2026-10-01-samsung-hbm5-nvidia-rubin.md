@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026100101234"
 description: "삼성전자가 5세대 고대역폭 메모리 HBM5의 엔비디아 공급 자격 검증을 통과했다. 엔비디아 차세대 AI 가속기 루빈 플랫폼에 탑재될 HBM5 납품 경쟁에서 SK하이닉스 독주 체제에 균열이 생기기 시작했다."
+image: "images/cards/2026-10-01-samsung-hbm5-nvidia-rubin.svg"
 ---
 
 삼성전자가 차세대 AI 메모리 HBM5(High Bandwidth Memory 5세대 — AI GPU에 탑재되는 3D 적층 구조의 초고속 메모리 반도체)의 엔비디아 공급 자격 검증인 '퀄 테스트(Qualification Test)'를 통과했다고 9월 30일 전해졌다.

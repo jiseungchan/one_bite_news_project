@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/08/1139201/ai-coding-agents-developer-impact/"
 description: "AI 코딩 에이전트가 소프트웨어 개발 현장에 들어온 지 1년이 넘었다. 숫자는 인상적이지만, 더 흥미로운 변화는 개발자의 역할 자체가 달라지고 있다는 점이다."
+image: "images/cards/2026-06-10-ai-coding-agents-developer-impact.svg"
 ---
 
 ## 배경 — 개발자가 코드를 짜던 시절

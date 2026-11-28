@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/30/1117312/ai-agents-long-term-memory-architecture/"
 description: "AI 에이전트가 복잡한 작업을 수행하면서도 이전 대화나 맥락을 기억하지 못하는 근본 원인을 분석했다. 외부 메모리 저장소, 벡터 데이터베이스, 요약 압축 등 세 가지 접근법의 득실을 비교한다."
-image: "https://picsum.photos/seed/2026-06-01-ai-agent-long-term-memory/800/500"
+image: "images/cards/2026-06-01-ai-agent-long-term-memory.svg"
 ---
 
 ## 한 줄 요약

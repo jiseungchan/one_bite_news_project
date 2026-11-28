@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210089"
 description: "과학기술정보통신부 산하 한국 AI 안전연구소(KAISI)가 2026년 4월 28일 공식 출범했다. 고위험 AI 시스템 평가, 레드팀(공격적 취약점 탐지) 테스트, 국제 안전 기준 정합화를 3대 축으로 운영된다."
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80"
+image: "images/cards/2026-04-28-korea-ai-safety-institute-launch.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/claude-sonnet-5-5"
 description: "앤트로픽이 9월 28일 클로드 소네트 5.5를 공개했다. 소네트 5 대비 속도 30% 향상, 비용 30% 절감을 달성하면서도 오퍼스 5.5에 근접하는 지식업무 성능을 보였다. 에픽게임즈·슬랙·젠데스크 등이 이미 적용 중이다."
+image: "https://assets.claude.com/5619ded000325e6b4aceb24fae6d4f9b5f9859e2.jpg"
 ---
 
 AI 모델 시장은 지금 두 가지 압력을 동시에 받고 있다. 성능은 계속 올라가야 하는데, 기업들은 비용을 내리길 원한다. 지금까지 오퍼스급 성능을 원하면 오퍼스급 가격을 내야 했다. 소네트 시리즈는 항상 그 절충점이었다 — '충분히 좋되, 충분히 저렴한' 모델.

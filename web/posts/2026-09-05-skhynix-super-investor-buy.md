@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202609030963i"
 description: "글로벌 장기금리 상승에 SK하이닉스 주가가 흔들리는 사이, 수익률 상위 1%의 '초고수' 투자자들이 저가 매수에 나섰다. 증권사 목표주가는 최고 322만원으로, 현재 가격 대비 여전히 상당한 여유가 남아 있다는 분석이다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "https://img.hankyung.com/photo/202609/01.45541732.1.jpg"
 ---
 
 ## 한 줄 요약

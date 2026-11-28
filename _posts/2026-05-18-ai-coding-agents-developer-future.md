@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/16/1116389/ai-coding-agents-what-do-developers-do-now/"
 description: "GitHub Copilot, Cursor, Codex 같은 AI 코딩 에이전트가 실제 개발 업무의 40% 이상을 처리하기 시작했다. 코드를 짜는 도구에서 개발 자체를 맡기는 '위임형 AI'로 전환이 가속화되는 지금, 소프트웨어 엔지니어의 역할은 어떻게 재정의되고 있는가."
-image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800"
+image: "images/cards/2026-05-18-ai-coding-agents-developer-future.svg"
 ---
 
 ## 배경 — 도구에서 동료로

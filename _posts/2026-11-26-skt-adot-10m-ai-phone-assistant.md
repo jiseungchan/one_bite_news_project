@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215102"
 description: "SK텔레콤의 AI 통화 비서 에이닷(A.)이 출시 3년 2개월 만에 가입자 1,000만 명을 돌파했다. 월간 활성 사용자 비율이 68%에 달해 '설치만 하고 안 쓰는 AI 앱' 패턴을 처음으로 깬 국내 B2C AI 에이전트 사례다."
-image: "https://picsum.photos/seed/2026-11-26-skt-adot-10m-ai-phone-assistant/800/500"
+image: "images/cards/2026-11-26-skt-adot-10m-ai-phone-assistant.svg"
 ---
 
 ## 한 줄 요약

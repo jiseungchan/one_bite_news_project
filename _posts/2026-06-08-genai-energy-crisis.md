@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40231"
 description: "생성형 AI 서비스의 급격한 확산으로 데이터센터 전력 소비가 임계점에 다가서고 있다. 국제에너지기구(IEA)는 2026년 AI 데이터센터 전력 소비가 전 세계 전력 소비의 2%를 넘어설 것으로 전망했다."
-image: "https://picsum.photos/seed/2026-06-08-genai-energy-crisis/800/500"
+image: "images/cards/2026-06-08-genai-energy-crisis.svg"
 ---
 
 ## 한 줄 요약

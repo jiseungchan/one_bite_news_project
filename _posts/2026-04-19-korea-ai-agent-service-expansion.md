@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209562"
 description: "국내 주요 IT 기업들이 일제히 AI 에이전트 서비스를 출시하거나 베타 오픈했다. 네이버 클로바X 에이전트, 카카오 카나나, SK텔레콤 에이닷이 동시에 경쟁 구도를 형성하며 한국형 AI 에이전트 시장이 본격화됐다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-19-korea-ai-agent-service-expansion.svg"
 ---
 
 ## 한 줄 요약

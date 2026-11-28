@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/rss/allArticle.xml"
 description: "국내 AI 3사가 기업용 AI 에이전트 시장에서 정면 충돌하고 있다. 카카오는 카카오워크 에이전트, 네이버는 클로바 에이전트 스튜디오, KT는 믿음 에이전트 플랫폼을 각각 내세우며 국내 B2B 자동화 시장 선점 경쟁에 나섰다."
-image: "https://picsum.photos/seed/2026-05-19-ai-agent-b2b-competition/800/500"
+image: "images/cards/2026-05-19-ai-agent-b2b-competition.svg"
 ---
 
 ## 한 줄 요약

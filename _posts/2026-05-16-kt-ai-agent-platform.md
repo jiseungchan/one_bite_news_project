@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210520"
 description: "KT가 기업 고객 대상 AI 에이전트 플랫폼 'AI 비서 2.0'을 정식 출시했다. 일정 관리·보고서 작성·데이터 조회 등을 자율적으로 처리하며, 기업 내부 시스템과 연동되는 것이 특징이다."
-image: "https://picsum.photos/seed/2026-05-16-kt-ai-agent-platform/800/500"
+image: "https://cdn.aitimes.com/news/photo/202605/210520_213212_5717.png"
 ---
 
 ## 한 줄 요약

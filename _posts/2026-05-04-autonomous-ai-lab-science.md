@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/03/1116180/autonomous-ai-laboratories-self-driving-science/"
 description: "AI가 스스로 가설을 세우고, 실험을 설계하고, 결과를 해석하는 '자율 AI 실험실'이 화학·재료과학 분야에서 현실이 됐다. 과학자의 역할이 '직접 실험하는 사람'에서 '실험 방향을 결정하는 사람'으로 바뀌고 있다."
+image: "images/cards/2026-05-04-autonomous-ai-lab-science.svg"
 ---
 
 과학 연구에서 가장 지루하고 반복적인 부분이 무엇인지 물으면, 대부분의 연구자는 망설임 없이 답한다. 가설을 하나 세우고, 실험 조건을 조금씩 바꿔가며, 수백 번 같은 과정을 반복하는 것. 그 답이 이제 달라지기 시작했다.

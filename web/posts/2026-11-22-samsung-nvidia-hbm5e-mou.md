@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026112201892"
 description: "삼성전자가 엔비디아와 HBM5E(5세대 고대역폭 메모리 E형) 공급 양해각서(MOU)를 체결했다. 엔비디아 루빈+ GPU 플랫폼 탑재 목표로, SK하이닉스 독주 체제에 첫 균열이 예상된다."
-image: "https://picsum.photos/seed/2026-11-22-samsung-nvidia-hbm5e-mou/800/500"
+image: "images/cards/2026-11-22-samsung-nvidia-hbm5e-mou.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-07-09/openai-executive-fidji-simo-to-step-down-following-medical-leave"
 description: "오픈AI의 핵심 임원 피지 시모가 의료 휴직 후 공식 사임을 선언했다. 앤트로픽과 치열한 IPO 경쟁을 벌이는 결정적 시점에 이뤄진 2인자급 경영진의 이탈이다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-07-10-openai-fidji-simo-resign-ipo.svg"
 ---
 
 ## 배경 — 피지 시모는 누구인가

@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41520"
 description: "EU AI법(EU AI Act)의 고위험 AI 시스템 의무 조항이 10월부터 본격 적용된다. 과징금 상한은 전 세계 매출의 6%. 국내 기업 실태 조사 결과 준비 완료 기업은 절반에 못 미쳤다."
+image: "images/cards/2026-10-10-eu-ai-act-korea-compliance.svg"
 ---
 
 EU AI법의 고위험 AI 시스템 의무 조항이 10월 1일부터 실제 집행 단계에 들어섰다.

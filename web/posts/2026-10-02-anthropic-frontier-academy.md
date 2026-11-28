@@ -5,7 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/claude-frontier-academy"
 description: "클로드 프런티어 아카데미(Claude Frontier Academy)를 통해 2027년 말까지 10,000명의 기업용 AI 전문 엔지니어를 양성하겠다는 앤트로픽의 1억 달러 프로그램. 의대 레지던시 모델을 AI 인력 교육에 그대로 가져왔다."
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&q=80"
+image: "images/cards/2026-10-02-anthropic-frontier-academy.svg"
 ---
 
 ## 왜 지금 이 발표인가

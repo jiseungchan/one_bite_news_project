@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40396"
 description: "삼성전자가 이재용 회장 주도로 전 관계사에 'AI 대전환(AX)' 비전을 공식 선포했다. 사장단 50명부터 전 직원 28만 명까지 순차 AI 교육을 진행하며, 단순 도입이 아닌 조직 문화 자체를 AI 중심으로 재설계하겠다는 선언이다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "https://cdn.aitimes.kr/news/thumbnail/202606/40396_60951_5557_v150.jpg"
 ---
 
 ## 배경: 삼성이 뒤처지고 있다는 위기감

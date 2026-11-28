@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Korea JoongAng Daily"
 sourceUrl: "https://www.koreajoongangdaily.com/business/ai-optimism-sends-kospi-up-46-to-fiveweek-high/12864224"
 description: "오픈AI GPT-6 아스트라 출시(9월 3일) 직후, SK하이닉스가 7% 이상 급등하고 코스피가 5주 만에 최고치를 기록했다. 메모리 재고가 10일치 이하로 떨어졌다는 분석이 랠리에 불을 붙였다."
+image: "https://image.koreajoongangdaily.com/12864276.jpg?imageId=12864276&x=0&y=0&cropw=100&croph=65.82&panox=0&panoy=0&panow=100&panoh=65.82&width=1200&height=683"
 ---
 
 ## 무슨 일이 있었나

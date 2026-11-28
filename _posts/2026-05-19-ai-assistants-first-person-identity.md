@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/18/1117089/the-surprising-reason-ai-assistants-say-i/"
 description: "AI 어시스턴트가 1인칭 대명사를 쓰는 건 의도적 설계가 아니라 학습 데이터의 산물이다. MIT Technology Review가 언어 모델의 정체성 형성 메커니즘을 분석했다."
-image: "https://picsum.photos/seed/2026-05-19-ai-assistants-first-person-identity/800/500"
+image: "images/cards/2026-05-19-ai-assistants-first-person-identity.svg"
 ---
 
 ## 한 줄 요약

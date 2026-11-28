@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/19/1115340/synthetic-data-ai-training-new-standard/"
 description: "실제 데이터 대신 AI가 스스로 생성한 '합성 데이터'로 다음 세대 AI를 학습시키는 방식이 주류로 떠올랐다. 데이터 부족·저작권 문제를 우회하면서 오히려 학습 효율이 높아진다는 연구 결과들이 잇따르고 있다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-19-synthetic-data-ai-training.svg"
 ---
 
 ## 한 줄 요약

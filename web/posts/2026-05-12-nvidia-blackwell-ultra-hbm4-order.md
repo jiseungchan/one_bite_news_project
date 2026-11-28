@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026051200001"
 description: "엔비디아의 차세대 AI 가속기 Blackwell Ultra 출하가 본격화되면서 SK하이닉스의 HBM4 공급 우위가 주가에도 반영되고 있다. 삼성전자의 HBM4 퀄(품질 검증) 통과 여부가 하반기 최대 변수다."
-image: "https://picsum.photos/seed/2026-05-12-nvidia-blackwell-ultra-hbm4-order/800/500"
+image: "images/cards/2026-05-12-nvidia-blackwell-ultra-hbm4-order.svg"
 ---
 
 ## 한 줄 요약

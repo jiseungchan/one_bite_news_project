@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/15/1117843/agentic-ai-safety-rethink/"
 description: "AI가 스스로 판단하고 행동하는 에이전트 시대가 되면서, 기존 '출력값 검열' 중심의 안전 패러다임이 한계를 드러내고 있다. MIT Technology Review가 에이전트 AI의 안전 문제를 재정의해야 한다고 분석했다."
-image: "https://picsum.photos/seed/2026-05-16-agentic-ai-safety-rethink/800/500"
+image: "images/cards/2026-05-16-agentic-ai-safety-rethink.svg"
 ---
 
 ## 한 줄 요약

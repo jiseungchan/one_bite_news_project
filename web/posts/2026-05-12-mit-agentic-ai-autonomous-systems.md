@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 에이전트가 스스로 계획하고 행동하는 '아젠틱 AI' 시대가 열리면서, 연구자들은 자율성과 통제 가능성 사이의 근본적 긴장을 정면으로 다루기 시작했다."
-image: "https://picsum.photos/seed/2026-05-12-mit-agentic-ai-autonomous-systems/800/500"
+image: "images/cards/2026-05-12-mit-agentic-ai-autonomous-systems.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026102150796"
 description: "AI 서버 업체 슈퍼마이크로가 1분기 매출 전망을 185~195억 달러로 상향하자 국내 반도체주가 일제히 반등했다. 삼성전자 5.67%, SK하이닉스 5.81% 상승, 코스피 매수 사이드카도 발동됐다."
+image: "images/cards/2026-10-21-samsung-skhynix-supermicro-surge.svg"
 ---
 
 ## 오늘의 트리거

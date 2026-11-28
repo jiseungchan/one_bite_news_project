@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
 description: "OpenAI가 AI 에이전트 1만 개를 88시간 가동해 나비에-스토크스 방정식 난제를 풀었다. 수학계 최대 쾌거지만, 공로 귀속 논란이 터지며 성과와 윤리의 경계를 묻는 논쟁으로 번졌다."
+image: "images/cards/2026-09-11-openai-navier-stokes-math-controversy.svg"
 ---
 
 ## 90년 묵은 방정식

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/05/1116210/ai-transforming-scientific-research/"
 description: "AI가 논문 작성 속도와 실험 설계를 빠르게 바꾸고 있지만, 동시에 과학적 다양성 감소와 재현성 위기를 심화시킬 수 있다는 우려도 커지고 있다."
-image: "https://picsum.photos/seed/2026-05-05-ai-transforming-scientific-research/800/500"
+image: "images/cards/2026-05-05-ai-transforming-scientific-research.svg"
 ---
 
 ## 배경 — 과학계의 AI 도입, 얼마나 빠른가

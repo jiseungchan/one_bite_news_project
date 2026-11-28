@@ -5,7 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/news/articleView.html?idxno=40772
 date: 2026-07-02
 description: 앤트로픽이 클로드 소네트 5를 공개하며 최상위 모델 오퍼스 수준의 에이전트 성능을 중간 가격대에 제공하겠다고 선언했다. 에이전트 비용과 성능 사이의 딜레마를 정면으로 허무는 발표다.
-image: https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80
+image: "images/cards/2026-07-02-anthropic-claude-sonnet5.svg"
 ---
 
 ## 한 줄 요약

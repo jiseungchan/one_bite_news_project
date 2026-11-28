@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216704"
 description: "메타가 AI 데이터센터와 인프라 확장을 위해 최대 950억 달러(약 126조 원) 규모의 주식 발행에 나선다. 빅테크 자본 투자 경쟁이 새로운 국면으로 접어들고 있다."
+image: "https://cdn.aitimes.com/news/photo/202610/216704_220840_2150.jpg"
 ---
 
 메타(Meta)가 AI 인프라 확장을 위해 최대 950억 달러(약 126조 원) 규모의 주식을 추가 발행하는 방안을 추진 중인 것으로 확인됐다. AI타임스가 10월 27일 보도한 내용이다.

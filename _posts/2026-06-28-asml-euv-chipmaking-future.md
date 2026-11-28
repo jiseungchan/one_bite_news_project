@@ -5,7 +5,7 @@ category: 나노·소재
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
 description: "장비 한 대에 4억 달러(약 5,500억 원). 전 세계에서 유일하게 EUV 노광 장비를 만드는 ASML이 AI 칩 시대의 숨은 병목으로 떠오르고 있다."
-image: "https://picsum.photos/seed/asml-euv-chipmaking-future/800/500"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/06/JA26-asml-01.jpg?resize=1200,600"
 ---
 
 ## 한 줄 요약

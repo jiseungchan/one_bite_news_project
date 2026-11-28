@@ -5,7 +5,7 @@ category: AI
 source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
 description: "마이크로소프트 리서치가 소형 모델 전용 AI 에이전트 시스템 MagenticLite를 공개했다. 14B 오케스트레이터 모델과 9B 브라우저 에이전트 조합으로, Fara1.5-27B는 Online-Mind2Web 벤치마크에서 90% 이상 성능을 기록했다."
-image: "https://picsum.photos/seed/2026-06-18-magentic-lite-small-model-agent/800/500"
+image: "images/cards/2026-06-18-magentic-lite-small-model-agent.svg"
 ---
 
 ## 한 줄 요약

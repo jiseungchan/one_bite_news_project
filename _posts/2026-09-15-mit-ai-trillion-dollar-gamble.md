@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk"
 description: "알파벳·마이크로소프트·아마존·메타 등 AI 하이퍼스케일러들이 향후 4년간 5조 달러(약 6,900조 원) 이상을 데이터센터에 쏟아부을 것으로 예상된다. MIT 슬론의 재무 교수 제시카 와처 분석에 따르면 이 도박이 본전을 뽑으려면 2030년까지 생산성이 2.7배 향상돼야 한다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600"
 ---
 
 # AI에 쏟아붓는 5경 원, 2030년까지 본전 뽑을 수 있을까

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/23/1115512/openai-o3-science-reasoning-benchmark/"
 description: "OpenAI의 최신 추론 모델 o3가 물리·화학·생물 분야 박사급 문제 벤치마크에서 인간 전문가 평균을 넘어섰다. 단순한 수치 경쟁을 넘어, AI가 과학 연구 방법론 자체를 흡수하고 있다는 신호다."
-image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=85"
+image: "images/cards/2026-04-24-openai-o3-reasoning-benchmark.svg"
 ---
 
 ## 배경 — 추론(reasoning)이란 무엇이고, 왜 어려웠나

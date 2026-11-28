@@ -5,7 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/microsoft-launches-copilot-agent-hub-for-enterprise-workflow-automation/"
 description: "마이크로소프트가 기업용 AI 에이전트 워크플로 플랫폼 '코파일럿 에이전트 허브'를 M365 엔터프라이즈 고객에게 정식 출시했다. 코딩 없이 200개 이상의 에이전트 템플릿을 연결해 자동화 흐름을 만들 수 있으며, 1,000개 이상의 베타 사용 기업에서 평균 업무 효율 40%가 향상됐다."
-image: "https://picsum.photos/seed/2026-07-21-microsoft-copilot-agent-hub-launch/800/500"
+image: "images/cards/2026-07-21-microsoft-copilot-agent-hub-launch.svg"
 ---
 
 ## 한 줄 요약

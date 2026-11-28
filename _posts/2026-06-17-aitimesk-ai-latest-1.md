@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models/"
 description: "마이크로소프트 리서치가 소형 AI 모델로 웹 브라우징·자동화 작업을 수행하는 멀티에이전트 시스템 MagenticLite를 공개했다. 이전 모델 대비 웹 네비게이션 성능이 거의 2배 향상됐으며, 결제·로그인 같은 민감한 작업에서는 사람에게 승인을 먼저 구한다."
-image: "https://picsum.photos/seed/2026-06-17-aitimesk-ai-latest-1/800/500"
+image: "images/cards/2026-06-17-aitimesk-ai-latest-1.svg"
 ---
 
 ## 배경

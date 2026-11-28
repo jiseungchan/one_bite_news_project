@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
 description: "앤트로픽이 과학 연구자에게 무료 클로드 크레딧을 제공하는 'AI for Science' 프로그램을 확장했다. NSF, 슬론 재단, 시몬스 재단 등 20개 기관이 새로 합류했다."
+image: "https://assets.claude.com/470508b8c3c653e1e53e59e9818e8e63761dc4b6.jpg"
 ---
 
 앤트로픽이 10월 28일, 과학 연구자 지원 프로그램 'AI for Science'를 확장했다. 2025년 5월 처음 시작한 이 프로그램은 고영향 과학 프로젝트에 무료 클로드 크레딧을 제공하는 방식으로 운영된다. 이번 확장으로 20개 과학 재단 및 기관이 새로 참여한다.

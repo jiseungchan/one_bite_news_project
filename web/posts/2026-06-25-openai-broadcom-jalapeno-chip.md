@@ -5,7 +5,7 @@ source: "OpenAI"
 sourceUrl: "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/"
 date: 2026-06-25
 description: "OpenAI가 Broadcom과 9개월 만에 공동 개발한 첫 자체 AI 추론 칩 'Jalapeño'를 공개했다. 현 세대 GPU 대비 전력 효율이 실질적으로 높으며 2026년 말 배포 예정이다."
-image: "https://picsum.photos/seed/2026-06-25-openai-broadcom-jalapeno-chip/800/500"
+image: "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&h=900&fit=fill"
 ---
 
 ## 한 줄 요약

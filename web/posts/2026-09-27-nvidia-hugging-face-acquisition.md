@@ -5,6 +5,7 @@ category: AI
 source: "TechCrunch / Bloomberg"
 sourceUrl: "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
 description: "엔비디아가 9월 3일 허깅페이스를 129억 달러(약 17조 8,000억 원)에 인수하기로 확정했다. AI 오픈소스 모델 300만 개가 사실상 GPU 최대 판매자 품으로 들어간다."
+image: "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675"
 ---
 
 AI 모델의 'GitHub'라고 불리던 허깅페이스(Hugging Face)가 엔비디아(NVIDIA) 손에 넘어간다. 두 회사는 9월 3일 129억 달러(약 17조 8,000억 원) 규모의 최종 인수 계약을 체결했다고 공식 발표했다.

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/05/1116089/ai-job-market-economy-impact/"
 description: "AI가 대규모 실업을 야기할 것이라는 예측은 아직 현실화되지 않았다. 하지만 임금 구조, 직무 내용, 숙련 수요는 이미 달라지기 시작했다."
-image: "https://picsum.photos/seed/2026-05-06-ai-job-economy-impact/800/500"
+image: "images/cards/2026-05-06-ai-job-economy-impact.svg"
 ---
 
 ## 한 줄 요약

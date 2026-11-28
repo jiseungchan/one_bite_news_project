@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026062606721"
 description: "OpenAI의 IPO(기업공개)가 증시 조정과 매출 성장 둔화로 연기될 가능성이 높아졌다. Wall Street에서는 2027년 이후로 시점이 밀릴 수 있다는 관측이 나온다."
-image: "https://picsum.photos/seed/openai-ipo-delay-market-correction/800/500"
+image: "https://img.hankyung.com/data/datafile/reporterData/reporter_pic/inside@hankyung.com.jpg"
 ---
 
 ## 한 줄 요약

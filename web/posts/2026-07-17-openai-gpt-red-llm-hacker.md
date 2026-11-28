@@ -5,7 +5,7 @@ source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
 date: 2026-07-17
 description: "OpenAI가 자사 모델을 공격하도록 설계된 내부용 LLM 'GPT-Red'를 공개했다. 사람 레드티머(13%)를 압도하는 84% 공격 성공률로, AI 안전성 훈련의 새 패러다임을 제시한다."
-image: https://picsum.photos/seed/2026-07-17-openai-gpt-red-llm-hacker/800/500
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=1200,600"
 ---
 
 ## 한 줄 요약

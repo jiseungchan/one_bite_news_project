@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214502"
 description: "엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 129억 달러(약 17조 9천억 원)에 인수하기로 합의했다. GPU 하드웨어를 넘어 AI 생태계 전체를 수직 통합하려는 전략적 행보다."
+image: "images/cards/2026-09-01-nvidia-huggingface-acquisition.svg"
 ---
 
 # 엔비디아, 허깅페이스 18조 원에 인수 — GPU 다음은 오픈소스 생태계

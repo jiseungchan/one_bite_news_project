@@ -5,7 +5,7 @@ source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211204"
 date: 2026-05-27
 description: "카카오가 기업 전용 AI 업무 자동화 서비스 '카나나 워크'를 출시했다. 카카오톡 연동 없이 독립 SaaS(서비스형 소프트웨어)로 제공되며, 문서 요약·회의록 생성·사내 데이터 검색을 하나의 AI 에이전트로 처리한다."
-image: "https://picsum.photos/seed/2026-05-27-kakao-kanana-work-b2b/800/500"
+image: "images/cards/2026-05-27-kakao-kanana-work-b2b.svg"
 ---
 
 ## 한 줄 요약

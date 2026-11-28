@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis"
 description: "xAI가 Grok 4.5 출시 35일 만에 Grok 4.6을 공개했다. Artificial Analysis 인텔리전스 인덱스 61점으로 GPT-5.6 Sol Max와 동점, 토큰당 가격은 경쟁사 최고 모델의 절반 수준이다."
+image: "images/cards/2026-08-30-grok-46-xai-frontier-model.svg"
 ---
 
 ## 배경: AI 모델 경쟁이 '출시 주기' 싸움이 됐다

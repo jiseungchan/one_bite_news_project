@@ -5,7 +5,7 @@ source: "GitHub (OmniRoute 공식 저장소)"
 sourceUrl: "https://github.com/diegosouzapw/OmniRoute"
 date: 2026-07-28
 description: "오픈소스 AI 게이트웨이 OmniRoute가 290개 제공자·500개 이상 모델을 단일 API로 묶어 월 1.53억 토큰을 사실상 무료로 제공한다. 이번 주 GitHub에서만 1만 1천 개의 스타를 새로 받으며 화제가 됐다."
-image: "https://picsum.photos/seed/2026-07-28-omniroute-ai-gateway/800/500"
+image: "images/cards/2026-07-28-omniroute-ai-gateway.svg"
 ---
 
 ## 한 줄 요약

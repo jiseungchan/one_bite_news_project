@@ -5,6 +5,7 @@ category: AI
 source: "TechCrunch"
 sourceUrl: "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-shows/"
 description: "오픈AI가 자체 개발한 AI 추론 전용 칩 '할라페뇨'의 첫 벤치마크를 공개했다. DeepSeek R1 추론에서 엔비디아 GB300 시스템 대비 킬로와트당 처리량이 104배에 달한다."
+image: "images/cards/2026-08-29-openai-jalapeno-chip.svg"
 ---
 
 ## 배경 — 왜 오픈AI가 직접 칩을 만드는가

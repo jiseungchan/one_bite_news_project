@@ -23,7 +23,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT_PREFIXES = (
-    "_posts/", "web/posts/", "web/market/notes/", "web/stock-briefs/",
+    "_posts/", "web/posts/", "web/market/notes/", "web/images/cards/", "web/stock-briefs/",
     "stock-service/_stock-news/", "_cards/",
 )
 # 세션 중간 산출물·잠금 파일: 가져오지도 않고 '코드 변경'으로 치지도 않는다

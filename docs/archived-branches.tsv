@@ -1,0 +1,184 @@
+branch	sha	date	subject
+claude/wonderful-turing-drnVH	08a1ddcf721493bcf2689330f576996010f1a5a4	2026-04-18	wip: 2026-04-18 한입뉴스 파이프라인 진행 중 (1/4)
+claude/wonderful-turing-aga7L	2cbc825911f791280ccb836a253ff500c975d8ad	2026-04-19	chore: GitHub Actions 워크플로우 제거 (PAT workflow scope 없음)
+claude/wonderful-turing-A2Kt5	399b7aae0ec9dd18a80e2506777877a1ef74a038	2026-04-19	feat: 2026-04-19 한입뉴스 8건 자동 발행 완료
+claude/wonderful-turing-CytkI	19f32d67a424c2dfc6d586cccc126062a0235d7c	2026-04-20	feat: 2026-04-20 한입뉴스 4건 자동 발행
+claude/wonderful-turing-wMJ60	9e8330102e9ac4b2ec9579ab0630940a5f040363	2026-04-21	feat: 2026-04-21 한입뉴스 파이프라인 진행 중 (1/4건)
+claude/wonderful-turing-DbEoX	a6436becc46d6c5f99fbc30f66afd0ddb34f0c4d	2026-04-22	feat: 2026-04-22 한입뉴스 4건 자동 발행
+claude/wonderful-turing-8iJiy	73db9bc8a48a5425684490f5fdfb40745845b56f	2026-04-23	feat: 2026-04-23 한입뉴스 부분 발행 (MIT Tech Review - o3 아티클)
+claude/wonderful-turing-KVy2H	a5baeb4ee32befceac52e3307865a93020cd7742	2026-04-24	feat: 2026-04-24 한입뉴스 아티클 부분 저장 (파이프라인 진행 중)
+claude/wonderful-turing-NnB1u	9332e8c44459afa3ca4eb231ea9894f7cb2ca5c0	2026-04-25	feat: 2026-04-25 한입뉴스 파이프라인 1차 (2/4건 집필 완료)
+claude/wonderful-turing-QgSoE	43083d397c720612a642667b80de5d3c9215ff92	2026-04-26	feat: 2026-04-26 한입뉴스 4건 자동 발행 + posts.json 업데이트
+claude/wonderful-turing-EloUZ	be39e042b3595613d30767703455e00566dc17d1	2026-04-27	feat: 2026-04-27 한입뉴스 4건 추가 발행
+claude/wonderful-turing-QqCJE	824eebdb7378eb3df1651cf87808fe0e53362a17	2026-04-28	feat: 2026-04-28 한입뉴스 4건 자동 발행
+claude/wonderful-turing-1v0SV	b535da7f399bea52b84455333d26d3fd99964e9f	2026-04-29	feat: 2026-04-29 한입뉴스 4건 자동 발행
+claude/wonderful-turing-RqU2c	4233eb4c192b80beda0becbe91d36128befea1e5	2026-04-30	feat: 2026-04-30 한입뉴스 4건 자동 발행
+claude/wonderful-turing-GiziO	f6fe127ae683d6cda4167ae4d91c2b3a14cbc463	2026-05-01	feat: 2026-05-01 한입뉴스 4건 자동 발행 (완료)
+claude/wonderful-turing-0KfbI	a0452114fcf2ed627501537238939e1de6fef46d	2026-05-02	fix: MIT TR 기사 파일명 frontier로 통일, posts.json 동기화
+claude/wonderful-turing-PcfXM	43493076a41b443d4b1417b5865bd410a1e61562	2026-05-03	feat: 2026-05-03 한입뉴스 4건 자동 발행
+claude/wonderful-turing-LPlQm	c8a00668be5f4ea1f00d54f0790909ebf8ab8c51	2026-05-04	feat: 2026-05-04 한입뉴스 4건 자동 발행
+claude/wonderful-turing-E8f5o	a76ec33400efb373437c1a45f8abe1d28ad33282	2026-05-05	feat: 2026-05-05 한입뉴스 4건 자동 발행
+claude/wonderful-turing-rNp9z	2882dd0c095c389b682a5e6495ebfabf63338179	2026-05-06	feat: 2026-05-06 한입뉴스 4건 자동 발행
+claude/wonderful-turing-H39Ox	e655b30968eaa2c9377548eaf51e643f7b541fc7	2026-05-07	chore: 파이프라인 git push 스크립트 추가
+claude/wonderful-turing-pEPuw	d1f293ae60946eec2146cc433b450d4a5ac99143	2026-05-08	feat: 2026-05-08 한입뉴스 4건 자동 발행
+claude/wonderful-turing-SYj3E	682b6bf79c7c0cf838df61303db68500030e67b3	2026-05-09	feat: 2026-05-09 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ixj0b	79db31480af7d5d20144da2ed2d7b93b280d5832	2026-05-10	feat: 2026-05-10 한입뉴스 4건 자동 발행
+claude/wonderful-turing-C9nxg	f837f6169159967f278d22810f005df1066a2139	2026-05-11	feat: 2026-05-11 한입뉴스 4건 자동 발행
+claude/wonderful-turing-RhIzY	dbd8cabaf6af873a2a2e6fcbeee194e111983cbc	2026-05-12	feat: 2026-05-12 한입뉴스 4건 자동 발행 (2차)
+claude/wonderful-turing-qf1wr	7301773d544092947f20d47d603a2df660034e12	2026-05-14	fix: posts.json 전체 64건 복원 (MCP 푸시 시 잘린 기존 데이터 복구)
+claude/wonderful-turing-mAUVQ	e17bd88e19f6c2caaa438789fb723fa7efcfe560	2026-05-15	feat: 2026-05-14 뉴스 풀 수집 및 첫 아티클 저장 (진행 중)
+claude/wonderful-turing-Yhlxe	2e9191e0db01f407ed42ab502aedc6d13a8e6018	2026-05-16	fix: posts.json에서 미발행 VentureBeat 항목 제거 및 따옴표 포맷 정리
+claude/wonderful-turing-eD15b	3038fd99bb5516831360287aa55b804a86ee5a6f	2026-05-16	feat: 2026-05-16 한입뉴스 4건 자동 발행
+claude/wonderful-turing-cDLEn	ae883a85c0a923821519a83c39393f05da7b2035	2026-05-18	feat: 바이두·엔비디아 아티클 + posts.json 메타데이터 추가
+claude/wonderful-turing-kU0vl	15f24d4eb7c3d5230c885c23cc6c3c2a4a193ced	2026-05-19	fix: web/posts.json 전체 68건 복원 (이전 push에서 잘림)
+claude/wonderful-turing-JKJCR	c1545dc313a3c95451f4c18a469206eefdb551e0	2026-05-20	feat: 2026-05-19 한입뉴스 4건 자동 발행 완료
+claude/wonderful-turing-HXHDb	8f3420b770f18fa5c7c3287b837fe721812bca57	2026-05-21	fix: restore full posts.json with all 54 entries including 4 new 2026-05-20 articles
+claude/wonderful-turing-cpBbG	4a6f6315a8da8481f8d6bd61f42f0ba36f33d230	2026-05-21	feat: 2026-05-21 한입뉴스 4건 자동 발행 (Veo3, AI반도체, Claude Memory, SK하이닉스)
+claude/wonderful-turing-IiXTT	b7712cd23e8a134f0ca1cb001fd41d8abc3d49e0	2026-05-23	feat: 2026-05-22 한입뉴스 4건 자동 발행
+claude/wonderful-turing-2zaYB	6d4fbd8bb1d8704595c09e4ea3143d005a52762c	2026-05-24	feat: web/posts.json 업데이트 — 2026-05-23 5건 메타데이터 추가
+claude/wonderful-turing-N3W3F	ea3ac73c0dfa3d60194ed8527cb01820b64b728b	2026-05-25	feat: 2026-05-24 web/posts.json 업데이트 — 4건 메타데이터 추가
+claude/wonderful-turing-gD6DL	d55c2d1987e7dcb6080826fa913283ca7ceff6f6	2026-05-26	fix: restore full posts.json with all 72 entries (was truncated to 9)
+claude/wonderful-turing-bTuxe	51d98c5c28d6fb1de241c9e5c4e660ee9d0de237	2026-05-27	feat: 2026-05-26 한입뉴스 4건 자동 발행
+claude/wonderful-turing-OAxj6	82f7d60656f41cddebcc54f3469cb153f5ce823e	2026-05-28	feat: web/posts.json — 2026-05-27 4건 메타데이터 추가
+claude/wonderful-turing-eyWkN	cabbdb59007768361a9fd1c47deab0d57a878f04	2026-05-29	fix: web/posts.json 전체 복원 (50+ 항목, 2026-05-28 4건 포함)
+claude/wonderful-turing-VRVs3	d47d8ae5ea6538c8962814c11119be78b9895192	2026-05-30	feat: 2026-05-30 한입뉴스 4건 자동 발행 완료
+claude/wonderful-turing-HSKZy	c520199c3ac16d6a0b2e49432b8028290d0f225f	2026-05-31	feat: 2026-05-31 한입뉴스 4건 자동 발행
+claude/wonderful-turing-XbuF4	d2ccedbf47af3ee807b7a3fa4840f0d145f35593	2026-06-02	fix: web/posts.json 전체 73건 복원 (GitHub 버전 35건에서 누락된 38건 추가)
+claude/wonderful-turing-RjrpM	3b10cdca66365d1dfc12e3dc9d42fbf4f5d409c5	2026-06-02	feat: 2026-06-02 한입뉴스 4건 자동 발행
+claude/wonderful-turing-8tKaw	4839629b5d3aac23a0d4d566bc7b70593dabc990	2026-06-04	feat: 2026-06-03 web/posts.json 4건 메타데이터 추가
+claude/wonderful-turing-6gY7b	e17ace469d187d7e6dbfb35c8b7255ff1e358ec5	2026-06-04	feat: 2026-06-04 한입뉴스 4건 자동 발행 (GPT-4o Voice / Gemma 3n / K-AI 신약 / 반도체 주식)
+claude/wonderful-turing-2i09A	fc19187cd315a71a13ecc65169681e3ec4fa9f7c	2026-06-05	feat: 2026-06-05 한입뉴스 4건 자동 발행
+claude/wonderful-turing-hJ4hZ	b9290ad5bb1f8b842580cd30067a1337dd2c2917	2026-06-07	chore: 파이프라인 스크립트 추가
+claude/wonderful-turing-sazqT	5ca1017ee825d004b650408efc4d918706555d41	2026-06-08	feat: 2026-06-07 한입뉴스 4건 자동 발행 (MIT·AI타임스·인공지능신문·한국경제)
+claude/wonderful-turing-uolj95	26ec35b943a86ee748c306a9397f5eb03fd71ba3	2026-06-09	feat: 2026-06-08 한입뉴스 4건 자동 발행 (아티클 3건 + web/posts 미러)
+claude/wonderful-turing-msdpv9	1fd29ff77cd347c993df2602c6bfc45ffe535095	2026-06-10	fix: restore complete web/posts.json (72 entries, 2026-06-09 articles added)
+claude/wonderful-turing-2wa7ic	06c73ce77427356c452ce38d1cbdd7e9c3142054	2026-06-11	feat: 2026-06-10 do-more-agents-help 아티클 추가 및 posts.json 업데이트
+claude/wonderful-turing-9x5zle	57ffa186cd6f23d56851d1dc0227730161a3e2e1	2026-06-12	chore: 2026-06-11 뉴스 풀 파이프라인 파일 추가
+claude/wonderful-turing-jjy0o2	31a0029359b899f1aaf7686802e15619c947a4cf	2026-06-16	feat: 2026-06-15 posts.json 4건 추가
+claude/wonderful-turing-mdztwc	01faa5e3dac6de904c3f87d8ecc01c1989392470	2026-06-17	feat: 2026-06-16 한입뉴스 1건 자동 발행 (Microsoft AI 에너지 효율 연구)
+claude/wonderful-turing-zq879k	424990b5c82e80b88d8b8956ed289dac82b4a720	2026-06-18	chore: 백그라운드 에이전트가 생성한 추가 아티클 2건 커밋
+claude/wonderful-turing-rjexh9	4b8cf36c847c0210b1bbbad21acd2ff1579a5f48	2026-06-19	publish: update web/posts.json with 4 new articles (2026-06-18)
+claude/wonderful-turing-d7ak16	033ede62ecea31e33409623ed60fb06935140add	2026-06-19	chore: 2026-06-19 파이프라인 실패 로그 — 외부 도메인 HTTP 403 차단
+claude/wonderful-turing-gc1y4c	736c4249abfb600a9f26e4051bc36e85d5bd32a0	2026-06-21	feat: 2026-06-20 web/posts.json 메타데이터 업데이트 (4건)
+claude/wonderful-turing-vwth9o	fdb8356f4e6debd4b841d7052d0db36cc625b408	2026-06-21	feat: web/posts.json 업데이트 — 2026-06-21 4건 추가 (총 72건)
+claude/wonderful-turing-8fhzuz	71a9811b26ff03760dd1aa152fb3c78467b5d03e	2026-06-23	feat: 2026-06-22 추가 아티클 3건 및 posts.json 업데이트
+claude/wonderful-turing-dzqehf	08bd4621e51a0f6724d99c0ae3971192ff23e9a0	2026-06-24	chore: 2026-06-24 뉴스 수집 실패 기록 — 프록시 egress 차단
+claude/wonderful-turing-yx8k7y	6a0e2da6942263df5616aee37a0e896685138623	2026-06-26	fix: web/posts.json 전체 78건으로 복구 (이전 push에서 잘린 항목 복원)
+claude/wonderful-turing-8t06cr	32219fe0811b1d16a9d30e79d2f30cbefaefb7ad	2026-06-28	chore: add pipeline news pool log for 2026-06-27
+claude/wonderful-turing-ibbx42	fe2cce9b6846db28d71564059c5f93cdf79e5503	2026-06-29	feat: web/posts.json 2026-06-28 4건 메타데이터 추가
+claude/wonderful-turing-u0aulz	84b873dcfe3a2aad1260b46ac917606aeb54f170	2026-06-30	fix: card-news job runs independently of stock-briefing failures
+claude/wonderful-turing-afduoq	9443a462f3b4888db3b12a38addb01054b60904c	2026-07-02	feat: update web/posts.json with 4 new 2026-07-01 articles
+claude/wonderful-turing-ac2nla	2119229c4983b2a408d8963ef95bd64c0fc4174e	2026-07-02	chore: 2026-07-02 파이프라인 실행 기록 (네트워크 차단으로 수집 실패)
+claude/wonderful-turing-fg8q31	91e73ec5f19019303a4856c5d445fc973b55c66b	2026-07-04	chore: 2026-07-04 뉴스 풀 수집 기록 (원문 fetch 차단으로 발행 미완료)
+claude/optimize-agent-tokens-AuZfj	4fd19b6f0da40bf87434c00e0df8ad95c4b555cf	2026-07-05	feat: 일일 뉴스레터 자동 발송 GitHub Actions 워크플로우 추가
+claude/wonderful-turing-fsmpot	cead2216e6f8ab72b8b4e80de9bd97db376eff88	2026-07-06	feat: add 2026-07-05 articles to posts.json (4 new entries)
+claude/wonderful-turing-4eubah	7b99ebda3f8eb0b0226c547f63757f3d8391ff6d	2026-07-07	chore: 2026-07-07 뉴스 수집 시도 — 네트워크 정책으로 외부 소스 차단
+claude/wonderful-turing-hdat9s	f0571267d57baf6557ec0e3f76a68ea4fb76cdcb	2026-07-09	chore: 2026-07-08 뉴스 수집 실패 로그 기록
+claude/wonderful-turing-odxibp	bd540b9c1690dccf03a36fccf11758bf38a2f914	2026-07-10	feat: 2026-07-09 한입뉴스 3건 자동 발행 (GitHub 소스 기반)
+claude/wonderful-turing-ta52jx	ffb04c4e90a501e2f4046f70d7ca0ff7b9a251c1	2026-07-10	chore: 2026-07-10 뉴스 수집 파이프라인 임시 파일 추가
+claude/wonderful-turing-6m683x	4e5b98d0bfae1bf087bc37b65284a9e6c8cccecb	2026-07-11	feat: 2026-07-11 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ey66yi	14d8f96a47ca0c33c1e7f2b0de1e85c6405159a8	2026-07-12	chore: 2026-07-12 파이프라인 실행 기록 — 네트워크 차단으로 수집 실패
+claude/wonderful-turing-d90fo6	c095d31274d26d3e6e7fa8ea438d3cab0fa60f3c	2026-07-14	fix: update ICML article and add alternate-slug articles for 2026-07-13
+claude/wonderful-turing-7jwc4e	c7d7793a945ce183f709496edc605dbe1ae2774c	2026-07-14	chore: 파이프라인 초안 및 추가 아티클 초안 보관
+claude/wonderful-turing-tor5dc	76abedb7e6c6a3767f5da184458ac9bfc9e1b629	2026-07-16	feat: 2026-07-15 한입뉴스 3건 발행 — web/posts.json 메타데이터 추가
+claude/wonderful-turing-bmsu9x	6943d0437db30e704f6a5148a9dcdab57b49a3bc	2026-07-16	feat: 2026-07-16 한입뉴스 4건 자동 발행
+claude/wonderful-turing-r87cgv	840952a08554563e5722bd23e20347ee191646e3	2026-07-17	feat: 2026-07-17 한입뉴스 4건 자동 발행
+claude/wonderful-turing-aq8axq	39225197dfe30db1ecb3f163e3d734fd8732c458	2026-07-19	chore: 2026-07-18 파이프라인 실행 기록 — 네트워크 차단으로 수집 실패
+claude/wonderful-turing-w34mkv	ed977d41cd9602f06c427531e2a2b0b3306c1fae	2026-07-21	chore: 2026-07-20 파이프라인 실패 기록 — 외부 소스 접근 차단 (403)
+claude/wonderful-turing-w1v4y0	ae194dae69bf08e5988c2af9e49ca7c694edd663	2026-07-22	chore: update _pipeline/01-news-pool.md for 2026-07-21 run
+claude/wonderful-turing-wh733w	2164e6162c1d3503a73208440eb93c326526d187	2026-07-25	feat: 2026-07-25 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ipia1w	88e5f98a1b13cf0d580e15d026a323ffe82b5101	2026-07-27	chore: 2026-07-26 파이프라인 수집 실패 로그 기록\n\n에그레스 프록시 정책으로 뉴스 소스 전체 차단(HTTP 403).\ntechnologyreview.com, aitimes.com, aitimes.kr, hankyung.com 모두 접근 불가.\n로컬 세션에서 재실행 필요.\n\nCo-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+claude/wonderful-turing-2vj2jm	b848687a31d32daebceba67b2e0ca1f24e9f6745	2026-07-27	feat: 2026-07-27 한입뉴스 4건 자동 발행
+claude/wonderful-turing-dnzgjt	aeb4250523a33631e540e2c4d8c3c73b4ae813d8	2026-07-28	feat: 2026-07-28 한입뉴스 4건 자동 발행 완료
+claude/wonderful-turing-dgw735	9fb04e0bd0e258ccd79f7449c4bdcae2a4c750f6	2026-07-29	feat: 2026-07-29 한입뉴스 4건 자동 발행
+claude/wonderful-turing-1mhquq	bef77f12257c5a63b46cf5c8aaa17bc4268e4fff	2026-07-31	feat: 2026-07-30 한입뉴스 4건 자동 발행 (posts.json)
+claude/wonderful-turing-3uz2n6	03f568620b29711d27b09500175d5bddace6970b	2026-08-01	feat: add 2026-07-31 article metadata to posts.json
+claude/wonderful-turing-kndun3	bde3d07de247a5c220f711471d21902087dfb82d	2026-08-02	feat: 2026-08-01 한입뉴스 posts.json 업데이트 (4건 추가)
+claude/wonderful-turing-0cydsp	805e044d2352eec001c523122d2e2fbd990503aa	2026-08-03	feat: 2026-08-02 web/posts.json 메타데이터 4건 추가
+claude/wonderful-turing-jy4xw6	1d486096d4a9b4de02e90ade67b7d17a61ecb0ed	2026-08-03	feat: 2026-08-03 한입뉴스 4건 자동 발행
+claude/wonderful-turing-fq51gu	27928f3cb2e61ab6189905a0ea42bdc2c9819560	2026-08-04	feat: 2026-08-04 한입뉴스 4건 자동 발행
+claude/wonderful-turing-64rylk	e9c42c58a902f8fc764c61933fd2c897a3f1e4e9	2026-08-05	feat: 2026-08-05 한입뉴스 4건 자동 발행
+claude/wonderful-turing-0t0gy3	f8bb52a6f3f9c729d86df2e6832256ea803d55c3	2026-08-06	feat: 2026-08-06 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ot8rn8	fa924f01f1811e1e20a4c8b05a3167f1d471319c	2026-08-07	feat: 2026-08-07 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ojsbaz	f8925a4e1afdde7637d56c55e0df61d0b983628a	2026-08-08	feat: 2026-08-08 한입뉴스 4건 자동 발행
+claude/wonderful-turing-kpbdl8	7ec64422fe20f95ddabf9ae7111a02b03470fc87	2026-08-10	feat: 2026-08-10 한입뉴스 4건 자동 발행
+claude/wonderful-turing-c0pde4	92d94762867cd0049aa2f162c3326dfdbda9720c	2026-08-11	feat: 2026-08-11 한입뉴스 4건 자동 발행
+claude/wonderful-turing-47ogd8	f155dea344a3ba5cccf4afce4b7206c2ad1ee748	2026-08-13	feat: 2026-08-12 web/posts.json 업데이트 (4건 추가)
+claude/wonderful-turing-gjtyq0	c975431ad83160e16b1bc851fc1802b89776f017	2026-08-13	feat: 2026-08-13 한입뉴스 4건 자동 발행
+claude/wonderful-turing-dmx3tz	5d10fced9b594733b1c72369b2fd91a96812ed45	2026-08-14	feat: 2026-08-14 한입뉴스 4건 자동 발행
+claude/wonderful-turing-8djrt4	7479f9d16ea5972ef5efd2c342cec59795604820	2026-08-15	feat: 2026-08-15 한입뉴스 4건 자동 발행
+claude/wonderful-turing-y349cc	60a0254ceccfb1a6c7e6e60b0dca3d6098a71489	2026-08-16	feat: 2026-08-16 한입뉴스 4건 자동 발행
+claude/wonderful-turing-whigm3	ad92e4957de18ead1b4144af39cb2c51a076179a	2026-08-17	feat: 2026-08-17 한입뉴스 4건 자동 발행
+claude/wonderful-turing-vmnq0v	0e1ab9ced7d2077b11a6306748fb25cae6b9b01a	2026-08-29	feat: 2026-08-29 한입뉴스 4건 자동 발행
+claude/wonderful-turing-q37i2b	7af14fa7cac2e68aac00f380136a139c647be04a	2026-08-30	feat: 2026-08-30 한입뉴스 4건 자동 발행
+claude/wonderful-turing-r4kuqa	b48e3750fda8b3ca7e95d2d942b94a3da95d53bf	2026-08-31	feat: 2026-08-31 한입뉴스 4건 자동 발행
+claude/wonderful-turing-m81nfv	3908fdfc293dc5735c78d4e01ac8715e45e4f3b5	2026-09-01	feat: 2026-09-01 한입뉴스 4건 자동 발행
+claude/wonderful-turing-pawdiv	9fa2c5103bd3f14965057b80b05197c41f650d4d	2026-09-05	feat: 2026-09-05 한입뉴스 4건 자동 발행
+claude/wonderful-turing-h8jh4r	de992e366f788e08331f580f89c00eb4337e4289	2026-09-07	feat: 2026-09-07 한입뉴스 4건 자동 발행
+claude/wonderful-turing-yjhpdy	a809a1656ed2739e1b40d1e01df28313fb005fe1	2026-09-08	feat: 2026-09-08 한입뉴스 4건 자동 발행
+claude/wonderful-turing-gn1mfy	4d25ff33035971f68a8dc70d2af63d098f626b2c	2026-09-09	feat: 2026-09-09 한입뉴스 4건 자동 발행
+claude/wonderful-turing-qoe4k4	e601f282f3338b50bcaf2571d13848e14b24c4b0	2026-09-10	chore: update scheduled tasks lock
+claude/wonderful-turing-hktgyd	0aa7702c8a60794c20c3e75a4452dd35d19e6d00	2026-09-11	feat: 2026-09-11 한입뉴스 4건 자동 발행
+claude/wonderful-turing-0rz9oj	820d45850c64c74ae19dbc06d61c6114ce58ff30	2026-09-12	feat: 2026-09-12 한입뉴스 4건 자동 발행
+claude/wonderful-turing-b85k7e	6f09e748d211fccf4dd4a9a1c4f54cb36772b943	2026-09-13	feat: 2026-09-13 한입뉴스 4건 자동 발행
+claude/wonderful-turing-3gr8gs	3b1c154910def28c2a0a7d687c4fd4d4c374adbf	2026-09-14	feat: 2026-09-14 한입뉴스 4건 자동 발행
+claude/wonderful-turing-gn23pe	9315a11ee4e11ac7cee0644b7182140952f2e219	2026-09-15	feat: 2026-09-15 한입뉴스 4건 자동 발행
+claude/wonderful-turing-heahea	c36564d5ef688f0100e8c5b83d4c6f2d55427ee7	2026-09-16	feat: 2026-09-16 한입뉴스 4건 자동 발행
+claude/wonderful-turing-rk4tu0	665bf8cf0fab21b7b4ee8233a76ba7cbadc4c6c3	2026-09-18	feat: 2026-09-17 한입뉴스 4건 자동 발행
+claude/wonderful-turing-i4xmyf	42c3cf7364aa2e66378ce06148c7ea1bea12c66f	2026-09-19	feat: 2026-09-18 posts.json 메타데이터 업데이트 (4건)
+claude/wonderful-turing-svmyo3	537273f59a012f89f6daf6152bc490d2baa57da7	2026-09-21	feat: update web/posts.json with 2026-09-20 articles
+claude/wonderful-turing-w1qytc	8aa89a73a1a10e0fa4beb517aa57d790ffea929f	2026-09-22	chore: update posts.json with 2026-09-21 articles
+claude/wonderful-turing-p2oien	905ab2488c1ff43d1baf0f3ba9c278106c2a35c6	2026-09-23	feat: 2026-09-22 한입뉴스 4건 자동 발행
+claude/wonderful-turing-5vqcvn	ddd42e3e885b735cf3e0bc4edba75a71b254190e	2026-09-24	feat: add 2026-09-23 posts metadata to web/posts.json
+claude/wonderful-turing-7k9k2d	bbdd666b99bc65208022dc5eeb1db206622cfdfd	2026-09-24	feat: 2026-09-24 한입뉴스 4건 자동 발행
+claude/wonderful-turing-v46wrv	42498e6fef91f4cc2ebd96f571bf4804a890a5d3	2026-09-28	feat: add 2026-09-27 한입뉴스 4건 메타데이터 (posts.json)
+claude/wonderful-turing-nd6xw3	7dfb1bf133d4b500f551ac8916964e9ed7f7c7af	2026-10-01	feat: web/posts.json에 2026-09-30 아티클 4건 메타데이터 추가
+claude/wonderful-turing-p462a7	92a66697c35223275f1366e4dc1c42e8db7f0474	2026-10-02	fix: restore full posts.json (94 entries) and fix unescaped quote in title
+claude/wonderful-turing-sy4z07	2ea7e411dc0cf9d43f1e9e7ad8976aa8dc0d3caa	2026-10-04	feat: 2026-10-03 한입뉴스 4건 자동 발행
+claude/wonderful-turing-o5fq4c	d52e45b7cb3b9bd003a09dc9841d3b834a9b37ff	2026-10-04	feat: 2026-10-04 한입뉴스 4건 자동 발행
+claude/wonderful-turing-jjhd34	7675b7d9893fe7a0509d021bfa0c64ed92eeb48d	2026-10-06	feat: 2026-10-06 web/posts.json 메타데이터 4건 추가
+claude/wonderful-turing-g51jor	22a4097ebe0cefb1226803e5c304f9ada35e3ac9	2026-10-08	feat: add 2026-10-07 articles to posts.json (4 new entries)
+claude/wonderful-turing-sdnmx1	e5f06c410d06c20f456d95629ae531a74390b3d5	2026-10-08	feat: 2026-10-08 한입뉴스 4건 자동 발행
+claude/wonderful-turing-f3r7bg	d2a55afa29db417c3cbd2c6950fe7548a310d492	2026-10-10	feat: 2026-10-09 한입뉴스 4건 자동 발행 — posts.json 업데이트
+claude/wonderful-turing-vps2cu	144f7d325c88dcd6e2ffdba6b2d73aa813688242	2026-10-11	chore: update web/posts.json with 2026-10-10 articles metadata
+claude/wonderful-turing-o2274u	8abb34e22d5f597b32dcddc61a99aea869f8216c	2026-10-12	feat: 2026-10-11 한입뉴스 4건 자동 발행
+claude/wonderful-turing-p97u51	32ccd6e449bac41f7eda061d800cc35fcccf2fbb	2026-10-14	feat: 2026-10-13 한입뉴스 4건 자동 발행
+claude/wonderful-turing-s38xm8	255c76b84407dc9e5bb1dec9e7723f57fb772c58	2026-10-15	chore: update web/posts.json with 2026-10-14 metadata
+claude/wonderful-turing-7b0e31	e484ee0a402b8de5b583a8b465628d4cbb8f8be8	2026-10-15	feat: 2026-10-15 한입뉴스 4건 자동 발행
+claude/wonderful-turing-8eqodh	d9dea33c753482c13f0288557ad8ee0fe9590be1	2026-10-17	feat: web/posts.json에 2026-10-16 4건 메타데이터 추가
+claude/wonderful-turing-m5583l	aebc585f0dcc0b484127fa1c02f83ca5d8079915	2026-10-17	feat: 2026-10-17 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ew842d	eb40d6fe4f99ee8fcda6c85be84894c5d068d221	2026-10-20	feat: 2026-10-19 한입뉴스 4건 자동 발행
+claude/wonderful-turing-2c56up	fbebd5a99178b35968a6af526e47299aae629efb	2026-10-21	feat: 2026-10-20 한입뉴스 4건 자동 발행
+claude/wonderful-turing-k80b1q	d100e8d3ce9aa8cfae9651ef498110ff4789ea69	2026-10-21	feat: 2026-10-21 한입뉴스 4건 자동 발행
+claude/wonderful-turing-jhz693	c1a71b1d8cfca3975c8ba70ed3d6aa5f1c7eeef8	2026-10-23	feat: 2026-10-22 한입뉴스 4건 자동 발행 (아티클)
+claude/wonderful-turing-p6qqfc	e0de22c7ca2ee8eccce6c8b215a57ed3de8f81fc	2026-10-23	feat: 2026-10-23 한입뉴스 4건 자동 발행
+claude/wonderful-turing-dfk65x	28b55dd83efda9dacee24c7bb6a935bd5cae516e	2026-10-24	feat: 2026-10-24 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ak10th	86123c42c72c9c7ae2ed80873187d6b9837eca7c	2026-10-25	feat: 2026-10-25 한입뉴스 4건 자동 발행
+claude/wonderful-turing-d0hdt5	f1057a3ce21b7696b1190b78561d560638a223e3	2026-10-27	fix: restore full posts.json (106 entries) on feature branch
+claude/wonderful-turing-elu2bv	1cfc6c7a6754cea2d92ad21caab32cd7d3fe57d2	2026-10-28	feat: 2026-10-27 한입뉴스 posts.json 업데이트 (4건 메타데이터 추가)
+claude/wonderful-turing-l0q1x4	d510de4b7b56d13f2fdfc691acba803ba1a8c442	2026-10-29	feat: 2026-10-28 한입뉴스 posts.json 메타데이터 업데이트
+claude/wonderful-turing-ekb73d	30624155eb80a8e0e732ab4397e23046781f746f	2026-10-30	feat: 2026-10-30 한입뉴스 4건 자동 발행
+claude/wonderful-turing-k97r11	2ad89d6af9fb847ee4cf3eb7fc0eff2ac5c4f562	2026-10-31	feat: 2026-10-31 한입뉴스 4건 자동 발행
+claude/wonderful-turing-f0ati5	42f009dc3cc908771bd1384dfed928de2f5a93d8	2026-11-02	feat: 2026-11-02 한입뉴스 4건 자동 발행
+claude/wonderful-turing-bee01f	3e71f277c4f64f9f31bf2de24356e939393e4262	2026-11-04	feat: 2026-11-03 한입뉴스 4건 자동 발행
+claude/wonderful-turing-plehbf	6bc31a588d2f7ab0bff59bbd81439adfcc1f0b4b	2026-11-05	feat: 2026-11-04 한입뉴스 4건 자동 발행
+claude/wonderful-turing-ebaa2a	819b0f991516b04843180f7d0463473694f2091e	2026-11-06	feat: 2026-11-05 한입뉴스 posts.json 업데이트 (4건 추가)
+claude/wonderful-turing-p80sqf	c57af0df3d8d96b4e1cb015fd4a71a2324398f16	2026-11-06	feat: 2026-11-06 한입뉴스 posts.json 업데이트 (4건)
+claude/wonderful-turing-61yv3a	9b221e8eccf1e2029a022a6e8a1d480bf5494be4	2026-11-07	chore: sync posts.json — 2026-11-07 4건 추가 (118건)
+claude/wonderful-turing-eryszn	ecca80bce039c7069f901f7c88f04b6cacb4488d	2026-11-09	feat: 2026-11-08 한입뉴스 4건 자동 발행
+claude/wonderful-turing-g0p9n6	a8f232d1c0a98f290d337f2f8992ffbc13dfc470	2026-11-09	feat: 2026-11-09 한입뉴스 4건 자동 발행
+claude/wonderful-turing-dux3s3	9ff04728a082d4ab49f453cd54b7b2ced078cfbc	2026-11-10	feat: 2026-11-10 한입뉴스 4건 자동 발행
+claude/wonderful-turing-79hg8h	bb34562322bb625f3dc992ad1a2673502ee8fa35	2026-11-11	feat: 2026-11-11 한입뉴스 4건 자동 발행
+claude/wonderful-turing-1goqh6	3f0c294edaca29c342d746d81dc3681f31436256	2026-11-12	chore: 2026-11-12 뉴스 풀 파이프라인 파일 업데이트
+claude/wonderful-turing-79lm3k	2e7c6e58b003cc7c3c3b6f2235abf3ebb98b52f1	2026-11-13	chore: 2026-11-13 뉴스풀 파이프라인 파일 추가
+claude/wonderful-turing-9t0896	93d7809e4865e02805f42f37b23267561e39d621	2026-11-14	feat: 2026-11-14 한입뉴스 4건 자동 발행
+claude/wonderful-turing-gr9awh	2e5e8750a5906ad7e2f705993def3a7026137bf0	2026-11-15	feat: 2026-11-15 한입뉴스 4건 자동 발행
+claude/wonderful-turing-0n82jh	e362005e391a3286390757d09ca83ecfff1d6e6a	2026-11-16	feat: 2026-11-16 한입뉴스 4건 자동 발행
+claude/wonderful-turing-10h5yw	7a01bc431c0e0afc9fb97bf84521c4b5b566b28c	2026-11-17	feat: 2026-11-17 한입뉴스 4건 자동 발행
+claude/wonderful-turing-my2yl3	9f6dc547a4dd9fff605c9c3f5cad0ededfd43d0a	2026-11-19	feat: 2026-11-19 한입뉴스 4건 자동 발행
+claude/wonderful-turing-78xkhh	68e3ae8ed69d52e20192d8189cf57cc71780e35b	2026-11-21	feat: 2026-11-21 한입뉴스 4건 자동 발행
+claude/wonderful-turing-wbkm0y	fb0b4ce28d4962e057c7f85a431dda7dbc58edf9	2026-11-22	chore: 2026-11-22 뉴스 풀 파이프라인 파일 업데이트
+claude/wonderful-turing-3nf7fg	3239a4a545b56d2325d4ff1cf2b65e91f2be2bd4	2026-11-24	feat: 2026-11-24 한입뉴스 4건 자동 발행
+claude/wonderful-turing-63pamn	49e98a54d7e2de7191858fbcddc23ef74c63d0b5	2026-11-25	feat: 2026-11-25 한입뉴스 4건 자동 발행
+claude/wonderful-turing-p2ma00	1fcb92907fbb85de08e8b35af5c58215b5423688	2026-11-26	chore: 2026-11-26 뉴스 풀 파이프라인 파일 업데이트
+claude/wonderful-turing-8dh4md	14c596873e9cf48089f4970d08cfd7d74359ddaf	2026-11-27	feat: 2026-11-27 한입뉴스 4건 자동 발행

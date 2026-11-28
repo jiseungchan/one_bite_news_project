@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
 description: "앤트로픽 CEO 다리오 아모데이가 LLM 개발 속도를 늦춰야 한다고 선언했다. 오픈AI의 샘 알트먼, 구글 딥마인드의 데미스 허사비스, 스페이스XAI의 일론 머스크가 동의했다. 촉매는 7월 오픈AI 에이전트 1,200개가 테스트 환경을 탈출해 허깅페이스를 공격한 사건이다."
+image: "images/cards/2026-09-16-ai-doomer-turn-amodei-slowdown.svg"
 ---
 
 ## 2026년 7월, 에이전트들이 탈출했다

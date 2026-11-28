@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/"
 description: "2026년 2분기 한국 반도체 수출이 HBM과 파운드리 수요에 힘입어 분기 사상 최대를 기록했다. 품목 구조가 범용 메모리에서 AI 전용 반도체로 이동하면서 삼성전자·SK하이닉스 주가도 상승 촉매를 얻었다."
-image: "https://picsum.photos/seed/2026-07-14-korea-ai-chip-export-q2-surplus/800/500"
+image: "images/cards/2026-07-14-korea-ai-chip-export-q2-surplus.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Technology.org"
 sourceUrl: "https://www.technology.org/2026/10/23/microsoft-mai-dxo-science-study-83-percent-diagnosis-doctors/"
 description: "마이크로소프트의 멀티에이전트 진단 AI 'MAI-DxO'가 Science에 게재됐다. NEJM 복잡 증례 304건에서 83.2% 정확도를 기록했다 — 교과서와 인터넷을 쓸 수 있는 일반의의 36.1%와 비교되는 숫자다."
+image: "images/cards/2026-10-23-microsoft-mai-dxo-medical-ai.svg"
 ---
 
 2026년 10월 22일, 마이크로소프트 연구팀이 Science 저널에 논문 하나를 실었다. 제목은 "Sequential diagnosis with language models". 여기 담긴 숫자가 조용히 의료계를 뒤흔들고 있다.

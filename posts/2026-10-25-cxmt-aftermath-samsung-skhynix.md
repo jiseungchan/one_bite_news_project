@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026102500205"
 description: "코스피 서킷브레이커를 발동시킨 CXMT 쇼크로부터 10일. 삼성전자와 SK하이닉스는 급락분의 60~70%를 회복했다. 증권가에서는 '기술 위협은 실재하지만 당시 주가 반응은 과도했다'는 분석이 우세하다. 하지만 구조적 우려는 여전히 살아있다."
+image: "images/cards/2026-10-25-cxmt-aftermath-samsung-skhynix.svg"
 ---
 
 10월 15일, 코스피에 서킷브레이커(주가 급락 시 거래를 일시 중단하는 안전장치)가 발동됐다. 중국 창신메모리(CXMT)가 HBM3E급 성능의 D램 양산 계획을 발표하면서 시장이 패닉에 빠진 날이다. 삼성전자 -9%, SK하이닉스 -11%의 하루였다.

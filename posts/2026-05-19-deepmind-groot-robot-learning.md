@@ -5,7 +5,7 @@ source: 인공지능신문
 sourceUrl: https://www.aitimes.kr/news/articleView.html?idxno=33201
 date: 2026-05-19
 description: 구글 딥마인드가 범용 로봇 학습 알고리즘 'GROOT'를 공개했다. 시연 영상 5개만으로 로봇이 새로운 환경과 물체에 동작을 일반화할 수 있으며, 기존 모방 학습 대비 성공률이 3배 이상 높다.
-image: https://picsum.photos/seed/2026-05-19-deepmind-groot-robot-learning/800/500
+image: "images/cards/2026-05-19-deepmind-groot-robot-learning.svg"
 ---
 
 ## 한 줄 요약

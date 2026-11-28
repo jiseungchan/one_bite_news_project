@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213602"
 description: "과학기술정보통신부가 KAIST와 포항공대를 중심으로 AGI 기초연구단 출범을 공식 발표했다. 5,000억 원 규모의 10년 프로젝트로, 국내 AI 연구의 무게 중심이 응용에서 기초로 이동하는 신호다."
-image: "https://picsum.photos/seed/2026-10-22-korea-agi-research-consortium-kaist-postech/800/500"
+image: "images/cards/2026-10-22-korea-agi-research-consortium-kaist-postech.svg"
 ---
 
 ## 한 줄 요약

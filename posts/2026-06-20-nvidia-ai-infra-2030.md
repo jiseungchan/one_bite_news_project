@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052125321"
 description: "엔비디아 CFO가 빅테크 4사의 AI 인프라 투자가 2030년까지 연 3~4조달러(약 6,000조원)에 달할 것이라고 밝혔다. 지금의 7,000억달러에서 5배 이상 — 이 숫자는 반도체 공급망 전체를 흔드는 변수다."
-image: "https://picsum.photos/seed/2026-06-20-nvidia-ai-infra/800/500"
+image: "https://img.hankyung.com/photo/202605/AA.44374363.1.jpg"
 ---
 
 엔비디아의 CFO(최고재무책임자)가 제시한 숫자 하나가 반도체 업계를 들썩이고 있다. 콜렛 크레스(Colette Kress) 엔비디아 CFO는 하이퍼스케일러(hyperscaler — 마이크로소프트·구글·아마존·메타처럼 수십만 대 서버를 직접 운영하는 대형 데이터센터 기업)의 AI 인프라 투자가 **2030년까지 연 3조~4조달러(약 6,000조원)**에 달할 것이라고 발표했다.

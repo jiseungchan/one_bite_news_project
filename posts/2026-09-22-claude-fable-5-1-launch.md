@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/claude-fable-and-mythos-5-1"
 description: "앤트로픽이 9월 1일 클로드 페이블 5.1과 미토스 5.1을 출시했다. 과학 연구 벤치마크에서 전작 대비 두 배 이상 점수를 냈고, 캐시 비용은 75% 낮아졌다. '증류 방지(anti-distillation)' 안전장치도 새로 도입됐다."
+image: "https://assets.claude.com/dde6495ae7f7b4e35858b5691ab379db2fd1bd81.jpg"
 ---
 
 AI 모델의 성능 경쟁이 '코딩'에서 '과학'으로 무게 중심을 옮기고 있다. 앤트로픽(Anthropic)의 최신 릴리스는 그 방향을 가장 직접적으로 보여준다.

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com"
 description: "EU 인공지능법(AI Act)이 6월 발효된 지 한 달여 만에 유럽연합 집행위원회가 첫 공식 조사를 착수했다. 고위험 AI 시스템을 운영하는 글로벌 기업들이 컴플라이언스 문서화 미비로 제재 위기에 처한 가운데, 국내 AI 기업들의 준비 수준은 여전히 낮다는 조사가 나왔다."
-image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+image: "images/cards/2026-07-29-eu-ai-act-enforcement-first-cases.svg"
 ---
 
 ## 배경 — 세계 첫 포괄적 AI 규제법이 살아있는 규범이 됐다

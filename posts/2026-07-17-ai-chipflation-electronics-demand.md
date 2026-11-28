@@ -5,7 +5,7 @@ source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026071325911"
 date: 2026-07-17
 description: "AI 인프라 투자가 D램 가격을 1년 새 6배 올리며 일반 소비자 전자제품 시장을 짓눌렀다. 2026년 스마트폰 출하량은 전년 대비 11% 감소. 반도체는 역대 최대 실적, 소비재는 수요 파괴 — K자형 성장이 현실이다."
-image: "https://picsum.photos/seed/2026-07-17-ai-chipflation-electronics-demand/800/500"
+image: "https://img.hankyung.com/photo/202607/AA.45016720.1.jpg"
 ---
 
 ## 한 줄 요약

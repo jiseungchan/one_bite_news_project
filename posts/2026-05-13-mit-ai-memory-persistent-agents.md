@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 에이전트가 대화 세션을 넘어 지식을 유지·활용하지 못하는 '메모리 단절' 문제가 실용화의 핵심 병목으로 떠올랐다. 연구자들은 벡터 데이터베이스, RAG, 에피소딕 메모리 등 다양한 접근법을 실험 중이다."
-image: "https://picsum.photos/seed/2026-05-13-mit-ai-memory-persistent-agents/800/500"
+image: "images/cards/2026-05-13-mit-ai-memory-persistent-agents.svg"
 ---
 
 ## 한 줄 요약

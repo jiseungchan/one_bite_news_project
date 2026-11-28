@@ -5,7 +5,7 @@ source: 한국경제
 sourceUrl: https://www.hankyung.com/article/2026070345526
 date: 2026-07-05
 description: AI 투자 둔화 우려로 삼성전자(-8.84%)·SK하이닉스(-9.28%)가 급락한 직후, 삼성 잠정실적 발표·SK하이닉스 ADR 상장이 맞물리는 7월 6~10일이 반도체주 반등의 분수령으로 꼽힌다.
-image: https://picsum.photos/seed/2026-07-05-kospi-samsung-skhynix-superweek/800/500
+image: "https://img.hankyung.com/photo/202607/ZA.44893770.1.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "OGX 공식 블로그"
 sourceUrl: "https://github.com/ogx-ai/ogx/blob/main/docs/blog/2026-07-14-multi-tenant-capabilities.md"
 description: "Meta가 만든 Llama Stack이 'OGX'(Open GenAI Stack)로 이름을 바꾸고 모델 중립적 AI 인프라 서버로 탈바꾸었다. 최신 v1.2.0은 기업용 멀티테넌트 보안을 추가하며 엔터프라이즈 시장을 겨냥했다."
-image: "https://picsum.photos/seed/2026-07-15-ogx-llama-stack-enterprise/800/500"
+image: "images/cards/2026-07-15-ogx-llama-stack-enterprise.svg"
 ---
 
 ## 한 줄 요약

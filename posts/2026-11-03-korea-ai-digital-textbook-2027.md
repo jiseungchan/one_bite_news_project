@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214218"
 description: "과학기술정보통신부가 AI 기반 디지털 교과서의 전국 초·중·고 전면 도입을 2027년 3월로 확정했다. 국내 에듀테크 AI 기업들에게는 연간 수천억 원 규모의 공공 조달 시장이 열리는 셈이다."
+image: "images/cards/2026-11-03-korea-ai-digital-textbook-2027.svg"
 ---
 
 한국 교실에서 종이 교과서가 사라지는 날이 공식 일정으로 잡혔다. 과학기술정보통신부는 11월 3일, AI 디지털 교과서(AIDT — AI-powered Digital Textbook)를 2027년 3월 새 학기부터 전국 초·중·고등학교에 전면 도입하겠다고 발표했다.

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050738021"
 description: "엔비디아 주가가 사상 최고치를 경신하며 시가총액이 4조 달러를 돌파했다. 차세대 AI GPU 블랙웰 시리즈의 수요가 예상을 크게 웃돌면서 월가의 실적 전망도 잇따라 상향되고 있다."
-image: "https://picsum.photos/seed/2026-05-08-nvidia-stock-all-time-high/800/500"
+image: "images/cards/2026-05-08-nvidia-stock-all-time-high.svg"
 ---
 
 ## 한 줄 요약

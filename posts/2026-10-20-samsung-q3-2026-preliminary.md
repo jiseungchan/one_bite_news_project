@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026102001051"
 description: "삼성전자가 3분기 잠정 영업이익 12조 원을 발표했다. 2분기 대비 41% 증가한 수치로, HBM3E 공급 확대와 파운드리 2나노 공정 안정화가 핵심 변수다. 증권가는 4분기 전망치를 일제히 상향했다."
+image: "images/cards/2026-10-20-samsung-q3-2026-preliminary.svg"
 ---
 
 ## 잠정 실적 요약

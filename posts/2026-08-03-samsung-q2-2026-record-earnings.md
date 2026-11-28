@@ -5,6 +5,7 @@ category: 경제·주식
 source: "Samsung Newsroom Korea"
 sourceUrl: "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-2026%EB%85%84-2%EB%B6%84%EA%B8%B0-%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C"
 description: "삼성전자가 2026년 2분기 매출 171.5조, 영업이익 89.5조를 기록하며 분기 기준 사상 최대 실적을 냈다. HBM4 양산과 글로벌 5대 AI 데이터센터와의 장기계약이 견인한 AI 반도체 슈퍼사이클의 개막이다."
+image: "https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/07/29151054/DX_932x524.jpg"
 ---
 
 삼성전자가 2026년 2분기 연결 기준 **매출 171조4995억원, 영업이익 89조4924억원**을 기록했다. 두 지표 모두 분기 기준 사상 최대다. 전분기 대비 매출은 37.6조원(28%), 영업이익은 32.3조원(56%) 늘었다.

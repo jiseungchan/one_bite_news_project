@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210102"
 description: "뤼튼테크놀로지스가 기업용 AI 에이전트 서비스를 정식 출시했다. 한국어 특화 LLM 위에 업무 자동화 에이전트를 얹는 전략으로, 외산 AI 도구가 장악한 기업 시장에서 틈새를 노린다."
-image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=800&q=80"
+image: "images/cards/2026-04-26-wrtn-enterprise-ai-agent.svg"
 ---
 
 ## 배경 — 기업 AI 도구 시장, 아직 외산이 지배한다

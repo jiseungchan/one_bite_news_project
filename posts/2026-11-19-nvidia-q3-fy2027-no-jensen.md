@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202611184186i"
 description: "엔비디아가 창립 이래 처음으로 젠슨 황 없이 실적을 발표했다. 매출은 1,158억 달러(약 161조 원)로 전년 대비 103% 급증했지만, 주가는 정규장에서 오히려 2.9% 하락 마감했다."
-image: "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+image: "images/cards/2026-11-19-nvidia-q3-fy2027-no-jensen.svg"
 ---
 
 ## 배경: 젠슨 황의 갑작스러운 퇴장

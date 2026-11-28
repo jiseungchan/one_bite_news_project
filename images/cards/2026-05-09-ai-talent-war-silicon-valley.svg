@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.0" x2="1" y2="0.9"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="695" cy="75" r="190" fill="#fff" fill-opacity=".05"/>
+<g><circle cx="560" cy="200" r="30" fill="#fff" fill-opacity="0.3" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/><path d="M509.0 308.0a51.0 51.0 0 0 1 102.0 0" fill="#fff" fill-opacity="0.15" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/><circle cx="720" cy="200" r="30" fill="#fff" fill-opacity="0.3" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/><path d="M669.0 308.0a51.0 51.0 0 0 1 102.0 0" fill="#fff" fill-opacity="0.15" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/><circle cx="640" cy="170" r="40" fill="#fff" fill-opacity="0.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/><path d="M572.0 314.0a68.0 68.0 0 0 1 136.0 0" fill="#fff" fill-opacity="0.3" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">AI 인재 전쟁,</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">실리콘밸리를 다시 쓴다</text>
+
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-05-09 · MIT Technology Review · 한입뉴스</text>
+</svg>

@@ -5,7 +5,7 @@ source: NVIDIA Newsroom
 sourceUrl: https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark
 date: 2026-06-05
 description: 엔비디아가 Computex 2026에서 PC용 AI 슈퍼칩 'RTX Spark'를 공개했다. 1 페타플롭 AI 연산 성능으로 120B 파라미터 LLM을 오프라인에서 구동하며, 2026년 가을 Dell·HP·Microsoft 등 6개 브랜드에 탑재 예정이다.
-image: https://picsum.photos/seed/2026-06-05-nvidia-rtx-spark-pc-ai/800/500
+image: "images/cards/2026-06-05-nvidia-rtx-spark-pc-ai.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/claude-fable-and-mythos-5-1"
 description: "앤트로픽이 9월 1일 클로드 페이블 5.1과 미토스 5.1을 동시에 공개했다. 코딩 벤치마크는 전작 대비 두 배, 과학 추론은 두 배 이상 뛰었고 복잡한 에이전트 작업 비용은 최대 45% 낮아졌다."
+image: "https://assets.claude.com/dde6495ae7f7b4e35858b5691ab379db2fd1bd81.jpg"
 ---
 
 앤트로픽이 9월 1일 클로드 페이블(Fable) 5.1과 미토스(Mythos) 5.1을 동시에 공개했다. 페이블 5.1은 일반 공개 모델이고, 미토스 5.1은 사이버보안 전문가와 생명과학 연구자를 위한 제한 접근 버전이다.

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/25/openai-gpt4o-native-image-generation/"
 description: "OpenAI가 GPT-4o에 네이티브 이미지 생성 기능을 통합했다. 별도 모델을 호출하는 방식을 버리고 텍스트·이미지를 하나의 모델이 함께 처리하면서, 멀티모달 AI의 설계 패러다임이 바뀌고 있다."
-image: "https://images.unsplash.com/photo-1686191128892-3b37add4c844?w=800&q=80"
+image: "images/cards/2026-04-26-openai-gpt4o-native-image.svg"
 ---
 
 ## 배경 — 이미지 생성은 늘 '외주'였다

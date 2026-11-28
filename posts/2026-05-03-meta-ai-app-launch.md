@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209970
 date: 2026-05-03
 description: "메타가 왓츠앱·인스타그램 내부 기능이 아닌 독립 앱 형태로 '메타 AI'를 글로벌 출시했다. 기존 소셜 플랫폼에 종속됐던 AI를 떼어내 OpenAI·구글과 정면 승부를 선언한 것이다."
-image: https://picsum.photos/seed/2026-05-03-meta-ai-app-launch/800/500
+image: "images/cards/2026-05-03-meta-ai-app-launch.svg"
 ---
 
 ## 한 줄 요약

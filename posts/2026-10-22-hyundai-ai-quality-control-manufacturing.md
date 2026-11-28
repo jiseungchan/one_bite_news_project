@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41420"
 description: "현대자동차가 울산 1공장 조립 라인 전체에 AI 비전 품질검사 에이전트를 적용한 1년 성과를 공개했다. 출고 전 불량률이 68% 줄었고, 재작업 시간도 연간 12만 시간 절감됐다."
-image: "https://picsum.photos/seed/2026-10-22-hyundai-ai-quality-control-manufacturing/800/500"
+image: "images/cards/2026-10-22-hyundai-ai-quality-control-manufacturing.svg"
 ---
 
 ## 한 줄 요약

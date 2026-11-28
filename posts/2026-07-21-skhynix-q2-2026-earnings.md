@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/202607210123"
 description: "SK하이닉스가 2026년 2분기 영업이익 10조 2,000억 원을 기록하며 국내 반도체 기업 분기 기준 사상 최대 실적을 달성했다. HBM5(5세대 고대역폭 메모리)가 DRAM 매출의 60%를 차지하며 삼성전자의 HBM5 퀄리피케이션 지연 속에 SK하이닉스의 독점 공급이 지속됐다."
-image: "https://picsum.photos/seed/2026-07-21-skhynix-q2-2026-earnings/800/500"
+image: "images/cards/2026-07-21-skhynix-q2-2026-earnings.svg"
 ---
 
 ## 한 줄 요약

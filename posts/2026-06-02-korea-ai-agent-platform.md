@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211203"
 description: "네이버·카카오·KT가 각자의 AI 에이전트 플랫폼을 잇달아 공개하며 국내 B2B AI 에이전트 시장이 개화하고 있다. 단순 챗봇을 넘어 업무 자동화·고객 응대·데이터 분석을 통합 처리하는 에이전트 경쟁이 2026년 하반기를 달굴 전망이다."
-image: "https://picsum.photos/seed/2026-06-02-korea-ai-agent-platform/800/500"
+image: "images/cards/2026-06-02-korea-ai-agent-platform.svg"
 ---
 
 ## 한 줄 요약

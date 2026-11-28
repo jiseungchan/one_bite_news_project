@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/openai-launches-gpt-5/"
 description: "OpenAI가 GPT-4o, o1, o3 등 분산됐던 모델 라인업을 하나로 통합한 GPT-5를 공개했다. 텍스트·이미지·음성·코드를 단일 모델에서 처리하며, 추론 능력과 멀티모달 성능 모두 전작을 뛰어넘는다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-05-03-openai-gpt5-launch.svg"
 ---
 
 ## OpenAI가 모델 난립을 끝내다

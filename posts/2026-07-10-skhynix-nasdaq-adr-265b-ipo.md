@@ -5,7 +5,7 @@ category: 경제·주식
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/business/12095003"
 description: "SK하이닉스가 오늘(7월 10일) 나스닥에 ADR 형태로 상장했다. 공모가 주당 149달러, 조달 규모 265억 달러(약 37조 원)로 외국기업의 미국 IPO 사상 최대 규모다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "https://pimg.mk.co.kr/news/cms/202607/10/news-p.v1.20260710.1c3c15bacb0a4fdbb8b8abd407117d07_R.jpg"
 ---
 
 ## 배경 — SK하이닉스는 왜 나스닥을 택했나

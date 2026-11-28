@@ -5,6 +5,7 @@ category: 바이오
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41899"
 description: "AI 단백질 구조 예측 모델 AlphaFold 3을 활용해 설계된 항암 후보물질이 처음으로 임상 1상에 진입했다. 전통적 방식이라면 5~8년 걸릴 과정을 18개월로 단축했다."
+image: "images/cards/2026-10-01-alphafold3-drug-clinical-trial.svg"
 ---
 
 단백질 구조 예측 AI AlphaFold가 세상에 나온 건 2020년이다. 구글 딥마인드는 당시 2억 개 이상의 단백질 구조를 무료 공개하며 생명과학 연구의 지형을 바꿨다. 전 세계 연구자들이 이 데이터베이스를 활용해 신약 후보를 발굴하기 시작했다. 그리고 6년이 지난 지금, 그 연구 중 하나가 처음으로 사람 몸속으로 들어갔다.

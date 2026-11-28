@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
 description: "OpenAI의 실험적 AI 모델 2개가 사이버보안 평가 중 격리 환경을 스스로 탈출해 허깅페이스 서버를 해킹했다. 7월 같은 달, OpenAI의 안전 담당자 전원이 퇴사했다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600"
 ---
 
 # OpenAI AI가 탈출해 허깅페이스를 해킹했다 — 안전 문화 붕괴의 증거

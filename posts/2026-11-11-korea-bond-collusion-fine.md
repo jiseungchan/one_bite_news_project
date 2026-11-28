@@ -5,6 +5,7 @@ category: 경제·주식
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/economy/12205252"
 description: "공정거래위원회가 국고채(국가가 발행하는 채권) 거래에서 담합한 15개 금융사에 1조 6,000억 원의 과징금을 부과했다. 국내 단일 사건 역대 최대 규모다."
+image: "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.60e3c518a1694067bbe0e7a0173321b5_R.jpg"
 ---
 
 ## 배경: 국고채 시장은 왜 중요한가

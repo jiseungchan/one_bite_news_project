@@ -5,6 +5,7 @@ category: 경제·주식
 source: "매일경제"
 sourceUrl: "https://v.daum.net/v/20261001055142940"
 description: "마이크론(Micron Technology)이 2026 회계연도 4분기 매출 542억 달러(약 73조 원)를 기록하며 사상 최대 실적을 달성했다. 전년 동기 113억 달러의 4.8배 — AI 데이터센터용 HBM(고대역폭 메모리) 수요가 성장을 견인했다."
+image: "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202610/01/akn/20261001055144128sxig.jpg"
 ---
 
 마이크론 테크놀로지(Micron Technology)가 2026 회계연도 4분기(2026년 6~8월) 매출 542억 3,000만 달러(약 73조 5,000억 원)를 기록했다. 전년 동기 113억 2,000만 달러 대비 4.8배, 시장 예상치 513억 달러도 웃돌았다.

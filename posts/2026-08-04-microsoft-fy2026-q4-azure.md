@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41255"
 description: "마이크로소프트 FY2026 4분기 매출 129조 원(+18%), 애저 연매출이 처음으로 143.5조 원을 돌파했다. 코파일럿 유료 사용자 3,000만 명 — AI 인프라 투자가 실제 구독 수익으로 전환된 첫 본격 사이클의 성과표다."
-image: "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=800&q=80"
+image: "https://cdn.aitimes.kr/news/thumbnail/202607/41255_62120_5024_v150.jpg"
 ---
 
 ## AI 투자가 실제로 돈이 되는가

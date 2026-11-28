@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026051544231"
 description: "엔비디아 H200·B200 GPU 납기가 최대 6개월로 늘어난 가운데, 국내 통신사와 클라우드 기업들이 AI 데이터센터 투자를 앞당기고 있다. KT·LG유플러스·네이버클라우드가 올해 합산 2조 원 이상 투자를 확정했다."
-image: "https://picsum.photos/seed/2026-05-15-nvidia-ai-datacenter-korea-investment/800/500"
+image: "images/cards/2026-05-15-nvidia-ai-datacenter-korea-investment.svg"
 ---
 
 ## 한 줄 요약

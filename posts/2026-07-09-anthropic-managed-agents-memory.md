@@ -5,7 +5,7 @@ source: "Anthropic SDK (GitHub)"
 sourceUrl: "https://github.com/anthropics/anthropic-sdk-python/blob/main/CHANGELOG.md"
 date: 2026-07-09
 description: "앤트로픽이 세션 간 기억을 유지하는 '메모리 저장소'와 cron 스케줄 배포·멀티에이전트 조율이 가능한 '관리형 에이전트' 플랫폼을 베타로 공개했다. 에이전트의 메모리 설명이 시스템 프롬프트에 자동 삽입된다."
-image: "https://picsum.photos/seed/2026-07-09-anthropic-managed-agents-memory/800/500"
+image: "images/cards/2026-07-09-anthropic-managed-agents-memory.svg"
 ---
 
 ## 한 줄 요약

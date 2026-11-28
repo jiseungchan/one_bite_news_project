@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026101401088"
 description: "삼성전자가 구글·마이크로소프트·아마존과 HBM4(4세대 고대역폭 메모리) 공급 계약을 체결한 것으로 알려졌다. SK하이닉스에 밀렸던 HBM 시장 점유율을 탈환할 발판을 마련했다는 평가다."
+image: "images/cards/2026-10-14-samsung-hbm4-bigtech-supply-contract.svg"
 ---
 
 AI 서버를 구성하는 두 가지 핵심 부품은 GPU(그래픽처리장치)와 HBM(고대역폭 메모리 — AI GPU에 붙어 초고속으로 데이터를 주고받는 메모리 반도체)이다. GPU 시장의 엔비디아처럼, HBM 시장도 사실상 과점 체계로 운영되고 있다.

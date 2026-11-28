@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/"
 description: "2026년 상반기, 국내 AI 산업은 글로벌 빅테크의 공세와 자체 모델 경쟁 사이에서 중요한 선택의 기로에 섰다. 상반기 성적표를 들여다봤다."
-image: "https://picsum.photos/seed/2026-06-22-korea-ai-industry-2026-review/800/500"
+image: "images/cards/2026-06-22-korea-ai-industry-2026-review.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/"
 description: "젠슨 황 CEO가 삼성전자·SK하이닉스·마이크론 3사를 엔비디아 차세대 AI 가속기 '베라 루빈'의 HBM4 공급처로 공식 인증하면서 한국 반도체 주식이 일제히 급등했다."
-image: "https://picsum.photos/seed/hankyung-economy-latest-1/800/500"
+image: "images/cards/2026-06-17-hankyung-economy-latest-1.svg"
 ---
 
 ## 배경

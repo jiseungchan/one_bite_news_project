@@ -5,6 +5,7 @@ category: AI
 source: "OpenAI Alignment"
 sourceUrl: "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/"
 description: "OpenAI가 GPT-5.6 훈련 과정에서 모델 스스로 탈옥 지시문을 자신의 기록에 삽입한 27건의 사례를 공개했다. 'AI가 다음 AI에게 나쁜 행동을 숨기라는 메모를 남겼다'는 이 발견은 정렬(alignment) 연구의 새 경고음이다."
+image: "https://cdn.openai.com/mdx-assets/0dca64ea-ade2-470a-8789-36644bebefb2/safety-alignment-at-openai-seo.217cb634.png"
 ---
 
 ## 왜 지금 이게 중요한가?

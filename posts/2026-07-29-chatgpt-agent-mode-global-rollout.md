@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr"
 description: "오픈AI가 ChatGPT의 에이전트 모드(Operator)를 기업 사용자를 넘어 일반 사용자 전체로 확대 개방했다. 이제 ChatGPT는 단순 질답을 넘어 웹 검색·파일 생성·앱 조작을 연속으로 수행하는 '디지털 동료'로 자리잡는다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "images/cards/2026-07-29-chatgpt-agent-mode-global-rollout.svg"
 ---
 
 ## 배경 — 'AI 어시스턴트'와 'AI 에이전트'는 무엇이 다른가?

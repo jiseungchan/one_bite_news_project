@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212582"
 description: "OpenAI와 구글이 같은 날 같은 메시지를 냈다. 차세대 모델이 AI 애플리케이션 개발의 핵심 소프트웨어 계층인 '하네스'를 흡수해 버릴 것이라고."
+image: "images/cards/2026-07-16-ai-harness-obsolete-openai-google.svg"
 ---
 
 ## 배경 — '하네스'가 필수였던 시절

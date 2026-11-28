@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211308"
 description: "국내 에듀테크 기업들이 LLM 기반 AI 개인화 튜터 서비스를 본격 출시하고 있다. 매스프레소, 클래스101, 뤼이드 등이 각기 다른 접근법으로 K-에듀테크 AI 전환을 이끌고 있다."
-image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=500&fit=crop"
+image: "images/cards/2026-06-07-korea-ai-education-platform.svg"
 ---
 
 ## 선생님이 한 명, 학생이 서른 명인 구조의 한계

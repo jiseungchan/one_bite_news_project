@@ -5,7 +5,7 @@ source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/21/1117150/ai-data-centers-are-straining-the-power-grid/"
 date: 2026-05-24
 description: "AI 데이터센터의 전력 수요가 2030년까지 미국 전체 전력 소비의 12%에 달할 것으로 전망된다. 전력망 업그레이드 속도가 AI 확장 속도를 따라잡지 못하면서 에너지 인프라 병목이 AI 성장의 실질적 제약으로 부상하고 있다."
-image: "https://picsum.photos/seed/2026-05-24-ai-datacenter-power-grid-crisis/800/500"
+image: "images/cards/2026-05-24-ai-datacenter-power-grid-crisis.svg"
 ---
 
 ## 한 줄 요약

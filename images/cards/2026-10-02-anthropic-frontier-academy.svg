@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.0" x2="1" y2="1.0"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="685" cy="85" r="190" fill="#fff" fill-opacity=".05"/>
+<g><rect x="500" y="256" width="26" height="104" rx="4" fill="#fff" fill-opacity=".14"/><rect x="545" y="253" width="26" height="107" rx="4" fill="#fff" fill-opacity=".14"/><rect x="590" y="274" width="26" height="86" rx="4" fill="#fff" fill-opacity=".14"/><rect x="635" y="274" width="26" height="86" rx="4" fill="#fff" fill-opacity=".14"/><rect x="680" y="305" width="26" height="55" rx="4" fill="#fff" fill-opacity=".14"/><rect x="725" y="233" width="26" height="127" rx="4" fill="#fff" fill-opacity=".14"/><rect x="770" y="232" width="26" height="128" rx="4" fill="#fff" fill-opacity=".14"/><polyline points="510,190 555,286 600,166 645,204 690,208 735,262 780,296" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/><circle cx="780" cy="296" r="12" fill="#fff"/><path d="M490 365h300" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity=".6"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">앤트로픽, 1,380억 원</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">투자로 AI 전문 엔지니…</text>
+<rect x="48" y="300" width="80" height="38" rx="19" fill="#fff" fill-opacity=".18"/><text x="88.0" y="325" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">앤트로픽</text>
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-10-02 · Anthropic · 한입뉴스</text>
+</svg>

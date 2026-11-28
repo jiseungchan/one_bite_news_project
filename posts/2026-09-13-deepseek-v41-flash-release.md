@@ -5,6 +5,7 @@ category: AI
 source: "SiliconANGLE"
 sourceUrl: "https://siliconangle.com/2026/09/10/deepseek-releases-v4-1-flash-says-it-outperforms-flagship-v4-pro/"
 description: "딥시크가 9월 10일 V4.1 플래시를 공개했다. 자사 최고 모델 V4-Pro보다 성능이 높으면서도 비용은 훨씬 낮다. 9월 14일부터 V4-Pro API 요청은 전부 V4.1 플래시로 전환된다."
+image: "https://images.siliconangle.com/blogs.dir/1/files/2026/09/deepseek-scaled.png"
 ---
 
 ## 배경 — 모델 크기와 성능은 정말 비례할까?

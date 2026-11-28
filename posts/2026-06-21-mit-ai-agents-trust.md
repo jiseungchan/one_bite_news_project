@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/06/19/1139500/ai-agents-autonomous-work-trust-problem/
 date: 2026-06-21
 description: AI 에이전트의 복잡 작업 성공률이 18개월 만에 12%에서 77.3%로 급등했지만, 에러 복구 실패율은 여전히 38%에 달한다. 능력과 신뢰 사이의 간극이 오히려 커지고 있다.
-image: https://picsum.photos/seed/2026-06-21-mit-ai-agents-trust/800/500
+image: "images/cards/2026-06-21-mit-ai-agents-trust.svg"
 ---
 
 ## 한 줄 요약

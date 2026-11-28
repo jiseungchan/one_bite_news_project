@@ -5,7 +5,7 @@ source: Bloomberg
 sourceUrl: https://www.bloomberg.com/news/articles/2026-05-03/meta-first-quarter-earnings-ad-revenue
 date: 2026-05-05
 description: Meta가 2026년 1분기 광고 매출에서 시장 컨센서스를 웃도는 실적을 발표했다. 결과 발표 직후 주가는 장 외 거래에서 급등했다.
-image: https://picsum.photos/seed/2026-05-05-meta-q1-earnings/800/500
+image: "images/cards/2026-05-05-meta-q1-earnings.svg"
 ---
 
 ## 한 줄 요약

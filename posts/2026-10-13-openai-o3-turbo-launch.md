@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41230"
 description: "OpenAI가 o3 계열의 경량 추론 모델 'o3 터보'를 공개했다. o3 대비 응답 속도 2배, 비용 50% 절감이 핵심이다. 복잡한 추론이 필요한 기업용 에이전트 워크플로우를 직접 겨냥한 포지셔닝이다."
+image: "images/cards/2026-10-13-openai-o3-turbo-launch.svg"
 ---
 
 ## OpenAI, 추론 모델 'o3 터보' 공개 — 속도 2배·비용 절반, 기업 에이전트 시장 겨냥

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=217546"
 description: "구글이 11월 18일 제미나이 4 네온을 공개했다. 코딩 에이전트 벤치마크에서 1위를 기록하면서도 작업 비용은 같은 제미나이 4 계열의 카본보다 32% 낮다고 밝혔다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202611/217546_221836_4059.png"
 ---
 
 ## 배경: 제미나이 4 계열 모델 구조

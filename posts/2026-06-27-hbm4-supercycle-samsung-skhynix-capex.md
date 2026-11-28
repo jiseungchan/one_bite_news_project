@@ -5,7 +5,7 @@ category: 경제·주식
 source: "머니투데이 / 이코노믹리뷰"
 sourceUrl: "https://www.mt.co.kr/amp/industry/2026/06/26/2026062518211674181"
 description: "하이퍼스케일러들의 AI 설비투자가 전년 대비 75% 급증, 7700억 달러 규모로 추정된다. SK하이닉스는 30조 원 중반 투자, 삼성은 HBM 생산량을 17만 장에서 20만 장으로 확대한다."
-image: "https://picsum.photos/seed/2026-06-27-hbm4-supercycle-samsung-skhynix-capex/800/500"
+image: "images/cards/2026-06-27-hbm4-supercycle-samsung-skhynix-capex.svg"
 ---
 
 ## 숫자부터 보자

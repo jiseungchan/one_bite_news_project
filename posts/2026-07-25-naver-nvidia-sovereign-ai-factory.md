@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41162"
 description: "네이버가 브룩필드·엔비디아로부터 총 14조 원 규모 투자를 유치하며, 세종 데이터센터(GAC 세종)에 200MW급 소버린 AI 팩토리를 구축한다. 이재명 대통령의 샌프란시스코 AI 서밋을 계기로 발표됐으며, 장기 목표는 1GW 확장이다."
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+image: "https://cdn.aitimes.kr/news/thumbnail/202607/41162_61997_5917_v150.jpg"
 ---
 
 네이버가 캐나다 대형 인프라 투자사 브룩필드(Brookfield)와 엔비디아로부터 총 14조 원 규모의 투자를 유치했다. 엔비디아는 이 가운데 약 1.4조 원을 직접 출자하며, 세종특별자치시에 있는 네이버의 하이퍼스케일 데이터센터 'GAC 세종'을 기반으로 200MW(메가와트)급 소버린 AI 팩토리(Sovereign AI Factory)를 구축한다. 이재명 대통령의 샌프란시스코 AI 서밋 방문을 계기로 2026년 7월 발표됐다.

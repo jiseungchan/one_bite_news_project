@@ -5,6 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/"
 description: "앤트로픽이 특정 AI 답변이 특정 모델에서 나왔음을 수학적으로 증명하는 오픈소스 연구 프로토타입 FlashProve를 공개했다. 모델 가중치를 공개하지 않고도 출처를 검증할 수 있는 영지식 증명 기반 도구다."
+image: "https://the-decoder.com/wp-content/uploads/2026/11/Anthropic-FlashProve.webp"
 ---
 
 ## 배경: 신뢰할 수 없는 AI 서비스

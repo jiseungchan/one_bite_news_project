@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
 description: "구글 딥마인드 CEO 데미스 하사비스가 의장으로 물러나고, 27년 근속 제프 딘은 동료들과 신생 AI 연구 벤처 'Discovery Loop'를 창업했다. 구글의 AI 전략이 '특화 툴'에서 '자율 에이전트 AI'로 전환하는 신호다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/45-Jeff-Dean-TD.webp?resize=1200,600"
 ---
 
 ## 배경 — 구글 딥마인드에 무슨 일이 있었나?

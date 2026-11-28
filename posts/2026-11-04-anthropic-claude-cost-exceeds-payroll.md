@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216891"
 description: "앤트로픽이 IPO S-1 신청서에서 공개한 수치: 내부 클로드 사용 가치가 9개월 만에 250배 급증하며 직원 급여 총액을 처음으로 넘어섰다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202611/216891_221049_1246.jpg"
 ---
 
 ## 배경 — AI 개발사는 자신의 AI를 얼마나 쓸까

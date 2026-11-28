@@ -5,6 +5,7 @@ category: 경제·주식
 source: "ZDNet Korea / 에디데일리"
 sourceUrl: "https://zdnet.co.kr/view/?no=20260811102653"
 description: "NHN이 2026년 2분기 창사 이래 최대 매출과 영업이익을 기록했다. AI GPU 사업이 실적 개선의 최대 공신이었다. 숫자보다 중요한 건 이 회사가 무엇으로 변하고 있느냐다."
+image: "https://image.zdnet.co.kr/2026/05/26/52ffa5c3a3a40d1850323a5a90a09cd7.jpg"
 ---
 
 ## 배경: NHN은 게임 회사였다

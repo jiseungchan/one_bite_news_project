@@ -5,7 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/claude-opus-5-5"
 description: "앤트로픽이 9월 22일 클로드 Opus 5.5를 출시했다. 전작 대비 40% 비용 절감, 30% 속도 향상을 달성하면서도 코딩 Terminal-Bench 66.4%, 컴퓨터 사용 81.8%의 신기록을 세웠다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "https://assets.claude.com/f4d37a1d1f582f53f4e89440062b649b6273a093.jpg"
 ---
 
 ![클로드 Opus 5.5 출시](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80)

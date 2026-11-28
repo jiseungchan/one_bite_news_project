@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-25/korean-ai-startup-wrtn-raises-funds-at-870-million-value-to-fund-global-growth"
 description: "뤼튼 테크놀로지스가 시리즈 C에서 1,000억 원을 조달하며 기업가치 1.2조 원(약 8.7억 달러)을 인정받았다. 국내 AI 포털 운영을 기반으로 글로벌 확장에 나선다."
+image: "images/cards/2026-08-30-wrtn-870m-series-c-korea-ai-platform.svg"
 ---
 
 ## 배경: 뤼튼은 어떤 회사인가

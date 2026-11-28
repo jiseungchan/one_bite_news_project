@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/accenture-embedded-evaluation"
 description: "앤트로픽이 악센추어(Accenture)와 협력해 프런티어 AI 모델을 독립적으로 평가하는 '내장형 평가(embedded evaluation)' 체계를 구축한다. 5년간 최소 10억 달러를 투자하며, 평가자는 직원 수준의 접근 권한으로 모델 개발 과정 전반을 감찰한다."
+image: "images/cards/2026-10-03-accenture-embedded-ai-evaluation.svg"
 ---
 
 앤트로픽이 9월 18일, 악센추어(Accenture)와 독립적 AI 평가 파트너십을 발표했다. 단순한 외부 감사가 아니다 — 평가자가 실제로 회사 안에 들어와 직원처럼 일하는 구조다.

@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
 description: "다리오 아모데이가 'AI 속도를 늦춰야 한다'는 에세이를 공개하자 알트먼·머스크·하사비스가 잇따라 동조했다. AI 업계 역사상 처음으로 빅4 CEO가 일제히 감속을 촉구한 배경엔 7월에 벌어진 한 사건이 있었다."
+image: "images/cards/2026-09-18-mit-ai-doomer-safety-crisis.svg"
 ---
 
 ## 배경 — AI 안전 논쟁이 '외부'에서 '내부'로

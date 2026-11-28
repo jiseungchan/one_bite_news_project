@@ -5,6 +5,7 @@ category: AI
 source: "Nature"
 sourceUrl: "https://www.nature.com/articles/d42473-026-00119-z"
 description: "VLA(Vision-Language-Action) 모델이 2026년 전환점을 맞이하고 있다. ICLR 2026 관련 논문이 전년 대비 18배 급증했고, 촉각 센서를 더한 로봇은 삽입 작업 성공률 90%를 달성했다."
+image: "https://media.nature.com/lw1200/magazine-assets/d42473-026-00119-z/d42473-026-00119-z_52264906.png"
 ---
 
 ## 기존에는 어땠나

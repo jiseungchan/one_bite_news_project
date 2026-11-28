@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026060912345"
 description: "엔비디아의 차세대 AI GPU '루빈(Rubin)'의 양산 일정이 구체화되면서 삼성전자와 SK하이닉스의 HBM4E(차세대 고대역폭 메모리) 납품 경쟁이 가열되고 있다. 증권가는 국내 메모리 두 기업의 하반기 수혜를 유력하게 보고 있다."
-image: "https://picsum.photos/seed/2026-06-09-nvidia-rubin-gpu-korea-supply-chain/800/500"
+image: "images/cards/2026-06-09-nvidia-rubin-gpu-korea-supply-chain.svg"
 ---
 
 ## 한 줄 요약

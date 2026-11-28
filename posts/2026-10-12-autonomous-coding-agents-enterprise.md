@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/autonomous-coding-agents-legacy-codebase-2026/"
 description: "AI 코딩 에이전트가 처음으로 대규모 레거시 코드베이스를 독립적으로 분석·리팩토링하는 능력을 공식 검증받았다. 'AI는 autocomplete이다'라는 통념이 흔들리기 시작한 순간이다."
+image: "images/cards/2026-10-12-autonomous-coding-agents-enterprise.svg"
 ---
 
 소프트웨어 개발자들에게 AI는 오랫동안 '자동 완성 도구'였다. GitHub Copilot이 2021년 등장했을 때, 개발자들은 코드 한 줄을 치면 나머지를 AI가 제안해주는 방식에 익숙해졌다. AI는 빠른 타이피스트였지, 독립적으로 생각하는 동료가 아니었다.

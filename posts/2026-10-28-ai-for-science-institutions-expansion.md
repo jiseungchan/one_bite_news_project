@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
 description: "앤트로픽의 'AI for Science' 프로그램이 NSF·슬론 재단·웰컴 생어 연구소 등 20개 기관을 새로 맞이했다. 개별 연구자 지원에서 글로벌 과학 인프라 파트너십으로 진화했다."
+image: "https://assets.claude.com/470508b8c3c653e1e53e59e9818e8e63761dc4b6.jpg"
 ---
 
 앤트로픽이 2025년 5월 시작한 'AI for Science(과학을 위한 AI)' 프로그램이 20개 기관을 새롭게 맞이하며 규모를 대폭 키웠다. 처음에는 개별 연구자에게 클로드 크레딧을 무상으로 지원하는 방식이었는데, 이번에는 재단·학회·연구기관 단위로 파트너십을 확대했다.

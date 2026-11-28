@@ -5,7 +5,7 @@ source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
 date: 2026-07-13
 description: "앤트로픽 연구팀이 클로드 내부에서 AI가 개념을 처리하는 '숨겨진 공간(J-space)'을 발견했다. 이 발견이 AI 해석가능성 연구에서 무엇을 의미하는지, 그리고 무엇을 의미하지 않는지를 짚는다."
-image: "https://picsum.photos/seed/2026-07-13-anthropic-hidden-concept-space/800/500"
+image: "images/cards/2026-07-13-anthropic-hidden-concept-space.svg"
 ---
 
 ## 한 줄 요약

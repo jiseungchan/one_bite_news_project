@@ -5,7 +5,7 @@ source: OpenAI
 sourceUrl: https://openai.com/index/gpt-5-5-instant/
 date: 2026-06-05
 description: OpenAI가 ChatGPT 기본 모델을 GPT-5.5 Instant로 교체했다. 의료·법률·금융 고위험 프롬프트에서 허위 주장이 52.5% 감소했고, 전체 환각률은 약 20%에서 약 3%로 내려왔다.
-image: https://picsum.photos/seed/2026-06-05-openai-gpt55-hallucination/800/500
+image: "https://images.ctfassets.net/kftzwdyauwt9/360kMX00WHnA5T0OV55dEf/72aedfc1c8d09cbc8662acd8af2e2afc/20250822.jpg?w=1600&h=900&fit=fill"
 ---
 
 ## 한 줄 요약

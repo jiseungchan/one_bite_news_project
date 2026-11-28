@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026053001234"
 description: "5월 30일 기준 외국인 투자자들이 삼성전자와 SK하이닉스를 동시에 순매수 전환했다. AI 반도체 수요 회복 기대감과 원화 약세 수혜가 맞물리며, 코스피 반도체 섹터에 2주 만의 외국인 자금 유입이 확인됐다."
-image: "https://picsum.photos/seed/2026-05-31-foreigners-buy-korea-semicon-stocks/800/500"
+image: "images/cards/2026-05-31-foreigners-buy-korea-semicon-stocks.svg"
 ---
 
 ## 한 줄 요약

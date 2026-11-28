@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=212441
 date: 2026-07-05
 description: 바이트댄스가 이번 주 시댄스 2.5 출시 예정. 기본 30초에서 최대 3분(180초)까지 단일 프롬프트 영상 생성이 가능하며, 통합 음성·영상 아키텍처로 일관성 문제를 정면 돌파했다.
-image: https://picsum.photos/seed/2026-07-05-bytedance-seedance-25/800/500
+image: "https://cdn.aitimes.com/news/photo/202607/212441_215699_1530.jpg"
 ---
 
 ## 한 줄 요약

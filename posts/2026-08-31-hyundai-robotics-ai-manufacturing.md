@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41589"
 description: "현대로보틱스가 AI 비전 기반 자율 제조 로봇 'H-Bot 3000' 시리즈를 양산하기 시작했다. 기존 산업 로봇과 달리 정해진 동선 없이 작업 환경을 스스로 인식하고 적응하며, 라인 전환 시간을 6시간에서 11분으로 줄였다."
+image: "images/cards/2026-08-31-hyundai-robotics-ai-manufacturing.svg"
 ---
 
 ## 배경 — 고정 경로 프로그래밍의 30년 한계

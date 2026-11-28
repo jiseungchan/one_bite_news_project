@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41203"
 description: "EU가 AI법(AI Act)의 고위험 AI 시스템 조항을 위반한 채용 심사 AI 기업 3곳에 총 4,800만 유로(약 740억 원)를 제재했다. 6월 법 시행 후 두 달 만에 나온 첫 대형 과징금으로, 글로벌 HR AI 시장에 충격이 파급되고 있다."
-image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&q=80"
+image: "images/cards/2026-08-01-eu-ai-act-first-fine.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ source: Anthropic
 sourceUrl: https://www.anthropic.com/news/claude-opus-4-8
 date: 2026-06-04
 description: Anthropic이 Claude Opus 4.8을 출시했다. Dynamic Workflows로 최대 동시 16개·총 1,000개 서브에이전트를 병렬 실행할 수 있으며, Fast Mode는 기존 대비 3배 저렴해졌다.
-image: https://picsum.photos/seed/2026-06-04-claude-opus-4-8-dynamic-workflows/800/500
+image: "https://assets.claude.com/527d12e5c1188be37d1ec282c0ffba1a3619ee3c.jpg"
 ---
 
 ## 한 줄 요약

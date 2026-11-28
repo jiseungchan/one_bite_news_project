@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42018"
 description: "삼성전자·SK그룹·현대차그룹이 2027년까지 AI 에이전트를 전 사업 부문에 도입하겠다고 잇달아 선언했다. 파일럿을 넘어 조직 운영의 기본 도구로 AI를 내재화하는 전환의 기로에 서 있다."
-image: "https://picsum.photos/seed/2026-11-22-korea-conglomerate-ai-agent-2027/800/500"
+image: "https://cdn.aitimes.kr/news/thumbnail/202609/42018_63200_2323_v150.jpg"
 ---
 
 ## 한 줄 요약

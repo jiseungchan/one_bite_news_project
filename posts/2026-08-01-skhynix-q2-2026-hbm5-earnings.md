@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026073117510"
 description: "SK하이닉스가 2026년 2분기 영업이익 8조 3,000억 원을 기록하며 증권가 컨센서스(시장 예상치)를 30% 이상 상회했다. HBM5(6세대 고대역폭 메모리) 독점 공급 효과가 본격 반영된 결과로, 영업이익률은 반도체 업계 사상 최고인 68%에 달했다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "images/cards/2026-08-01-skhynix-q2-2026-hbm5-earnings.svg"
 ---
 
 ## 한 줄 요약

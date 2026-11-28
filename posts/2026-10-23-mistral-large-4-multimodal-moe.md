@@ -5,6 +5,7 @@ category: AI
 source: "Mistral AI"
 sourceUrl: "https://docs.mistral.ai/models/mistral-large-4"
 description: "미스트랄이 1.05조 파라미터 규모의 멀티모달 MoE 모델 'Mistral Large 4'를 공개 프리뷰로 출시했다. 100만 토큰 컨텍스트 윈도우와 오픈웨이트를 내세우며 GPT-5·클로드와의 정면 경쟁을 선언했다."
+image: "https://docs.mistral.ai/og/en/models/mistral-large-4-0/image.png"
 ---
 
 10월 6일, 유럽의 AI 스타트업 미스트랄(Mistral AI)이 새 모델을 꺼냈다. 이름은 Mistral Large 4. 숫자들이 일단 크다.

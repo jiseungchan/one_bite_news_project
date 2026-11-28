@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209801"
 description: "OpenAI의 최신 추론 모델 o3가 공개된 이후, 국내 AI 연구자들 사이에서 세 가지 측면이 특히 주목받고 있다. 수학·과학 벤치마크의 압도적 성능, 추론 비용의 현실적 구현, 그리고 '숙고(deliberate thinking)' 메커니즘의 설계 철학이다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=85"
+image: "https://cdn.aitimes.com/news/photo/202604/209801_212316_524.png"
 ---
 
 ## 기존에는 어땠나

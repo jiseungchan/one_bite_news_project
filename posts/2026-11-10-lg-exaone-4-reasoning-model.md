@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=219584"
 description: "LG AI연구원이 추론 특화 모델 엑사원(EXAONE) 4.0을 공개했다. MATH-500 벤치마크에서 92.4%, 코딩 평가에서 국내 모델 중 1위를 주장했다. 경량 버전은 오픈소스로 공개된다."
-image: "https://picsum.photos/seed/2026-11-10-lg-exaone-4-reasoning-model/800/500"
+image: "images/cards/2026-11-10-lg-exaone-4-reasoning-model.svg"
 ---
 
 ## 한 줄 요약

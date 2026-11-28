@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/
 date: 2026-06-05
 description: AI가 법원 소송 서류 제출을 2배 이상 늘렸지만 승소율은 그대로다. 한편 AI 데이터센터는 뉴욕주 전체 전력을 삼키고 있다. 두 이야기 모두 AI의 '약속'과 '대가'에 관한 것이다.
-image: https://picsum.photos/seed/2026-06-05-mit-ai-lawsuits-virtual-power-plants/800/500
+image: "images/cards/2026-06-05-mit-ai-lawsuits-virtual-power-plants.svg"
 ---
 
 ## 한 줄 요약

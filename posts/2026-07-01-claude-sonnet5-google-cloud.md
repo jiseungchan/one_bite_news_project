@@ -5,7 +5,7 @@ source: "Google Cloud Blog"
 sourceUrl: "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud"
 date: 2026-07-01
 description: "Anthropic의 최신 모델 Claude Sonnet 5가 Google Cloud Agent Platform에 정식 출시됐다. 강화된 추론, 코드 생성 개선, 데스크탑·브라우저 자동화 기능을 탑재했으며, 구글은 이로써 기업용 AI 시장에서 OpenAI(Azure), Claude(AWS)와 3파전 구도를 형성했다."
-image: "https://picsum.photos/seed/2026-07-01-claude-sonnet5-google-cloud/800/500"
+image: "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_google_cloud_pill_muted_2436x120.max-2500x2500.png"
 ---
 
 ## 한 줄 요약

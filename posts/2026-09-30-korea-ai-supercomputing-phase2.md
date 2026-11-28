@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42311"
 description: "과학기술정보통신부가 국가 AI 슈퍼컴퓨팅 센터 2단계 구축 사업 공고를 냈다. 총 1조 2,000억 원 규모로, 2027년 말까지 엑사스케일(Exascale) 수준의 AI 연산 인프라를 확보하는 게 목표다."
-image: "https://picsum.photos/seed/2026-09-30-korea-ai-supercomputing-phase2/800/500"
+image: "images/cards/2026-09-30-korea-ai-supercomputing-phase2.svg"
 ---
 
 ## 한 줄 요약

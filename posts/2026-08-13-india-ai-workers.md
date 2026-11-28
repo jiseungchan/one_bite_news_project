@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/features/2026-08-12/thousands-of-india-workers-are-helping-ai-firms-train-robots-to-replace-them"
 description: "전 세계 AI 기업들이 로봇 훈련 데이터 수집을 위해 인도 노동자 수천 명을 고용하고 있다. 이 노동자들이 하는 일은 바로 자신의 일자리를 빼앗을 로봇을 직접 가르치는 것이다."
-image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&q=80"
+image: "images/cards/2026-08-13-india-ai-workers.svg"
 ---
 
 ## 한 줄 요약

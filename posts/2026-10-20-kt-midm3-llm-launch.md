@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41389"
 description: "KT가 자체 개발한 대형 언어 모델 '믿음3.0'을 공개했다. 통신·서비스 도메인 특화 학습으로 고객 상담 정확도를 범용 모델 대비 28% 높였으며, 2027년 1분기 외부 기업 API 개방도 예고했다."
+image: "images/cards/2026-10-20-kt-midm3-llm-launch.svg"
 ---
 
 ## 배경: 통신사가 왜 AI 모델을 직접 만드는가

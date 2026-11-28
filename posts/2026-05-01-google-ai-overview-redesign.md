@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=209998
 date: 2026-05-01
 description: 구글이 AI 오버뷰(AI Overview) 검색 시스템을 전면 개편했다. 부정확한 답변으로 비판받던 초기 버전 대비 사실 오류율을 60% 낮췄으며, 출처 명시 방식과 답변 구조를 대폭 바꿨다.
-image: https://picsum.photos/seed/2026-05-01-google-ai-overview-redesign/800/500
+image: "images/cards/2026-05-01-google-ai-overview-redesign.svg"
 ---
 
 ## 한 줄 요약

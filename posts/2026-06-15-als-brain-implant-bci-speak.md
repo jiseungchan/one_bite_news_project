@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
 description: "ALS(루게릭병) 환자가 뇌에 삽입한 임플란트로 발화 능력을 회복했다. MIT Tech Review는 이 남성을 해당 BCI 시스템의 '첫 번째 파워 유저'로 소개했다."
-image: "https://picsum.photos/seed/2026-06-15-als-brain-implant-bci-speak/800/500"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/06/Casey-Harrell-and-family-at-home.jpg?resize=1200,600"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213135"
 description: "AI 교육 플랫폼 딥러닝.AI 창업자 앤드류 응이 오픈소스 AI 에이전트 '오픈워커'를 공개했다. 질문에 답하는 대신 실제 결과물을 만드는 것이 목표다. 특정 모델에 종속되지 않는 프라이버시 우선 설계가 핵심이다."
+image: "https://cdn.aitimes.com/news/photo/202607/213135_216544_1852.png"
 ---
 
 앤드류 응(Andrew Ng) 교수가 이번엔 제품을 들고 나왔다. 구글 브레인 공동 창업자이자 딥러닝.AI(DeepLearning.AI) 창업자로 알려진 그가 7월 25일 오픈소스 AI 에이전트 '오픈워커(OpenWorker)'를 공개했다.

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052991823"
 description: "엔비디아가 차세대 AI GPU '루빈' 아키텍처의 3분기 고객사 출하를 공식화했다. HBM4E(6세대 고대역폭 메모리)를 탑재하는 루빈 수혜주로 SK하이닉스와 한미반도체가 부각되며, 두 종목 모두 장중 3% 이상 상승했다."
-image: "https://picsum.photos/seed/2026-05-30-nvidia-rubin-gpu-shipment-korea-stocks/800/500"
+image: "images/cards/2026-05-30-nvidia-rubin-gpu-shipment-korea-stocks.svg"
 ---
 
 ## 한 줄 요약

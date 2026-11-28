@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211001"
 description: "과학기술정보통신부가 AI 시스템의 취약점과 위험을 선제적으로 발굴하는 'AI 레드팀'을 공식 출범시켰다. 국내 주요 AI 기업과 공공기관의 모델을 대상으로 적대적 테스트를 수행하며, EU AI법 발효를 앞둔 국내 대응 체계 정비의 일환이다."
-image: "https://picsum.photos/seed/2026-05-31-korea-ai-red-team-launch/800/500"
+image: "images/cards/2026-05-31-korea-ai-red-team-launch.svg"
 ---
 
 ## 한 줄 요약

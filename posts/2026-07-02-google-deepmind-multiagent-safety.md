@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/
 date: 2026-07-02
 description: 구글 딥마인드가 수백만 AI 에이전트 간 대규모 상호작용이 만들어낼 위험을 연구하기 위해 슈미트 사이언스·ARIA·구글.org와 함께 1,000만 달러(약 136억 원) 공동 기금을 조성했다. 신청 마감은 2026년 8월 8일.
-image: https://images.unsplash.com/photo-1625314897518-bb4fe6e95229?w=800&q=80
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/06/corralling-agents.jpg?resize=1200,600"
 ---
 
 ## 한 줄 요약

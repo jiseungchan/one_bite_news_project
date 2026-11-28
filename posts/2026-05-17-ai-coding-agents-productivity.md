@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/15/1116380/ai-coding-agents-productivity-data/"
 description: "AI 코딩 에이전트가 소프트웨어 개발 생산성을 실제로 얼마나 바꾸고 있는지, MIT가 수십 개 팀의 실측 데이터를 분석해 공개했다. 벤치마크 수치와 실제 업무 환경의 간극이 다시 한번 확인됐다."
-image: "https://picsum.photos/seed/2026-05-17-ai-coding-agents-productivity/800/500"
+image: "images/cards/2026-05-17-ai-coding-agents-productivity.svg"
 ---
 
 ## 한 줄 요약

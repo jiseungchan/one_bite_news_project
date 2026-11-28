@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026073181606"
 description: "7월 31일 코스피가 하루 만에 17.91% 급등해 역대 최대 상승폭·상승률을 동시 경신했다. SK하이닉스는 17년 만의 상한가, 삼성전자는 26% 폭등. 마이크로소프트 애저 매출 43% 급증이 방아쇠였다."
+image: "images/cards/2026-08-02-kospi-record-surge-samsung-skhynix.svg"
 ---
 
 7월 31일은 한국 증시 역사에 기록될 날이다.

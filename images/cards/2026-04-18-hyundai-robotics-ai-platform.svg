@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.4" x2="1" y2="0.9"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="674" cy="64" r="190" fill="#fff" fill-opacity=".05"/>
+<g><rect x="555" y="120" width="170" height="140" rx="30" fill="#fff" fill-opacity=".16" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><circle cx="605" cy="185" r="16" fill="#fff"/><circle cx="675" cy="185" r="16" fill="#fff"/><path d="M610 230h60" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><path d="M640 120V85" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><circle cx="640" cy="78" r="10" fill="#fff"/><rect x="580" y="270" width="120" height="85" rx="16" fill="#fff" fill-opacity=".1" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/><path d="M580 295l-50 40M700 295l50 40" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">현대차, 로봇에 AI 두뇌를</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">심다</text>
+<rect x="48" y="300" width="65" height="38" rx="19" fill="#fff" fill-opacity=".18"/><text x="80.5" y="325" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">현대차</text>
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-04-18 · 인공지능신문 · 한입뉴스</text>
+</svg>

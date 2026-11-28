@@ -5,7 +5,7 @@ source: TechCrunch
 sourceUrl: https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/
 date: 2026-06-11
 description: WWDC 2026에서 Apple은 Siri의 핵심 엔진을 자체 개발에서 Google Gemini 1.2T 파라미터 모델로 교체했다. "온디바이스 프라이버시"를 강조하던 Apple이 클라우드 기반 경쟁사 모델을 채택한 것 — AI 경쟁에서 현실적 선택이 이상적 철학을 이겼다.
-image: https://picsum.photos/seed/2026-06-11-wwdc-2026-siri-google-gemini/800/500
+image: "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186"
 ---
 
 ## 한 줄 요약

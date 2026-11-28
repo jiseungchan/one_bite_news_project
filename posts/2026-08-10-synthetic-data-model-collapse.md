@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/08/1141023/synthetic-data-model-collapse-ai-training-crisis/"
 description: "인터넷 신규 텍스트의 절반 이상이 AI 생성 콘텐츠로 채워진 2026년, AI 모델들이 스스로 만든 데이터로 재훈련되기 시작했다. MIT CSAIL 연구팀이 측정한 결과, AI 생성 데이터 비율이 40%를 넘으면 성능이 세대를 거듭할수록 급격히 저하되는 '모델 붕괴' 현상이 나타났다."
-image: "https://picsum.photos/seed/2026-08-10-synthetic-data-model-collapse/800/500"
+image: "images/cards/2026-08-10-synthetic-data-model-collapse.svg"
 ---
 
 ## 한 줄 요약

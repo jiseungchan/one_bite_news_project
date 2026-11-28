@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/29/1117354/the-next-wave-of-ai-agents/"
 description: "AI 에이전트가 사람 대신 브라우저를 열고, 파일을 옮기고, 앱을 실행하는 'computer-use' 기능이 주요 모델에 탑재되기 시작했다. 벤치마크 성공률은 80%를 넘어섰지만, 실제 업무 환경 적용까지는 아직 넘어야 할 관문이 있다."
-image: "https://picsum.photos/seed/2026-05-31-ai-agents-computer-use-wave/800/500"
+image: "images/cards/2026-05-31-ai-agents-computer-use-wave.svg"
 ---
 
 ## 한 줄 요약

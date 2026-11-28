@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33120"
 description: "엔비디아가 여러 AI 에이전트를 하나의 팀으로 연결·최적화하는 오픈소스 라이브러리 AgentIQ를 공개했다. LangChain, CrewAI 등 주요 프레임워크를 모두 지원하며, 토큰 단위 성능 분석과 강화학습 기반 자동 최적화가 핵심이다."
-image: "https://picsum.photos/seed/2026-05-02-nvidia-agentiq-platform/800/500"
+image: "https://cdn.aitimes.kr/news/thumbnail/202412/33120_50347_3214_v150.jpg"
 ---
 
 ## 한 줄 요약

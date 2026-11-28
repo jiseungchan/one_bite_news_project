@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026051541891"
 description: "엔비디아가 차세대 AI 가속기 블랙웰 울트라(B300)의 하반기 공급 물량을 기존 계획 대비 확대한다고 밝혔다. 블랙웰 울트라에 탑재되는 HBM3E(8단·12단)의 주요 공급사인 SK하이닉스와 삼성전자에 대한 수혜 기대감이 높아졌다."
-image: "https://picsum.photos/seed/2026-05-16-nvidia-blackwell-ultra-skhynix-samsung/800/500"
+image: "images/cards/2026-05-16-nvidia-blackwell-ultra-skhynix-samsung.svg"
 ---
 
 ## 한 줄 요약

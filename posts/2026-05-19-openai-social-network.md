@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/05/17/1117045/openai-wants-to-build-a-social-network/
 date: 2026-05-19
 description: OpenAI가 ChatGPT 피드 기반 소셜 네트워크 구축을 검토 중이다. AI 모델 학습용 고품질 사용자 데이터 확보와 플랫폼 잠금 효과를 동시에 노리는 전략적 행보다.
-image: https://picsum.photos/seed/2026-05-19-openai-social-network/800/500
+image: "images/cards/2026-05-19-openai-social-network.svg"
 ---
 
 ## 한 줄 요약

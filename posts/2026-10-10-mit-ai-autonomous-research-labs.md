@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/08/1141205/autonomous-ai-research-labs-one-year-review/"
 description: "사람 없이 AI가 실험을 설계·실행·분석하는 자율 과학 연구 시스템이 도입 1년을 맞았다. 영국 카디프 대학의 '로보사이언티스트 4' 사례를 중심으로 무엇이 가능해졌고 무엇이 아직 인간의 몫인지를 짚는다."
+image: "images/cards/2026-10-10-mit-ai-autonomous-research-labs.svg"
 ---
 
 과학 논문을 쓰는 AI 이야기는 이미 여러 번 나왔다. 하지만 이번 보고서는 좀 다르다. 실험을 설계하고, 장비를 제어하고, 결과를 분석해 다음 실험 조건을 스스로 수정하는 — 그러니까 연구 전 사이클을 인간 개입 없이 돌리는 시스템이 실제로 1년을 운영됐다는 이야기다.

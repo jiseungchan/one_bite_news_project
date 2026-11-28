@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213489"
 description: "로보티즈가 휴머노이드 로봇 'AI 사피엔스'의 핵심 제어코드와 강화학습 워크플로를 상업적 활용까지 허용하며 전면 공개했다. 폐쇄형 미국, 저가형 중국 사이에서 한국이 '개방형 생태계'로 승부를 건다."
+image: "https://cdn.aitimes.com/news/photo/202608/213489_216973_2232.png"
 ---
 
 글로벌 휴머노이드 로봇 시장이 두 극단으로 쪼개지고 있다. 한쪽엔 Figure AI, Tesla Optimus 등이 이끄는 **미국의 폐쇄형 모델** — 독점적 소프트웨어로 생태계를 장악하는 방식이다. 다른 쪽엔 **중국의 물량 공세** — 정부 보조금을 등에 업은 저가 휴머노이드가 글로벌 시장을 잠식하고 있다.

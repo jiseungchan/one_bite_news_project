@@ -5,7 +5,7 @@ category: 경제·주식
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/news/accenture-embedded-evaluation"
 description: "앤트로픽과 액센추어가 AI 독립 평가를 위해 5년간 최소 10억 달러(약 1조 4,000억 원)를 공동 투자한다. 외부 평가자가 직원 수준의 접근 권한으로 AI 개발 전 과정을 들여다보는 '임베디드 평가' 모델이다."
-image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+image: "images/cards/2026-09-23-anthropic-accenture-ai-evaluation.svg"
 ---
 
 ![AI 독립 평가 파트너십](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80)

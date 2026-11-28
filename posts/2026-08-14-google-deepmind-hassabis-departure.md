@@ -5,6 +5,7 @@ category: AI
 source: "Axios / Fortune"
 sourceUrl: "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai"
 description: "AI 역사상 가장 상징적인 이름 중 하나인 데미스 하사비스가 구글 딥마인드 CEO 자리에서 물러났다. 같은 날 구글 27년 베테랑 제프 딘도 회사를 떠났다."
+image: "images/cards/2026-08-14-google-deepmind-hassabis-departure.svg"
 ---
 
 ## 배경: 구글이 AI 전쟁에서 뒤처졌다

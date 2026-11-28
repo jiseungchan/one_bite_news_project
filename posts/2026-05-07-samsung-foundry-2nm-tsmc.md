@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050645021"
 description: "삼성전자 파운드리 사업부가 2nm(나노미터) 공정 수율 60%를 달성했다고 밝혔다. TSMC의 N2 공정 수율(약 70%)에 근접한 수치로, 퀄컴·AMD 등 주요 팹리스의 수주 재개 가능성이 열렸다."
-image: "https://picsum.photos/seed/2026-05-07-samsung-foundry-2nm-tsmc/800/500"
+image: "images/cards/2026-05-07-samsung-foundry-2nm-tsmc.svg"
 ---
 
 ## 한 줄 요약

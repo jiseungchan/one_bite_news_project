@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/20/the-illusion-of-ai-understanding/"
 description: "대형 언어 모델이 문제를 '이해'하는 것처럼 보이지만 실제로는 통계적 패턴을 재현하는 것에 불과하다는 연구 결과가 잇따르고 있다. MIT 연구진이 LLM의 인지 착각 메커니즘을 분석했다."
-image: "https://picsum.photos/seed/2026-05-22-mit-ai-illusion-understanding/800/500"
+image: "images/cards/2026-05-22-mit-ai-illusion-understanding.svg"
 ---
 
 ## 한 줄 요약

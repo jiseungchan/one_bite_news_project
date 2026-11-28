@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33450"
 description: "구글 딥마인드가 오디오 생성 기능을 통합한 영상 생성 AI Veo 3를 공개했다. 영상 프레임에 맞춰 배경음, 대화 음성, 효과음을 자동 생성하는 최초의 통합 모델로, 크리에이터 도구 생태계에 파급이 예상된다."
-image: "https://picsum.photos/seed/2026-06-01-google-veo3-video-generation/800/500"
+image: "images/cards/2026-06-01-google-veo3-video-generation.svg"
 ---
 
 ## 한 줄 요약

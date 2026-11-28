@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33456"
 description: "2026년 1분기 국내 AI 스타트업 투자액이 역대 분기 최대치를 기록했다. 투자의 중심은 범용 AI 모델에서 에이전틱 AI(스스로 계획하고 실행하는 AI 시스템)로 빠르게 이동 중이다."
-image: "https://picsum.photos/seed/2026-05-25-korea-ai-startup-investment-record/800/500"
+image: "images/cards/2026-05-25-korea-ai-startup-investment-record.svg"
 ---
 
 ## 한 줄 요약

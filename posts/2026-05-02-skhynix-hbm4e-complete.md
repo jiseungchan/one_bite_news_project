@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026042932010"
 description: "SK하이닉스가 차세대 AI 메모리 HBM4E 개발을 완료하고 2026년 4분기 양산에 돌입한다고 선언했다. HBM4 대비 대역폭 30% 향상, 전력 효율 20% 개선이 핵심 스펙이며, 엔비디아 루빈(Rubin) GPU 플랫폼에 독점 납품이 예상된다."
-image: "https://picsum.photos/seed/2026-05-02-skhynix-hbm4e-complete/800/500"
+image: "images/cards/2026-05-02-skhynix-hbm4e-complete.svg"
 ---
 
 ## 한 줄 요약

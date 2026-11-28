@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026110442246"
 description: "KB증권이 2027년 삼성전자·SK하이닉스 합산 영업이익을 1111조 원으로 추정했다. 메모리 생산량의 70~80%가 빅테크와의 5년 장기계약으로 사전 확보된 상태다."
-image: "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+image: "https://img.hankyung.com/photo/202611/02.46237073.1.jpg"
 ---
 
 11월 3일, 코스피는 3.59% 급락해 5648.79로 마감했다. 삼성전자는 4.15% 하락한 21만9500원, SK하이닉스는 5.03% 하락한 139만8000원. 표면만 보면 반도체 업황에 대한 시장의 불신처럼 읽힌다.

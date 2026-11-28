@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/"
 description: "삼성전자가 2026년 2분기 영업이익 89.4조 원(사상 최대)을 발표했지만 주가는 당일 6% 이상 급락했다. 역대급 실적에도 시장이 웃지 않는 이유를 들여다봤다."
+image: "images/cards/2026-07-11-samsung-q2-2026-record-earnings.svg"
 ---
 
 7월 7일, 삼성전자가 올 2분기 잠정 실적을 발표했다. 매출 171조 원, 영업이익 89.4조 원 — 역대 최대 영업이익이다. 주가는 당일 6% 이상 급락했다.

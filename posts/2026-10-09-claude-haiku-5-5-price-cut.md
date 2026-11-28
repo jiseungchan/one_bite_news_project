@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna/"
 description: "앤트로픽이 10월 7일 클로드 하이쿠 5.5를 출시했다. 이전 모델 대비 API 비용을 최대 90% 낮추면서 컨텍스트 윈도우는 200K에서 100만 토큰으로 5배 확대했다."
+image: "images/cards/2026-10-09-claude-haiku-5-5-price-cut.svg"
 ---
 
 2026년 10월 7일, 앤트로픽(Anthropic)이 클로드 하이쿠 5.5(Claude Haiku 5.5)를 공개했다. 가장 눈에 띄는 숫자는 하나다: API 비용 최대 90% 인하.

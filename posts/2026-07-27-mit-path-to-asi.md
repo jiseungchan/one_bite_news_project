@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
 description: "MIT Technology Review가 ASI(인공 초지능)로 가는 경로를 분석했다. 다음 확장 축은 수직이 아니라 수평—멀티에이전트 시스템이 분산 초지능을 실현하는 핵심 구조가 될 것이라는 주장이다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/CREA-1571-MIT-tech-review-Misc-1200x675-option-2.png?resize=1200,600"
 ---
 
 AI 업계에서 '다음 단계'를 논할 때 늘 등장하는 단어가 있다. AGI(인공일반지능)와 ASI(인공 초지능 — 모든 영역에서 인간을 능가하는 AI). 그런데 MIT Technology Review가 오늘 발행한 분석이 흥미로운 건, 거기 도달하는 방법을 새롭게 정의했다는 점이다.

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/29/1117312/ai-coding-agents-software-engineering-future/"
 description: "GitHub Copilot·Cursor·Claude Code 등 AI 코딩 에이전트가 산업 표준으로 자리 잡으면서, 소프트웨어 엔지니어링의 본질이 '코드 작성'에서 '시스템 설계와 검증'으로 이동하고 있다. MIT 연구진이 6개월간 기업 데이터를 분석한 결과다."
-image: "https://picsum.photos/seed/2026-06-02-ai-coding-agents-software-engineering/800/500"
+image: "images/cards/2026-06-02-ai-coding-agents-software-engineering.svg"
 ---
 
 ## 한 줄 요약

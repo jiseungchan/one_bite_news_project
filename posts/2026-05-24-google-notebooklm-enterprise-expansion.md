@@ -5,7 +5,7 @@ source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33487"
 date: 2026-05-24
 description: "구글이 NotebookLM의 기업용 버전을 Workspace에 통합했다. 내부 문서·보고서를 업로드하면 AI가 핵심 내용을 분석하고 맞춤형 팟캐스트(Audio Overview)와 FAQ를 자동 생성한다. 기존 RAG 방식보다 맥락 이해도가 높다는 평가다."
-image: "https://picsum.photos/seed/2026-05-24-google-notebooklm-enterprise-expansion/800/500"
+image: "images/cards/2026-05-24-google-notebooklm-enterprise-expansion.svg"
 ---
 
 ## 한 줄 요약

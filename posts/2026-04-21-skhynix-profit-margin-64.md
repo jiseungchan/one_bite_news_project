@@ -5,7 +5,7 @@ source: 매일경제
 sourceUrl: https://www.mk.co.kr/news/stock/12021499
 date: 2026-04-21
 description: SK하이닉스가 영업이익률 64%라는 반도체 업계 이례적 수치를 기록했다. HBM(고대역폭 메모리) 독주 효과가 실적 전반에 반영된 결과로, 성과급 수조 원도 '넉넉히' 감당할 수 있는 수준이다.
-image: https://picsum.photos/seed/skhynix-earnings-2026/800/500
+image: "https://pimg.mk.co.kr/news/cms/202604/20/news-p.v1.20260326.8c77ba8fdc2a4217999c052e687e947c_R.png"
 ---
 
 ## 한 줄 요약

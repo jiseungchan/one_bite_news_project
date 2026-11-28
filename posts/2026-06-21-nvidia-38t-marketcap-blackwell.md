@@ -5,7 +5,7 @@ source: Bloomberg
 sourceUrl: https://www.bloomberg.com/news/articles/2026-06-19/nvidia-market-cap-3-8-trillion-blackwell-ultra-demand
 date: 2026-06-21
 description: 엔비디아 시가총액이 6월 19일 기준 3.82조 달러(약 5,320조 원)로 사상 최고치를 경신했다. Blackwell Ultra GPU 수요가 공급을 5배 초과하며 주가는 연초 대비 87% 상승했고, HBM4를 공급하는 SK하이닉스도 동반 수혜를 누리고 있다.
-image: https://picsum.photos/seed/2026-06-21-nvidia-38t-marketcap-blackwell/800/500
+image: "images/cards/2026-06-21-nvidia-38t-marketcap-blackwell.svg"
 ---
 
 ## 한 줄 요약

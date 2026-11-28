@@ -5,7 +5,7 @@ source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026052701234"
 date: 2026-05-27
 description: "엔비디아가 차세대 AI GPU '루빈(Rubin)'의 2026년 4분기 출하를 공식 확정했다. 루빈에 탑재될 HBM4E(6세대 고대역폭 메모리) 공급사로 SK하이닉스와 삼성전자가 경쟁 중이며, 양사 주가는 각각 3~4% 상승했다."
-image: "https://picsum.photos/seed/2026-05-27-nvidia-rubin-gpu-shipment-hbm4e/800/500"
+image: "images/cards/2026-05-27-nvidia-rubin-gpu-shipment-hbm4e.svg"
 ---
 
 ## 한 줄 요약

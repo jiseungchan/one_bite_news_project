@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/rss/allArticle.xml
 date: 2026-05-12
 description: Apple이 WWDC 2026 예고와 함께 iOS 19의 Apple Intelligence 2.0을 공개했다. 온디바이스 LLM 기반의 Siri가 앱 전체를 넘나들며 개인 맥락을 이해하는 방식으로 전면 개편된다.
-image: https://picsum.photos/seed/2026-05-12-apple-intelligence-ios19-siri/800/500
+image: "images/cards/2026-05-12-apple-intelligence-ios19-siri.svg"
 ---
 
 ## 한 줄 요약

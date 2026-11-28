@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/21/1115500/ai-safety-researchers-testing-ai/"
 description: "AI 안전성 논쟁에서 '정렬(alignment)' 이론보다 실제 테스트와 레드팀 평가가 더 효과적이라고 주장하는 연구자들이 주목받고 있다. AI 모델을 출시 전에 체계적으로 공격하고 취약점을 찾는 것이 안전 확보의 핵심이라는 주장이다."
-image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"
+image: "images/cards/2026-04-22-ai-safety-testing-research.svg"
 ---
 
 ## 한 줄 요약

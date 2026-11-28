@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"
 description: "2026년 미국 중간선거에서 민주당이 압승하며 텍사스까지 뒤집었다. AI 데이터센터 건설 붐의 최대 거점이 흔들리고 있다."
-image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600"
 ---
 
 ## 텍사스가 뒤집혔다

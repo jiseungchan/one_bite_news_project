@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
 description: "AI가 기후 변화 해결에 기여할 것이라는 기대가 커지고 있지만, MIT 테크 리뷰 분석에 따르면 실제 기업들의 도입과 성과 보고는 극히 미미하다. '가능성'과 '현실' 사이의 간극이 여전히 크다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600"
 ---
 
 ## AI가 기후 위기를 해결한다는 주장, 아직 증거가 없다

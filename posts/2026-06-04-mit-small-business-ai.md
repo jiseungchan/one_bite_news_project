@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/
 date: 2026-06-04
 description: MIT Technology Review가 소규모 사업자의 AI 활용 실태를 짚었다. 대기업과의 도입 격차가 벌어지는 가운데, LLM 기반 비서 업무·행정 자동화로 진입 장벽을 낮추는 실용적 접근법을 제시한다.
-image: https://picsum.photos/seed/2026-06-04-mit-small-business-ai/800/500
+image: "images/cards/2026-06-04-mit-small-business-ai.svg"
 ---
 
 ## 한 줄 요약

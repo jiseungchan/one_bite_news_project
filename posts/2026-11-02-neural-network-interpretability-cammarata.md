@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
 description: "Goodfire 연구원 Nick Cammarata가 26,000단어 블로그 포스트 하나로 AI 업계를 뒤흔들었다. 신경망은 블랙박스가 아니라 나름의 내부 논리를 가진다는 주장이다."
+image: "images/cards/2026-11-02-neural-network-interpretability-cammarata.svg"
 ---
 
 AI 연구자 사이에 오래된 통념이 있다. 신경망(neural network — 사람의 뇌 구조를 본뜬 AI 학습 구조)은 '블랙박스'라는 것이다. 수백억 개의 파라미터(매개변수)가 상호작용해 답을 내놓지만, 그 과정을 인간이 이해하는 건 불가능에 가깝다는 시각이 지배적이었다. 이 가정이 이번에 정면으로 도전받고 있다.

@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/rss/allArticle.xml"
 description: "과학기술정보통신부가 AI 기본법 시행령 초안을 공개했다. 고위험 AI 시스템 분류 기준과 사전 적합성 평가 의무가 핵심이며, 의료·금융·채용 분야 AI 서비스에 직접 적용된다. 기업들은 2026년 하반기 시행 전 대응 체계 마련에 나서고 있다."
-image: "https://picsum.photos/seed/2026-05-13-korea-ai-act-regulation-2026/800/500"
+image: "images/cards/2026-05-13-korea-ai-act-regulation-2026.svg"
 ---
 
 ## 한 줄 요약

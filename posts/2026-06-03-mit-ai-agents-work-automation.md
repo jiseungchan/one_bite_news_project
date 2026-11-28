@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 에이전트가 단순 답변 생성을 넘어 실제 업무 워크플로를 자율적으로 실행하는 단계로 진입했다. 코드 작성, 이메일 처리, 데이터 분석까지 멀티스텝 작업을 처음부터 끝까지 완수하는 에이전트 시스템이 기업 현장에 빠르게 확산되고 있다."
-image: "https://picsum.photos/seed/2026-06-03-mit-ai-agents-work-automation/800/500"
+image: "images/cards/2026-06-03-mit-ai-agents-work-automation.svg"
 ---
 
 ## 한 줄 요약

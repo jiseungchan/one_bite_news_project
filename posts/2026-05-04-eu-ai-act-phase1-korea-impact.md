@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33198"
 description: "유럽연합(EU)의 'AI법(AI Act)' 1단계 조항이 2026년 5월부터 공식 적용되기 시작했다. 유럽에 제품·서비스를 수출하거나 유럽 법인을 운영하는 국내 기업들은 당장 대응이 필요한 상황이다."
+image: "images/cards/2026-05-04-eu-ai-act-phase1-korea-impact.svg"
 ---
 
 규제는 항상 시장보다 늦게 온다. 그런데 이번에는 좀 다를 수 있다. EU AI법은 기술 표준을 선점하려는 유럽의 야심찬 시도이고, 그 영향권이 한국 기업에도 직접 닿는다.

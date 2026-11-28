@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216425"
 description: "마이크로소프트가 기업 내부 AI 에이전트를 '믿을 수 없는 내부자'로 규정하고, 이를 24시간 감시하는 Guardian Agents(가디언 에이전트)를 공개했다. 출처와 무관하게 모든 프론티어 모델은 신뢰할 수 없다는 선언이 업계에 파장을 일으키고 있다."
+image: "https://cdn.aitimes.com/news/photo/202610/216425_220500_3419.png"
 ---
 
 ## 배경

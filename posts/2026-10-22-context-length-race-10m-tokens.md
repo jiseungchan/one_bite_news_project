@@ -5,7 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/openai-google-anthropic-10-million-token-context-2026/"
 description: "주요 AI 기업들이 컨텍스트 길이를 1,000만 토큰까지 확장하는 경쟁에 돌입했다. 책 50권 분량을 통째로 기억하는 AI가 현실로 다가오고 있으며, 핵심은 단순히 숫자를 키우는 것이 아니라 회수율을 유지하면서 길이를 늘리는 것이다."
-image: "https://picsum.photos/seed/2026-10-22-context-length-race-10m-tokens/800/500"
+image: "images/cards/2026-10-22-context-length-race-10m-tokens.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-12/cerebras-hardware-business-declines-in-sign-of-lumpy-demand"
 description: "세레브라스의 하드웨어 매출이 감소하며 주가가 급락했다. AI 컴퓨트 수요가 폭발적으로 증가하는 것처럼 보여도, 대기업 주문에 의존하는 특수 AI 칩 시장은 분기별로 극단적인 진폭을 보인다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "images/cards/2026-08-13-cerebras-ai-demand.svg"
 ---
 
 ## 한 줄 요약

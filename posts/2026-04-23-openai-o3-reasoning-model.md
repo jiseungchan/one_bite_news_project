@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/"
 description: "OpenAI가 추론 특화 모델 o3를 공개했다. 수학·코딩·과학 벤치마크 전반에서 기존 최고 기록을 갈아치웠으며, 복잡한 문제를 '생각하는 시간'을 늘려 풀어내는 방식이 핵심이다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-23-openai-o3-reasoning-model.svg"
 ---
 
 ## 한 줄 요약

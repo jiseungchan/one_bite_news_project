@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211845"
 description: "국내 매출 상위 100대 기업 중 68%가 AI 에이전트를 업무 시스템에 도입했다는 조사 결과가 나왔다. 단순 챗봇을 넘어 실제 업무를 자율 실행하는 단계로 넘어가는 기업이 빠르게 늘고 있다."
-image: "https://picsum.photos/seed/2026-06-09-korea-ai-agent-enterprise-adoption/800/500"
+image: "images/cards/2026-06-09-korea-ai-agent-enterprise-adoption.svg"
 ---
 
 ## 한 줄 요약

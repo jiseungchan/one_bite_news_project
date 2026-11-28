@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41892"
 description: "스탠퍼드·MIT 공동 연구팀이 AI 에이전트 10개를 병렬로 투입한 멀티에이전트 코딩 시스템에서 SWE-bench 기준 버그 해결률 78.3%를 달성했다. 단일 에이전트(약 40%) 대비 두 배 수준이며, 인간 개발자(약 80%)에 근접했다."
-image: "https://picsum.photos/seed/2026-10-08-multiagent-coding-stanford/800/500"
+image: "images/cards/2026-10-08-multiagent-coding-stanford.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215396"
 description: "지니젠AI가 오픈라우터 426종 모델을 한국어 7개 항목으로 평가했다. A등급 이상은 25종(7.6%)에 그쳤고, F등급이 33.6%를 차지했다. 존칭과 업무 정확도에서 오답이 특히 빈번했다."
-image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+image: "https://cdn.aitimes.com/news/photo/202609/215396_219213_2932.jpg"
 ---
 
 AI를 업무에 쓰려는 한국 기업들이 공통으로 겪는 문제가 있다. 영어로는 잘 되는데 한국어로 쓰면 어딘가 어색하거나 틀린다. 그게 얼마나 심한지를 처음으로 숫자로 보여주는 리더보드가 나왔다.

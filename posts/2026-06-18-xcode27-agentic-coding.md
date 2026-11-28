@@ -5,7 +5,7 @@ category: AI
 source: "Apple Developer (WWDC26)"
 sourceUrl: "https://developer.apple.com/videos/play/wwdc2026/259/"
 description: "Apple이 WWDC 2026에서 공개한 Xcode 27은 AI 에이전트가 탐색·구축·정제·조율 4단계로 코딩 작업 전체를 보조한다. 서브-에이전트가 번역과 접근성 작업을 병렬로 처리하는 수준까지 왔다."
-image: "https://picsum.photos/seed/2026-06-18-xcode27-agentic-coding/800/500"
+image: "https://devimages-cdn.apple.com/wwdc-services/images/9B2E82C5-4DDF-4B9A-9459-328D8E297696/10782/10782_wide_250x141_2x.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
 description: "앤트로픽이 중국 AI 기업 Z.ai의 최신 모델이 대규모 사이버 공격에 활용될 수 있다고 경고한 가운데, 22개국이 AI를 감독할 새로운 국제기구 창설을 촉구했다. 'AI 거버넌스의 공백'이 더 이상 이론적 문제가 아님을 보여주는 사건이다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600"
 ---
 
 # 22개국이 AI 국제기구 창설을 요구하다 — Z.ai 사이버 위협이 불러온 대응

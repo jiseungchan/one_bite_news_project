@@ -5,7 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/ai/openai-o3-pro-swe-bench-verified-87-percent/"
 description: "OpenAI가 추론 특화 모델의 고성능 버전 o3 Pro를 공개했다. 소프트웨어 엔지니어링 능력을 측정하는 SWE-bench Verified에서 87.3%를 기록하며, AI 코딩 에이전트가 처음으로 인간 시니어 개발자 수준에 도달했다는 평가가 나온다."
-image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+image: "images/cards/2026-08-01-openai-o3-pro-swe-bench.svg"
 ---
 
 ## 한 줄 요약

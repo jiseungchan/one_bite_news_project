@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
 description: "AI 랩들이 폐업 스타트업의 슬랙 메시지, 이메일, 코드 아카이브를 구입해 훈련 데이터로 활용하기 시작했다. 구글은 파산한 항공사 스피릿 에어라인스의 데이터를 1,000만 달러에 인수했다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600"
 ---
 
 이번에 흥미롭게 읽은 건 AI 훈련 데이터 시장이 또 새로운 국면에 접어들고 있다는 이야기다.

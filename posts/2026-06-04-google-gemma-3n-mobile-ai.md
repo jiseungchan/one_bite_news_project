@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=312105"
 description: "구글 딥마인드가 모바일·엣지 기기용 경량 AI 모델 Gemma 3n을 공개했다. 텍스트·이미지·오디오를 동시에 처리하는 멀티모달 기능을 스마트폰 수준의 연산 환경에서 구현한다."
-image: "https://picsum.photos/seed/2026-06-04-google-gemma-3n-mobile-ai/800/500"
+image: "images/cards/2026-06-04-google-gemma-3n-mobile-ai.svg"
 ---
 
 ## 한 줄 요약

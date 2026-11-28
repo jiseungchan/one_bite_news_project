@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/"
 description: "관세청이 발표한 6월 1~20일 수출이 전년 동기 대비 60.4% 급증했다. 반도체가 188% 뛰며 성장을 견인했고, KOSPI는 사상 최고치를 경신했다."
-image: "https://picsum.photos/seed/2026-06-22-korea-export-semiconductor-surge/800/500"
+image: "images/cards/2026-06-22-korea-export-semiconductor-surge.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33445"
 description: "SK텔레콤이 AI 개인 비서 '에이닷'을 에이전트 기반으로 전면 개편했다. 통화 내용 요약·실시간 번역에서 시작해 일정 관리·배달 주문·금융 서비스까지 연동하는 '행동하는 AI'로 진화했다."
+image: "images/cards/2026-05-28-skt-ai-agent-personal-service.svg"
 ---
 
 ## 리드

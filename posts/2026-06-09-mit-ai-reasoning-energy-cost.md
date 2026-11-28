@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/topic/artificial-intelligence/"
 description: "AI 추론 모델(reasoning model) 하나가 복잡한 질문에 답하는 데 소비하는 전력이 일반 검색의 수백 배에 달한다는 MIT 분석이 나왔다. 모델이 '더 깊이 생각할수록' 에너지 비용이 폭발적으로 늘어나는 구조다."
-image: "https://picsum.photos/seed/2026-06-09-mit-ai-reasoning-energy-cost/800/500"
+image: "images/cards/2026-06-09-mit-ai-reasoning-energy-cost.svg"
 ---
 
 ## 한 줄 요약

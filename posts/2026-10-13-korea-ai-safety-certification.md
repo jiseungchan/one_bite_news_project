@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213510"
 description: "과학기술정보통신부가 AI 기본법 시행 한 달 만에 AI 안전성 검증 인증기관 3곳을 공식 지정했다. ETRI·KAIST AI안전연구소·민간 전문기관이 포함됐으며, 고위험 AI 개발사는 이달 말부터 인증 신청이 가능해진다."
+image: "images/cards/2026-10-13-korea-ai-safety-certification.svg"
 ---
 
 ## 과기정통부, AI 안전성 인증기관 3곳 공식 지정 — AI 기본법 시행 한 달 만

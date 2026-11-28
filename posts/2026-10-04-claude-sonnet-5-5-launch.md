@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/claude-sonnet-5-5"
 description: "앤트로픽이 9월 28일 클로드 소네트 5.5를 출시했다. 전작 대비 30% 빠르고 태스크당 토큰을 30% 적게 쓰면서도, 코딩 벤치마크에서는 소네트 계열 최초로 오퍼스에 버금가는 수치를 찍었다."
+image: "https://assets.claude.com/5619ded000325e6b4aceb24fae6d4f9b5f9859e2.jpg"
 ---
 
 9월 28일, 앤트로픽이 클로드 소네트 5.5를 출시했다. 클로드 5.5 패밀리의 두 번째 모델로, 빠른 속도와 낮은 비용이 필요한 일상 코딩·문서 작업용으로 설계됐다.

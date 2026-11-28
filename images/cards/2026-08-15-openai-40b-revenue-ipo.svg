@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.3" x2="1" y2="0.8"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="678" cy="78" r="190" fill="#fff" fill-opacity=".05"/>
+<g><rect x="500" y="272" width="26" height="88" rx="4" fill="#fff" fill-opacity=".14"/><rect x="545" y="223" width="26" height="137" rx="4" fill="#fff" fill-opacity=".14"/><rect x="590" y="252" width="26" height="108" rx="4" fill="#fff" fill-opacity=".14"/><rect x="635" y="277" width="26" height="83" rx="4" fill="#fff" fill-opacity=".14"/><rect x="680" y="212" width="26" height="148" rx="4" fill="#fff" fill-opacity=".14"/><rect x="725" y="296" width="26" height="64" rx="4" fill="#fff" fill-opacity=".14"/><rect x="770" y="217" width="26" height="143" rx="4" fill="#fff" fill-opacity=".14"/><polyline points="510,279 555,166 600,283 645,324 690,250 735,241 780,156" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/><circle cx="780" cy="156" r="12" fill="#fff"/><path d="M490 365h300" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity=".6"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">OpenAI, IPO 앞두고</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">연환산 매출 400억 달…</text>
+<rect x="48" y="300" width="77" height="38" rx="19" fill="#fff" fill-opacity=".18"/><text x="86.5" y="325" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">OpenAI</text><rect x="135" y="300" width="48" height="38" rx="19" fill="#fff" fill-opacity=".18"/><text x="159.0" y="325" text-anchor="middle" font-size="17" font-weight="700" fill="#fff">IPO</text>
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-08-15 · Bloomberg Technology · 한입뉴스</text>
+</svg>

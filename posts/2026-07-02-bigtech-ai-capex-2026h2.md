@@ -5,7 +5,7 @@ source: EBN
 sourceUrl: https://kr.investing.com/news/stock-market-news/article-1983586
 date: 2026-07-02
 description: UBS는 주요 하이퍼스케일러의 2026년 AI 설비투자(CAPEX)가 기존 예상치보다 23% 급증한 7,700억 달러(약 1,110조 원)에 달할 것으로 추정했다. MS·아마존·메타 세 곳만 합쳐도 5,000억 달러를 넘는다.
-image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80
+image: "images/cards/2026-07-02-bigtech-ai-capex-2026h2.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ source: NVIDIA Newsroom
 sourceUrl: https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai
 date: 2026-06-04
 description: NVIDIA가 GTC Taipei에서 Cosmos 3를 공개했다. 20조 토큰으로 훈련된 세계 최초 완전 오픈 옴니모델로, 로봇 훈련 사이클을 몇 달에서 며칠로 단축한다.
-image: https://picsum.photos/seed/2026-06-04-nvidia-cosmos-3-physical-ai/800/500
+image: "https://iprsoftwaremedia.com/219/files/202605/858c6affb5b9d7009825bb2d26df2b4a/6a1a7cc83d6332054b1d64b9_nvidia-cosmos-3/nvidia-cosmos-3_31977712-517f-43fe-9229-10fda52a0839-prv.jpg?v=31977712-517f-43fe-9229-10fda52a0839"
 ---
 
 ## 한 줄 요약

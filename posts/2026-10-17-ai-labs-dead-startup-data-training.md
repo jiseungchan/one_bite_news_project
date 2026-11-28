@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
 description: "AI 학습 데이터가 고갈되기 시작하자, 구글과 스페이스X 등 빅테크가 파산한 스타트업의 슬랙 메시지·이메일·코드를 사들이기 시작했다. 데이터가 정말 그 회사 것이었는지는 아직 물음표다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600"
 ---
 
 ## 배경 — "공개 웹은 이미 다 긁었다"

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/06/1142103/ai-data-centers-electricity-demand-energy-politics/"
 description: "AI 데이터센터의 전력 소비가 미국 전체 전력의 8%에 근접하면서 에너지 인프라가 AI 경쟁의 핵심 변수로 부상했다. 새 원전 계약부터 석탄 발전소 수명 연장까지 — AI가 에너지 정책을 바꾸고 있다."
-image: "https://picsum.photos/seed/2026-10-08-ai-datacenter-power-crisis/800/500"
+image: "images/cards/2026-10-08-ai-datacenter-power-crisis.svg"
 ---
 
 ## 한 줄 요약

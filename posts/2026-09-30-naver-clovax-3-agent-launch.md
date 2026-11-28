@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=214582"
 description: "네이버가 클로바X 3.0을 공개하며 한국어 특화 에이전트 기능을 전면 강화했다. 네이버 생태계(검색·쇼핑·클라우드) 전체를 AI 에이전트가 직접 조작할 수 있는 구조로 전환된다."
-image: "https://picsum.photos/seed/2026-09-30-naver-clovax-3-agent-launch/800/500"
+image: "images/cards/2026-09-30-naver-clovax-3-agent-launch.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "CNBC"
 sourceUrl: "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
 description: "11월 12일 사임했던 젠슨 황이 11일 만인 23일 엔비디아 CEO로 복귀했다. 이사회 만장일치로 재선임됐고, 주가는 하루 만에 31% 뛰었다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-11-25-nvidia-jensen-huang-ceo-reinstatement.svg"
 ---
 
 11월 초만 해도 AI 반도체 시장의 절대 강자 엔비디아(Nvidia)는 평온했다. 시가총액 세계 1~2위를 다투며, 젠슨 황(Jensen Huang) CEO는 AI 붐을 가장 크게 수혜받은 기업인으로 불렸다. 그 평온이 불과 3주 만에 흔들렸고, 다시 일부 회복됐다.

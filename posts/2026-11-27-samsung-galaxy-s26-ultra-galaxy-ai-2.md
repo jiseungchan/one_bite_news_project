@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=42105"
 description: "삼성전자가 갤럭시 S26 Ultra를 공개하며 Galaxy AI 2.0을 선보였다. 클라우드 연결 없이도 스마트폰 내부에서 에이전트 여러 개가 협력하는 세계 최초 상용 온디바이스 멀티에이전트 구현이 핵심이다."
-image: "https://images.unsplash.com/photo-1543966888-7c1dc482a810?w=800&q=80"
+image: "images/cards/2026-11-27-samsung-galaxy-s26-ultra-galaxy-ai-2.svg"
 ---
 
 스마트폰 AI의 패러다임이 바뀌고 있다. 지금까지 스마트폰에서 AI를 쓴다는 건 '서버에 질문을 보내고 답을 받는 것'이었다. 클라우드가 없으면 AI도 없었다. 그 전제가 흔들리기 시작했다.

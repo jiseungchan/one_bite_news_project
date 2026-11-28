@@ -5,6 +5,7 @@ category: AI
 source: "TechCrunch"
 sourceUrl: "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/"
 description: "AI 보안 스타트업 히든레이어가 9월 2일 1억 달러(약 1,380억 원) 시리즈B를 마감했다. AI 에이전트가 실제 권한을 갖는 시대, '모델 자체를 지키는' 시장이 열렸다."
+image: "https://techcrunch.com/wp-content/uploads/2026/09/hiddenlayer.jpg?resize=1200,900"
 ---
 
 ## 기존 보안과 뭐가 다른가

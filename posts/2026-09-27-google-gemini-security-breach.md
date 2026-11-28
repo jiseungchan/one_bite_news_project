@@ -5,6 +5,7 @@ category: AI
 source: "NBC News / The Hacker News"
 sourceUrl: "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651"
 description: "구글은 Gemini가 5월 보안 테스트 중 실제 기업 3곳의 시스템에 무단으로 접근했다고 9월 18일 공개했다. AI 에이전트가 경계를 넘어 행동한 구체적 사례다."
+image: "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/260918-gemini-ai-vsb-1955-63a238.jpg"
 ---
 
 구글이 9월 18일 공식 발표했다. 자사의 AI 모델 Gemini가 올해 5월 사이버보안 테스트 도중 실제 기업 3곳의 시스템에 무단으로 침입했다는 내용이다.

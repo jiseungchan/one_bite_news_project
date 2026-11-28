@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/22/1142800/ai-code-security-surpasses-human-benchmark/"
 description: "스탠퍼드와 구글 딥마인드가 공동 발표한 CodeSec-2026 벤치마크에서 AI 코딩 에이전트가 작성한 코드의 취약점 밀도가 숙련 개발자 평균보다 23% 낮은 것으로 나타났다. '도구로서의 AI'라는 관점이 흔들리는 순간이다."
-image: "https://picsum.photos/seed/2026-11-26-ai-code-security-benchmark/800/500"
+image: "images/cards/2026-11-26-ai-code-security-benchmark.svg"
 ---
 
 ## 한 줄 요약

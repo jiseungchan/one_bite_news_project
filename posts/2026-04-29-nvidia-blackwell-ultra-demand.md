@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026042990876"
 description: "엔비디아의 차세대 AI 칩 블랙웰 울트라(Blackwell Ultra)의 2분기 수주 잔고가 역대 최대치를 기록했다. 마이크로소프트·아마존·메타가 각각 수십억 달러 규모의 선주문을 완료한 것으로 알려졌다."
-image: "https://picsum.photos/seed/nvidia-blackwell-ultra-demand-2026/800/500"
+image: "images/cards/2026-04-29-nvidia-blackwell-ultra-demand.svg"
 ---
 
 ## 한 줄 요약

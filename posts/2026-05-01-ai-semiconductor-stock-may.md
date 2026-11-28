@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/finance/article/2026043089021"
 description: "4월 말 실적 시즌이 마무리되면서 국내 반도체·AI 관련주의 투자 포인트가 달라지고 있다. 엔비디아 납품 중심에서 추론 인프라·전력 관련 수혜주로 시장의 시선이 이동하는 흐름을 짚었다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=500&fit=crop"
+image: "images/cards/2026-05-01-ai-semiconductor-stock-may.svg"
 ---
 
 ## 기존에는 어땠나?

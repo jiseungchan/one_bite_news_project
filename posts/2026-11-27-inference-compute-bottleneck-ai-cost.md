@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/25/1141205/inference-compute-ai-cost-bottleneck-reasoning-models/"
 description: "AI 추론 모델이 급속히 확산되면서, 쿼리 하나를 처리하는 '추론 컴퓨트' 비용이 AI 산업의 새 병목이 됐다. 더 똑똑한 모델을 만드는 것보다, 그걸 감당할 인프라를 갖추는 게 더 어려운 문제가 됐다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "images/cards/2026-11-27-inference-compute-bottleneck-ai-cost.svg"
 ---
 
 AI 모델 경쟁이 한 단계 넘어섰다. 2024~2025년이 '더 똑똑한 모델을 만드는 경쟁'이었다면, 2026년 하반기부터는 '그 모델을 감당할 수 있는 인프라를 갖추는 경쟁'이 본격화되고 있다.

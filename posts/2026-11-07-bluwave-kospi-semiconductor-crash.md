@@ -5,6 +5,7 @@ category: 경제·주식
 source: "세계일보 / 파이낸셜뉴스"
 sourceUrl: "https://www.segye.com/newsView/20261107504930"
 description: "미국 중간선거에서 민주당이 상·하원을 모두 장악하는 '블루웨이브'가 현실화되며 11월 6일 코스피가 6.02% 급락해 5059선으로 주저앉았다. AI 데이터센터 규제 강화 우려가 반도체주 매도 불쏘시개가 됐다."
+image: "https://www.segye.com/content/image/2026/11/07/20261107504981.jpg"
 ---
 
 ## 블루웨이브가 왜 반도체를 쐈나

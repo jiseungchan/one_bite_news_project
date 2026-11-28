@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
 description: "빌 게이츠가 AI가 바이오·사이버·심리·고용 파괴 등 5개 위험 임계점을 이미 넘었다고 선언했다. 경고음이 울린 지금, 세계 지도자들은 아직 준비가 안 돼 있다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_07_21_2026_0057.jpg?resize=1200,600"
 ---
 
 ## 배경 — '임계점'이라는 단어가 낯설지 않은 이유

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210089"
 description: "OpenAI가 GPT-5를 정식 출시했다. 추론·코딩·멀티모달 성능을 전면 강화하고 에이전트 기능을 기본 탑재해, 단순 챗봇에서 '스스로 일하는 AI'로의 전환을 선언했다."
-image: "https://picsum.photos/seed/2026-05-08-openai-gpt5-launch/800/500"
+image: "images/cards/2026-05-08-openai-gpt5-launch.svg"
 ---
 
 ## 한 줄 요약

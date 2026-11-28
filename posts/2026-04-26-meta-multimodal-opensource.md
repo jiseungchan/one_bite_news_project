@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210155"
 description: "메타가 라마 4 공개 이후 오픈소스 AI 전략의 다음 단계를 발표했다. 텍스트 중심에서 이미지·오디오·비디오를 아우르는 멀티모달 오픈소스 모델로 무게중심이 옮겨간다."
-image: "https://images.unsplash.com/photo-1633412802994-5c058f151b66?w=800&q=80"
+image: "images/cards/2026-04-26-meta-multimodal-opensource.svg"
 ---
 
 ## 배경 — 오픈소스 LLM 경쟁의 1라운드가 끝났다

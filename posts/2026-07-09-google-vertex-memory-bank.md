@@ -5,7 +5,7 @@ source: "Google AI Platform SDK (GitHub)"
 sourceUrl: "https://github.com/googleapis/python-aiplatform/blob/main/CHANGELOG.md"
 date: 2026-07-09
 description: "구글 버텍스 AI v1.160.0이 Memory Bank IngestEvents API에 TTL(자동 만료) 기능을 추가했다. 에이전트 기억에 유통기한을 설정해 오래된 정보가 자동 삭제되도록 하는 구조다."
-image: "https://picsum.photos/seed/2026-07-09-google-vertex-memory-bank/800/500"
+image: "images/cards/2026-07-09-google-vertex-memory-bank.svg"
 ---
 
 ## 한 줄 요약

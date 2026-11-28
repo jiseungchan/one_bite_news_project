@@ -5,7 +5,7 @@ source: "Microsoft Research Blog"
 sourceUrl: "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/"
 date: 2026-07-01
 description: "Microsoft Research가 AI 에이전트의 행동 지침(스킬 파일)을 자동으로 최적화하는 SkillOpt를 공개했다. GPT-5.5 기반 평균 성능이 58.8에서 82.3으로 뛰었으며, 4B 파라미터 소형 모델이 프론티어 모델 기준선을 넘는 결과도 확인됐다."
-image: "https://picsum.photos/seed/2026-07-01-skillopt-agent-skills/800/500"
+image: "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/06/SkillOpt-TWLIFB-1200x627-1-scaled.jpg"
 ---
 
 ## 한 줄 요약

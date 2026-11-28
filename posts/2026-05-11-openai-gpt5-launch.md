@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210250"
 description: "오픈AI가 GPT-5를 정식 출시했다. API와 ChatGPT에 동시 통합됐으며, 추론 능력과 멀티모달 처리에서 GPT-4o를 전 영역 압도한다고 발표했다. 요금제에 따른 접근 등급 차등화가 눈에 띈다."
-image: "https://picsum.photos/seed/2026-05-11-openai-gpt5-launch/800/500"
+image: "images/cards/2026-05-11-openai-gpt5-launch.svg"
 ---
 
 ## 한 줄 요약

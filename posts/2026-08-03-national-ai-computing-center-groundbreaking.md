@@ -5,6 +5,7 @@ category: AI
 source: "전자신문"
 sourceUrl: "https://www.etnews.com/20260803000263"
 description: "삼성SDS 주도의 컨소시엄이 전남 해남에서 국가AI컴퓨팅센터 공사를 시작했다. 2조5천억원, GPU 1만5천 개, 2028년 가동 목표 — 한국이 AI 공급망의 핵심 국가를 선언하는 첫 번째 삽이다."
+image: "https://img.etnews.com/news/article/2026/08/03/news-p.v1.20260803.72e784e1119b480498a8ff6b625b137b_P1.png"
 ---
 
 2026년 8월 3일 오전, 전라남도 해남군 솔라시도 데이터센터 파크. 과학기술정보통신부 장관과 삼성SDS, 네이버클라우드, KT 등의 경영진이 한자리에 모였다. 국가AI컴퓨팅센터(KOACC — Korea AI Computing Center)의 첫 삽을 뜨는 착공식이었다.

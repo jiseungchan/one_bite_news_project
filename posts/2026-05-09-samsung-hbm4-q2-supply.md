@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050832010"
 description: "삼성전자가 2분기부터 HBM4 공급량을 전분기 대비 2배 이상 늘릴 계획이다. 엔비디아 블랙웰 울트라 플랫폼 탑재 확정이 변수다. 증권가는 DS부문 2분기 영업이익 전망을 상향 조정하고 있다."
-image: "https://picsum.photos/seed/2026-05-09-samsung-hbm4-q2-supply/800/500"
+image: "images/cards/2026-05-09-samsung-hbm4-q2-supply.svg"
 ---
 
 ## 한 줄 요약

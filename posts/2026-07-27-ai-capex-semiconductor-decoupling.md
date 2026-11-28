@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202607277420i"
 description: "알파벳이 AI 자본지출을 대폭 늘리겠다고 발표했지만 삼성전자·SK하이닉스는 하루 만에 7~8% 급락했다. 'AI 투자 확대 = 반도체주 호재'라는 공식이 균열을 맞고 있다."
+image: "https://img.hankyung.com/photo/202607/01.45157397.1.jpg"
 ---
 
 국내 반도체 투자자들에게 지난주는 당혹스러운 한 주였다. 알파벳(Alphabet — 구글 모회사)이 AI 관련 자본지출(CAPEX — 설비·인프라 투자)을 대폭 확대하겠다고 발표했다. 시장 논리대로라면 반도체주가 올라야 했다. 실제로 삼성전자와 SK하이닉스는 3~4%대 상승으로 반응했다.

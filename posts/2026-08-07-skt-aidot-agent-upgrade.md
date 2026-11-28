@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212943"
 description: "SK텔레콤이 AI 비서 에이닷에 에이전트 기능을 추가했다. 항공·호텔·음식·영화 등 14개 파트너사 API와 직접 연동해 대화 한 번에 예약부터 결제, 일정 등록까지 완결하는 방식으로 전환됐다."
-image: "https://picsum.photos/seed/2026-08-07-skt-aidot-agent-upgrade/800/500"
+image: "images/cards/2026-08-07-skt-aidot-agent-upgrade.svg"
 ---
 
 ## 한 줄 요약

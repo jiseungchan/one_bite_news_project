@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213891"
 description: "중소벤처기업부와 AI산업협회가 발표한 통계에 따르면 2026년 국내 AI 스타트업 누적 투자액이 처음으로 연간 3조 원을 돌파했다. 에이전트 AI와 의료 AI가 투자 집중 분야 1·2위를 차지했다."
+image: "images/cards/2026-10-20-korea-ai-startup-investment-3t.svg"
 ---
 
 ## 배경: 늘 성장한다고 했지만

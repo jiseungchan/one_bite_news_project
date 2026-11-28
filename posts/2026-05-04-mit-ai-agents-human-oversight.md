@@ -5,7 +5,7 @@ source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/03/1116198/ai-agents-autonomy-human-oversight-accountability/"
 date: 2026-05-04
 description: "AI 에이전트가 스스로 결정을 내리고 행동하는 범위가 넓어질수록, 실수가 발생했을 때 책임 소재가 불분명해진다. MIT Technology Review가 자율 에이전트 시대의 인간 감독 구조를 집중 분석했다."
-image: "https://picsum.photos/seed/2026-05-04-mit-ai-agents-human-oversight/800/500"
+image: "images/cards/2026-05-04-mit-ai-agents-human-oversight.svg"
 ---
 
 ## 한 줄 요약

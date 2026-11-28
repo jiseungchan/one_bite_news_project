@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/30/1116012/openai-gpt5-launch-reasoning-multimodal/"
 description: "OpenAI가 GPT-5를 정식 출시했다. 추론 모델과 멀티모달 기능, 에이전트 실행 능력을 단일 모델에 통합한 첫 번째 시도다. 벤치마크 수치보다 '모델 통합'이라는 설계 철학이 더 큰 변화다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=500&fit=crop"
+image: "images/cards/2026-05-01-openai-gpt5-full-release.svg"
 ---
 
 ## 기존에는 어땠나

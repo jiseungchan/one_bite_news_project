@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=212125"
 description: "오픈AI 사내에서 전체 AI 출력 토큰의 99.8%가 코덱스에서 나오고 있다. 변호사·채용 담당자도 AI 출력의 85% 이상을 코덱스로 생성한다. 에이전트가 챗봇을 대체하는 현상이 가장 먼저, 가장 극단적으로 일어난 회사의 내부 데이터다."
-image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+image: "images/cards/2026-08-04-openai-codex-99pct-internal.svg"
 ---
 
 ## '쓰는' 단계를 넘어 '맡기는' 단계로

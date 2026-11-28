@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/12/1139201/the-us-just-passed-its-first-major-ai-regulation/"
 description: "미국이 연방 차원의 첫 번째 주요 AI 규제법을 통과시켰다. EU AI Act 시행 이후 미국도 행정명령을 넘어 입법 단계로 진입했다."
-image: "https://picsum.photos/seed/2026-06-13-us-first-ai-regulation/800/500"
+image: "images/cards/2026-06-13-us-first-ai-regulation.svg"
 ---
 
 ## 한 줄 요약

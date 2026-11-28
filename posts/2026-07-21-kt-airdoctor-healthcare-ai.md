@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=41234"
 description: "KT가 AI 의료 진단 플랫폼 '에이닥터 2.0'의 전국 100개 병원 도입 계약을 완료했다. X선 판독 정확도 98.3%, CT 분석 시간 45분에서 3분으로 단축 등 성능이 입증됐으며, 국내 의료 AI 서비스 최대 규모의 단일 배포다."
-image: "https://picsum.photos/seed/2026-07-21-kt-airdoctor-healthcare-ai/800/500"
+image: "images/cards/2026-07-21-kt-airdoctor-healthcare-ai.svg"
 ---
 
 ## 한 줄 요약

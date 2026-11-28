@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/it"
 description: "SK증권이 삼성전자 목표주가를 50만 원, SK하이닉스를 300만 원으로 상향했다. AI 추론 수요 급증이 메모리를 '일시적 수급 변수'에서 'AI 성능의 핵심 결정 인자'로 격상시켰다는 분석이다."
+image: "images/cards/2026-09-11-korea-memory-stocks-ai-inference.svg"
 ---
 
 ## 왜 지금 목표주가를 올렸나

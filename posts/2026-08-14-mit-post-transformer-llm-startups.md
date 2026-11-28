@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
 description: "트랜스포머(Transformer, 2017년 등장한 현대 AI 언어모델의 뼈대 구조)가 한계를 드러내고 있다. 샌프란시스코를 중심으로 세 스타트업이 '그 이후'를 만들고 있다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/269798_futureLLMs.jpg?resize=1200,600"
 ---
 
 ## 배경: 트랜스포머는 왜 흔들리고 있나

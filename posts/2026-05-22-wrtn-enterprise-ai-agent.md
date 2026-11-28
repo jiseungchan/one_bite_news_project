@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=211050"
 description: "국내 AI 스타트업 뤼튼이 기업용 AI 에이전트 플랫폼을 정식 출시했다. 사내 문서 검색·업무 자동화·워크플로 실행을 하나의 플랫폼에서 처리하며, 소비자 서비스 중심에서 기업 시장으로 본격 전환하는 신호탄이다."
-image: "https://picsum.photos/seed/2026-05-22-wrtn-enterprise-ai-agent/800/500"
+image: "images/cards/2026-05-22-wrtn-enterprise-ai-agent.svg"
 ---
 
 ## 한 줄 요약

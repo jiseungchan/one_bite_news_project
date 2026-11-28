@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=40419"
 description: "앤트로픽이 새로운 Claude 시리즈 'Fable 5'와 'Mythos 5'를 동시에 선보였다. 인간 전문가 수준을 넘어섰다는 평가와 함께 AI 모델 경쟁이 새로운 국면에 접어들었다."
-image: "https://picsum.photos/seed/2026-06-15-anthropic-claude-fable5-mythos5/800/500"
+image: "https://cdn.aitimes.kr/news/thumbnail/202606/40419_60982_4929_v150.jpg"
 ---
 
 ## 한 줄 요약

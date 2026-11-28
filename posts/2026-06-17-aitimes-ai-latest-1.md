@@ -5,7 +5,7 @@ category: AI
 source: "Microsoft AI Blog"
 sourceUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/"
 description: "마이크로소프트가 LLM 쿼리 1건당 실제 전력 소비량을 측정한 결과, 기존 추정치보다 4~20배 낮은 0.16~0.60Wh 수준인 것으로 나타났다. AI의 환경 영향에 대한 통념을 뒤집는 실측 데이터다."
-image: "https://picsum.photos/seed/2026-06-17-aitimes-ai-latest-1/800/500"
+image: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/06/Cloud-ai-efficiency-2.jpg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/16/1115178/ai-data-center-power-demand-electricity-grid/"
 description: "AI 데이터센터의 전력 수요가 2030년까지 현재의 3배에 달할 것으로 전망된다. 미국 단독으로 연간 300TWh 이상을 소비하게 되며, 전력망 인프라 투자가 AI 확산의 실질적 병목으로 떠올랐다."
-image: https://picsum.photos/seed/ai-datacenter-power-2026/800/500
+image: "images/cards/2026-04-18-ai-datacenter-power-demand.svg"
 ---
 
 ## 한 줄 요약

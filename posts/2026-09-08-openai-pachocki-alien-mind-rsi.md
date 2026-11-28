@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai"
 description: "OpenAI 수석과학자 야쿱 파초키가 'An Alien Mind' 에세이를 통해 재귀적 자기 개선(RSI) 위험을 경고했다. AI가 스스로를 개선하는 단계에 가까워지고 있으며, 지금은 '극도의 주의'가 필요한 시점이라고 밝혔다."
+image: "images/cards/2026-09-08-openai-pachocki-alien-mind-rsi.svg"
 ---
 
 ## 배경 — AI는 얼마나 빨리 달리고 있나?

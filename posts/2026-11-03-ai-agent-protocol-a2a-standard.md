@@ -5,6 +5,7 @@ category: AI
 source: "The Decoder"
 sourceUrl: "https://the-decoder.com/google-anthropic-microsoft-a2a-2-0-protocol-standard-2026/"
 description: "세 빅테크가 AI 에이전트 간 통신 표준 A2A 2.0을 공동 발표했다. 서로 다른 회사의 에이전트가 직접 소통하는 공통 언어가 생긴 셈이다 — 업계에서는 'AI 생태계의 USB 순간'이라 부른다."
+image: "images/cards/2026-11-03-ai-agent-protocol-a2a-standard.svg"
 ---
 
 AI 에이전트 시장이 폭발적으로 성장한 지난 2년 동안, 한 가지 불편한 현실이 있었다. 구글의 에이전트와 앤트로픽의 에이전트, 마이크로소프트의 에이전트는 서로 다른 언어를 쓰고 있었다. 기업이 여러 에이전트를 조합해 쓰려면 중간에 별도의 연결 레이어를 직접 구축해야 했다. USB가 등장하기 전, 주변기기마다 다른 포트를 꽂아야 했던 시절과 비슷한 풍경이었다.

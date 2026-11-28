@@ -5,6 +5,7 @@ category: AI
 source: "VentureBeat"
 sourceUrl: "https://venturebeat.com/security/owasp-llm-top-10-2026-agent-hijacking-leads-new-threats/"
 description: "OWASP가 LLM 보안 위험 목록을 전면 개정했다. 2025년판의 '프롬프트 인젝션' 대신 '에이전트 하이재킹'이 1위에 올랐다. AI가 단순 챗봇에서 실제 권한을 가진 에이전트로 진화하면서 보안 위협의 성격 자체가 달라졌다."
+image: "images/cards/2026-10-25-owasp-llm-agent-security-2026.svg"
 ---
 
 보안 분야에서 'OWASP(오픈 웹 애플리케이션 보안 프로젝트)' 목록이 바뀐다는 건 그냥 순위 변화가 아니다. 업계 전체가 무엇을 무서워하고 있는지를 보여주는 신호다.

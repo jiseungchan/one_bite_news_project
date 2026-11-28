@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕',sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0.0" x2="1" y2="0.8"><stop offset="0" stop-color="#441f82"/><stop offset="1" stop-color="#8243ed"/></linearGradient></defs>
+<rect width="800" height="450" fill="url(#g)"/>
+<circle cx="675" cy="95" r="190" fill="#fff" fill-opacity=".05"/>
+<g><rect x="500" y="275" width="26" height="85" rx="4" fill="#fff" fill-opacity=".14"/><rect x="545" y="281" width="26" height="79" rx="4" fill="#fff" fill-opacity=".14"/><rect x="590" y="285" width="26" height="75" rx="4" fill="#fff" fill-opacity=".14"/><rect x="635" y="285" width="26" height="75" rx="4" fill="#fff" fill-opacity=".14"/><rect x="680" y="302" width="26" height="58" rx="4" fill="#fff" fill-opacity=".14"/><rect x="725" y="243" width="26" height="117" rx="4" fill="#fff" fill-opacity=".14"/><rect x="770" y="301" width="26" height="59" rx="4" fill="#fff" fill-opacity=".14"/><polyline points="510,257 555,268 600,269 645,243 690,187 735,180 780,170" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/><circle cx="780" cy="170" r="12" fill="#fff"/><path d="M490 365h300" stroke="#fff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" opacity=".6"/></g>
+<rect x="48" y="72" width="58" height="32" rx="6" fill="#fff" fill-opacity=".22"/>
+<text x="60" y="94" font-size="17" font-weight="700" fill="#fff">AI</text>
+<text x="48" y="170" font-size="38" font-weight="800" fill="#fff">국내 AI 스타트업 투자,</text><text x="48" y="220" font-size="38" font-weight="800" fill="#fff">올해 처음으로 연간 3조…</text>
+
+<text x="48" y="400" font-size="15" fill="#fff" fill-opacity=".75">2026-10-20 · AI타임스 · 한입뉴스</text>
+</svg>

@@ -5,7 +5,7 @@ category: 경제·주식
 source: "Bloomberg Markets"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-13/korean-stocks-rise-22-in-ten-days-as-chip-rally-regains-steam"
 description: "한국 증시가 10일 만에 23% 급등하며 반도체 랠리가 재점화됐다. AI 데이터센터 수요를 등에 업은 HBM 수요가 삼성전자·SK하이닉스 주가를 끌어올리는 동력이 됐다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "images/cards/2026-08-13-kospi-chip-rally.svg"
 ---
 
 ## 한 줄 요약

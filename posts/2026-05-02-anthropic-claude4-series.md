@@ -5,7 +5,7 @@ source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=210012
 date: 2026-05-02
 description: 앤트로픽이 클로드 4 시리즈 전 라인업을 동시 공개했다. 최상위 모델 오퍼스4는 복잡한 장문 추론에서, 소네트4는 가격 대비 성능에서, 하이쿠4는 온디바이스·엣지 환경에서 각각 새 기준을 제시한다.
-image: https://picsum.photos/seed/2026-05-02-anthropic-claude4-series/800/500
+image: "images/cards/2026-05-02-anthropic-claude4-series.svg"
 ---
 
 ## 한 줄 요약

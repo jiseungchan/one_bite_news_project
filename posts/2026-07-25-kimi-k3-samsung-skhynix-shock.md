@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202607192337i"
 description: "중국 무샷AI의 '키미K3' 오픈소스 모델 공개 직후 글로벌 반도체 주식 시총 3.3조 달러가 증발했다. 삼성전자 5.2%, SK하이닉스 4.45% 급락했지만 3일 만에 대부분 회복했다. 딥시크 쇼크 2탄 우려와 함께, HBM 장기 수요는 오히려 늘 수 있다는 반론도 나온다."
-image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80"
+image: "https://img.hankyung.com/photo/202607/01.45074328.1.jpg"
 ---
 
 2026년 7월 17일, 중국 AI 스타트업 무샷AI(Moonshot AI)가 상하이 세계AI대회(WAIC — World AI Conference)에서 오픈소스 AI 모델 '키미K3'(Kimi K3)를 공개했다. 공개 직후 글로벌 반도체 주식 시가총액이 약 3.3조 달러(약 4,800조 원) 증발했고, 삼성전자는 5.20% 급락해 241,750원, SK하이닉스는 4.45% 하락해 176만 원을 기록했다.

@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/29/1141200/gpt6-enterprise-ai-agents-deployment/"
 description: "GPT-6 공개 4주 만에 글로벌 기업들의 에이전트 AI 파일럿이 실험실을 벗어나 현장에 들어오기 시작했다. MIT Technology Review가 기업 AI 도입 가속의 실제 이유를 짚었다."
-image: "https://picsum.photos/seed/2026-09-30-mit-enterprise-ai-agents-gpt6/800/500"
+image: "images/cards/2026-09-30-mit-enterprise-ai-agents-gpt6.svg"
 ---
 
 ## 한 줄 요약

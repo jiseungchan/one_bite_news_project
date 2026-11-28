@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210589"
 description: "삼성전자·LG전자·현대차 등 국내 주요 대기업들이 AI 에이전트를 내부 업무 시스템에 본격 통합하기 시작했다. 단순 챗봇 수준을 넘어 문서 검토, 공급망 분석, 코드 리뷰까지 사내 워크플로 전반을 AI가 처리하는 구조로 전환 중이다."
-image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800"
+image: "images/cards/2026-05-18-korea-ai-agent-enterprise-adoption.svg"
 ---
 
 ## 배경 — "쓰는 것"에서 "연결하는 것"으로

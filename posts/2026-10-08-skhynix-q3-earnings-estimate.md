@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/economy/article/2026100815601"
 description: "증권가가 SK하이닉스의 3분기(7~9월) 영업이익을 7.8조 원으로 추정했다. HBM4(5세대 고대역폭 메모리) 출하량이 전분기 대비 60% 증가한 것이 핵심 변수라는 분석이다. 잠정 실적 발표는 10월 중순 예정이며, 이 수치는 발표 전 증권가 추정치다."
-image: "https://picsum.photos/seed/2026-10-08-skhynix-q3-earnings-estimate/800/500"
+image: "images/cards/2026-10-08-skhynix-q3-earnings-estimate.svg"
 ---
 
 ## 한 줄 요약

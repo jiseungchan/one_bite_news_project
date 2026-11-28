@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/22/1117201/synthetic-data-ai-training-2026/"
 description: "AI 모델이 실제 인터넷 데이터 대신 스스로 생성한 합성 데이터로 훈련받는 비율이 2026년 들어 급격히 높아졌다. 데이터 고갈 문제를 우회하는 동시에 새로운 품질 문제도 낳고 있다."
-image: "https://picsum.photos/seed/2026-05-23-synthetic-data-ai-training/800/500"
+image: "images/cards/2026-05-23-synthetic-data-ai-training.svg"
 ---
 
 ## 한 줄 요약

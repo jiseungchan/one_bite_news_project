@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=215089"
 description: "과학기술정보통신부가 AI 생성 콘텐츠의 저작권 귀속 기준을 처음으로 공식화했다. 'AI가 단독 생성한 콘텐츠'는 저작권을 인정하지 않되, 인간의 창의적 판단이 개입된 AI 보조 창작물은 인간 저작권을 인정한다는 원칙이다."
+image: "images/cards/2026-11-16-korea-ai-copyright-guidelines.svg"
 ---
 
 ## 기존에는 어땠나

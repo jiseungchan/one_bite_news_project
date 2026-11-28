@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/threat-intelligence-report-september-2026"
 description: "앤트로픽이 2025년 12월부터 2026년 8월까지 적발하고 차단한 악성 AI 활용 사례 7개 범주를 공개했다. 러시아·중국·이란 등 국가 연계 해킹 조직이 클로드를 이용해 자율 사이버 공격을 수행한 구체적 정황이 담겼다."
+image: "https://assets.claude.com/7039d4c806189926d478f56be3aad43762601211.jpg"
 ---
 
 앤트로픽이 9월 10일, 2025년 12월부터 2026년 8월까지 탐지·차단한 악성 AI 활용 사례를 담은 위협 인텔리전스 보고서를 공개했다. 국가 지원 해킹 조직부터 단독 핵티비스트(정치적 목적의 해킹 활동가)까지, 7개 피해 범주에 걸친 실제 작전 사례가 구체적으로 기술됐다.

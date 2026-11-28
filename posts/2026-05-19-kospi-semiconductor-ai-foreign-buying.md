@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com"
 description: "외국인 투자자들이 코스피 반도체·AI 관련주를 5거래일 연속 순매수하며 누적 5조 원을 넘겼다. 글로벌 AI 인프라 투자 확대 기대감과 원/달러 환율 안정이 맞물린 결과로, SK하이닉스·삼성전자가 상승을 주도했다."
-image: "https://picsum.photos/seed/2026-05-19-kospi-semiconductor-ai-foreign-buying/800/500"
+image: "images/cards/2026-05-19-kospi-semiconductor-ai-foreign-buying.svg"
 ---
 
 ## 한 줄 요약

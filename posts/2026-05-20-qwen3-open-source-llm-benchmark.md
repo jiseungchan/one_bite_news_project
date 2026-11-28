@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33287"
 description: "알리바바 클라우드가 공개한 오픈소스 언어 모델 Qwen3가 MMLU·HumanEval 등 주요 벤치마크에서 GPT-4o를 넘어섰다. 235B 파라미터 MoE 구조로 추론 비용을 대폭 낮추면서 오픈소스 진영의 경쟁력이 재편되고 있다."
-image: "https://picsum.photos/seed/2026-05-20-qwen3-open-source-llm-benchmark/800/500"
+image: "images/cards/2026-05-20-qwen3-open-source-llm-benchmark.svg"
 ---
 
 ## 한 줄 요약

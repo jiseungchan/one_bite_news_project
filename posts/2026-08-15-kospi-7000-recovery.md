@@ -5,6 +5,7 @@ category: 경제·주식
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/stock/12127622"
 description: "8월 15일 코스피가 2%대 상승 출발하며 7000포인트를 회복했다. 미국 인플레이션 완화 신호와 AI 칩 섹터 랠리가 아시아 증시 전반을 들어올렸고, 일본 증시는 6월 이후 최고 주간 상승률을 향하고 있다."
+image: "https://pimg.mk.co.kr/news/cms/202608/14/rcv.YNA.20260814.PYH2026081401670001300_R.jpg"
 ---
 
 ## 배경

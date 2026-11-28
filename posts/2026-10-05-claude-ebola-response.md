@@ -5,6 +5,7 @@ category: AI
 source: "Anthropic"
 sourceUrl: "https://www.anthropic.com/features/ebola-response"
 description: "콩고민주공화국 에볼라 대응에 클로드가 실전 투입됐다. WHO·CEPI·INRB와 협력해 상황 보고서 자동화, 바이러스 유전체 분석, 백신 연구 추적까지 — 속도가 생존율을 바꾸는 현장에서 AI의 역할이 달라지고 있다."
+image: "images/cards/2026-10-05-claude-ebola-response.svg"
 ---
 
 에볼라는 빠르다. 감염자가 어디 있는지 '지난주' 데이터로 대응하면 늦는다. 문제는 WHO 아프리카 지역사무소(AFRO) 팀이 매일 작성하는 상황 보고서였다. 수십 개의 파워포인트 파일에서 데이터를 수동으로 추출하고 비교하고 이상치를 찾아내는 작업 — 전담 인력이 하루를 꼬박 써야 했다.

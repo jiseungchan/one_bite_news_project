@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
 description: "오픈AI가 1만 개 AI 에이전트를 88시간 동안 가동해 수학계 90년 난제 나비에-스토크스 방정식을 풀었다고 발표했다. 그런데 발표 하루 뒤, 수학자들이 표절을 주장하며 더 뜨거운 논쟁이 시작됐다."
+image: "images/cards/2026-09-09-openai-navier-stokes-math-controversy.svg"
 ---
 
 ## 배경 — 90년 동안 아무도 못 풀었던 문제

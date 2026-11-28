@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026041735021"
 description: "엔비디아의 차세대 AI GPU '블랙웰 울트라'의 양산 일정이 2~3개월 지연되면서, 삼성전자와 SK하이닉스의 HBM4E 메모리 납품 경쟁이 당초보다 빨리 시작될 전망이다. 공급 지연 배경에는 CoWoS-L 패키징 수율 문제가 있다."
-image: https://picsum.photos/seed/nvidia-blackwell-2026/800/500
+image: "images/cards/2026-04-18-nvidia-blackwell-ultra-delay-samsung-sk.svg"
 ---
 
 ## 한 줄 요약

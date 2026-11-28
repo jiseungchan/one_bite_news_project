@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209521"
 description: "LG AI연구원이 추론 특화 AI 모델 EXAONE 3.5를 오픈소스로 공개했다. 수학·코딩·한국어 이해 능력에서 동급 모델 최상위 성적을 기록하며, 국내 AI 생태계의 판도를 다시 짜고 있다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-27-lg-exaone-35-open-source.svg"
 ---
 
 ## 배경

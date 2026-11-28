@@ -5,7 +5,7 @@ source: "GitHub (오픈소스)"
 sourceUrl: "https://github.com/Panniantong/Agent-Reach"
 date: 2026-06-17
 description: "AI 에이전트가 Twitter, YouTube, Reddit, GitHub 등 주요 플랫폼에 무료로 접근할 수 있도록 해주는 오픈소스 CLI 도구 Agent-Reach가 v1.5.0을 출시하며 단 하루 만에 1,154개 스타를 추가, 누적 3.3만 스타를 돌파했다."
-image: "https://picsum.photos/seed/2026-06-17-agent-reach-ai-internet-access/800/500"
+image: "images/cards/2026-06-17-agent-reach-ai-internet-access.svg"
 ---
 
 ## 한 줄 요약

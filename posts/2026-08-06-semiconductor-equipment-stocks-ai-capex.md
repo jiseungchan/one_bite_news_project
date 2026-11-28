@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202608068854i"
 description: "SK하이닉스가 올해 설비투자(CAPEX)를 40조원 후반으로 대폭 늘리면서 반도체 전공정 장비 업체들이 일제히 급등했다. AI 설비투자 확대 수혜가 대형 메모리주를 넘어 국내 중소형 장비 업체로 확산되는 흐름이다."
+image: "https://img.hankyung.com/photo/202608/01.45263167.1.jpg"
 ---
 
 ## 배경 — 빅테크 어닝이 확인해준 것

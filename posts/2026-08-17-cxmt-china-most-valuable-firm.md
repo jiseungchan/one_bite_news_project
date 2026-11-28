@@ -5,6 +5,7 @@ category: 나노·소재
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era"
 description: "중국의 메모리 반도체 스타트업 CXMT가 중국 내 최고 기업가치를 가진 회사로 올라섰다. AI 반도체 수요와 미국의 수출 규제가 역설적으로 중국 반도체 기업을 키운 결과다."
+image: "images/cards/2026-08-17-cxmt-china-most-valuable-firm.svg"
 ---
 
 ## 배경 — 중국이 메모리에 진심인 이유

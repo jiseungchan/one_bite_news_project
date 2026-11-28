@@ -5,6 +5,7 @@ category: AI
 source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=210418
 description: EU 인공지능법의 고위험 AI 시스템 의무 조항이 2026년 6월 1일 발효된다. 미준수 시 전 세계 매출의 최대 3~6% 과징금이 부과되는데, 국내 EU 진출 AI 기업 중 40%가 아직 적합성 평가 준비를 시작하지 않은 것으로 나타났다.
+image: "images/cards/2026-05-13-eu-ai-act-june-enforcement.svg"
 ---
 
 ## 한 줄 요약

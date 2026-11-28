@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
 description: "앤트로픽이 클로드 내부에서 '속마음'에 해당하는 공간을 발견했다. J-렌즈라는 기법으로 모델이 최종 답변에 쓰지 않는 개념들이 모이는 'J-공간'을 관측하는 데 성공한 것이다."
+image: "images/cards/2026-07-16-anthropic-j-space-interpretability.svg"
 ---
 
 ## 배경 — AI 내부를 볼 수 없었던 이유

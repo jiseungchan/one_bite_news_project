@@ -5,6 +5,7 @@ category: AI
 source: "아시아경제"
 sourceUrl: "https://view.asiae.co.kr/en/article/2026100116113597794"
 description: "앤트로픽 프런티어 레드팀이 중국 AI 랩 Z.ai의 GLM-5.3 오픈웨이트 모델이 심각한 사이버 공격 위협이 될 수 있다는 보고서를 발표했다. 안전 장치를 제거하는 데 드는 비용은 GPU 2,200시간, 약 4,400달러에 불과했다."
+image: "images/cards/2026-10-15-glm53-opensource-cyberattack-risk.svg"
 ---
 
 ## 배경: 오픈소스 AI의 딜레마

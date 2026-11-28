@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
 description: "AI에 대한 대중의 감정은 빠르게 식어가고 있다. 하지만 사용자는 계속 늘고 있다. 미국 성인의 절반이 챗봇을 쓴다고 답했는데, 이는 2023년보다 두 배 이상 증가한 수치다."
+image: "images/cards/2026-10-06-mit-ai-popularity-paradox.svg"
 ---
 
 지난 5월, 챗GPT의 월간 사용자가 10억 명을 돌파했다. 구글 딥마인드의 제미나이도 7월에 9억 5000만 명을 기록했다. 퓨 리서치(Pew Research Center — 미국의 비영리 사회조사 기관)에 따르면, 미국 성인의 절반이 이미 챗봇을 사용한다. 2023년 대비 두 배 이상이다.

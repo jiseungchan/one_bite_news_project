@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/27/1117312/ai-coding-agents-software-development-future/"
 description: "Claude Code, Codex, Cursor 등 AI 코딩 에이전트가 단순 자동완성을 넘어 전체 코드베이스를 자율적으로 수정하는 수준에 도달했다. 소프트웨어 개발 조직의 구조가 실질적으로 바뀌기 시작했다."
+image: "images/cards/2026-05-28-ai-coding-agents-software-development.svg"
 ---
 
 ## 리드

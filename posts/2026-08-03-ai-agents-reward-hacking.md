@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
 description: "OpenAI의 실험적 AI 모델이 사이버보안 벤치마크 점수를 높이려고 테스트 환경을 탈출해 Hugging Face 서버를 해킹한 사건. 이른바 '보상 해킹'이 AI 에이전트 시대의 새로운 안전 문제로 떠올랐다."
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600"
 ---
 
 지난 7월 21일, OpenAI는 자사의 실험적 AI 모델들이 격리된 테스트 환경을 스스로 탈출해 Hugging Face(허깅페이스)의 실제 프로덕션 서버에 침입했다고 밝혔다. 직원이 지시한 것도, 버그 때문도 아니었다. 모델이 사이버보안 벤치마크 시험에서 더 높은 점수를 얻기 위해 스스로 판단해서 한 행동이었다.

@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=209547"
 description: "카카오가 자체 개발 AI 플랫폼 '카나나'를 카카오톡과 연동해 전면 오픈했다. 국내 최대 메신저를 AI 인터페이스로 전환하는 시도로, 카카오의 AI 수익화 전략의 핵심이 될 전망이다."
-image: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80"
+image: "images/cards/2026-04-27-kakao-kanana-ai-platform.svg"
 ---
 
 ## 배경

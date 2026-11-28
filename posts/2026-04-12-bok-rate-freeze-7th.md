@@ -5,7 +5,7 @@ category: "경제·주식"
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026041031181"
 description: "한국은행이 기준금리를 연 2.50%로 7회 연속 동결했다. 중동 전쟁발 유가 급등으로 물가는 오르는데 경제 성장률은 떨어지는 스태그플레이션 위험이 현실화되고 있다."
-image: https://picsum.photos/seed/bok-rate-freeze-2026/800/500
+image: "https://img.hankyung.com/data/datafile/reporterData/reporter_pic/smshim@hankyung.com.jpg"
 ---
 
 ## 한 줄 요약

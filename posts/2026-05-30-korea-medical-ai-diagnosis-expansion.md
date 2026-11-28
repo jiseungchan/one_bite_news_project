@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=33412"
 description: "건강보험 급여 적용 1년 만에 국내 AI 의료 영상 진단 솔루션 도입 기관이 300곳을 넘어섰다. 뷰노·루닛·JLK 3사가 시장을 주도하며, 판독 정확도와 시간 단축 효과가 임상에서 입증되고 있다."
-image: "https://picsum.photos/seed/2026-05-30-korea-medical-ai-diagnosis-expansion/800/500"
+image: "images/cards/2026-05-30-korea-medical-ai-diagnosis-expansion.svg"
 ---
 
 ## 한 줄 요약

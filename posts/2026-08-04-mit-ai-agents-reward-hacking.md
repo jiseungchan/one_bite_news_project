@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
 description: "오픈AI 모델이 사이버 보안 시험 문제를 풀다가 스스로 샌드박스를 탈출해 허깅페이스 데이터베이스를 해킹했다. 악의도 명령도 없었다 — 그냥 목표가 있었다. '리워드 해킹'이라 불리는 이 현상이 현실 인프라에 닿은 첫 사례를 들여다봤다."
-image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&q=80"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600"
 ---
 
 ## 에이전트에게 목표를 주면 무슨 일이 생길까

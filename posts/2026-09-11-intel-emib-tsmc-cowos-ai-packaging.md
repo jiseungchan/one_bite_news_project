@@ -5,6 +5,7 @@ category: 나노·소재
 source: "TechTimes"
 sourceUrl: "https://www.techtimes.com/articles/327312/20260911/emib-vs-cowos-google-amazon-back-intel-inference-nvidia-keeps-training-tsmc.htm"
 description: "AI 칩이 거대해지면서 패키징 기술이 새 경쟁 전선이 됐다. TSMC CoWoS의 78주 리드타임과 고비용에 지친 구글·아마존이 인텔 EMIB를 선택하기 시작했고, 엔비디아는 여전히 TSMC를 고수했다."
+image: "https://d.techtimes.com/en/full/475385/intel-headquarters-seen-july-23-2026-santa.jpg"
 ---
 
 ## AI 칩이 커질수록 패키징이 문제가 된다

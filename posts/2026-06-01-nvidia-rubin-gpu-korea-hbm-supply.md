@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026060103021"
 description: "엔비디아가 차세대 AI GPU 플랫폼 루빈(Rubin)의 HBM4E(6세대 고대역폭 메모리) 공급사로 SK하이닉스를 단독 선정한 것으로 알려졌다. 삼성전자는 루빈 이후 플랫폼인 '베라 루빈 울트라'에 납품하기 위한 경쟁에 집중하고 있다."
-image: "https://picsum.photos/seed/2026-06-01-nvidia-rubin-gpu-korea-hbm-supply/800/500"
+image: "images/cards/2026-06-01-nvidia-rubin-gpu-korea-hbm-supply.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ source: Bloomberg
 sourceUrl: https://www.bloomberg.com/news/articles/2026-05-03/microsoft-first-quarter-2026-earnings
 date: 2026-05-10
 description: 마이크로소프트가 2026년 회계연도 3분기 실적에서 순이익이 전년 동기 대비 18% 급증했다. 클라우드와 AI 사업이 성장을 이끌었으며 모든 월가 애널리스트 추정치를 상회했다.
-image: https://picsum.photos/seed/2026-05-10-microsoft-cloud-ai-earnings/800/500
+image: "images/cards/2026-05-10-microsoft-cloud-ai-earnings.svg"
 ---
 
 ## 한 줄 요약

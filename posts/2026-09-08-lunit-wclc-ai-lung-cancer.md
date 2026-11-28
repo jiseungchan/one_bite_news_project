@@ -5,6 +5,7 @@ category: AI
 source: "머니투데이"
 sourceUrl: "https://www.mt.co.kr/thebio/2026/09/08/2026090808313963737"
 description: "루닛이 세계폐암학회(WCLC 2026)에서 AI 바이오마커 플랫폼 '루닛 스코프 IO'를 활용한 연구 3건을 발표했다. EGFR 변이 아형별 면역 환경 차이를 AI로 정량화하고 TP53 변이 예측 가능성을 제시했다."
+image: "https://menu.mt.co.kr/cdn-cgi/image/f=auto/common/meta/meta_mt_sns.webp"
 ---
 
 ## 배경 — 병리 슬라이드 한 장에서 치료 전략을

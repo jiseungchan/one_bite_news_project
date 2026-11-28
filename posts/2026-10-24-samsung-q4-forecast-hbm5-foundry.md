@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026102401023"
 description: "증권가가 삼성전자의 4분기 영업이익을 11조 원 안팎으로 상향 추정하기 시작했다. HBM5 엔비디아 납품 개시 임박과 2나노 파운드리 수율 개선이 동시에 진행될 경우의 시나리오다. 주요 3개 증권사가 이번 주 목표 주가를 일제히 상향했다."
+image: "images/cards/2026-10-24-samsung-q4-forecast-hbm5-foundry.svg"
 ---
 
 삼성전자 주가가 지난 열흘간 약 8% 올랐다. 두 가지 호재 소식이 시장에 동시에 돌았기 때문이다.

@@ -5,7 +5,7 @@ source: "arXiv (DAIR.AI ML Papers of the Week 큐레이션)"
 sourceUrl: "https://arxiv.org/abs/2606.00655"
 date: 2026-06-10
 description: "에이전트 수를 늘릴수록 성능이 좋아진다는 상식에 반하는 연구 결과가 나왔다. 조율 오버헤드가 일정 수를 넘어서면 오히려 성능을 갉아먹는다."
-image: "https://picsum.photos/seed/2026-06-10-do-more-agents-help/800/500"
+image: "images/cards/2026-06-10-do-more-agents-help.svg"
 ---
 
 ## 한 줄 요약

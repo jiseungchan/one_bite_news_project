@@ -5,7 +5,7 @@ category: AI
 source: "Al Jazeera"
 sourceUrl: "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal"
 description: "미국 BIS가 11월 19일부터 싱가포르·말레이시아·인도네시아·태국·브라질로의 첨단 AI 칩 수출에 라이선스를 의무화했다. 중국 기업들이 해외 데이터센터를 통해 엔비디아 GPU에 우회 접근하는 경로를 차단하는 조치다."
-image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
+image: "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-03-17T231408Z_1912828925_RC2M6KA5I6G3_RTRMADP_3_NVIDIA-CHINA-1794876521_9866d0-1794880024.jpg?resize=1200%2C630&quality=80"
 ---
 
 AI 칩을 중국에 팔면 안 된다는 규정은 이미 있었다. 그런데 중국 기업들은 그 규정의 빈틈을 찾아냈다. 싱가포르나 말레이시아에 자회사를 세우거나 데이터센터를 임대하는 방식으로 엔비디아 GPU(그래픽처리장치 — AI 연산의 핵심 반도체)에 접근하는 방법이었다. 미국 상무부(BIS, Bureau of Industry and Security)는 11월 중순 이 우회로를 정면으로 겨냥한 새 규제를 발표했다.

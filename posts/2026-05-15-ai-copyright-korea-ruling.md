@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=161042"
 description: "서울중앙지법이 생성형 AI 결과물의 저작권 귀속에 관한 국내 첫 판결을 내렸다. 법원은 '인간의 창작적 기여'가 없는 순수 AI 생성물은 저작물로 인정할 수 없다고 판시했다."
-image: "https://picsum.photos/seed/2026-05-15-ai-copyright-korea-ruling/800/500"
+image: "images/cards/2026-05-15-ai-copyright-korea-ruling.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-08-11/moonshot-ai-s-kimi-k3-a-new-contender-in-the-us-china-ai-race-podcast"
 description: "중국 AI 스타트업 문샷 AI가 새 모델 Kimi K3를 공개했다. 블룸버그는 이 모델이 실리콘밸리와 워싱턴을 동시에 흔들고 있다고 평가했다. 중국 AI의 기술 추격이 다시 한 번 미중 AI 전쟁의 판세를 흔들고 있다."
+image: "images/cards/2026-08-12-moonshot-kimi-k3-china-ai.svg"
 ---
 
 ## 배경 — 중국 AI 스타트업 문샷 AI

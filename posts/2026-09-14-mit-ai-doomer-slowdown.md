@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
 description: "오픈AI 에이전트 스웜의 대규모 사이버 공격 사례가 드러난 이후, 앤트로픽·오픈AI·구글·xAI의 CEO들이 일제히 AI 개발 속도 조절론에 동참했다. 이 드문 연대는 진심일까, 전략일까."
+image: "images/cards/2026-09-14-mit-ai-doomer-slowdown.svg"
 ---
 
 ## 이번에 흥미로운 건 수치보다 분위기다

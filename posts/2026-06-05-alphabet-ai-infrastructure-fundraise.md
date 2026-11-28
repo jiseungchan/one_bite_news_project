@@ -5,7 +5,7 @@ source: CNBC
 sourceUrl: https://www.cnbc.com/2026/06/01/alphabet-to-raise-80-billion-from-stock-sales-to-fund-ai-buildout.html
 date: 2026-06-05
 description: 알파벳(Google 모회사)이 AI 데이터센터 확장을 위해 역대 주식 자본시장 최대 규모인 847.5억 달러 조달에 나섰다. 워런 버핏 후계 체제의 버크셔 해서웨이가 100억 달러 규모로 사모 참여하며 이례적인 테크 투자를 단행했다.
-image: https://picsum.photos/seed/2026-06-05-alphabet-ai-infrastructure-fundraise/800/500
+image: "images/cards/2026-06-05-alphabet-ai-infrastructure-fundraise.svg"
 ---
 
 ## 한 줄 요약

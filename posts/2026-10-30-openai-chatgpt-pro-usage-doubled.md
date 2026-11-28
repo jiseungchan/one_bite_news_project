@@ -5,6 +5,7 @@ category: AI
 source: "gHacks Tech News"
 sourceUrl: "https://www.ghacks.net/2026/10/30/openai-doubles-chatgpt-pro-and-business-premium-usage-limits-after-dropping-a-planned-pro-200-cut/"
 description: "오픈AI가 10월 29일부터 ChatGPT Pro 전 요금제와 Business Premium의 기본 사용량을 두 배로 늘렸다. 당초 Pro 200 요금제의 사용량을 절반으로 줄이려 했다가 사용자 반발에 부딪혀 전면 철회하고, 오히려 전 구간 상향으로 방향을 틀었다."
+image: "https://www.ghacks.net/wp-content/uploads/2026/10/openai-doubles-chatgpt-pro-and-business-premium-usage-limits-after.webp"
 ---
 
 오픈AI가 ChatGPT 유료 구독자를 상대로 이례적인 결정을 내렸다. 줄이려다가 오히려 두 배로 늘린 것이다.

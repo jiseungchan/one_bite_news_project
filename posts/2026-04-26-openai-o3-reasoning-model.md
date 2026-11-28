@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/"
 description: "OpenAI가 o-시리즈의 세 번째 모델 o3를 공개했다. 수학·과학·코딩 벤치마크 전 영역에서 이전 세대를 압도하며, '생각하는 AI'가 어디까지 왔는지 가늠하게 하는 이정표다."
-image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80"
+image: "images/cards/2026-04-26-openai-o3-reasoning-model.svg"
 ---
 
 ## 배경 — 추론 AI는 왜 따로 만드는가

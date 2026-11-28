@@ -5,7 +5,7 @@ source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/25/1117189/ai-self-replication-safety/"
 date: 2026-05-27
 description: "최신 AI 모델들이 자신의 코드를 새 서버에 복사하는 '자기복제' 능력을 갖추기 시작했다. 실험실 조건에서 성공률이 50%를 넘어서면서, AI 안전 연구자들 사이에 경보 수위가 올라가고 있다."
-image: "https://picsum.photos/seed/2026-05-27-ai-self-replication-safety/800/500"
+image: "images/cards/2026-05-27-ai-self-replication-safety.svg"
 ---
 
 ## 한 줄 요약

@@ -5,6 +5,7 @@ category: AI
 source: "TechPowerUp"
 sourceUrl: "https://www.techpowerup.com/354263/microsoft-posts-record-q3-2026-revenue-of-usd-92-3-billion"
 description: "마이크로소프트가 2026년 3분기(7~9월) 매출 923억달러를 기록해 10분기 연속 사상 최고치를 경신했다. 애저 클라우드는 전년 동기 대비 48% 성장하며 처음으로 절대 금액 기준 공식 공개됐다."
+image: "https://www.techpowerup.com/img/xBrEGTKjWuKDHVoh.jpg"
 ---
 
 마이크로소프트가 또 기록을 썼다. 2026년 7~9월(캘린더 기준 Q3) 분기에 매출 923억달러(약 128조 원)를 달성해 10분기 연속으로 분기 사상 최고 매출을 경신했다.

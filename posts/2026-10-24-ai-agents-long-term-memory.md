@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/23/1140201/ai-agents-long-term-memory-architecture/"
 description: "AI 에이전트가 수천 개의 대화를 구조화된 방식으로 오랫동안 기억하는 새 아키텍처가 주목받고 있다. '언제나 처음 만나는 것처럼 행동하는 AI'의 한계가 실질적으로 허물어지기 시작했다."
+image: "images/cards/2026-10-24-ai-agents-long-term-memory.svg"
 ---
 
 AI를 한 달쯤 써봤다면 한 번쯤은 느꼈을 것이다. 지난달에 충분히 설명했던 프로젝트 맥락을, 오늘 다시 처음부터 설명해야 하는 그 막막함. 이 경험이 바뀔 수 있다는 신호가 조금씩 구체화되고 있다.

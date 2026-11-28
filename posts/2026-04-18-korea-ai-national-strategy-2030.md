@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/news/articleView.html?idxno=32855"
 description: "과학기술정보통신부가 'AI 국가전략 2.0'을 발표했다. 2030년까지 AI 반도체 설계 자립률 60% 달성과 AI 분야 핵심 인재 10만 명 양성이 핵심 목표다. 민간 AI 투자에 연 3조 원 규모 세제 혜택도 포함된다."
-image: https://picsum.photos/seed/korea-ai-strategy-2030/800/500
+image: "images/cards/2026-04-18-korea-ai-national-strategy-2030.svg"
 ---
 
 ## 한 줄 요약

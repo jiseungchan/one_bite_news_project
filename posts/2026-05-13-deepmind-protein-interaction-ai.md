@@ -5,6 +5,7 @@ category: 바이오
 source: AI타임스
 sourceUrl: https://www.aitimes.com/news/articleView.html?idxno=210441
 description: 구글 딥마인드가 단백질 간 결합 예측 정확도를 3배 높인 AI 모델을 공개했다. 신약 후보 발굴 기간이 18개월에서 9개월로 단축될 전망이며, 이미 제약사들이 협약에 들어갔다.
+image: "images/cards/2026-05-13-deepmind-protein-interaction-ai.svg"
 ---
 
 ## 한 줄 요약

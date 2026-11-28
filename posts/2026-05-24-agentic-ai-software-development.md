@@ -5,7 +5,7 @@ source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/22/1117201/how-agentic-ai-is-changing-software-development/"
 date: 2026-05-24
 description: "AI 에이전트가 단순 코드 자동완성을 넘어 설계·테스트·배포까지 소프트웨어 개발 전 과정에 개입하기 시작했다. MIT Technology Review가 이 전환이 개발 문화와 직무 구조에 미치는 영향을 분석했다."
-image: "https://picsum.photos/seed/2026-05-24-agentic-ai-software-development/800/500"
+image: "images/cards/2026-05-24-agentic-ai-software-development.svg"
 ---
 
 ## 한 줄 요약

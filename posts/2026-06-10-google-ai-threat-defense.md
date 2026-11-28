@@ -5,7 +5,7 @@ source: "Google Cloud Blog"
 sourceUrl: "https://cloud.google.com/blog/products/identity-security/introducing-google-ai-threat-defense"
 date: 2026-06-10
 description: "Google Cloud가 AI 기반 자동 사이버보안 솔루션 'Google AI Threat Defense'를 출시했다. 취약점을 찾는 것을 넘어 우선순위 지정과 자동 수정까지 처리하는 방어 체계다."
-image: "https://picsum.photos/seed/2026-06-10-google-ai-threat-defense/800/500"
+image: "https://storage.googleapis.com/gweb-cloudblog-publish/images/Final_-_Introducing_Google_AI_Threat_Defen.max-2000x2000_0yASZK0.jpg"
 ---
 
 ## 배경

@@ -5,6 +5,7 @@ category: 경제·주식
 source: "KED Global"
 sourceUrl: "https://www.kedglobal.com/korean-stock-market/newsView/ked202608120010"
 description: "7월 말 급락으로 약세장에 진입했던 코스피가 8월 들어 저점 대비 22% 급반등하며 강세장 기준선을 돌파했다. SK하이닉스의 40조 원 자사주 매입 계획과 글로벌 AI 투자 지속이 촉매가 됐다."
+image: "images/cards/2026-08-30-kospi-chip-rally-samsung-skhynix-bull-market.svg"
 ---
 
 ## 무슨 일이 있었나

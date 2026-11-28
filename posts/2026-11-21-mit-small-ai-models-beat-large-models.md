@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/11/19/1142901/small-ai-models-compete-large-models/"
 description: "파라미터 70억~700억 개짜리 소형 AI 모델이 1,000억 개 이상의 대형 모델을 코딩·수학 벤치마크에서 앞지르는 사례가 늘고 있다. 지식 증류·테스트 타임 컴퓨팅·혼합 전문가 기법의 조합이 'AI는 클수록 좋다'는 통념을 무너뜨리고 있다."
-image: "https://picsum.photos/seed/2026-11-21-mit-small-ai-models-beat-large-models/800/500"
+image: "images/cards/2026-11-21-mit-small-ai-models-beat-large-models.svg"
 ---
 
 ## 한 줄 요약

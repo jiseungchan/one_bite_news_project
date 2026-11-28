@@ -5,7 +5,7 @@ source: MIT Technology Review
 sourceUrl: https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/
 date: 2026-04-11
 description: 마이크로소프트 AI CEO 무스타파 술레이만이 "AI 성장 한계론"을 정면으로 반박했다. 2010년 이후 학습 데이터가 1조 배 늘었고, 2028년까지 유효 컴퓨팅이 1,000배 더 증가할 것이라고 주장한다.
-image: https://picsum.photos/seed/mustafa-ai-growth-mit/800/500
+image: "images/cards/2026-04-11-mustafa-suleyman-ai-growth-mit.svg"
 ---
 
 ## 한 줄 요약

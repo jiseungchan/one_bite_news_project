@@ -5,6 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
 description: "AI 스타트업 Goodfire의 연구자 닉 캐머라타가 2만6000단어 분량의 글로 신경망 해석 가능성에 대한 기존 통념을 뒤집었다. 뉴런 하나가 고양이와 자동차를 동시에 인식하는 이유가 '중첩(superposition)' 때문이 아니라 둘 다 공유하는 V자 패턴 때문이라는 주장이다."
+image: "images/cards/2026-10-30-neural-network-interpretability-goodfire.svg"
 ---
 
 AI 연구 커뮤니티에서 오래된 통념 하나가 흔들리고 있다. AI 스타트업 Goodfire의 연구자 닉 캐머라타(Nick Cammarata)가 쓴 2만6000단어짜리 글이 AI 안전성·해석가능성(interpretability, AI 모델이 왜 그런 결과를 냈는지 설명하는 연구 분야) 분야를 뒤흔들었다.

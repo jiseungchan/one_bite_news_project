@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/05/06/1116289/apple-intelligence-2-on-device-ai-redesign/"
 description: "애플이 인텔리전스 2.0에서 온디바이스 AI 아키텍처를 전면 재설계했다. 클라우드 의존도를 낮추면서도 GPT-4급 언어 처리 성능을 기기 안에서 구현하는 것이 핵심 목표다."
-image: "https://picsum.photos/seed/2026-05-07-apple-intelligence-2-on-device-ai/800/500"
+image: "images/cards/2026-05-07-apple-intelligence-2-on-device-ai.svg"
 ---
 
 ## 한 줄 요약

@@ -5,7 +5,7 @@ category: AI
 source: "인공지능신문"
 sourceUrl: "https://www.aitimes.kr/"
 description: "1~7B 파라미터짜리 소형 모델이 특정 도메인에서 GPT-4 수준의 성능을 내기 시작했다. 크기가 아니라 훈련 방식이 달라진 덕분이다."
-image: "https://picsum.photos/seed/2026-07-14-slm-small-language-model-breakthrough/800/500"
+image: "images/cards/2026-07-14-slm-small-language-model-breakthrough.svg"
 ---
 
 ## 한 줄 요약

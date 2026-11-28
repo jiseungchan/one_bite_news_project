@@ -5,6 +5,7 @@ category: AI
 source: "Bloomberg Technology"
 sourceUrl: "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-backed-cohere-in-a-fight-to-secure-ai-computing-power"
 description: "엔비디아가 투자한 기업용 AI 스타트업 Cohere가 AI 추론과 훈련에 필요한 컴퓨팅 파워를 확보하기 위해 고군분투하고 있다고 블룸버그가 보도했다. 기업가치 $25B에 달하는 회사도 GPU 부족에서 자유롭지 않다."
+image: "images/cards/2026-11-11-cohere-ai-compute-shortage.svg"
 ---
 
 ## 배경: 기업용 AI 시장에서 Cohere의 위치

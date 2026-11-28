@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210098"
 description: "KT가 기업 업무 자동화에 특화된 AI 에이전트 플랫폼 'AI G'를 정식 출시했다. 단순 챗봇이 아니라, 기업 내부 시스템을 AI가 직접 조작하고 처리하는 구조로 설계됐다. 통신 인프라를 가진 KT가 AI 도구 시장에 본격적으로 뛰어드는 첫 번째 시도다."
+image: "images/cards/2026-05-04-kt-ai-agent-platform.svg"
 ---
 
 기업용 AI 서비스 시장에서 네이버·카카오·삼성이 각축을 벌이는 가운데, KT가 다른 방향에서 들어왔다. 통신망을 깔고 있는 기업이 AI를 직접 배달하겠다는 구상이다.

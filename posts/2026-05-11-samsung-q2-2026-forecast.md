@@ -5,7 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/2026050932010"
 description: "증권사들이 삼성전자의 2분기 실적 전망치를 잇달아 올리고 있다. HBM4(4세대 고대역폭 메모리) 조기 공급 확정이 결정적 변수다. 목표주가도 줄줄이 상향되는 흐름이다."
-image: "https://picsum.photos/seed/2026-05-11-samsung-q2-2026-forecast/800/500"
+image: "images/cards/2026-05-11-samsung-q2-2026-forecast.svg"
 ---
 
 ## 한 줄 요약

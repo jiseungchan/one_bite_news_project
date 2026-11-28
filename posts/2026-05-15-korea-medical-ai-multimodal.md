@@ -5,7 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=210587"
 description: "국내 상급종합병원의 31%가 멀티모달 AI를 영상 판독 보조에 실제 도입했다. 뷰노·루닛·JLK 등 국내 의료 AI 기업들이 식약처 허가를 받은 제품 수가 2년 사이 3배로 늘었다."
-image: "https://picsum.photos/seed/2026-05-15-korea-medical-ai-multimodal/800/500"
+image: "images/cards/2026-05-15-korea-medical-ai-multimodal.svg"
 ---
 
 ## 한 줄 요약

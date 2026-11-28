@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=216689"
 description: "앤트로픽이 2026년 10월 26일 SEC에 S-1을 제출하며 나스닥 상장 절차에 돌입했다. 2026년 상반기 매출 162.9억 달러에 순손실 807.5억 달러 — AI 산업의 수익성 딜레마가 공식 문서로 드러났다."
+image: "https://cdn.aitimes.com/news/photo/202610/216689_220825_2525.jpg"
 ---
 
 # 앤트로픽, 나스닥 상장 신청서 공개 — 매출 21조에 손실 107조인 AI 기업

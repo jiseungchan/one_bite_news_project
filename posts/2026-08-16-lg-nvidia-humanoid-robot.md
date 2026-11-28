@@ -5,6 +5,7 @@ category: AI
 source: "매일경제"
 sourceUrl: "https://www.mk.co.kr/news/business/12127682"
 description: "LG그룹 구광모 회장과 엔비디아 젠슨 황 CEO가 두 달 만에 또다시 회동했다. 양사가 공동 개발 중인 차세대 휴머노이드 로봇이 내년 1분기 공개될 것으로 알려졌다. LG의 하드웨어 설계력과 엔비디아의 Cosmos AI 플랫폼이 만나는 지점이다."
+image: "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.7b85ac3d20b443c8a2a5b772f23b5ef3_R.jpg"
 ---
 
 ## 배경 — 왜 LG와 엔비디아인가

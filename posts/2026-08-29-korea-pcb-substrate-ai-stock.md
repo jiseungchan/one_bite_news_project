@@ -5,6 +5,7 @@ category: 경제·주식
 source: "한국경제"
 sourceUrl: "https://www.hankyung.com/article/202608249401i"
 description: "AI 서버 수요가 반도체를 넘어 기판(PCB·FCBGA) 업체까지 수혜를 확산시키고 있다. 2분기 국내 PCB 주요 업체의 영업이익이 전 분기 대비 32.8% 급증했다."
+image: "https://img.hankyung.com/photo/202608/AA.43327167.1.jpg"
 ---
 
 ## 배경 — '반도체 다음 수혜주'라는 질문

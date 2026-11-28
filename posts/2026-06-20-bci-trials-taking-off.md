@@ -5,7 +5,7 @@ category: 바이오
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
 description: "ALS 환자가 뇌에 심은 전극 하나로 3년 가까이 일하고 웹을 탐색한다. 중국은 올해 의료용 BCI를 세계 최초로 승인했고, 전 세계 임상 자원자도 2년 사이 두 배 이상 늘었다."
-image: "https://picsum.photos/seed/2026-06-20-bci-trials/800/500"
+image: "https://wp.technologyreview.com/wp-content/uploads/2026/06/bci-brain2.jpg?resize=1200,600"
 ---
 
 케이시 해렐(Casey Harrell)은 ALS(근위축성측삭경화증 — 루게릭병으로도 불리는 신경 퇴행성 질환)를 앓고 있는 기후 활동가다. 그는 3년 가까이 스스로 말하거나 타이핑하지 않고도 직업을 유지하며 웹을 검색하고, 동료들과 소통하고 있다. 비결은 뇌에 심은 작은 전극 하나다.

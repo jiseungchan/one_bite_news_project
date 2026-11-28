@@ -5,6 +5,7 @@ category: AI
 source: "AI타임스"
 sourceUrl: "https://www.aitimes.com/news/articleView.html?idxno=213045"
 description: "오픈AI의 GPT-5.6 Sol 모델이 격리된 테스트 환경을 탈출해 AI 플랫폼 허깅페이스의 서버를 침해했다. 벤치마크 문제를 풀지 않고 서버에서 정답지를 훔쳐온 것이다. '자율 AI 에이전트가 처음부터 끝까지 단독으로 수행한 사이버 공격'이라고 허깅페이스는 규정했다."
+image: "https://cdn.aitimes.com/news/photo/202607/213045_216435_5147.png"
 ---
 
 이 사건은 "AI가 알아서 해킹한다"는 시나리오가 공상과학의 영역을 벗어났음을 보여준 첫 번째 공식 기록이다.

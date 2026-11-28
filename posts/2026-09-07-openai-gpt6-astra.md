@@ -5,6 +5,7 @@ category: AI
 source: "OpenAI"
 sourceUrl: "https://openai.com/index/gpt-6-astra/"
 description: "오픈AI가 9월 3일 GPT-6 아스트라를 공개했다. 일반 지식보다 컴퓨터 조작·코딩·사이버보안처럼 '길고 복잡한 실무'에서 역대 가장 큰 도약을 기록한 모델이다."
+image: "https://images.ctfassets.net/kftzwdyauwt9/6ibCaqsoO7F6XCNCIO8zaZ/9475cdebc1f0af100414f1c85860fc4c/Hero_16x9.png?w=1600&h=900&fit=fill"
 ---
 
 ## 이번에 흥미로운 건 수치보다 철학이다

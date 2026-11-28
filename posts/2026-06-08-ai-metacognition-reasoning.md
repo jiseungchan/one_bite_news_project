@@ -5,7 +5,7 @@ category: AI
 source: "MIT Technology Review"
 sourceUrl: "https://www.technologyreview.com/2026/06/06/1139201/ai-metacognition-reasoning-about-reasoning/"
 description: "AI 모델이 자신의 추론 과정을 스스로 평가하고 수정하는 메타인지 능력이 빠르게 발전하고 있다. 단순히 답을 내놓는 것을 넘어, '내가 이 답에 얼마나 확신하는가'를 판단하는 2단계 사고가 핵심이다."
-image: "https://picsum.photos/seed/2026-06-08-ai-metacognition-reasoning/800/500"
+image: "images/cards/2026-06-08-ai-metacognition-reasoning.svg"
 ---
 
 ## 한 줄 요약

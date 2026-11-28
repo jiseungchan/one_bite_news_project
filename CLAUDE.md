@@ -293,3 +293,18 @@
 | 에너지 | 청정에너지·기후 | `#16A34A` |
 | 경제·주식 | 테크 경제·주식 | `#0F766E` |
 | 이번 주 픽 | 주간 선택 | `#DC2626` |
+
+---
+
+## 매일 자동화 구조 (2026-11-28 개편)
+
+| 시각(KST) | 무엇이 | 하는 일 |
+|-----------|--------|---------|
+| 06:30 | GitHub Actions `daily-data.yml` | `tools/collect_market.py`로 금·달러·유가·채권·금리·지수·반도체 종목 수집 → `web/market/latest.json`, 평일엔 주식 RSS 수집 → main 커밋 → 사이트 배포 (LLM 토큰 0) |
+| 07:00 | Claude 예약 작업 「한입뉴스 Daily」 | 기사 4건 + 시장 한 입 노트 작성 → `claude/...` 브랜치 push → 회사 메일 발송 |
+| 07:00 | Claude 예약 작업 「데일리 마켓 브리핑」 | 보유 종목·추천 분석. 지수·금리 수치는 `market/latest.json`을 인용 |
+| push 즉시 | GitHub Actions `auto-merge-claude.yml` | `claude/**` 브랜치의 발행물만 main에 병합(`tools/merge_branch_content.py`) → 배포 → 브랜치 삭제 |
+
+- 예약 작업은 main에 직접 push 하지 않는다. 브랜치에 올리면 워크플로가 병합한다.
+- 시장 수치는 반드시 `web/market/latest.json` 값을 인용하고, 웹 검색은 '왜 움직였는지' 근거를 찾을 때만 쓴다.
+- 비밀값(토큰·비밀번호·API 키)은 어떤 파일에도 적지 않는다. 이 저장소는 공개 저장소다.

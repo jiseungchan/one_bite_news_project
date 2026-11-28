@@ -1,0 +1,83 @@
+name: 자동 발행 브랜치 → main 병합·배포
+
+# Claude 예약 작업은 claude/... 브랜치로 push 한다(세션 정책상 main 직접 push 불가).
+# 이 워크플로가 그 브랜치의 '발행물'만 main에 옮기고, 사이트를 배포한 뒤 브랜치를 지운다.
+# 코드·설정을 바꾼 브랜치는 발행물만 가져오고 브랜치는 남겨 둔다(사람 검토용).
+on:
+  push:
+    branches: ['claude/**']
+  schedule:
+    - cron: '20 23 * * *'   # 08:20 KST 안전망: 놓친 브랜치가 있으면 모아서 병합
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: main-writer
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 대상 브랜치 정하기
+        id: targets
+        run: |
+          git fetch --prune origin '+refs/heads/claude/*:refs/remotes/origin/claude/*'
+          if [ "${{ github.event_name }}" = "push" ]; then
+            REFS="origin/${GITHUB_REF#refs/heads/}"
+          else
+            REFS=$(git for-each-ref --format='%(refname:short)' refs/remotes/origin/claude/ | tr '\n' ' ')
+          fi
+          echo "refs=$REFS" >> "$GITHUB_OUTPUT"
+          echo "대상: $REFS"
+
+      - name: 발행물 병합
+        if: steps.targets.outputs.refs != ''
+        run: python tools/merge_branch_content.py ${{ steps.targets.outputs.refs }}
+
+      - name: main에 커밋·push
+        id: commit
+        if: steps.targets.outputs.refs != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _posts web/posts web/posts.json web/market/notes web/stock-briefs web/stock-briefs.json stock-service/_stock-news _cards 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            N=$(git diff --staged --name-only --diff-filter=A -- _posts | wc -l)
+            git commit -m "publish: 자동 발행물 병합 — 새 기사 ${N}건 ($(TZ=Asia/Seoul date '+%Y-%m-%d'))"
+            git pull --rebase origin main
+            git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 사이트 배포 요청
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy-pages.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 처리 끝난 브랜치 삭제
+        if: steps.targets.outputs.refs != ''
+        run: |
+          for REF in ${{ steps.targets.outputs.refs }}; do
+            if grep -qx "$REF" non_content_branches.txt; then
+              echo "보존(코드 변경 포함): $REF"
+            else
+              git push origin --delete "${REF#origin/}" || true
+            fi
+          done

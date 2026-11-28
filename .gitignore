@@ -30,3 +30,4 @@ web/.git_bak
 .env
 *.secret
 tools/emailer_log.txt
+non_content_branches.txt

@@ -1,0 +1,69 @@
+name: 매일 시장 지표·RSS 수집
+
+# LLM 없이 도는 수집 작업 (토큰 0).
+# 06:30 KST에 끝나 있어야 07:00 Claude 예약 작업이 이 데이터를 읽어 쓴다.
+on:
+  schedule:
+    - cron: '30 21 * * *'   # 매일 06:30 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write   # deploy-pages 워크플로 호출용
+
+concurrency:
+  group: main-writer
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 시장 지표 수집 (금·달러·유가·채권·금리·지수)
+        run: python tools/collect_market.py
+
+      - name: 주식 뉴스 RSS 수집 (평일만)
+        run: |
+          DOW=$(TZ=Asia/Seoul date +%u)   # 1=월 … 7=일
+          if [ "$DOW" -le 5 ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python stock-service/tools/collect_rss.py || echo "RSS 일부 실패 — 계속 진행"
+          else
+            echo "주말 아침 — RSS 수집 건너뜀"
+          fi
+        env:
+          PROJECT_ROOT: ${{ github.workspace }}
+
+      - name: main에 커밋
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add web/market stock-service/_pipeline/stock-01-rss-pool.md
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "data: 시장 지표·RSS 수집 — $(TZ=Asia/Seoul date '+%Y-%m-%d')"
+            git pull --rebase origin main
+            git push origin HEAD:main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 사이트 배포 요청
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy-pages.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 요약
+        run: |
+          echo "## 시장 지표" >> "$GITHUB_STEP_SUMMARY"
+          python -c "import json;d=json.load(open('web/market/latest.json'));print(f\"{d['asof_kst']} · {len(d['items'])}개 수집 · 실패 {len(d['errors'])}개\")" >> "$GITHUB_STEP_SUMMARY"

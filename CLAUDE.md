@@ -301,7 +301,7 @@
 | 시각(KST) | 무엇이 | 하는 일 |
 |-----------|--------|---------|
 | 06:30 | GitHub Actions `daily-data.yml` | `tools/collect_market.py`로 금·달러·유가·채권·금리·지수·반도체 종목 수집 → `web/market/latest.json`, 평일엔 주식 RSS 수집 → main 커밋 → 사이트 배포 (LLM 토큰 0) |
-| 07:00 | Claude 예약 작업 「한입뉴스 Daily」 | 기사 4건 + 시장 한 입 노트 작성 → `claude/...` 브랜치 push → 회사 메일 발송 |
+| 07:07 | Claude 예약 작업 「한입뉴스 Daily」 | 기사 4건 + 시장 한 입 노트 작성 → `claude/...` 브랜치 push → 회사 메일 발송 |
 | 07:00 | Claude 예약 작업 「데일리 마켓 브리핑」 | 보유 종목·추천 분석. 지수·금리 수치는 `market/latest.json`을 인용 |
 | push 즉시 | GitHub Actions `auto-merge-claude.yml` | `claude/**` 브랜치의 발행물만 main에 병합(`tools/merge_branch_content.py`) → 배포 → 브랜치 삭제 |
 

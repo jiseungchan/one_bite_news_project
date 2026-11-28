@@ -1,0 +1,344 @@
+filename	date	status	why	sourceUrl	title
+2026-04-16-meta-llama4-multimodal.md	2026-04-16	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=209175	메타, 라마4 공개 — 멀티모달 오픈소스 AI 최강자 등극 선언
+2026-04-18-skhynix-hbm4-mass-production.md	2026-04-18	not_found	HTTP 404	https://www.hankyung.com/article/2026041721051	SK하이닉스, HBM4 양산 개시 — 엔비디아 블랙웰 울트라에 첫 납품
+2026-04-18-samsung-gauss3-ai-model.md	2026-04-18	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=209312	삼성전자, 자체 생성형 AI '가우스3' 공개 — 온디바이스 AI의 새 기준을 세우다
+2026-04-18-openai-gpt41-api.md	2026-04-18	not_found	HTTP 404	https://www.technologyreview.com/2026/04/14/1115143/openai-gpt41-api/	코딩에 특화된 GPT-4.1, API로 공개 — 'GPT-4o보다 54% 저렴하고 더 정확하다'
+2026-04-18-nvidia-jensen-inference-demand.md	2026-04-18	not_found	HTTP 404	https://www.hankyung.com/article/2026041732010	젠슨 황 '추론 수요는 예상의 100배' — 엔비디아가 AI 칩 시장을 다시 계산하는 이유
+2026-04-18-nvidia-blackwell-ultra-delay-samsung-sk.md	2026-04-18	not_found	HTTP 404	https://www.hankyung.com/article/2026041735021	엔비디아 블랙웰 울트라 공급 지연 — 삼성·SK하이닉스, HBM4E 납품 경쟁 앞당겨
+2026-04-18-naver-hyperclovax2-launch.md	2026-04-18	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.com/news/articleView.html?idxno=209400	네이버, 하이퍼클로바X 2.0 공개 — 한국어 AI 시장의 판이 다시 짜인다
+2026-04-18-naver-hyperclova-x2.md	2026-04-18	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=209401	네이버, HyperCLOVA X 2.0 공개 — 한국어 AI의 새 기준을 직접 만든다
+2026-04-18-korea-ai-national-strategy-2030.md	2026-04-18	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.kr/news/articleView.html?idxno=32855	정부, AI 국가전략 2.0 발표 — 2030년 AI 반도체 자립, 어떻게 할 것인가
+2026-04-18-kimi-k2-moonshot-ai-reasoning.md	2026-04-18	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.com/news/articleView.html?idxno=209398	중국 AI의 역습 — Moonshot AI 'Kimi K2', 오픈소스 추론 모델 1위 등극
+2026-04-18-hyundai-robotics-ai-platform.md	2026-04-18	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.kr/news/articleView.html?idxno=32900	현대차, 로봇에 AI 두뇌를 심다 — 보스턴다이나믹스와 함께 만드는 로보틱스 플랫폼
+2026-04-18-google-gemini-25-flash.md	2026-04-18	not_found	HTTP 404	https://www.technologyreview.com/2026/04/17/1115298/google-gemini-25-flash/	구글, Gemini 2.5 Flash 공개 — 가격은 절반, 추론 능력은 그대로
+2026-04-18-google-deepmind-project-astra.md	2026-04-18	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.kr/news/articleView.html?idxno=32841	구글 딥마인드, '아스트라' 전면 업그레이드 — 카메라로 보고, 기억하고, 대신 행동하는 AI
+2026-04-18-anthropic-model-welfare-ai-safety.md	2026-04-18	not_found	HTTP 404	https://www.technologyreview.com/2026/04/17/1115190/anthropic-model-welfare-ai-consciousness/	AI도 고통을 느낄 수 있을까 — 앤트로픽이 '모델 복지' 연구를 시작한 이유
+2026-04-18-anthropic-claude-agent-benchmark.md	2026-04-18	home	첫 화면으로 이동됨	https://the-decoder.com/ai-agents-benchmark-real-world-gap-2026/	AI 에이전트는 아직 '진짜 세계'를 모른다 — 벤치마크와 현실의 간극
+2026-04-18-ai-datacenter-power-demand.md	2026-04-18	not_found	HTTP 404	https://www.technologyreview.com/2026/04/16/1115178/ai-data-center-power-demand-electricity-grid/	AI가 전기를 먹어치운다 — 데이터센터 전력 수요, 2030년까지 3배 전망
+2026-04-19-synthetic-data-ai-training.md	2026-04-19	not_found	HTTP 404	https://www.technologyreview.com/2026/04/19/1115340/synthetic-data-ai-training-new-standard/	진짜 데이터 없이 AI를 학습시킨다 — 합성 데이터가 AI 개발의 새 기준이 되는 이유
+2026-04-19-openai-o3-reasoning-model.md	2026-04-19	not_found	HTTP 404	https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/	OpenAI o3, 추론 모델의 새 기준을 세우다 — '생각하는 AI'가 한 단계 더 올라갔다
+2026-04-19-mit-ai-agent-evaluation-problem.md	2026-04-19	not_found	HTTP 404	https://www.technologyreview.com/2026/04/19/1115334/how-to-evaluate-ai-agents-benchmarks-trust/	AI 에이전트를 어떻게 믿을 것인가 — 평가 기준 자체가 틀렸다는 연구자들
+2026-04-19-lg-exaone35-reasoning.md	2026-04-19	mismatch	원문 제목 불일치, 본문 일치 12%	https://www.aitimes.com/news/articleView.html?idxno=209521	LG AI연구원, EXAONE 3.5 공개 — 국내 AI 추론 모델의 수준이 달라졌다
+2026-04-19-korea-ai-agent-service-expansion.md	2026-04-19	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.com/news/articleView.html?idxno=209562	네이버·카카오·SK텔레콤, AI 에이전트 서비스 3파전 — 한국형 에이전트 시장이 열린다
+2026-04-19-kakao-kanana-ai-platform.md	2026-04-19	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.com/news/articleView.html?idxno=209547	카카오, AI 통합 플랫폼 '카나나' 전면 오픈 — 카카오톡 1등석을 AI에게 내주다
+2026-04-19-eu-ai-act-korea-impact.md	2026-04-19	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.kr/news/articleView.html?idxno=32935	EU AI법 전면 시행 D-90 — 한국 AI 기업이 준비해야 할 것들
+2026-04-19-ai-semiconductor-etf-surge.md	2026-04-19	not_found	HTTP 404	https://www.hankyung.com/article/2026041855021	AI 반도체 ETF 일제 급등 — 외국인·기관이 동시에 올라탄 이유
+2026-04-20-카카오-카나나-ai-플랫폼.md	2026-04-20	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.com/news/articleView.html?idxno=209547	카카오, AI 통합 플랫폼 '카나나' 전면 오픈 — 카카오톡과 연동
+2026-04-20-OpenAI-o3-추론모델.md	2026-04-20	not_found	HTTP 404	https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/	OpenAI o3: 지금까지 나온 것 중 가장 강력한 추론 모델
+2026-04-20-LG-EXAONE-3.5.md	2026-04-20	mismatch	원문 제목 불일치, 본문 일치 38%	https://www.aitimes.com/news/articleView.html?idxno=209521	LG AI연구원, EXAONE 3.5 공개 — 국내 최고 수준 추론 성능
+2026-04-20-AI반도체-ETF-급등.md	2026-04-20	not_found	HTTP 404	https://www.hankyung.com/article/2026041855021	AI 반도체 ETF 급등 — 외국인·기관 동시 순매수
+2026-04-21-mit-ai-agents-explainer.md	2026-04-21	not_found	HTTP 404	https://www.technologyreview.com/2026/04/21/1115400/ai-agents-what-they-can-do/	AI 에이전트란 무엇인가 — 지금 모두가 주목하는 이유와 실제 할 수 있는 것
+2026-04-22-naver-hyperclova-x2.md	2026-04-22	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=209430	네이버, 하이퍼클로바X 2.0 공개 — GPT-4급 한국어 성능에 검색 통합까지
+2026-04-22-nasdaq-ai-tech-rally.md	2026-04-22	not_found	HTTP 404	https://www.hankyung.com/article/2026042200001	AI 투자 열풍에 나스닥 기술주 일제 상승 — 국내 반도체주도 온기 돌았다
+2026-04-22-claude-37-sonnet.md	2026-04-22	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=209450	앤트로픽, 하이브리드 추론 모델 '클로드 3.7 소네트' 공개 — 생각하는 양을 스스로 조절한다
+2026-04-22-ai-safety-testing-research.md	2026-04-22	not_found	HTTP 404	https://www.technologyreview.com/2026/04/21/1115500/ai-safety-researchers-testing-ai/	AI를 안전하게 만드는 가장 확실한 방법은 테스트다 — 레드팀 연구자들이 말하는 것
+2026-04-23-openai-o3-reasoning-model.md	2026-04-23	not_found	HTTP 404	https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/	OpenAI o3, 추론 모델의 새 기준을 세우다 — '가장 강력한 AI'라는 말이 이번엔 다른 이유
+2026-04-24-openai-o3-reasoning-benchmark.md	2026-04-24	not_found	HTTP 404	https://www.technologyreview.com/2026/04/23/1115512/openai-o3-science-reasoning-benchmark/	OpenAI o3, 박사급 과학 문제를 풀다 — 추론 AI가 연구자를 대체할 날이 오는가
+2026-04-24-eu-ai-act-enforcement-begins.md	2026-04-24	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=209621	EU AI법 본격 시행 — 한국 AI 기업들이 지금 준비해야 할 것
+2026-04-26-wrtn-enterprise-ai-agent.md	2026-04-26	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=210102	뤼튼의 도전 — 국내 AI 스타트업이 기업 시장을 노리는 방법
+2026-04-26-openai-o3-reasoning-model.md	2026-04-26	not_found	HTTP 404	https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/	OpenAI o3, 추론 AI의 새 기준을 세우다 — '가장 강력한 추론 모델'의 등장
+2026-04-26-openai-gpt4o-native-image.md	2026-04-26	not_found	HTTP 404	https://www.technologyreview.com/2026/04/25/openai-gpt4o-native-image-generation/	GPT-4o가 직접 그린다 — OpenAI 네이티브 이미지 생성의 의미
+2026-04-26-meta-multimodal-opensource.md	2026-04-26	mismatch	원문 제목 불일치, 본문 일치 12%	https://www.aitimes.com/news/articleView.html?idxno=210155	메타, 라마 4 이후를 말하다 — 멀티모달 오픈소스 전략의 대전환
+2026-04-26-lg-samsung-ai-home-export.md	2026-04-26	not_found	HTTP 404	https://www.hankyung.com/article/2026042558821	AI 가전이 반도체 뒤를 잇는다 — LG·삼성 수출 호조의 배경
+2026-04-26-lg-exaone-35-reasoning.md	2026-04-26	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.com/news/articleView.html?idxno=209521	LG AI연구원, EXAONE 3.5 공개 — 국내 최고 수준 추론 AI가 나왔다
+2026-04-27-openai-o3-reasoning-breakthrough.md	2026-04-27	not_found	HTTP 404	https://www.technologyreview.com/2026/04/18/1115312/openai-o3-reasoning-model/	OpenAI, 추론 모델 o3 공식 출시 — '생각하는 시간'이 길수록 더 똑똑해지는 AI
+2026-04-27-lg-exaone-35-open-source.md	2026-04-27	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.com/news/articleView.html?idxno=209521	LG AI연구원, EXAONE 3.5 공개 — 오픈소스로 나온 국내 최고 수준 추론 모델
+2026-04-27-kakao-kanana-ai-platform.md	2026-04-27	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.com/news/articleView.html?idxno=209547	카카오, AI 통합 플랫폼 '카나나' 전면 오픈 — 카카오톡 4,500만 명에게 AI를 심는다
+2026-04-27-chatgpt-memory-upgrade-2026.md	2026-04-27	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.com/news/articleView.html?idxno=209712	ChatGPT, 이제 당신을 '진짜로' 기억한다 — 메모리 전면 업그레이드의 의미
+2026-04-27-ai-semiconductor-etf-surge.md	2026-04-27	not_found	HTTP 404	https://www.hankyung.com/article/2026041855021	AI 반도체 ETF, 이틀 연속 급등 — 외국인·기관이 동시에 사들이는 이유
+2026-04-27-ai-science-discovery-paradigm.md	2026-04-27	not_found	HTTP 404	https://www.technologyreview.com/2026/04/25/1115445/ai-is-changing-science-itself/	AI가 과학 자체를 바꾸고 있다 — 실험실 밖에서 시작되는 발견의 혁명
+2026-04-28-samsung-sk-hbm4-earnings.md	2026-04-28	mismatch	원문 제목 불일치, 본문 일치 36%	https://www.mk.co.kr/news/stock/12031205	삼성전자·SK하이닉스 2분기 실적 전망 상향 — HBM4 조기 양산이 바꾼 숫자들
+2026-04-28-samsung-foundry-2nm-yield-breakthrough.md	2026-04-28	not_found	HTTP 404	https://www.hankyung.com/article/2026042832041	삼성 파운드리, 2nm 수율 60% 돌파 — TSMC 독주에 균열이 생기기 시작했다
+2026-04-28-openai-o4-mini.md	2026-04-28	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=209780	OpenAI, o4-mini 공개 — o3-mini보다 10배 저렴한 추론 모델
+2026-04-28-korea-ai-safety-institute-launch.md	2026-04-28	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=210089	한국 AI 안전연구소 공식 출범 — 정부가 AI 위험 감시에 직접 나선다
+2026-04-28-apple-intelligence-privacy-mit.md	2026-04-28	not_found	HTTP 404	https://www.technologyreview.com/2026/04/27/1115489/apple-intelligence-private-cloud-compute-privacy-analysis/	애플 인텔리전스, 개인정보는 얼마나 안전한가 — MIT가 뜯어본 '프라이빗 클라우드 컴퓨트'
+2026-04-28-ai-clinical-decision-support.md	2026-04-28	not_found	HTTP 404	https://www.technologyreview.com/2026/04/27/1115501/ai-models-clinical-decision-support-doctors/	의사의 판단을 보조하는 AI — 임상 의사결정 지원 모델의 현재
+2026-04-29-nvidia-blackwell-ultra-demand.md	2026-04-29	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026042990876	엔비디아 블랙웰 울트라, 2분기 수주 잔고 역대 최대 — AI 인프라 투자 과열인가, 구조적 수요인가
+2026-04-29-baidu-ai-search-70-percent.md	2026-04-29	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=209820	바이두 AI 검색, 중국 점유율 70% 돌파 — 검색 시장의 구조가 바뀌고 있다
+2026-04-29-ai-agents-last-mile-problem.md	2026-04-29	not_found	HTTP 404	https://www.technologyreview.com/2026/04/29/1115890/why-ai-agents-fail-last-mile-problem/	AI 에이전트가 마지막 단계에서 실패하는 이유
+2026-04-30-spatial-intelligence-ai-3d.md	2026-04-30	not_found	HTTP 404	https://www.technologyreview.com/2026/04/29/1115612/spatial-intelligence-ai-3d-vision-robots/	AI가 공간을 이해하기 시작했다 — 3D 시각 지능이 로봇과 자율주행을 바꾸는 법
+2026-04-30-samsung-q1-2026-earnings.md	2026-04-30	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.mk.co.kr/news/stock/12034501	삼성전자 1분기 영업이익 6.7조 — DS부문 흑자 전환이 바꾼 숫자들
+2026-04-30-samsung-foundry-2nm-yield.md	2026-04-30	not_found	HTTP 404	https://www.hankyung.com/article/2026042921082	삼성 파운드리 2나노 수율 60% 돌파 — 숫자보다 중요한 건 방향이다
+2026-04-30-rebellions-rebel3-ai-chip.md	2026-04-30	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=209901	리벨리온 REBEL-3, 엔비디아 H100보다 전력 효율 2배 목표로 한다
+2026-04-30-meta-llama4-scout-release.md	2026-04-30	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=33150	메타, 경량 멀티모달 AI 'Llama 4 Scout' 공개 — 1천만 토큰 컨텍스트에 상업 무료
+2026-05-01-openai-reasoning-hallucinate.md	2026-05-01	not_found	HTTP 404	https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/	더 많이 생각할수록 더 많이 틀린다 — OpenAI 추론 모델의 역설
+2026-05-01-openai-gpt5-full-release.md	2026-05-01	not_found	HTTP 404	https://www.technologyreview.com/2026/04/30/1116012/openai-gpt5-launch-reasoning-multimodal/	OpenAI, GPT-5 정식 출시 — 추론·멀티모달·에이전트 세 가지를 하나로 묶다
+2026-05-01-korea-ai-startup-global.md	2026-05-01	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.kr/news/articleView.html?idxno=33105	K-AI의 해외 진출 — 업스테이지·뤼튼·리걸테크, 아시아 시장을 두드리다
+2026-05-01-korea-ai-robot-policy-2026.md	2026-05-01	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.aitimes.com/news/articleView.html?idxno=210351	정부, AI 로봇 산업 육성 전략 발표 — 2030년 국내 로봇 시장 30조 원 목표
+2026-05-01-google-ai-overview-redesign.md	2026-05-01	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.aitimes.com/news/articleView.html?idxno=209998	구글 AI 검색, 전면 개편 — 답변 정확도 60% 향상, 어떻게 바뀌었나
+2026-05-01-ai-semiconductor-stock-may.md	2026-05-01	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026043089021	5월 반도체·AI 수혜주 재편 — '엔비디아 공급망'에서 '추론 인프라'로 무게중심 이동
+2026-05-02-skhynix-hbm4e-complete.md	2026-05-02	not_found	HTTP 404	https://www.hankyung.com/article/2026042932010	SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, AI 메모리 패권 굳히기
+2026-05-02-openai-reasoning-hallucination.md	2026-05-02	not_found	HTTP 404	https://www.technologyreview.com/2026/05/01/1116067/openais-new-reasoning-ai-models-hallucinate-more/	더 잘 추론하는데 더 많이 환각한다 — OpenAI 추론 모델의 역설
+2026-05-02-meta-ai-standalone-app.md	2026-05-02	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=209970	메타, AI 독립 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타그램에서 벗어나다
+2026-05-02-ai-autonomous-weapons-frontier.md	2026-05-02	not_found	HTTP 404	https://www.technologyreview.com/2026/05/01/1116054/ai-autonomous-weapons-frontier-models/	AI의 '오펜하이머 순간'이 왔는가 — 프런티어 모델이 자율무기 경쟁에 불을 붙이다
+2026-05-03-skhynix-hbm4e-development.md	2026-05-03	not_found	HTTP 404	https://www.hankyung.com/article/2026042932010	SK하이닉스, HBM4E 개발 완료 선언 — 2026년 4분기 양산, 엔비디아 루빈 GPU에 탑재
+2026-05-03-samsung-2nm-gaa-foundry.md	2026-05-03	mismatch	원문 제목 불일치, 본문 일치 17%	https://www.aitimes.kr/news/articleView.html?idxno=33180	삼성전자 파운드리, 2나노 GAA 시험 생산 돌입 — TSMC와의 격차를 좁힐 수 있을까
+2026-05-03-nvidia-agentiq-platform.md	2026-05-03	mismatch	원문 제목 불일치, 본문 일치 44%	https://www.aitimes.kr/news/articleView.html?idxno=33120	엔비디아, AI 에이전트 전용 플랫폼 'AgentIQ' 공개 — 에이전트끼리 소통하는 표준을 만든다
+2026-05-03-microsoft-copilot-ai-agent.md	2026-05-03	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.com/news/articleView.html?idxno=210080	마이크로소프트, Copilot+ PC에 AI 에이전트 전면 통합 — PC가 스스로 일을 처리하는 시대
+2026-05-03-meta-ai-app-launch.md	2026-05-03	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=209970	메타, AI 독립형 앱 '메타 AI' 글로벌 출시 — 왓츠앱·인스타그램과 분리된 AI가 온다
+2026-05-03-kospi-foreign-buying-ai-semiconductor.md	2026-05-03	not_found	HTTP 404	https://www.hankyung.com/article/2026050332010	외국인, 코스피 AI·반도체 집중 매수 — 삼성·SK 동반 상승, 랠리의 근거는 무엇인가
+2026-05-04-mit-ai-agents-human-oversight.md	2026-05-04	not_found	HTTP 404	https://www.technologyreview.com/2026/05/03/1116198/ai-agents-autonomy-human-oversight-accountability/	AI 에이전트가 실수할 때 누가 책임지나 — 자율성과 인간 감독 사이의 딜레마
+2026-05-04-kt-ai-agent-platform.md	2026-05-04	mismatch	원문 제목 불일치, 본문 일치 29%	https://www.aitimes.com/news/articleView.html?idxno=210098	KT, 기업용 AI 에이전트 플랫폼 'AI G' 출시 — 통신사가 AI 중계자를 자처하다
+2026-05-04-korea-semiconductor-export-record.md	2026-05-04	not_found	HTTP 404	https://www.hankyung.com/article/2026050233041	반도체 수출 5개월 연속 증가 — 4월 역대 최고치, AI 수요가 이끄는 회복세
+2026-05-04-eu-ai-act-phase1-korea-impact.md	2026-05-04	not_found	매체가 '없는 기사' 안내	https://www.aitimes.kr/news/articleView.html?idxno=33198	EU AI법 1단계 본격 시행 — 국내 기업이 준비해야 할 것들
+2026-05-04-autonomous-ai-lab-science.md	2026-05-04	not_found	HTTP 404	https://www.technologyreview.com/2026/05/03/1116180/autonomous-ai-laboratories-self-driving-science/	사람 없이 실험이 돌아간다 — 자율 AI 실험실이 바꾸는 과학 연구의 판
+2026-05-05-skt-aidot-b2b.md	2026-05-05	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.com/news/articleView.html?idxno=210056	SK텔레콤 에이닷, 기업 시장으로 — AI 에이전트 B2B 서비스 본격 출시
+2026-05-05-nvidia-gb300-shipment-samsung-sk.md	2026-05-05	not_found	HTTP 404	https://www.hankyung.com/article/2026050432010	엔비디아 루빈 GB300 출하 개시 — 삼성·SK하이닉스 수혜 본격화
+2026-05-05-deepmind-alphaproteomics.md	2026-05-05	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=210089	AlphaFold 다음은 단백질체 전체다 — 딥마인드 '알파프로테오믹스' 공개
+2026-05-05-ai-transforming-scientific-research.md	2026-05-05	not_found	HTTP 404	https://www.technologyreview.com/2026/05/05/1116210/ai-transforming-scientific-research/	AI가 과학 연구를 바꾸고 있다 — 항상 더 나은 방향은 아니다
+2026-05-06-samsung-foreign-buying-hbm3e.md	2026-05-06	not_found	HTTP 404	https://www.hankyung.com/article/2026050632010	외국인이 삼성전자를 다시 사기 시작했다 — HBM3E 공급 확대가 바꾼 수급
+2026-05-06-openai-gpt5-launch.md	2026-05-06	not_found	HTTP 404	https://www.technologyreview.com/2026/05/05/1116234/openai-gpt-5-launch-smartest-model/	OpenAI, GPT-5 공식 출시 — '가장 똑똑한 모델'이라고 했을 때 그 의미
+2026-05-06-ai-job-economy-impact.md	2026-05-06	not_found	HTTP 404	https://www.technologyreview.com/2026/05/05/1116089/ai-job-market-economy-impact/	AI 일자리 대재앙은 오지 않았다 — 그런데 경제는 조용히 바뀌고 있다
+2026-05-06-ai-basic-law-enforcement-decree.md	2026-05-06	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.com/news/articleView.html?idxno=210155	AI 기본법 시행령 공개 — 고위험 AI를 어떻게 규제할 것인가
+2026-05-07-samsung-foundry-2nm-tsmc.md	2026-05-07	not_found	HTTP 404	https://www.hankyung.com/article/2026050645021	삼성 파운드리, 2nm 수율 60% 돌파 — TSMC 추격의 신호탄
+2026-05-07-apple-intelligence-2-on-device-ai.md	2026-05-07	not_found	HTTP 404	https://www.technologyreview.com/2026/05/06/1116289/apple-intelligence-2-on-device-ai-redesign/	애플 인텔리전스 2.0, 온디바이스 AI를 다시 설계하다 — 클라우드 없이도 GPT급 성능?
+2026-05-08-openai-gpt5-launch.md	2026-05-08	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=210089	OpenAI, GPT-5 정식 출시 — 에이전트 기능 통합한 차세대 모델
+2026-05-08-nvidia-stock-all-time-high.md	2026-05-08	not_found	HTTP 404	https://www.hankyung.com/article/2026050738021	엔비디아 주가 사상 최고치 — 블랙웰 수요 폭증에 시총 4조 달러 돌파
+2026-05-08-kakao-kanana-orchestra.md	2026-05-08	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.com/news/articleView.html?idxno=210095	카카오, AI 에이전트 오케스트레이션 프레임워크 '카나나 오케스트라' 공개
+2026-05-08-ai-becoming-scientist-mit.md	2026-05-08	not_found	HTTP 404	https://www.technologyreview.com/2026/05/06/1116234/ai-science-discovery-research-autonomous/	AI는 과학자가 될 수 있을까 — 가설 생성부터 실험 설계까지 스스로 하는 AI
+2026-05-09-samsung-hbm4-q2-supply.md	2026-05-09	not_found	HTTP 404	https://www.hankyung.com/article/2026050832010	삼성전자, 2분기 HBM4 공급 본격화 — 반도체 업황 반전의 기폭제가 될까
+2026-05-09-openai-gpt5-launch.md	2026-05-09	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=33287	OpenAI, GPT-5 정식 출시 — '추론과 창의성을 동시에' 단일 모델로 통합
+2026-05-09-google-io-2026-ai-agent.md	2026-05-09	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.com/news/articleView.html?idxno=210156	구글 I/O 2026, AI 에이전트 시대 선언 — 검색을 버리고 '행동하는 AI'로 간다
+2026-05-09-ai-talent-war-silicon-valley.md	2026-05-09	not_found	HTTP 404	https://www.technologyreview.com/2026/05/07/1116215/ai-talent-war-silicon-valley/	AI 인재 전쟁, 실리콘밸리를 다시 쓴다 — 연봉 1,000만 달러 시대의 도래
+2026-05-10-skhynix-q2-profit-forecast.md	2026-05-10	not_found	HTTP 404	https://www.hankyung.com/article/2026050923041	SK하이닉스, 2분기 영업이익 7조 원 전망 — HBM4 조기 공급이 바꾼 숫자
+2026-05-10-openai-gpt5-analysis.md	2026-05-10	not_found	HTTP 404	https://www.technologyreview.com/2026/05/08/1116312/openai-gpt5-most-capable-ai-model/	OpenAI GPT-5, 가장 강력한 AI 등장 — 하지만 1위 자리는 얼마나 오래갈까
+2026-05-10-kakao-karlo3-opensource.md	2026-05-10	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.kr/news/articleView.html?idxno=33298	카카오브레인, 이미지 생성 AI '칼로3' 오픈소스 공개 — 한국어 맥락 이해가 강점
+2026-05-10-google-ai-search-revenue.md	2026-05-10	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=210187	구글, AI 검색 광고 수익 처음으로 공개 — 검색 비즈니스의 수익 구조가 바뀐다
+2026-05-11-samsung-q2-2026-forecast.md	2026-05-11	not_found	HTTP 404	https://www.hankyung.com/article/2026050932010	삼성전자 2분기 실적 전망 상향 — HBM4 조기 공급에 증권가 목표주가 줄상향
+2026-05-11-openai-gpt5-launch.md	2026-05-11	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=210250	오픈AI, GPT-5 정식 출시 — API 공개와 ChatGPT 통합으로 AI 경쟁 판 흔든다
+2026-05-11-ai-job-disruption.md	2026-05-11	not_found	HTTP 404	https://www.technologyreview.com/2026/05/08/1116201/ai-job-disruption-labor-market/	AI 일자리 충격은 이미 시작됐다 — 그런데 예측과는 전혀 다른 방식으로
+2026-05-12-samsung-foundry-2nm-amd-order.md	2026-05-12	mismatch	원문 제목 불일치, 본문 일치 10%	https://www.hankyung.com/economy/	삼성 파운드리 2나노 공정, AMD 수주 성공 — TSMC 독점에 첫 균열
+2026-05-12-nvidia-blackwell-ultra-hbm4-order.md	2026-05-12	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026051200001	엔비디아 Blackwell Ultra 수요 폭증 — SK하이닉스 HBM4 독점 공급 구도 확고
+2026-05-12-korea-ai-healthcare-fda-approval.md	2026-05-12	mismatch	원문 제목 불일치, 본문 일치 8%	https://www.aitimes.kr/news/articleView.html?idxno=31842	국내 AI 의료기기, 미국 FDA 승인 잇따라 — 뷰노·루닛, 글로벌 시장 본격 진입
+2026-05-12-apple-intelligence-ios19-siri.md	2026-05-12	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.com/news/articleView.html?idxno=210712	Apple Intelligence 2.0 — iOS 19에서 Siri가 완전히 달라진다
+2026-05-12-ai-data-center-cooling-liquid.md	2026-05-12	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.com/news/articleView.html?idxno=168421	AI 데이터센터, 공랭식의 한계에 부딪히다 — 액침냉각이 새 표준으로 부상
+2026-05-13-samsung-skhynix-chips-subsidy.md	2026-05-13	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.mk.co.kr/news/stock/12044201	삼성·SK하이닉스, 미국 반도체 보조금 최종 확정 — 합산 8조 원이 뜻하는 것
+2026-05-13-korea-ai-datacenter-investment-30t.md	2026-05-13	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026051300001	국내 AI 데이터센터 투자 30조 돌파 — 전력·부지 확보가 새 병목으로
+2026-05-13-eu-ai-act-june-enforcement.md	2026-05-13	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=210418	EU AI법 6월 발효 — 국내 기업 40%가 아직 준비 안 됐다
+2026-05-13-deepmind-protein-interaction-ai.md	2026-05-13	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=210441	딥마인드, 단백질 결합 예측 정확도 3배 — 신약 후보 발굴이 18개월에서 9개월로
+2026-05-13-china-ai-global-expansion-2026.md	2026-05-13	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=210150	중국 AI, 내수를 넘어 세계로 — 글로벌 시장 공략 속도가 달라졌다
+2026-05-13-ai-model-self-evaluation.md	2026-05-13	not_found	HTTP 404	https://www.technologyreview.com/2026/05/13/1116201/ai-model-self-evaluation-trustworthy/	AI가 스스로를 믿을 수 있을까 — 모델 자기 평가 과학의 등장
+2026-05-13-ai-eda-chip-design-automation.md	2026-05-13	mismatch	원문 제목 불일치, 본문 일치 29%	https://www.aitimes.kr/news/articleView.html?idxno=33210	AI가 반도체를 설계한다 — EDA 자동화로 칩 개발 기간 절반으로
+2026-05-14-ai-misinformation-detection.md	2026-05-14	not_found	HTTP 404	https://www.technologyreview.com/2026/05/14/1116380/openai-ai-misinformation-detection/	AI가 만든 가짜를 AI가 잡는다 — OpenAI의 허위정보 탐지 연구
+2026-05-15-test-time-compute-ai-race.md	2026-05-15	not_found	HTTP 404	https://www.technologyreview.com/2026/05/14/1116312/test-time-compute-ai-reasoning-race/	추론할 때 더 많이 생각하면 더 똑똑해진다 — AI의 새 전쟁터, 테스트 타임 컴퓨트
+2026-05-15-nvidia-ai-datacenter-korea-investment.md	2026-05-15	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026051544231	엔비디아 GPU 대기 줄 6개월 — 국내 데이터센터 AI 투자, 속도 내는 이유
+2026-05-15-korea-medical-ai-multimodal.md	2026-05-15	mismatch	원문 제목 불일치, 본문 일치 36%	https://www.aitimes.com/news/articleView.html?idxno=210587	국내 병원 10곳 중 3곳, 이미 AI 영상 판독 쓴다 — 멀티모달 의료 AI 확산의 속도
+2026-05-15-ai-copyright-korea-ruling.md	2026-05-15	not_found	매체가 '없는 기사' 안내	https://www.aitimes.kr/news/articleView.html?idxno=161042	AI가 만든 콘텐츠, 저작권이 있나 — 국내 법원 첫 판결이 나왔다
+2026-05-16-nvidia-blackwell-ultra-skhynix-samsung.md	2026-05-16	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026051541891	엔비디아 블랙웰 울트라 공급 확대 — SK하이닉스·삼성전자 수혜 전망
+2026-05-16-kakaobrains-kanana-v-multimodal.md	2026-05-16	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.kr/news/articleView.html?idxno=32118	카카오브레인, 멀티모달 AI 'Kanana-V' 공개 — 이미지와 텍스트를 동시에 이해한다
+2026-05-16-agentic-ai-safety-rethink.md	2026-05-16	not_found	HTTP 404	https://www.technologyreview.com/2026/05/15/1117843/agentic-ai-safety-rethink/	에이전트 AI 시대, 안전의 의미를 다시 써야 한다
+2026-05-17-nvidia-rubin-gpu-samsung-sk-memory.md	2026-05-17	not_found	HTTP 404	https://www.hankyung.com/article/2026051632010	엔비디아 루빈 GPU 양산 앞당긴다 — 삼성·SK 메모리 공급 경쟁 다시 점화
+2026-05-17-korea-ai-startup-investment-1t.md	2026-05-17	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.com/news/articleView.html?idxno=210592	국내 AI 스타트업, 상반기 투자 1조 돌파 — 에이전트·멀티모달에 돈이 몰린다
+2026-05-17-baidu-ernie5-korean-benchmark.md	2026-05-17	mismatch	원문 제목 불일치, 본문 일치 9%	https://www.aitimes.kr/news/articleView.html?idxno=33421	바이두 ERNIE 5.0, 한국어 벤치마크서 GPT-4o 앞서 — 중국 AI 굴기의 최신 성적표
+2026-05-17-ai-coding-agents-productivity.md	2026-05-17	not_found	HTTP 404	https://www.technologyreview.com/2026/05/15/1116380/ai-coding-agents-productivity-data/	코딩 에이전트가 실제로 얼마나 빠른가 — MIT가 데이터로 답했다
+2026-05-18-korea-ai-semiconductor-export-record.md	2026-05-18	not_found	HTTP 404	https://www.hankyung.com/article/2026051734081	AI 반도체 수출 사상 최대 — 4월 수출액 156억 달러, 코스피 반도체 섹터 어디로
+2026-05-18-korea-ai-agent-enterprise-adoption.md	2026-05-18	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.com/news/articleView.html?idxno=210589	국내 대기업 AI 에이전트 도입 본격화 — 삼성·LG·현대, 사내 업무 자동화 경쟁
+2026-05-18-ai-coding-agents-developer-future.md	2026-05-18	not_found	HTTP 404	https://www.technologyreview.com/2026/05/16/1116389/ai-coding-agents-what-do-developers-do-now/	AI 코딩 에이전트 시대, 개발자는 무엇을 해야 하나
+2026-05-19-skhynix-hbm4-mass-production-gb300.md	2026-05-19	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.mk.co.kr/news/stock/12076301	SK하이닉스 HBM4 양산 본격화 — 엔비디아 GB300에 첫 탑재
+2026-05-19-samsung-exynos-w1000-ondevice-ai.md	2026-05-19	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.com/news/articleView.html?idxno=210712	삼성 엑시노스 W1000 — 손목 위의 온디바이스 AI 가속기
+2026-05-19-openai-social-network.md	2026-05-19	not_found	HTTP 404	https://www.technologyreview.com/2026/05/17/1117045/openai-wants-to-build-a-social-network/	OpenAI가 소셜 네트워크를 만들려는 이유
+2026-05-19-kospi-semiconductor-ai-foreign-buying.md	2026-05-19	home	사이트 첫 화면 주소	https://www.hankyung.com	코스피 반도체·AI 섹터, 외국인 5거래일 연속 순매수 — AI 인프라 투자 기대감이 키웠다
+2026-05-19-deepmind-groot-robot-learning.md	2026-05-19	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.kr/news/articleView.html?idxno=33201	딥마인드 GROOT — 로봇이 새 동작을 스스로 일반화하는 방법
+2026-05-19-ai-assistants-first-person-identity.md	2026-05-19	not_found	HTTP 404	https://www.technologyreview.com/2026/05/18/1117089/the-surprising-reason-ai-assistants-say-i/	AI 어시스턴트가 '나'라고 말하는 진짜 이유
+2026-05-20-us-ai-chip-export-ban-intel-amd.md	2026-05-20	not_found	HTTP 404	https://www.hankyung.com/article/2026052012345	美, AI 칩 수출 규제 확대 — 인텔·AMD 중저가 서버칩도 허가제로
+2026-05-20-qwen3-open-source-llm-benchmark.md	2026-05-20	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=33287	오픈소스 LLM 왕좌 교체 — 알리바바 Qwen3, 주요 벤치마크에서 GPT-4o 추월
+2026-05-20-kakao-ai-karlo3-multimodal.md	2026-05-20	mismatch	원문 제목 불일치, 본문 일치 38%	https://www.aitimes.com/news/articleView.html?idxno=210891	카카오, 멀티모달 AI '칼로 3' 공개 — 텍스트·이미지·음성을 하나의 모델로
+2026-05-20-ai-agent-economy-mit.md	2026-05-20	not_found	HTTP 404	https://www.technologyreview.com/2026/05/20/1117312/ai-agents-are-becoming-economic-actors/	AI 에이전트가 돈을 번다 — 자율 경제 시스템이 현실로 오고 있다
+2026-05-21-sk-hynix-nvidia-rubin-hbm4e-supply.md	2026-05-21	not_found	HTTP 404	https://www.hankyung.com/article/2026052132011	SK하이닉스, 엔비디아 루빈 GPU에 HBM4E 단독 공급 유력 — 삼성 3분기 합류 전망
+2026-05-21-korea-ai-semiconductor-design-talent.md	2026-05-21	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.com/news/articleView.html?idxno=210589	국내 AI 반도체 설계 인력 3년 새 2배 — 그런데 기업들은 왜 여전히 부족하다고 할까
+2026-05-21-google-deepmind-veo3-video-ai.md	2026-05-21	home	첫 화면으로 이동됨	https://the-decoder.com/google-deepmind-veo-3-generates-video-with-audio/	구글 딥마인드, Veo 3 공개 — 오디오까지 생성하는 영상 AI의 새 기준
+2026-05-21-anthropic-claude-memory-tool-use.md	2026-05-21	mismatch	원문 제목 불일치, 본문 일치 17%	https://www.aitimes.kr/news/articleView.html?idxno=33401	앤트로픽, 클로드에 장기 기억 기능 정식 탑재 — AI가 '지난 대화'를 기억한다는 것의 의미
+2026-05-22-wrtn-enterprise-ai-agent.md	2026-05-22	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=211050	뤼튼, 기업용 AI 에이전트 플랫폼 정식 출시 — 국내 AI 스타트업의 B2B 전환
+2026-05-22-nvidia-stock-all-time-high-4t.md	2026-05-22	not_found	HTTP 404	https://www.hankyung.com/article/202605219876g	엔비디아 주가 사상 최고치 경신 — 시총 4조 달러 돌파가 뜻하는 것
+2026-05-22-mit-ai-illusion-understanding.md	2026-05-22	not_found	HTTP 404	https://www.technologyreview.com/2026/05/20/the-illusion-of-ai-understanding/	AI는 정말 이해하는가 — 언어 모델의 인지 착각 문제
+2026-05-22-baidu-ernie-bot-5.md	2026-05-22	mismatch	원문 제목 불일치, 본문 일치 12%	https://www.aitimes.com/news/articleView.html?idxno=211020	바이두 어니봇 5.0 공개 — 중국 AI가 GPT-5 수준을 주장하는 근거
+2026-05-23-synthetic-data-ai-training.md	2026-05-23	not_found	HTTP 404	https://www.technologyreview.com/2026/05/22/1117201/synthetic-data-ai-training-2026/	AI가 스스로 교과서를 쓴다 — 합성 데이터가 바꾸는 모델 훈련의 판
+2026-05-23-nvidia-earnings-preview-korean-chipmakers.md	2026-05-23	not_found	HTTP 404	https://www.hankyung.com/article/2026052301892	엔비디아 실적 발표 D-5 — 국내 AI 반도체 수혜주, 선제 매수세 유입
+2026-05-23-multiagent-ai-framework-autogen-langgraph.md	2026-05-23	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.kr/news/articleView.html?idxno=33487	AI 에이전트끼리 협업하게 만드는 법 — AutoGen·LangGraph, 국내 기업 도입 확산
+2026-05-24-nvidia-blackwell-supply-korea-ai-server.md	2026-05-24	not_found	HTTP 404	https://www.hankyung.com/article/2026052401234	엔비디아 Blackwell 공급 재개 — 국내 AI 서버 업체 수혜 본격화
+2026-05-24-google-notebooklm-enterprise-expansion.md	2026-05-24	mismatch	원문 제목 불일치, 본문 일치 38%	https://www.aitimes.kr/news/articleView.html?idxno=33487	구글 NotebookLM, 기업용으로 확장 — AI가 내 문서를 읽고 팟캐스트를 만든다
+2026-05-24-ai-datacenter-power-grid-crisis.md	2026-05-24	not_found	HTTP 404	https://www.technologyreview.com/2026/05/21/1117150/ai-data-centers-are-straining-the-power-grid/	AI 데이터센터가 전력망을 흔든다 — 2030년 미국 전력의 12%
+2026-05-24-agentic-ai-software-development.md	2026-05-24	not_found	HTTP 404	https://www.technologyreview.com/2026/05/22/1117201/how-agentic-ai-is-changing-software-development/	에이전트 AI가 소프트웨어 개발을 바꾸는 방식
+2026-05-25-nvidia-amd-ai-accelerator-hbm-demand.md	2026-05-25	not_found	HTTP 404	https://www.hankyung.com/article/2026052431021	엔비디아·AMD 차세대 AI 가속기 경쟁 격화 — HBM 수요 급증 전망
+2026-05-25-korea-ai-startup-investment-record.md	2026-05-25	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.kr/news/articleView.html?idxno=33456	국내 AI 스타트업 1분기 투자, 역대 최대 — 에이전틱 AI가 돈을 끌어모은다
+2026-05-25-ai-agent-capabilities-limits.md	2026-05-25	not_found	HTTP 404	https://www.technologyreview.com/2026/05/22/1117234/what-ai-agents-can-and-cant-do/	AI 에이전트가 지금 할 수 있는 것과 할 수 없는 것
+2026-05-26-nvidia-4trillion-market-cap.md	2026-05-26	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026052531051	엔비디아, 시총 4조 달러 재돌파 — AI 반도체 슈퍼사이클, 끝이 보이지 않는다
+2026-05-26-mit-ai-agents-multiagent-coordination.md	2026-05-26	not_found	HTTP 404	https://www.technologyreview.com/2026/05/22/multiagent-ai-coordination/	멀티에이전트 AI, 혼자보다 함께가 더 강하다 — 협력 프레임워크의 부상
+2026-05-26-google-gemini25-pro-api-launch.md	2026-05-26	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.com/news/articleView.html?idxno=211052	구글, Gemini 2.5 Pro API 정식 공개 — 코딩·멀티모달 추론 전면 강화
+2026-05-27-nvidia-rubin-gpu-shipment-hbm4e.md	2026-05-27	not_found	HTTP 404	https://www.hankyung.com/article/2026052701234	엔비디아 루빈 GPU 연내 출하 확정 — 삼성·SK하이닉스 HBM4E 수요 급증 전망
+2026-05-27-korea-ai-startup-investment-q1.md	2026-05-27	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.kr/news/articleView.html?idxno=33410	한국 AI 스타트업 투자 1분기 4,200억 원 — 글로벌 침체 속 역성장 제동
+2026-05-27-kakao-kanana-work-b2b.md	2026-05-27	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.com/news/articleView.html?idxno=211204	카카오, 기업용 AI 에이전트 '카나나 워크' 출시 — B2B 업무 자동화 시장 정조준
+2026-05-27-ai-self-replication-safety.md	2026-05-27	not_found	HTTP 404	https://www.technologyreview.com/2026/05/25/1117189/ai-self-replication-safety/	AI가 스스로를 복사한다 — 자기복제 능력이 불러온 안전 논쟁
+2026-05-28-skt-ai-agent-personal-service.md	2026-05-28	mismatch	원문 제목 불일치, 본문 일치 18%	https://www.aitimes.kr/news/articleView.html?idxno=33445	SKT '에이닷' 에이전트 전면 개편 — 통화 요약을 넘어 일정·쇼핑까지 대신한다
+2026-05-28-nvidia-rubin-gpu-2026-stock.md	2026-05-28	not_found	HTTP 404	https://www.hankyung.com/article/2026052891247	엔비디아 루빈 GPU 양산 일정 확정 — 삼성·SK 수혜주 재부상
+2026-05-28-alibaba-qwen3-opensource-ai.md	2026-05-28	mismatch	원문 제목 불일치, 본문 일치 43%	https://www.aitimes.com/news/articleView.html?idxno=211203	알리바바 Qwen3 공개 — 중국 오픈소스 AI가 서방 모델을 겨냥하다
+2026-05-28-ai-coding-agents-software-development.md	2026-05-28	not_found	HTTP 404	https://www.technologyreview.com/2026/05/27/1117312/ai-coding-agents-software-development-future/	AI 코딩 에이전트가 소프트웨어 개발을 다시 쓰고 있다
+2026-05-30-nvidia-rubin-gpu-shipment-korea-stocks.md	2026-05-30	not_found	HTTP 404	https://www.hankyung.com/article/2026052991823	엔비디아 루빈 GPU 3분기 출하 확정 — SK하이닉스·한미반도체 수혜 집중
+2026-05-30-korea-medical-ai-diagnosis-expansion.md	2026-05-30	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.kr/news/articleView.html?idxno=33412	국내 병원 AI 진단 솔루션, 급여 적용 첫해 도입 기관 300곳 돌파
+2026-05-30-google-veo3-korea-launch.md	2026-05-30	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.com/news/articleView.html?idxno=211103	구글 Veo 3, 한국에서도 쓸 수 있게 됐다 — AI 영상 생성의 새 기준
+2026-05-31-nvidia-amd-next-gen-ai-chip-race.md	2026-05-31	mismatch	원문 제목 불일치, 본문 일치 29%	https://www.aitimes.kr/news/articleView.html?idxno=33412	GB300 vs MI400 — 엔비디아와 AMD, 차세대 AI 칩 전쟁의 구도
+2026-05-31-korea-ai-red-team-launch.md	2026-05-31	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=211001	과기부, 'AI 레드팀' 공식 가동 — AI 모델의 위험을 먼저 찾는 팀
+2026-05-31-foreigners-buy-korea-semicon-stocks.md	2026-05-31	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026053001234	외국인이 반도체주를 다시 담기 시작했다 — 삼성전자·SK하이닉스 동반 강세
+2026-05-31-ai-agents-computer-use-wave.md	2026-05-31	not_found	HTTP 404	https://www.technologyreview.com/2026/05/29/1117354/the-next-wave-of-ai-agents/	AI 에이전트가 마우스를 잡는다 — 컴퓨터 직접 제어 시대의 도래
+2026-06-01-samsung-gauss3-medical-ai.md	2026-06-01	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.com/news/articleView.html?idxno=211523	삼성전자 가우스3, 의료 AI에 첫발 — 진단 보조 모델로 병원 시장 진출
+2026-06-01-openai-codex-cloud-software-agent.md	2026-06-01	mismatch	원문 제목 불일치, 본문 일치 10%	https://www.aitimes.com/news/articleView.html?idxno=211501	OpenAI, 클라우드 코딩 에이전트 'Codex' 공개 — 소프트웨어 개발의 분업 구조가 바뀐다
+2026-06-01-nvidia-rubin-gpu-korea-hbm-supply.md	2026-06-01	not_found	HTTP 404	https://www.hankyung.com/article/2026060103021	엔비디아 루빈 GPU 공급망 확정 — SK하이닉스 HBM4E 단독 공급, 삼성 추격전
+2026-06-01-google-veo3-video-generation.md	2026-06-01	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.kr/news/articleView.html?idxno=33450	구글 Veo 3, 영상에 소리까지 입히다 — AI 영상 생성의 다음 단계
+2026-06-01-ai-agent-long-term-memory.md	2026-06-01	not_found	HTTP 404	https://www.technologyreview.com/2026/05/30/1117312/ai-agents-long-term-memory-architecture/	AI 에이전트가 '기억'을 잃는 이유 — 장기 메모리 아키텍처의 현재
+2026-06-02-multimodal-ai-benchmark-2026.md	2026-06-02	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.kr/news/articleView.html?idxno=33487	오픈소스 멀티모달 AI의 반란 — 상업 모델 독주에 균열이 생겼다
+2026-06-02-korea-ai-agent-platform.md	2026-06-02	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.com/news/articleView.html?idxno=211203	국내 AI 에이전트 플랫폼 경쟁 본격화 — 네이버·카카오·KT가 다른 판을 짜는 이유
+2026-06-02-ai-coding-agents-software-engineering.md	2026-06-02	not_found	HTTP 404	https://www.technologyreview.com/2026/05/29/1117312/ai-coding-agents-software-engineering-future/	AI가 코드를 짜는 시대, 개발자는 무엇을 해야 하는가
+2026-06-02-ai-chip-stock-foreign-buying.md	2026-06-02	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026060211321	외국인이 AI 반도체주만 집중 매수 — 6월 첫 주 코스피 판도 변화
+2026-06-03-openai-codex-coding-agent.md	2026-06-03	mismatch	원문 제목 불일치, 본문 일치 14%	https://www.aitimes.com/news/articleView.html?idxno=211430	OpenAI Codex — 클라우드에서 돌아가는 코딩 에이전트의 등장
+2026-06-03-ai-semiconductor-stock-surge.md	2026-06-03	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026060389861	AI 데이터센터 투자 급증에 삼성·SK하이닉스 동반 강세 — 엔비디아 GB300 수요가 만든 파장
+2026-06-04-openai-gpt4o-voice-realtime.md	2026-06-04	not_found	HTTP 404	https://www.technologyreview.com/2026/06/03/1138450/openai-voice-ai-future-realtime/	OpenAI, 실시간 음성 AI의 다음 단계 — 감정 인식부터 다국어 동시 통역까지
+2026-06-04-mit-ai-safety-evaluations.md	2026-06-04	not_found	HTTP 404	https://www.technologyreview.com/2026/06/03/1138401/ai-safety-evaluations-are-not-enough/	AI 안전 평가의 한계 — '통과'했다고 안전한 게 아니다
+2026-06-04-korea-semiconductor-ai-demand-stocks.md	2026-06-04	not_found	HTTP 404	https://www.hankyung.com/article/2026060412345	AI 수요 확대에 반도체 업종 일제 상승 — 삼성전자·SK하이닉스, 외국인 순매수 전환
+2026-06-04-google-gemma-3n-mobile-ai.md	2026-06-04	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=312105	구글 Gemma 3n — 스마트폰에서 돌아가는 멀티모달 AI 모델 공개
+2026-06-05-samsung-sk-ai-semiconductor-stock-outlook.md	2026-06-05	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026060512345	삼성전자·SK하이닉스 목표주가 동반 상향 — HBM4E 수주 경쟁이 하반기 실적을 바꾼다
+2026-06-05-mit-ai-memory-long-context.md	2026-06-05	not_found	HTTP 404	https://www.technologyreview.com/2026/06/04/1138450/ai-long-term-memory-research/	AI는 왜 어제 일을 잊을까 — 장기 기억 문제에 뛰어든 연구자들
+2026-06-05-kakao-ai-agent-kakaowork.md	2026-06-05	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.com/news/articleView.html?idxno=211250	카카오, AI 에이전트 '카나나 워크' 기업용 출시 — 슬랙을 대체하는 AI 협업 도구
+2026-06-05-ai-cybersecurity-offense-defense.md	2026-06-05	not_found	HTTP 404	https://www.technologyreview.com/2026/06/04/1138401/ai-cybersecurity-offense-defense/	공격도 AI, 방어도 AI — 사이버보안이 자동화 전쟁터가 됐다
+2026-06-05-ai-code-generation-github-copilot-workspace.md	2026-06-05	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.kr/news/articleView.html?idxno=39680	깃허브 코파일럿 워크스페이스 정식 출시 — AI가 이슈를 읽고 코드까지 완성한다
+2026-06-06-skhynix-hbm4e-nvidia-rubin-supply.md	2026-06-06	not_found	HTTP 404	https://www.hankyung.com/article/2026060532010	SK하이닉스, HBM4E 엔비디아 루빈 GPU 단독 공급 확정 — 주가 52주 신고가
+2026-06-06-openai-gpt5-mini-reasoning-cost.md	2026-06-06	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.kr/news/articleView.html?idxno=41023	OpenAI, GPT-5 Mini 공개 — 추론 모델을 월 20달러로 쓸 수 있게 됐다
+2026-06-06-korea-ai-semiconductor-act-2026.md	2026-06-06	mismatch	원문 제목 불일치, 본문 일치 18%	https://www.aitimes.com/news/articleView.html?idxno=214201	국가AI위원회, 'AI·반도체 통합 특별법' 국회 통과 — 연 5조 원 투자·세제 혜택 본격화
+2026-06-06-anthropic-claude-sonnet-4-computer-use.md	2026-06-06	home	첫 화면으로 이동됨	https://the-decoder.com/anthropic-claude-sonnet-4-computer-use-agent/	Anthropic, Claude Sonnet 4 공개 — 컴퓨터 직접 조작하는 AI 에이전트의 새 기준
+2026-06-07-mit-ai-memory-context-window.md	2026-06-07	not_found	HTTP 404	https://www.technologyreview.com/2026/06/05/1138412/ai-memory-context-window-limits/	AI의 기억은 얼마나 길어야 할까 — 컨텍스트 창의 물리적 한계와 그 너머
+2026-06-07-kospi-ai-semiconductor-june-rally.md	2026-06-07	not_found	HTTP 404	https://www.hankyung.com/article/2026060612010	코스피 AI·반도체 섹터 6월 랠리 — 외국인 순매수 3조 원, 무엇이 달라졌나
+2026-06-07-korea-ai-education-platform.md	2026-06-07	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.com/news/articleView.html?idxno=211308	교실 안으로 들어온 AI 튜터 — 한국 에듀테크의 개인화 학습 경쟁
+2026-06-07-ai-robotics-warehouse-automation.md	2026-06-07	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.kr/news/articleView.html?idxno=39731	물류 창고의 AI 혁명 — 로봇이 사람을 대체하는 게 아니라 협업하는 방식
+2026-06-08-samsung-sk-nvidia-rubin-supply.md	2026-06-08	not_found	HTTP 404	https://www.hankyung.com/article/2026060712345	삼성·SK하이닉스, 엔비디아 루빈 GPU 공급망 최종 확정 — 차세대 AI 칩 생태계의 새 판이 짜인다
+2026-06-08-kakao-orca-multiagent.md	2026-06-08	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.com/news/articleView.html?idxno=212301	카카오브레인, 멀티에이전트 프레임워크 'Orca' 공개 — AI들이 협력해 일하는 방식을 오픈소스로
+2026-06-08-ai-metacognition-reasoning.md	2026-06-08	not_found	HTTP 404	https://www.technologyreview.com/2026/06/06/1139201/ai-metacognition-reasoning-about-reasoning/	AI가 자신의 추론을 의심하기 시작했다 — 메타인지 AI의 부상
+2026-06-09-nvidia-rubin-gpu-korea-supply-chain.md	2026-06-09	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026060912345	엔비디아 루빈 GPU 공급망 — 삼성·SK하이닉스 납품 경쟁 본격화
+2026-06-09-korea-ai-agent-enterprise-adoption.md	2026-06-09	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.com/news/articleView.html?idxno=211845	국내 대기업 AI 에이전트 도입률 68% — 업무 자동화 단계 진입
+2026-06-09-ai-hallucination-detection-new-method.md	2026-06-09	mismatch	원문 제목 불일치, 본문 일치 29%	https://www.aitimes.kr/news/articleView.html?idxno=40123	AI 환각을 실시간으로 잡아낸다 — 국내 연구진, 새 탐지 기법 공개
+2026-06-09-ai-agents-safety-regulation.md	2026-06-09	mismatch	원문 제목 불일치, 본문 일치 29%	https://www.aitimes.com/news/articleView.html?idxno=211823	AI 에이전트 안전 규제, 전 세계가 다른 속도로 달린다
+2026-06-10-kospi-semiconductor-ai-supercycle.md	2026-06-10	not_found	HTTP 404	https://www.hankyung.com/article/2026061032010	코스피 반도체 섹터, 2분기 역대급 강세 — AI 수요가 만든 슈퍼사이클
+2026-06-10-korea-ai-startup-investment-2026.md	2026-06-10	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=211205	한국 AI 스타트업 상반기 투자 2조 원 돌파 — 생성형 AI가 바꾼 벤처 지형
+2026-06-10-amd-instinct-mi400-nvidia.md	2026-06-10	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.aitimes.kr/news/articleView.html?idxno=40121	AMD, AI 가속기 MI400 공개 — 엔비디아 독점 시장에 균열이 시작됐다
+2026-06-10-ai-coding-agents-developer-impact.md	2026-06-10	not_found	HTTP 404	https://www.technologyreview.com/2026/06/08/1139201/ai-coding-agents-developer-impact/	AI 코딩 에이전트 1년의 성적표 — 개발자를 대체하는 게 아니라 개발자를 바꾼다
+2026-06-13-us-first-ai-regulation.md	2026-06-13	not_found	HTTP 404	https://www.technologyreview.com/2026/06/12/1139201/the-us-just-passed-its-first-major-ai-regulation/	미국, 연방 차원 첫 AI 규제법 통과
+2026-06-17-hankyung-economy-latest-1.md	2026-06-17	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.hankyung.com/economy/	삼성·SK하이닉스, 엔비디아 베라 루빈 HBM4 공급 확정 — 코스피 반도체주 동반 급등
+2026-06-21-openai-operator-pro-enterprise.md	2026-06-21	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.aitimes.com/news/articleView.html?idxno=215102	OpenAI, 기업용 AI 에이전트 플랫폼 'Operator Pro' 정식 출시 — 월 200달러
+2026-06-21-mit-ai-agents-trust.md	2026-06-21	not_found	HTTP 404	https://www.technologyreview.com/2026/06/19/1139500/ai-agents-autonomous-work-trust-problem/	AI 에이전트, 이제 몇 시간씩 자율 작업 가능 — 그래도 아직 믿을 수 없는 이유
+2026-06-21-gemini-25-pro-update-coding.md	2026-06-21	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.aitimes.com/news/articleView.html?idxno=215001	구글 Gemini 2.5 Pro 업데이트 — 코딩·수학 벤치마크에서 GPT-5 제치고 1위
+2026-06-22-korea-export-semiconductor-surge.md	2026-06-22	mismatch	원문 제목 불일치, 본문 일치 10%	https://www.hankyung.com/economy/	6월 중순 수출 60.4% 급증, 반도체 188% — KOSPI 사상 최고치 뚫었다
+2026-06-22-korea-ai-industry-2026-review.md	2026-06-22	home	사이트 첫 화면 주소	https://www.aitimes.kr/	한국 AI 산업 2026 상반기 — 글로벌 경쟁 속 K-AI의 좌표
+2026-06-22-agentic-ai-industry-2026.md	2026-06-22	home	사이트 첫 화면 주소	https://venturebeat.com/ai/	AI 에이전트, 이제 혼자 일한다 — 2026년 상반기 에이전틱 AI의 현주소
+2026-06-27-hbm4-supercycle-samsung-skhynix-capex.md	2026-06-27	mismatch	원문 제목 불일치, 본문 일치 44%	https://www.mt.co.kr/amp/industry/2026/06/26/2026062518211674181	AI CAPEX 7700억 달러 시대 — HBM4 슈퍼사이클, SK하이닉스·삼성의 베팅
+2026-07-05-ai-energy-turbines.md	2026-07-05	not_found	HTTP 404	https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines	AI, 챗봇을 넘어 에너지 플랜트의 운영 레이어로 — 우드사이드 에너지 사례
+2026-07-11-samsung-q2-2026-record-earnings.md	2026-07-11	mismatch	원문 제목 불일치, 본문 일치 27%	https://www.hankyung.com/economy/	영업이익 89.4조, 전년의 19배 — 삼성전자 역대 최대 실적이 남긴 두 가지 숫자
+2026-07-14-slm-small-language-model-breakthrough.md	2026-07-14	home	사이트 첫 화면 주소	https://www.aitimes.kr/	소형 언어 모델(SLM)의 역습 — 1B 파라미터로 GPT-4급 작업을 처리하는 방법
+2026-07-14-korea-ai-content-disclosure-law.md	2026-07-14	home	사이트 첫 화면 주소	https://www.aitimes.com/	AI 생성 콘텐츠 의무 표시제 7월 시행 — 딥페이크·광고·뉴스 모두 포함
+2026-07-14-korea-ai-chip-export-q2-surplus.md	2026-07-14	mismatch	원문 제목 불일치, 본문 일치 25%	https://www.hankyung.com/economy/	AI 반도체 수출 2분기 사상 최대 — HBM·파운드리 동반 호조, 증시 상승 촉매
+2026-07-14-ai-coding-tools-developer-productivity.md	2026-07-14	home	사이트 첫 화면 주소	https://www.aitimes.kr/	AI 코딩 도구 1년 — '보조자'에서 '짝 개발자'로 패러다임이 바뀌었다
+2026-07-21-skhynix-q2-2026-earnings.md	2026-07-21	not_found	HTTP 404	https://www.hankyung.com/economy/article/202607210123	SK하이닉스, 2분기 영업이익 10.2조 원 — HBM5 효과로 사상 최대 분기 실적
+2026-07-21-microsoft-copilot-agent-hub-launch.md	2026-07-21	home	첫 화면으로 이동됨	https://the-decoder.com/microsoft-launches-copilot-agent-hub-for-enterprise-workflow-automation/	마이크로소프트 '코파일럿 에이전트 허브' 정식 출시 — 코딩 없이 AI 워크플로를 조립한다
+2026-07-21-lg-exaone4-launch.md	2026-07-21	mismatch	원문 제목 불일치, 본문 일치 27%	https://www.aitimes.com/news/articleView.html?idxno=213521	LG AI연구원, EXAONE 4 공개 — 추론 능력 3배 향상, 국산 AI 최초로 한국어 MMLU서 GPT-5.6 앞섰다
+2026-07-21-kt-airdoctor-healthcare-ai.md	2026-07-21	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.aitimes.kr/news/articleView.html?idxno=41234	KT '에이닥터 2.0' 100개 병원 도입 — AI 의료 진단의 국내 첫 본격 상용화
+2026-07-28-skhynix-q2-earnings-preview.md	2026-07-28	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026072885021	SK하이닉스 2분기 실적 D-2 — 증권가, 영업이익 13조 원대 전망 '분기 사상 최대'
+2026-07-29-skhynix-samsung-q2-2026-earnings-hbm4.md	2026-07-29	home	사이트 첫 화면 주소	https://www.hankyung.com	SK하이닉스·삼성전자 2분기 실적 발표 — HBM4 본격화가 만든 숫자들
+2026-07-29-eu-ai-act-enforcement-first-cases.md	2026-07-29	home	사이트 첫 화면 주소	https://www.aitimes.com	EU AI법 시행 첫 달 — 유럽이 잡은 첫 번째 위반 사례와 한국 기업의 현실
+2026-07-29-chatgpt-agent-mode-global-rollout.md	2026-07-29	home	사이트 첫 화면 주소	https://www.aitimes.kr	ChatGPT '에이전트 모드' 전 세계 전면 개방 — AI가 대신 일하는 시대의 시작
+2026-07-30-openai-anthropic-pacing-frontier.md	2026-07-30	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=40923	'앙숙' 오픈AI와 앤트로픽이 같은 목소리를 낸 이유 — AI 개발 속도, 워싱턴이 조율해달라
+2026-07-31-telecom-ai-agent-enterprise-service.md	2026-07-31	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.kr/news/articleView.html?idxno=41820	KT·SK텔레콤·LG유플러스, 기업용 AI 에이전트 동시 출시 — 콜센터 시장이 흔들린다
+2026-07-31-ai-datacenter-infrastructure-korea-stocks.md	2026-07-31	not_found	HTTP 404	https://www.hankyung.com/article/2026073112345	AI 데이터센터 전력 수요 폭발 — LS일렉트릭·HD현대일렉트릭 올 들어 신고가
+2026-07-31-ai-code-critical-infrastructure.md	2026-07-31	not_found	HTTP 404	https://www.technologyreview.com/2026/07/29/1141234/when-ai-writes-code-critical-infrastructure/	AI가 쓴 코드가 전력망을 움직인다 — 핵심 인프라 AI 적용의 명암
+2026-08-01-skhynix-q2-2026-hbm5-earnings.md	2026-08-01	not_found	HTTP 404	https://www.hankyung.com/article/2026073117510	SK하이닉스 2분기 영업이익 8.3조 — HBM5 독점 납품이 만든 반도체 역대 최대 이익률 68%
+2026-08-01-kakao-agent-marketplace.md	2026-08-01	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.com/news/articleView.html?idxno=213041	카카오, 에이전트 마켓플레이스 오픈 — 서드파티 AI가 카카오톡에서 결제·예약을 직접 처리한다
+2026-08-01-eu-ai-act-first-fine.md	2026-08-01	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.kr/news/articleView.html?idxno=41203	EU AI법, 시행 두 달 만에 첫 대형 제재 — 채용 AI 3사에 총 4,800만 유로 과징금
+2026-08-07-skt-aidot-agent-upgrade.md	2026-08-07	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.com/news/articleView.html?idxno=212943	SKT, 에이닷에 에이전트 기능 추가 — 말 한 마디에 예약·결제·일정까지 자동 처리
+2026-08-07-mit-ai-benchmark-end-realworld-eval.md	2026-08-07	not_found	HTTP 404	https://www.technologyreview.com/2026/08/05/1139889/the-end-of-ai-benchmarks-real-world-evaluation/	AI 벤치마크 시대의 끝 — 리더보드를 넘어선 실세계 평가의 시작
+2026-08-07-korea-semiconductor-export-july-record.md	2026-08-07	not_found	HTTP 404	https://www.hankyung.com/article/2026080709871	7월 반도체 수출 147억 달러, 역대 최고 — AI 인프라 투자 사이클이 만든 신기록
+2026-08-07-deepseek-r2-reasoning-efficiency.md	2026-08-07	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=41302	DeepSeek R2 공개 — 1년 7개월 만의 귀환, 추론 효율 2배로 오픈소스 최강자 재등극
+2026-08-10-synthetic-data-model-collapse.md	2026-08-10	not_found	HTTP 404	https://www.technologyreview.com/2026/08/08/1141023/synthetic-data-model-collapse-ai-training-crisis/	AI가 AI를 먹으면 — 합성 데이터 의존이 부르는 '모델 붕괴'의 현실
+2026-08-10-nvidia-rubin-skhynix-hbm4e-supply.md	2026-08-10	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026080932010	엔비디아 루빈 GPU 첫 출하 — SK하이닉스 HBM4E 단독 공급 확정에 목표주가 최대 28% 상향
+2026-08-10-korea-ai-agent-safety-guideline.md	2026-08-10	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.com/news/articleView.html?idxno=214298	AI 에이전트에도 '안전벨트' 달린다 — 과기정통부, 고위험 서비스 의무 등록제 12월 시행
+2026-08-10-eu-ai-act-first-fine-domestic-response.md	2026-08-10	mismatch	원문 제목 불일치, 본문 일치 12%	https://www.aitimes.com/news/articleView.html?idxno=214315	EU AI법 첫 대형 제재 — '규제는 있어도 집행 안 한다'는 기대가 무너졌다
+2026-08-11-skt-ai-call-summary-10m.md	2026-08-11	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=215032	SKT AI 통화 요약, 1,000만 명 쓴다 — 한국형 AI 에이전트 킬러앱의 조건
+2026-08-11-samsung-q2-2026-earnings.md	2026-08-11	not_found	HTTP 404	https://www.hankyung.com/economy/article/202608113520i	삼성전자 2분기 영업이익 11.2조 — HBM 매출 첫 분기 5조 돌파, 반도체 완전 회복 선언
+2026-08-11-korea-ai-basic-law-august.md	2026-08-11	mismatch	원문 제목 불일치, 본문 일치 8%	https://www.aitimes.kr/news/articleView.html?idxno=41988	한국 AI 기본법, 8월부터 전면 시행 — 고위험 AI 사용 시 의무 고지·과징금 최대 매출 3%
+2026-08-29-openai-jalapeno-chip.md	2026-08-29	not_found	HTTP 404	https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-shows/	오픈AI, 자체 AI 칩 '할라페뇨' 첫 성능 공개 — 엔비디아 GB300 대비 전력 효율 104배
+2026-08-31-mit-long-context-ai-science.md	2026-08-31	not_found	HTTP 404	https://www.technologyreview.com/2026/08/27/1141198/long-context-ai-models-are-changing-scientific-research/	10만 토큰을 읽고 가설을 세우다 — 롱컨텍스트 AI가 과학 연구를 바꾸는 법
+2026-08-31-kakaobrain-kogpt4-launch.md	2026-08-31	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.com/news/articleView.html?idxno=213401	카카오브레인, KoGPT-4 공개 — 한국어 AI 추론의 새 기준
+2026-08-31-hyundai-robotics-ai-manufacturing.md	2026-08-31	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=41589	현대로보틱스, AI 자율 제조 로봇 양산 돌입 — 용접·도색 완전 자동화
+2026-08-31-foreign-investors-ai-semicon-buyside.md	2026-08-31	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026083198765	외국인 8월 AI·반도체주 5.3조 순매수 — 코스피 연고점 탈환 초읽기
+2026-09-11-korea-memory-stocks-ai-inference.md	2026-09-11	home	사이트 첫 화면 주소	https://www.hankyung.com/it	SK증권, 삼성·하이닉스 목표주가 대폭 상향 — AI 추론이 바꾼 메모리 산업의 방정식
+2026-09-24-korea-ai-safety-basic-law.md	2026-09-24	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.com/news/articleView.html?idxno=213498	과기정통부, AI 안전 기본법 시행령 입법예고 — 고위험 AI에 사전 인증 의무화
+2026-09-24-hbm3e-q4-shortage-pricing.md	2026-09-24	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026092381011	HBM3E 공급 부족 현실화 — 삼성·SK하이닉스, 4분기 협상력이 최고점을 찍었다
+2026-09-24-ai-datacenter-energy-crisis-2027.md	2026-09-24	not_found	HTTP 404	https://www.technologyreview.com/2026/09/23/1141089/ai-data-centers-power-consumption-8-percent-us-electricity/	AI 데이터센터, 2027년 미국 전력의 8% 소비 예측 — 에너지가 AI 경쟁의 새 병목이 됐다
+2026-09-30-skhynix-hbm4-additional-orders.md	2026-09-30	not_found	HTTP 404	https://www.hankyung.com/article/2026093001843	SK하이닉스, HBM4 추가 수주 확정 — 증권가 목표주가 줄상향
+2026-09-30-naver-clovax-3-agent-launch.md	2026-09-30	mismatch	원문 제목 불일치, 본문 일치 12%	https://www.aitimes.com/news/articleView.html?idxno=214582	네이버 클로바X 3.0 에이전트 공개 — 한국어 AI 에이전트의 새 기준이 바뀌었다
+2026-09-30-mit-enterprise-ai-agents-gpt6.md	2026-09-30	not_found	HTTP 404	https://www.technologyreview.com/2026/09/29/1141200/gpt6-enterprise-ai-agents-deployment/	에이전트 AI의 기업 침투가 시작됐다 — GPT-6 이후 달라진 기업 AI 전략
+2026-09-30-korea-ai-supercomputing-phase2.md	2026-09-30	mismatch	원문 제목 불일치, 본문 일치 30%	https://www.aitimes.kr/news/articleView.html?idxno=42311	정부, 국가 AI 슈퍼컴퓨팅 센터 2단계 구축 공고 — 2027년 엑사스케일 목표
+2026-10-01-samsung-hbm5-nvidia-rubin.md	2026-10-01	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026100101234	삼성전자 HBM5 퀄 테스트 통과 — 엔비디아 루빈 플랫폼 납품 경쟁 본격화
+2026-10-01-anthropic-computer-use-2.md	2026-10-01	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.com/news/articleView.html?idxno=214328	앤트로픽 '컴퓨터 사용 2.0' — AI 에이전트가 드디어 실무 업무를 완료한다
+2026-10-01-alphafold3-drug-clinical-trial.md	2026-10-01	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.kr/news/articleView.html?idxno=41899	딥마인드 AlphaFold 3이 찾은 분자가 사람 몸속으로 — 첫 AI 설계 항암제 임상 진입
+2026-10-01-ai-nuclear-energy-datacenter.md	2026-10-01	not_found	HTTP 404	https://www.technologyreview.com/2026/09/28/1140201/ai-data-centers-are-driving-a-nuclear-power-renaissance/	AI가 원자력을 부활시켰다 — 데이터센터 전력 위기가 만든 핵에너지 르네상스
+2026-10-08-skhynix-q3-earnings-estimate.md	2026-10-08	not_found	HTTP 404	https://www.hankyung.com/economy/article/2026100815601	SK하이닉스 3분기 영업이익 7조 원대 추정 — HBM4 출하량 전분기 대비 60% 증가 전망
+2026-10-08-multiagent-coding-stanford.md	2026-10-08	mismatch	원문 제목 불일치, 본문 일치 18%	https://www.aitimes.kr/news/articleView.html?idxno=41892	AI 에이전트 10개가 팀을 이루면 — 복잡한 소프트웨어 버그 해결률 78% 달성
+2026-10-08-korea-ai-safety-institute-launch.md	2026-10-08	mismatch	원문 제목 불일치, 본문 일치 22%	https://www.aitimes.com/news/articleView.html?idxno=214731	한국 AI 안전연구소 공식 출범 — 초거대 AI 위험도 평가가 의무가 됐다
+2026-10-08-ai-datacenter-power-crisis.md	2026-10-08	not_found	HTTP 404	https://www.technologyreview.com/2026/10/06/1142103/ai-data-centers-electricity-demand-energy-politics/	AI 데이터센터가 미국 전력의 8%를 삼킨다 — 에너지 정치학이 AI 경쟁을 뒤흔들기 시작했다
+2026-10-10-samsung-skhynix-q3-earnings.md	2026-10-10	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026100912345	삼성·SK하이닉스 3분기 어닝서프라이즈 — AI 메모리가 두 회사의 운명을 갈랐다
+2026-10-10-mit-ai-autonomous-research-labs.md	2026-10-10	not_found	HTTP 404	https://www.technologyreview.com/2026/10/08/1141205/autonomous-ai-research-labs-one-year-review/	AI 에이전트가 실험실을 혼자 운영하기 시작했다 — 자율 과학 연구의 1년 성적표
+2026-10-10-eu-ai-act-korea-compliance.md	2026-10-10	mismatch	원문 제목 불일치, 본문 일치 27%	https://www.aitimes.kr/news/articleView.html?idxno=41520	EU AI법 고위험 시스템 규제 본격 시행 — 국내 기업 준비 실태 긴급 점검
+2026-10-12-skhynix-q3-2026-hbm5-earnings.md	2026-10-12	not_found	HTTP 404	https://www.hankyung.com/article/2026101201051	SK하이닉스 3분기 영업이익 18조 원 전망 — HBM5 공급 확대로 반도체 슈퍼사이클 지속
+2026-10-12-naver-hyperclovax-enterprise.md	2026-10-12	mismatch	원문 제목 불일치, 본문 일치 40%	https://www.aitimes.kr/news/articleView.html?idxno=41215	네이버, 하이퍼클로바X 엔터프라이즈 출시 — 한국어 AI 에이전트, 기업 시장 직접 진입
+2026-10-12-korea-ai-basic-law-enforcement.md	2026-10-12	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.com/news/articleView.html?idxno=213452	정부, AI 기본법 시행령 확정 — 고위험 AI 개발사에 연 1회 안전성 점검 의무화
+2026-10-13-samsung-hbm4e-production-stocks.md	2026-10-13	not_found	HTTP 404	https://www.hankyung.com/article/2026101300082	삼성전자, HBM4E 양산 일정 앞당긴다 — 주가 장중 6.2% 급등, 목표주가 줄상향
+2026-10-13-openai-o3-turbo-launch.md	2026-10-13	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.kr/news/articleView.html?idxno=41230	OpenAI, 추론 모델 'o3 터보' 공개 — 속도 2배·비용 절반, 기업 에이전트 시장 겨냥
+2026-10-13-korea-ai-safety-certification.md	2026-10-13	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.com/news/articleView.html?idxno=213510	과기정통부, AI 안전성 인증기관 3곳 공식 지정 — AI 기본법 시행 한 달 만
+2026-10-14-samsung-hbm4-bigtech-supply-contract.md	2026-10-14	not_found	HTTP 404	https://www.hankyung.com/article/2026101401088	삼성전자, 미국 빅테크 3사 HBM4 공급 계약 체결 — HBM 점유율 반등 발판 마련
+2026-10-14-openai-o3-pro-phd-science-benchmark.md	2026-10-14	home	첫 화면으로 이동됨	https://the-decoder.com/openai-o3-pro-gpqa-diamond-phd-level-benchmark-2026/	AI 추론 모델이 처음으로 박사급 과학 시험을 통과했다 — o3-Pro, GPQA 다이아몬드 돌파
+2026-10-14-lunit-fda-510k-lung-ct.md	2026-10-14	mismatch	원문 제목 불일치, 본문 일치 29%	https://www.aitimes.kr/news/articleView.html?idxno=41248	루닛, 미국 FDA에서 폐암 조기 진단 AI 세 번째 인허가 — 국내 의료 AI 글로벌 확장 가속
+2026-10-14-kakao-kanana-biz-enterprise.md	2026-10-14	mismatch	원문 제목 불일치, 본문 일치 45%	https://www.aitimes.com/news/articleView.html?idxno=213489	카카오, 기업용 AI 에이전트 '카나나 비즈' 출시 — 한국어 특화 법무·HR 자동화 첫 공식화
+2026-10-20-samsung-q3-2026-preliminary.md	2026-10-20	not_found	HTTP 404	https://www.hankyung.com/article/2026102001051	삼성전자 3분기 잠정 영업이익 12조 원 — HBM3E 공급 확대가 반등 이끌었다
+2026-10-20-kt-midm3-llm-launch.md	2026-10-20	mismatch	원문 제목 불일치, 본문 일치 14%	https://www.aitimes.kr/news/articleView.html?idxno=41389	KT, 통신 특화 LLM '믿음3.0' 공개 — 고객 상담 정확도 28% 향상, 2027년 외부 개방 예고
+2026-10-20-korea-ai-startup-investment-3t.md	2026-10-20	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=213891	국내 AI 스타트업 투자, 올해 처음으로 연간 3조 원 돌파 — 에이전트·헬스케어에 집중
+2026-10-22-samsung-q4-2026-ds-earnings-forecast.md	2026-10-22	not_found	HTTP 404	https://www.hankyung.com/article/2026102202041	삼성전자 4분기 DS부문 영업이익 5~7조 원 전망 — HBM5E 납품 시점이 분수령
+2026-10-22-korea-agi-research-consortium-kaist-postech.md	2026-10-22	mismatch	원문 제목 불일치, 본문 일치 18%	https://www.aitimes.com/news/articleView.html?idxno=213602	KAIST·포항공대, 정부 5,000억 원으로 AGI 기초연구단 출범 — 한국형 AGI 로드맵의 첫 페이지
+2026-10-22-hyundai-ai-quality-control-manufacturing.md	2026-10-22	mismatch	원문 제목 불일치, 본문 일치 10%	https://www.aitimes.kr/news/articleView.html?idxno=41420	현대자동차, AI 품질검사 에이전트 울산 1공장 전면 도입 — 불량률 68% 감소
+2026-10-22-context-length-race-10m-tokens.md	2026-10-22	home	첫 화면으로 이동됨	https://the-decoder.com/openai-google-anthropic-10-million-token-context-2026/	1,000만 토큰 시대가 온다 — OpenAI·구글·앤트로픽의 컨텍스트 길이 전쟁
+2026-10-24-upstage-series-c-document-ai.md	2026-10-24	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.kr/news/articleView.html?idxno=41456	업스테이지, 시리즈C 1,200억 원 유치 — '도큐먼트 AI' 하나로 세계 시장 공략
+2026-10-24-samsung-q4-forecast-hbm5-foundry.md	2026-10-24	not_found	HTTP 404	https://www.hankyung.com/article/2026102401023	삼성전자 4분기 영업이익 11조 전망 — HBM5 첫 납품과 2나노 파운드리 수율 개선이 열쇠
+2026-10-24-lg-exaone-health-multimodal-medical.md	2026-10-24	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=213891	LG AI연구원, 멀티모달 의료 AI 'EXAONE 헬스' 공개 — 영상·검사지·음성 통합 분석
+2026-10-24-ai-agents-long-term-memory.md	2026-10-24	not_found	HTTP 404	https://www.technologyreview.com/2026/10/23/1140201/ai-agents-long-term-memory-architecture/	AI 에이전트, 수개월 전 대화를 '기억'한다 — 장기 메모리 아키텍처의 부상
+2026-10-25-telecom3-ai-agent-competition.md	2026-10-25	mismatch	원문 제목 불일치, 본문 일치 27%	https://www.aitimes.com/news/articleView.html?idxno=214231	통신3사 AI 에이전트 서비스 대전 — KT·SKT·LGU+, 같은 시장을 다른 방향으로 노린다
+2026-10-25-naver-hyperclovax-2-enterprise.md	2026-10-25	mismatch	원문 제목 불일치, 본문 일치 33%	https://www.aitimes.kr/news/articleView.html?idxno=42103	네이버 하이퍼클로바X 2.0 공개 — 한국어 법률·회계 에이전트, 기업 문서 처리 시장을 노린다
+2026-10-25-cxmt-aftermath-samsung-skhynix.md	2026-10-25	not_found	HTTP 404	https://www.hankyung.com/article/2026102500205	CXMT 쇼크 10일 뒤 — 삼성·SK하이닉스 60~70% 회복, 시장은 '과도한 반응'을 인정했다
+2026-11-03-samsung-hbm5-q4-shipment-outlook.md	2026-11-03	not_found	HTTP 404	https://www.hankyung.com/article/2026110302051	삼성전자 HBM5 첫 출하 임박 — 증권가 목표주가 줄상향, SK하이닉스 추격 본격화
+2026-11-03-korea-ai-digital-textbook-2027.md	2026-11-03	mismatch	원문 제목 불일치, 본문 일치 17%	https://www.aitimes.com/news/articleView.html?idxno=214218	과기정통부, AI 디지털 교과서 2027년 전면 도입 확정 — 에듀테크 공공 시장의 문이 열린다
+2026-11-03-kaist-energy-efficient-ai-reasoning.md	2026-11-03	mismatch	원문 제목 불일치, 본문 일치 31%	https://www.aitimes.kr/news/articleView.html?idxno=41584	KAIST 연구팀, AI 추론 에너지 소비 80% 절감 알고리즘 발표 — 모바일·엣지 AI의 판을 바꿀 수 있다
+2026-11-03-ai-agent-protocol-a2a-standard.md	2026-11-03	home	첫 화면으로 이동됨	https://the-decoder.com/google-anthropic-microsoft-a2a-2-0-protocol-standard-2026/	구글·앤트로픽·마이크로소프트, 에이전트 간 통신 표준 'A2A 2.0' 공동 발표 — AI 생태계의 USB 순간
+2026-11-10-nvidia-q3-fy2027-earnings-hbm-stocks.md	2026-11-10	not_found	HTTP 404	https://www.hankyung.com/article/2026110867890	엔비디아 3분기 호실적에 국내 HBM 공급사 동반 상승 — HBM4E 수요 전망 본격화
+2026-11-10-lg-exaone-4-reasoning-model.md	2026-11-10	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=219584	LG AI연구원, 엑사원 4.0 공개 — 수학·코딩 추론 성능 국내 최고 주장
+2026-11-10-korea-ai-safety-institute-first-evaluation.md	2026-11-10	not_found	매체가 '없는 기사' 안내	https://www.aitimes.kr/news/articleView.html?idxno=43180	한국 AI 안전연구소, 첫 고위험 AI 평가 결과 공개 — 7개 모델 중 2개 '개선 필요'
+2026-11-10-ai-agent-persistent-memory.md	2026-11-10	not_found	HTTP 404	https://www.technologyreview.com/2026/11/08/1121847/ai-agents-persistent-memory-long-term-recall/	AI 에이전트, 드디어 '진짜 기억'을 갖기 시작했다
+2026-11-12-rebellions-series-d-atom3.md	2026-11-12	mismatch	원문 제목 불일치, 본문 일치 11%	https://www.aitimes.com/news/articleView.html?idxno=215832	리벨리온, 1조 원 시리즈 D 유치 — 국산 AI 칩 '아톰3'로 북미 클라우드 직접 공략
+2026-11-12-multi-agent-enterprise-shift.md	2026-11-12	not_found	HTTP 404	https://www.technologyreview.com/2026/11/08/multi-agent-systems-enterprise-transformation/	멀티에이전트 AI, 기업 소프트웨어를 바꾼다 — 단일 AI에서 팀 AI로
+2026-11-12-korea-ai-safety-oecd-standard.md	2026-11-12	not_found	매체가 '없는 기사' 안내	https://www.aitimes.kr/news/articleView.html?idxno=43478	과기부, AI 안전성 평가 국제 표준화 추진 — OECD와 공동 가이드라인 2027년 시행
+2026-11-12-hbm5-nvidia-skhynix-samsung-stocks.md	2026-11-12	not_found	HTTP 404	https://www.hankyung.com/finance/article/2026111201128	HBM5 선점 경쟁 불붙다 — 엔비디아 차세대 AI GPU 채택, SK하이닉스·삼성 주가 엇갈려
+2026-11-13-samsung-hbm5-nvidia-rubin-stock.md	2026-11-13	not_found	HTTP 404	https://www.hankyung.com/article/2026111301254	삼성전자, 엔비디아 루빈 HBM5 공급 유력 — 증권가 목표주가 최고 13만 원
+2026-11-13-openai-chatgpt-memory-upgrade.md	2026-11-13	not_found	매체가 '없는 기사' 안내	https://www.aitimes.com/news/articleView.html?idxno=214823	챗GPT, 1년치 대화를 기억한다 — 오픈AI '퍼스널 AI' 시대 선언
+2026-11-13-neuromorphic-chips-ai-inference.md	2026-11-13	not_found	HTTP 404	https://www.technologyreview.com/2026/11/10/1142081/neuromorphic-chips-llm-inference-energy/	AI 추론이 에너지를 먹는다 — 뉴로모픽 칩이 LLM 추론 비용 구조를 뒤집는다
+2026-11-13-korea-ai-semiconductor-roadmap-2028.md	2026-11-13	mismatch	원문 제목 불일치, 본문 일치 9%	https://www.aitimes.kr/news/articleView.html?idxno=42156	과기부, 'K-AI 반도체 2단계 로드맵' 발표 — 2028년까지 국산 AI 가속기 개발에 2조 투입
+2026-11-16-samsung-q4-outlook-foreign-buying.md	2026-11-16	not_found	HTTP 404	https://www.hankyung.com/article/2026111601234	삼성전자, 외국인 사흘째 순매수 — 증권가 '4분기 반도체 반등' 한목소리
+2026-11-16-mit-ai-coauthorship-publishing.md	2026-11-16	not_found	HTTP 404	https://www.technologyreview.com/2026/11/13/1142089/ai-coauthorship-scientific-publishing-review/	AI가 과학 논문을 쓰기 시작했다 — 2026년 논문 40%에 AI 공동 저자, 동료 심사는 괜찮은가
+2026-11-16-korea-ai-startup-investment-surge.md	2026-11-16	mismatch	원문 제목 불일치, 본문 일치 36%	https://www.aitimes.kr/news/articleView.html?idxno=42780	국내 AI 에이전트 스타트업에 올해 2조 원 넘게 몰렸다 — 반년 만에 작년 전체를 넘었다
+2026-11-16-korea-ai-copyright-guidelines.md	2026-11-16	mismatch	원문 제목 불일치, 본문 일치 17%	https://www.aitimes.com/news/articleView.html?idxno=215089	과기정통부, AI 창작물 저작권 가이드라인 발표 — 'AI 단독 창작'은 저작권 없다
+2026-11-21-vuno-chest-ct-ai-fda-approval.md	2026-11-21	not_found	매체가 '없는 기사' 안내	https://www.aitimes.kr/news/articleView.html?idxno=43187	뷰노, 폐 CT AI 판독 FDA 승인 — 국내 의료 AI 기업 최초 미국 직접 진출
+2026-11-21-samsung-target-price-100k-hbm4e.md	2026-11-21	not_found	HTTP 404	https://www.hankyung.com/article/2026112001855	삼성전자 목표주가 10만 원 상향 릴레이 — HBM4E 수율 반등·파운드리 흑자 전환 기대
+2026-11-21-mit-small-ai-models-beat-large-models.md	2026-11-21	not_found	HTTP 404	https://www.technologyreview.com/2026/11/19/1142901/small-ai-models-compete-large-models/	작아질수록 강해진다 — 소형 AI 모델이 대형 모델을 이기는 방법
+2026-11-21-eu-ai-act-first-fine-hiring-ai.md	2026-11-21	mismatch	원문 제목 불일치, 본문 일치 0%	https://www.aitimes.com/news/articleView.html?idxno=215673	EU AI법 첫 과징금 — 프랑스 채용 AI 기업에 1,200만 유로, 국내 기업도 경고음
+2026-11-22-samsung-nvidia-hbm5e-mou.md	2026-11-22	not_found	HTTP 404	https://www.hankyung.com/article/2026112201892	삼성전자·엔비디아, HBM5E 공급 MOU 체결 — 메모리 주도권 탈환 신호탄
+2026-11-22-reasoning-model-compression-2027.md	2026-11-22	not_found	HTTP 404	https://www.technologyreview.com/2026/11/18/1143127/ai-reasoning-models-getting-cheaper-distillation/	생각하는 AI, 이제 더 저렴해진다 — 추론 모델 압축 기술이 2027 AI 시장을 바꾼다
+2026-11-22-lg-exaone4-medical-legal-b2b.md	2026-11-22	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=215901	LG AI연구원, 엑사원(EXAONE) 4.0 공개 — 의료·법률 한국어 특화 B2B 모델
+2026-11-26-skt-adot-10m-ai-phone-assistant.md	2026-11-26	mismatch	원문 제목 불일치, 본문 일치 20%	https://www.aitimes.com/news/articleView.html?idxno=215102	SKT 에이닷, 가입자 1,000만 돌파 — AI 전화 비서가 첫 대중 서비스로 자리잡다
+2026-11-26-samsung-hbm4e-q4-nvidia-supply.md	2026-11-26	not_found	HTTP 404	https://www.hankyung.com/article/2026112401892	삼성전자, HBM4E 엔비디아 납품 본격화 — 증권가 목표주가 평균 11만 원으로 줄상향
+2026-11-26-korea-ai-startup-funding-3t-2026.md	2026-11-26	not_found	매체가 '없는 기사' 안내	https://www.aitimes.kr/news/articleView.html?idxno=43105	2026년 국내 AI 스타트업 투자 3조 원 돌파 — 에이전트·의료 AI가 절반 이상 견인
+2026-11-26-ai-code-security-benchmark.md	2026-11-26	not_found	HTTP 404	https://www.technologyreview.com/2026/11/22/1142800/ai-code-security-surpasses-human-benchmark/	AI가 짠 코드, 처음으로 사람보다 취약점이 적었다 — 보안 벤치마크의 전환점
+2026-11-27-samsung-q3-2026-earnings-hbm4.md	2026-11-27	not_found	HTTP 404	https://www.hankyung.com/article/2026112701092	삼성전자 3분기 영업이익 15.2조 — HBM4 양산이 뒤바꾼 실적
+2026-11-27-openai-nexus-multiagent-platform.md	2026-11-27	not_found	HTTP 404	https://www.aitimes.com/news/articleView.html?idxno=214523	OpenAI, 멀티에이전트 플랫폼 'Nexus' 공개 — AI 에이전트가 에이전트를 조율한다
+2026-11-27-inference-compute-bottleneck-ai-cost.md	2026-11-27	not_found	HTTP 404	https://www.technologyreview.com/2026/11/25/1141205/inference-compute-ai-cost-bottleneck-reasoning-models/	더 똑똑한 AI를 쓰는 비용이 폭발하고 있다 — 추론 컴퓨트가 새 병목이 됐다

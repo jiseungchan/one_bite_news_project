@@ -31,6 +31,16 @@ IGNORE_PREFIXES = ("_pipeline/", "stock-service/_pipeline/", ".claude/scheduled_
 INDEXES = {"web/posts.json": ("posts", "filename"), "web/stock-briefs.json": ("briefs", "filename")}
 
 
+def deleted_filenames() -> set[str]:
+    """출처 검증에서 삭제한 글(docs/deleted-posts-*.tsv)은 옛 브랜치에서 다시 들여오지 않는다."""
+    names = set()
+    for f in (ROOT / "docs").glob("deleted-posts-*.tsv"):
+        for line in f.read_text(encoding="utf-8").splitlines()[1:]:
+            if line.strip():
+                names.add(line.split("\t", 1)[0])
+    return names
+
+
 def git(*args, binary=False):
     r = subprocess.run(["git", "-C", str(ROOT), *args], capture_output=True, check=True)
     return r.stdout if binary else r.stdout.decode("utf-8")
@@ -64,6 +74,7 @@ def strip_quotes(entry: dict) -> dict:
 
 def main(refs: list[str]) -> int:
     refs = sorted(refs, key=lambda r: int(git("log", "-1", "--format=%ct", r).strip()))
+    blocked = deleted_filenames()
     non_content, copied = [], 0
     merged = {p: {} for p in INDEXES}
     for path, (key, idf) in INDEXES.items():
@@ -79,9 +90,11 @@ def main(refs: list[str]) -> int:
             if path in INDEXES:
                 key, idf = INDEXES[path]
                 for e in load_index(git("show", f"{ref}:{path}"), key):
+                    if e.get(idf) in blocked:
+                        continue
                     merged[path][e.get(idf) or e.get("date")] = strip_quotes(e)
             elif path.startswith(CONTENT_PREFIXES):
-                if status.startswith("D"):
+                if status.startswith("D") or Path(path).name in blocked:
                     continue  # 자동 작업이 기존 기사를 지우는 일은 반영하지 않는다
                 dest = ROOT / path
                 dest.parent.mkdir(parents=True, exist_ok=True)
@@ -95,6 +108,9 @@ def main(refs: list[str]) -> int:
     # _posts → web/posts 미러
     web_posts = ROOT / "web" / "posts"
     for f in (ROOT / "_posts").glob("*.md"):
+        if f.name in blocked:
+            f.unlink()
+            continue
         if not (web_posts / f.name).exists():
             (web_posts / f.name).write_bytes(f.read_bytes())
 

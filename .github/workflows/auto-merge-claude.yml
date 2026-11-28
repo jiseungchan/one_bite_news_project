@@ -48,6 +48,16 @@ jobs:
         if: steps.targets.outputs.refs != ''
         run: python tools/merge_branch_content.py ${{ steps.targets.outputs.refs }}
 
+      - name: 새 글 원문 주소 검증 (안 열리거나 다른 기사면 발행 제외)
+        if: steps.targets.outputs.refs != ''
+        run: |
+          NEW=$(git status --porcelain --untracked-files=all -- web/posts | awk '/^\?\?/{print $2}' | xargs -r -n1 basename)
+          if [ -n "$NEW" ]; then
+            python tools/verify_sources.py --gate $NEW | tee -a "$GITHUB_STEP_SUMMARY"
+          else
+            echo "새 글 없음"
+          fi
+
       - name: 새 글 카드 사진 정리 (원문 사진 → 없으면 내용 기반 카드)
         if: steps.targets.outputs.refs != ''
         run: python tools/fix_images.py

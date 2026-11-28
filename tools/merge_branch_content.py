@@ -82,6 +82,7 @@ def main(refs: list[str]) -> int:
         for e in load_index(f.read_text(encoding="utf-8") if f.exists() else None, key):
             merged[path][e.get(idf) or e.get("date")] = e
 
+    on_main = {path: set(v) for path, v in merged.items()}
     for ref in refs:
         other = False
         for status, path in changed_files(ref):
@@ -90,13 +91,16 @@ def main(refs: list[str]) -> int:
             if path in INDEXES:
                 key, idf = INDEXES[path]
                 for e in load_index(git("show", f"{ref}:{path}"), key):
-                    if e.get(idf) in blocked:
-                        continue
-                    merged[path][e.get(idf) or e.get("date")] = strip_quotes(e)
+                    k = e.get(idf) or e.get("date")
+                    if e.get(idf) in blocked or k in on_main[path]:
+                        continue  # main에 이미 있는 항목은 옛 브랜치 값으로 덮지 않는다
+                    merged[path][k] = strip_quotes(e)
             elif path.startswith(CONTENT_PREFIXES):
                 if status.startswith("D") or Path(path).name in blocked:
                     continue  # 자동 작업이 기존 기사를 지우는 일은 반영하지 않는다
                 dest = ROOT / path
+                if dest.exists():
+                    continue  # 이미 발행된 글은 옛 브랜치 내용으로 덮지 않는다
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 dest.write_bytes(git("show", f"{ref}:{path}", binary=True))
                 copied += 1

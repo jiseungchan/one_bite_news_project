@@ -1,6 +1,54 @@
 {
   "posts": [
     {
+      "filename": "2026-11-28-ustr-section-301-korea-semiconductor-tariff.md",
+      "title": "미국 USTR, 'K반도체 벨트'까지 문서에 적었다 — 301조 조사 결과, 협의 불발 시 관세 최대 25%",
+      "category": "경제·주식",
+      "date": "2026-11-28",
+      "source": "아시아경제",
+      "sourceUrl": "https://view.asiae.co.kr/article/2026112609344854336",
+      "description": "미국 무역대표부가 한국 등 14개 경제주체에 대한 무역법 301조 '구조적 과잉생산' 조사 결과를 발표했다. 한국의 반도체·자동차·석유화학 육성 정책을 불합리한 관행으로 지목하고, 일부 품목을 제외한 한국산 제품에 최대 15%, 협의가 불만족스러우면 최대 25% 관세를 검토한다.",
+      "image": "https://cphoto.asiae.co.kr/listimglink/1/2026112611303724946_1795660237.jpg",
+      "imageFallback": "images/cards/2026-11-28-ustr-section-301-korea-semiconductor-tariff.svg",
+      "imageType": "source"
+    },
+    {
+      "filename": "2026-11-28-us-europe-cyberattacks-digital-infrastructure.md",
+      "title": "미 공군·재무부·영국 복지부까지 — 한 달 새 이어진 사이버 공격이 드러낸 디지털 인프라의 약점",
+      "category": "AI",
+      "date": "2026-11-28",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=217888",
+      "description": "최근 한 달간 미국과 유럽의 주요 기관에서 사이버 공격과 시스템 장애가 잇따랐다. AI가 직접 쓰였는지는 확인되지 않았지만, 스위스에서는 AI 에이전트를 이용한 공격 5건 중 4건이 침입에 성공했다.",
+      "image": "https://cdn.aitimes.com/news/photo/202611/217888_222274_4837.jpg",
+      "imageFallback": "images/cards/2026-11-28-us-europe-cyberattacks-digital-infrastructure.svg",
+      "imageType": "source"
+    },
+    {
+      "filename": "2026-11-28-dram-nand-price-slowdown-2027.md",
+      "title": "낸드 현물가 이달 20% 넘게 하락 — 메모리 시장, 내년 상반기 'AI용은 품귀·범용은 약세'로 갈린다",
+      "category": "나노·소재",
+      "date": "2026-11-28",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026112754431",
+      "description": "HBM 같은 AI용 메모리는 여전히 부족하지만, 범용 D램과 낸드는 IT 기기 수요 둔화와 중국의 물량 공세로 가격 압박이 커지고 있다. 트렌드포스는 낸드 계약가가 내년 1분기 최대 5% 떨어질 것으로 봤다.",
+      "image": "images/cards/2026-11-28-dram-nand-price-slowdown-2027.svg",
+      "imageFallback": "images/cards/2026-11-28-dram-nand-price-slowdown-2027.svg",
+      "imageType": "card"
+    },
+    {
+      "filename": "2026-11-28-ai-straining-open-records-foia.md",
+      "title": "AI가 정보공개청구를 '산업'으로 만들었다 — 인구 660명 마을 서기의 하루가 바뀐 이유",
+      "category": "AI",
+      "date": "2026-11-28",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "description": "AI 스타트업은 공공기록을 대량으로 긁어 상품을 만들고, 시민은 챗봇으로 정보공개청구서를 쓴다. 인력은 그대로인데 요청은 폭증하면서 미국의 정보공개 제도가 버거워지고 있다.",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/loc-sales2a.jpg?resize=1200,600",
+      "imageFallback": "images/cards/2026-11-28-ai-straining-open-records-foia.svg",
+      "imageType": "source"
+    },
+    {
       "filename": "2026-11-27-samsung-galaxy-s26-ultra-galaxy-ai-2.md",
       "title": "삼성 갤럭시 S26 Ultra, '완전 온디바이스 멀티에이전트' 탑재 — 클라우드 없이 에이전트 협력",
       "category": "AI",

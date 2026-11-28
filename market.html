@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>시장 지표 — 병규의 한입뉴스</title>
+  <meta name="description" content="금·달러·유가·채권·금리·주요 국가 지수와 반도체 대표 종목의 직전 거래일 종가와 변화. 매일 아침 자동 수집.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <link rel="canonical" href="https://jiseungchan.github.io/one_bite_news_project/market.html">
+  <style>
+    .mk-meta { color: var(--color-text-meta); font-size: 14px; margin: 0 0 24px; }
+    .mk-note { background: var(--color-section-bg); border-left: 4px solid var(--cat-econ);
+               padding: 16px 20px; margin: 0 0 32px; border-radius: 4px; line-height: 1.7; }
+    .mk-note h3 { margin: 0 0 8px; font-size: 17px; }
+    .mk-note p, .mk-note li { margin: 4px 0; color: var(--color-text-body); }
+    .mk-note a { color: var(--color-accent); }
+    .mk-group { margin: 0 0 32px; }
+    .mk-group h2 { font-size: 18px; margin: 0 0 8px; color: var(--color-text-title); }
+    .mk-table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+    .mk-table th { text-align: right; font-size: 12px; font-weight: 600; color: var(--color-text-meta);
+                   padding: 8px 10px; border-bottom: 1px solid #E5E7EB; white-space: nowrap; }
+    .mk-table th:first-child, .mk-table td:first-child { text-align: left; }
+    .mk-table td { text-align: right; padding: 10px; border-bottom: 1px solid #F3F4F6; white-space: nowrap; }
+    .mk-name { font-weight: 600; color: var(--color-text-title); }
+    .mk-unit { color: var(--color-text-meta); font-size: 12px; margin-left: 4px; }
+    .up { color: #DC2626; } .down { color: #2563EB; } .flat { color: var(--color-text-meta); }
+    .mk-spark { width: 96px; height: 28px; vertical-align: middle; }
+    .mk-date { color: var(--color-text-meta); font-size: 12px; }
+    .mk-derived { display: flex; gap: 16px; flex-wrap: wrap; margin: 0 0 32px; }
+    .mk-chip { background: var(--color-section-bg); border-radius: 8px; padding: 12px 16px; font-size: 14px; }
+    .mk-chip b { display: block; font-size: 18px; color: var(--color-text-title); }
+    .mk-scroll { overflow-x: auto; }
+    @media (max-width: 640px) { .hide-sm { display: none; } .mk-table td, .mk-table th { padding: 8px 6px; } }
+  </style>
+</head>
+<body>
+  <a href="#main-content" class="skip-nav">본문으로 바로가기</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">한입뉴스</a>
+      <nav aria-label="사이트 네비게이션">
+        <ul class="site-nav">
+          <li><a href="index.html">전체</a></li>
+          <li><a href="market.html" class="active">시장 지표</a></li>
+          <li><a href="stock.html">주식 브리핑</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="stock-hero">
+    <div class="container">
+      <div class="stock-hero-badge">매일 아침 자동 수집</div>
+      <h1 class="stock-hero-title">오늘의 시장 지표</h1>
+      <p class="stock-hero-desc">금·달러·유가·채권·금리·주요 국가 지수 — 직전 거래일 종가와 변화</p>
+    </div>
+  </section>
+
+  <main id="main-content">
+    <section class="main-section">
+      <div class="container">
+        <p class="mk-meta" id="mk-meta">불러오는 중…</p>
+        <div id="mk-note"></div>
+        <div class="mk-derived" id="mk-derived"></div>
+        <div id="mk-groups"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footer-copy">출처: Yahoo Finance, FRED(미 연방준비은행 세인트루이스). 정보 제공 목적이며 투자 권유가 아닙니다. 상승은 빨강, 하락은 파랑.</p>
+    </div>
+  </footer>
+
+  <script>
+    const nf = (v) => Math.abs(v) >= 1000 ? v.toLocaleString('ko-KR', {maximumFractionDigits: 0})
+                                          : v.toLocaleString('ko-KR', {maximumFractionDigits: 2});
+    const cls = (v) => v == null ? 'flat' : v > 0 ? 'up' : v < 0 ? 'down' : 'flat';
+    const pct = (v) => v == null ? '–' : (v > 0 ? '+' : '') + v.toFixed(2) + '%';
+    const bp = (v) => v == null ? '–' : (v > 0 ? '+' : '') + v + 'bp';
+    const esc = (s) => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+    function spark(hist) {
+      if (!hist || hist.length < 2) return '';
+      const ys = hist.map(h => h[1]), lo = Math.min(...ys), hi = Math.max(...ys), w = 96, h = 28;
+      const pts = ys.map((y, i) => `${(i / (ys.length - 1) * w).toFixed(1)},${(hi === lo ? h / 2 : h - 2 - (y - lo) / (hi - lo) * (h - 4)).toFixed(1)}`).join(' ');
+      const color = ys[ys.length - 1] >= ys[0] ? '#DC2626' : '#2563EB';
+      return `<svg class="mk-spark" viewBox="0 0 ${w} ${h}" aria-hidden="true"><polyline fill="none" stroke="${color}" stroke-width="1.5" points="${pts}"/></svg>`;
+    }
+
+    function mdLite(md) {  // 시장 노트용 최소 마크다운
+      return md.replace(/^---[\s\S]*?---\s*/, '').split(/\n{2,}/).map(b => {
+        b = esc(b.trim());
+        b = b.replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\[([^\]]+)\]\((https?:[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+        if (/^### /.test(b)) return `<h3>${b.slice(4)}</h3>`;
+        if (/^- /m.test(b)) return '<ul>' + b.split('\n').map(l => `<li>${l.replace(/^- /, '')}</li>`).join('') + '</ul>';
+        return `<p>${b.replace(/\n/g, '<br>')}</p>`;
+      }).join('');
+    }
+
+    fetch('market/latest.json', {cache: 'no-store'}).then(r => r.json()).then(d => {
+      document.getElementById('mk-meta').textContent = `수집 시각 ${d.asof_kst} KST · ${d.note}`;
+      const dv = d.derived || {}, chips = [];
+      if (dv.us10y_2y_spread_bp != null) chips.push(`<div class="mk-chip">미 10년−2년 금리차<b>${dv.us10y_2y_spread_bp}bp</b></div>`);
+      if (dv.gold_krw_per_don != null) chips.push(`<div class="mk-chip">금 1돈(3.75g) 원화 환산<b>${dv.gold_krw_per_don.toLocaleString('ko-KR')}원</b></div>`);
+      document.getElementById('mk-derived').innerHTML = chips.join('');
+
+      const html = Object.entries(d.groups).map(([g, label]) => {
+        const rows = d.items.filter(i => i.group === g);
+        if (!rows.length) return '';
+        const isRate = g === 'rate';
+        return `<section class="mk-group"><h2>${esc(label)}</h2><div class="mk-scroll"><table class="mk-table">
+          <thead><tr><th>지표</th><th>종가</th><th>${isRate ? '전일 대비' : '등락률'}</th><th class="hide-sm">1주</th><th class="hide-sm">1개월</th><th class="hide-sm">30거래일</th><th class="hide-sm">기준일</th></tr></thead><tbody>
+          ${rows.map(i => `<tr>
+            <td><span class="mk-name">${esc(i.name)}</span><span class="mk-unit">${esc(i.unit)}</span></td>
+            <td>${nf(i.last)}</td>
+            <td class="${cls(i.chg)}">${isRate ? bp(i.chg_bp) : pct(i.chg_pct)}</td>
+            <td class="hide-sm ${cls(i.chg_1w_pct)}">${isRate ? bp(i.chg_1w_bp) : pct(i.chg_1w_pct)}</td>
+            <td class="hide-sm ${cls(i.chg_1m_pct)}">${isRate ? bp(i.chg_1m_bp) : pct(i.chg_1m_pct)}</td>
+            <td class="hide-sm">${spark(i.history)}</td>
+            <td class="hide-sm mk-date">${esc(i.date)}</td></tr>`).join('')}
+          </tbody></table></div></section>`;
+      }).join('');
+      document.getElementById('mk-groups').innerHTML = html;
+
+      const day = d.asof_kst.slice(0, 10);
+      return fetch(`market/notes/${day}.md`, {cache: 'no-store'}).then(r => r.ok ? r.text() : '').then(t => {
+        if (t) document.getElementById('mk-note').innerHTML = `<div class="mk-note">${mdLite(t)}</div>`;
+      });
+    }).catch(() => {
+      document.getElementById('mk-meta').textContent = '시장 데이터를 아직 불러올 수 없어요. 매일 아침 6시 30분에 자동 수집됩니다.';
+    });
+  </script>
+</body>
+</html>
